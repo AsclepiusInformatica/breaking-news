@@ -1,7 +1,7 @@
 <em>Draft article for http://nieman.harvard.edu/</em>
 _____________________
 
-<div><img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/ransomware-mischa-990.png" width="990" height="571"></div>
+<div><img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/ransomware-mischa-990.png" width="990" height="571" alt="Mischa Ransomware screenshot of a skull"></div>
 <h1>Breaking News: How Monetzing became Malvertising</h2>
 Cyber criminals are embezzling billions annually from advertisers. They take over news sites, then spread computer viruses, steal readers' passwords, and hold hard people's drives hostage for a ransom.
 
@@ -81,8 +81,8 @@ Till then we'll continue to reap what the technology sows, like AppLift's fraud 
 <h2>Endgame</h2>
 Perhaps this partly explains the rapid rise of ad-blockers. Not having your computer hijacked by a crime syndicate seems a reasonable expectation when reading the news.
 
-Let's hope news publishers are planning for a post-ad-tech world. No site owners want to deliver this news to their readers?
-<div><img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/ransomware-petya.gif" width="718" height="402"></div> 
+Let's hope news publishers are planning for a post-ad-tech world. No site owners want to deliver this news to their readers:
+<div><img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/ransomware-petya.gif" width="718" height="402" alt="Petya Ransomware skull screenshot and payment instructions"></div> 
 
 <blockquote>
 <p>The Web is turning into a clickbait jungle. Established publishers are trashing their websites with low-quality content recommendations. Smartphone manufacturers and software publishers, worried about worsening browsing experience, are uniting to fight online ads.</p>
@@ -96,5 +96,4 @@ Let's hope news publishers are planning for a post-ad-tech world. No site owners
  
 What's killing the news business is not the ads, it's the ad technologies. It's their chumboxes and subprime markets. It's their molasses-slow surveillance scripts and their swiss-cheese security. It's their superstitious belief in "big data" and their exorbitant "ad tech tax." All of which will be explained in future articles in this Breaking News series.  
 
-
-
+<em><small>Ransomware screenshots from <a href="http://www.bleepingcomputer.com/news/security/petya-is-back-and-with-a-friend-named-mischa-ransomware/">Bleeping Computer</a>.</small></em>
