@@ -20,7 +20,7 @@ The other day I mindlessly clicked on some link-bait on my mobile phone. It was 
 <cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a><cite>
 </blockquote>
 
-The Interactive Advertising Bureau (IAB) estimates malicious advertising -- malvertising -- <a href="http://www.iab.com/news/digital-ad-industry-will-gain-8-2-billion-by-eliminating-fraud-and-flaws-in-internet-supply-chain-iab-ey-study-shows/">"costs the U.S. digital marketing, advertising, and media industry $8.2 billion annually."</a> 
+The Interactive Advertising Bureau (IAB) estimated malicious advertising -- malvertising -- <a href="http://www.iab.com/news/digital-ad-industry-will-gain-8-2-billion-by-eliminating-fraud-and-flaws-in-internet-supply-chain-iab-ey-study-shows/">"costs the U.S. digital marketing, advertising, and media industry $8.2 billion annually."</a> 
 
 A few years ago malvertising was merely scamming the system: fake ads, fake traffic, fake analytics. Ad-tech's unregulated labyrinths of  circumlocution systems, for bidding, placing, and tracking ads, makes it a hacker's heaven.
 
@@ -28,19 +28,18 @@ A few years ago malvertising was merely scamming the system: fake ads, fake traf
 
 The hacker's goal is to bill, make that, bilk advertisers for ads that were never seen. Their fraud takes several forms: Ad stacking piles multiple ads on top of each other. Ad stuffing  or shrinks ads to invisible 1-pixel squares. Click farms send fraud users to real sites. Clickjacking sends real users to fraud sites. 
 
-This example is from <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a>: "You’ll be redirected through a loop of various shell websites, spending a fraction of a second on each." This makes analytics algorithms see these sites as high-quality with lots of traffic. "Once the shell websites have good enough Alexa rankings, and off-the-chart demographics, they sign contracts to display ads with much better terms."
+This example comes from <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a>: "You’ll be redirected through a loop of various shell websites, spending a fraction of a second on each." This makes analytics algorithms see these sites as high-quality with lots of traffic. "Once the shell websites have good enough Alexa rankings, and off-the-chart demographics, they sign contracts to display ads with much better terms."
 
-A shell game. A con. That's what malvertising was. Until recently.
+A shell game. A con. That's what malvertising was. What is has vbecome is much worse.
 
 <h2>Crime Does Pay... load</h2>
-Cyber criminals' new scheme is not just to scam advertisers but also to <em>buy</em> ads. Their new goals: Install spyware, scareware, and ransomware via websites. Make site-visitors' computers part of their "zombie army" attacking more websites and web users. 
+The cyber miscreants have a new scheme. They don't just scam advertisers, now they also <em>buy</em> ads. Their new goals: Install spyware, scareware, and ransomware via websites. Capture site-visitors' computers for their "zombie army" to attack more websites and more web users. 
 
-<a href="http://idlewords.com/talks/website_obesity.htm">"Ads have become the major vector for malware,"</a> said Maciej Ceglowski in his Web Directions keynote. (I recommend you read <a href="http://idlewords.com/talks/">all his talks</a>: He paints unflattering, illuminating, amusing portraits of the modern web.)
+<a href="http://idlewords.com/talks/website_obesity.htm">"Ads have become the major vector for malware,"</a> said Maciej Ceglowski in his Web Directions keynote. (<a href="http://idlewords.com/talks/">All his talks</a> are highly recommended reading.)
 
-Again, ad tech makes this easy: "<a href="http://www.cnet.com/news/new-york-times-bbc-dangerous-ads-ransomware-malvertising/">People think you have to click on the ad for something bad to happen</a>, but that's not the case," said Jerome Segura of the security researchers firm Malwarebytes. "The malicious activity takes place in a few seconds."
+Again, ad tech makes this easy: "<a href="http://www.cnet.com/news/new-york-times-bbc-dangerous-ads-ransomware-malvertising/">People think you have to click on the ad for something bad to happen, but that's not the case</a>," said Jerome Segura of the security firm Malwarebytes. "The malicious activity takes place in a few seconds."
 
-Wendy Zamora, also of Malwarebytes, writes:
-
+Malwarebytes' Wendy Zamora wrote:
 <blockquote>
 A lot of folks in the business (and consumer) world are shaking in their boots about ransomware. It’s understandable. Ransomware is a dangerous threat and, if not protected against, can do serious damage to a company’s data, reputation, and bottom line.
 
@@ -50,18 +49,16 @@ But the truly alarming part is that ransomware is being delivered by malvertisin
 ">"Malvertising and ransomware: the Bonnie and Clyde of advanced threats"</a><cite>
 </blockquote>
 
-Another security company, Bromium,  reported, "<a href="https://www.bromium.com/sites/default/files/rpt-bromium-threat-report-1h2015-us-en.pdf">at least 27 percent of the Alexa 1000 websites were delivering malware via malicious advertisements</a>."  Malwarebytes estimates <a href="https://blog.malwarebytes.com/101/2016/06/truth-in-malvertising-how-to-beat-bad-ads/">70% of malvertising now delivers ransomware payloads</a>."
+Malwarebytes estimate is <a href="https://blog.malwarebytes.com/101/2016/06/truth-in-malvertising-how-to-beat-bad-ads/">70% of malvertising now delivers ransomware payloads</a>." Bromium Labs researchers detected "<a href="https://www.bromium.com/sites/default/files/rpt-bromium-threat-report-1h2015-us-en.pdf">at least 27% of the Alexa 1000 websites were delivering malware via malicious advertisements</a>."  
 
-Guess on which type of sites malvertisers prefer to share their wares.
-
+And guess where malvertisers most like to share their wares.
 
 <h2>We're Number One</h2>
-Bromium Labs found more than <a href="https://www.bromium.com/company/press-releases/bromium-threat-report-identifies-security-risks-popular-websites-and-software.html">half the ads with malware-payloads were on either news and entertainment websites</a>, with news at the top of the pack (32%). Like all marketers, malvertisers wants premiere placement on well-repsected sites. The ad-bidding process grants them their wish.
+Bromium Labs found more than <a href="https://www.bromium.com/company/press-releases/bromium-threat-report-identifies-security-risks-popular-websites-and-software.html">half the ads with malware-payloads were on either news and entertainment websites</a>, with news at the top of the pack (32%). Like all marketers, malvertisers wants premiere placement on well-respected sites. The ad-bidding process grants them their wish.
 
-In March 2016 CNET reported the websites of The New York Times, BBC, Weather Network, The Hill, Newsweek, AOL, MSN, and NFL all "<a href="http://www.cnet.com/news/new-york-times-bbc-dangerous-ads-ransomware-malvertising/">inadvertently ran malicious ads that attempted to hijack the computers of visitors and demand a ransom</a>."
+In March 2016 the websites of The New York Times, BBC, Weather Network, The Hill, Newsweek, AOL, MSN, and NFL all, as CNET reported, "<a href="http://www.cnet.com/news/new-york-times-bbc-dangerous-ads-ransomware-malvertising/">inadvertently ran malicious ads that attempted to hijack the computers of visitors and demand a ransom</a>."
 
 This even juicier website-breaking news is <a href="https://www.engadget.com/2016/01/08/you-say-advertising-i-say-block-that-malware/">from Engadget</a>: "Forbes asked readers to turn off ad blockers in order to view the article. After doing so, visitors were immediately served with pop-under malware, primed to infect their computers, and likely silently steal passwords, personal data and banking information."
-
 
 <h2>What's A Google to Do?</h2>
 The problem is not new. Here are headlines from 2013:
@@ -76,11 +73,9 @@ Google is enabling traffic laundering, where websites with pirated content redir
 <cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/real-life-example-google-implication-ad-fraud-traffic-laundering">"A Real Life Example of Google's Implication in Ad Fraud and Traffic Laundering"</a></cite>
 </blockquote>
 
-CNBC and CNN commentator Shelly Palmer wrote, "Ad tech has evolved into a toxic ecosystem that is killing itself, and it is taking digital advertising with it." His article, <a href="http://www.shellypalmer.com/2016/06/well-ad-tech-dies/">"What We'll Do When Ad Tech Dies"</a> concludes, "Ad tech will be with us in its current form until someone goes to jail."
+CNBC and CNN commentator Shelly Palmer wrote, "Ad tech has evolved into a toxic ecosystem that is killing itself, and it is taking digital advertising with it." His article, <a href="http://www.shellypalmer.com/2016/06/well-ad-tech-dies/">"What We'll Do When Ad Tech Dies,"</a> concludes, "Ad tech will be with us in its current form until someone goes to jail."
 
-Till then we'll continue to reap what the technology sows, like AppLift's fraud detecters discovering <a href="http://www.applift.com/blog/mobile-fraud-programmatic">34% of mobile ads are a fraud risk</a> and RiskIQ measuring, in 2015, a <a href="https://www.riskiq.com/resources/press-releases/260-percent-spike-in-malicious-advertisements-2015">260% spike in malicious advertisements</a>.
-
-
+Till then we'll continue to reap what the technology sows, like AppLift's fraud detecters discovering <a href="http://www.applift.com/blog/mobile-fraud-programmatic">34% of mobile ads at risk of fraud</a>, and RiskIQ in 2015 measuring a <a href="https://www.riskiq.com/resources/press-releases/260-percent-spike-in-malicious-advertisements-2015">260% spike in malicious advertisements</a>.
 
 <h2>Endgame</h2>
 Perhaps this partly explains the rapid rise of ad-blockers. Not having your computer hijacked by a crime syndicate seems a reasonable expectation when reading the news.
