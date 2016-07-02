@@ -16,9 +16,9 @@ Those of you in the news business can then:
 
 <h2>Malvertising</h2>
 <blockquote>
-The other day I mindlessly clicked on some link-bait on my mobile phone. It was an article about "22 Photos that Prove Shaq is a Giant." Yes, I'm embarrassed, but that's not the point. Within that one listicle there were no less than 30 "impressions" of the same Best Foods Mayonnaise banner ad. How embarrassed do you think the brand manager at Best Foods will be when his CMO reads this?
+<p>The other day I mindlessly clicked on some link-bait on my mobile phone. It was an article about "22 Photos that Prove Shaq is a Giant." Yes, I'm embarrassed, but that's not the point. Within that one listicle there were no less than 30 "impressions" of the same Best Foods Mayonnaise banner ad. How embarrassed do you think the brand manager at Best Foods will be when his CMO reads this?</p>
 
-<cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a><cite>
+<cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite>
 </blockquote>
 
 The Interactive Advertising Bureau (IAB) estimated malicious advertising -- malvertising -- <a href="http://www.iab.com/news/digital-ad-industry-will-gain-8-2-billion-by-eliminating-fraud-and-flaws-in-internet-supply-chain-iab-ey-study-shows/">"costs the U.S. digital marketing, advertising, and media industry $8.2 billion annually."</a> 
@@ -42,12 +42,12 @@ Again, ad tech makes this easy: "<a href="http://www.cnet.com/news/new-york-time
 
 Malwarebytes' Wendy Zamora wrote:
 <blockquote>
-A lot of folks in the business (and consumer) world are shaking in their boots about ransomware. It’s understandable. Ransomware is a dangerous threat and, if not protected against, can do serious damage to a company’s data, reputation, and bottom line.
+<p>A lot of folks in the business (and consumer) world are shaking in their boots about ransomware. It’s understandable. Ransomware is a dangerous threat and, if not protected against, can do serious damage to a company’s data, reputation, and bottom line.</p>
 
-But the truly alarming part is that ransomware is being delivered by malvertising. Malvertising can do this without you knowing (until it’s too late) and without your users taking a single “unsafe” action online.
+<p>But the truly alarming part is that ransomware is being delivered by malvertising. Malvertising can do this without you knowing (until it’s too late) and without your users taking a single “unsafe” action online.</p>
 
 <cite>&mdash;<em>Malwarebytes</em> <a href="https://blog.malwarebytes.com/101/2016/06/malvertising-and-ransomware-the-bonnie-and-clyde-of-advanced-threats/
-">"Malvertising and ransomware: the Bonnie and Clyde of advanced threats"</a><cite>
+">"Malvertising and ransomware: the Bonnie and Clyde of advanced threats"</a></cite>
 </blockquote>
 
 Malwarebytes estimate is <a href="https://blog.malwarebytes.com/101/2016/06/truth-in-malvertising-how-to-beat-bad-ads/">70% of malvertising now delivers ransomware payloads</a>." Bromium Labs researchers detected "<a href="https://www.bromium.com/sites/default/files/rpt-bromium-threat-report-1h2015-us-en.pdf">at least 27% of the Alexa 1000 websites were delivering malware via malicious advertisements</a>."  
@@ -69,7 +69,7 @@ The problem is not new. Here are headlines from 2013:
 Google has run an <a href="http://www.anti-malvertising.com/">Anti-Malvertising Team</a> since 2009. Here's a recent report on their progress:
 
 <blockquote>
-Google is enabling traffic laundering, where websites with pirated content redirect visitors to shell websites displaying AdSense ads. These ads finance piracy, and Google is taking a cut in the process. Google clients have no clue of the reputational risk they run by using AdSense.
+<p>Google is enabling traffic laundering, where websites with pirated content redirect visitors to shell websites displaying AdSense ads. These ads finance piracy, and Google is taking a cut in the process. Google clients have no clue of the reputational risk they run by using AdSense.</p>
 
 <cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/real-life-example-google-implication-ad-fraud-traffic-laundering">"A Real Life Example of Google's Implication in Ad Fraud and Traffic Laundering"</a></cite>
 </blockquote>
