@@ -87,11 +87,11 @@ Do you really want to be the site that deliver this news to thier readers?
 Ad-tech is not a sustainable business model.  Let's hope news sites are planning for a post-ad-tech world.
 
 <blockquote>
- The Web is turning into a clickbait jungle. Established publishers are trashing their websites with low-quality content recommendations. Smartphone manufacturers and software publishers, worried about worsening browsing experience, are uniting to fight online ads.
+<p>The Web is turning into a clickbait jungle. Established publishers are trashing their websites with low-quality content recommendations. Smartphone manufacturers and software publishers, worried about worsening browsing experience, are uniting to fight online ads.</p>
 
-Ad dollars are being stolen. Ad efficiency is declining. Traffic laundering is thriving. Bad guys have become experts at gaming ad tech metrics and monetizing fake or unwilling visitors.
+<p>Ad dollars are being stolen. Ad efficiency is declining. Traffic laundering is thriving. Bad guys have become experts at gaming ad tech metrics and monetizing fake or unwilling visitors.</p>
 
-Unless ad tech starts to pay attention to the consumer, its days are numbered.
+<p>Unless ad tech starts to pay attention to the consumer, its days are numbered.</p>
 
 <cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">"Clickbait And Traffic Laundering: How Ad Tech Is Destroying The Web"</a></cite>
 </blockquote>
