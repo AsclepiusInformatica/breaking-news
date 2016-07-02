@@ -3,7 +3,7 @@ _____________________
 
 <div><img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/ransomware-mischa-990.png" width="990" height="571" alt="Mischa Ransomware screenshot of a skull"></div>
 <h1>Breaking News: How monetizing became malvertising</h2>
-Cyber criminals are embezzling billions annually from advertisers. They take over news sites, then spread computer viruses, steal readers' passwords, and hold hard people's drives hostage for a ransom.
+Cyber criminals are embezzling billions annually from advertisers. They take over news sites, spread computer viruses, steal passwords, and hold people's hard drives hostage for a ransom.
 
 It's a tangled world wide web of piracy, fraud, and extortion. Everyone lets it happen: ad agencies, ad networks, and publishers. Everyone gets their cut.
 
