@@ -14,6 +14,8 @@ Those of you in the news business can then:
 * Explain to your advertisers why their high-priced ads were never seen by anyone anywhere.
 * Explain to government investigators why you shouldn't be prosecuted for criminal conspiracy.
 
+<div><img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/recommended-clickbait.jpg" width="739" height="303" alt="Fake examples of fake clickbait ads like: I Stole Billions from Advertisers. You Can Too! "></div>
+
 <h2>Malvertising</h2>
 <blockquote>
 <p>The other day I mindlessly clicked on some link-bait on my mobile phone. It was an article about "22 Photos that Prove Shaq is a Giant." Yes, I'm embarrassed, but that's not the point. Within that one listicle there were no less than 30 "impressions" of the same Best Foods Mayonnaise banner ad. How embarrassed do you think the brand manager at Best Foods will be when his CMO reads this?</p>
@@ -53,7 +55,7 @@ Malwarebytes estimate is <a href="https://blog.malwarebytes.com/101/2016/06/trut
 
 And guess where malvertisers most like to share their wares.
 
-<h2>We're number one</h2>
+<h2>We're number one</h2>http://popup.taboola.com/en/?template=colorbox&taboola_utm_source=nymagazine-vulture&taboola_utm_medium=bytaboola&taboola_utm_content=thumbnails-a:Below%20Article%20Thumbnails:
 Bromium Labs found more than <a href="https://www.bromium.com/company/press-releases/bromium-threat-report-identifies-security-risks-popular-websites-and-software.html">half the ads with malware-payloads were on either news and entertainment websites</a>, with news at the top of the pack (32%). Like all marketers, malvertisers wants premiere placement on well-respected sites. The ad-bidding process grants them their wish.
 
 In March 2016 the websites of The New York Times, BBC, Weather Network, The Hill, Newsweek, AOL, MSN, and NFL all, as CNET reported, "<a href="http://www.cnet.com/news/new-york-times-bbc-dangerous-ads-ransomware-malvertising/">inadvertently ran malicious ads that attempted to hijack the computers of visitors and demand a ransom</a>."
