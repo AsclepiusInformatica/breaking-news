@@ -1,6 +1,7 @@
 <em>Draft article for http://nieman.harvard.edu/</em>
 _____________________
 
+<div><img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/ransomware-mischa-990.png" width="990" height="571"></div>
 <h1>Breaking News: How Monetzing became Malvertising</h2>
 Cyber criminals are embezzling billions annually from advertisers. They take over news sites, then spread computer viruses, steal readers' passwords, and hold hard people's drives hostage for a ransom.
 
@@ -79,6 +80,9 @@ Till then we'll continue to reap what the technology sows, like AppLift's fraud 
 
 <h2>Endgame</h2>
 Perhaps this partly explains the rapid rise of ad-blockers. Not having your computer hijacked by a crime syndicate seems a reasonable expectation when reading the news.
+
+Do you really want to be the site that deliver this news to thier readers?
+<div><img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/ransomware-petya.gif" width="718" height="402"></div>
 
 Ad-tech is not a sustainable business model.  Let's hope news sites are planning for a post-ad-tech world.
 
