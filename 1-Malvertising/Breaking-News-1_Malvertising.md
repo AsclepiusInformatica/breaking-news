@@ -76,8 +76,11 @@ Google is enabling traffic laundering, where websites with pirated content redir
 <cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/real-life-example-google-implication-ad-fraud-traffic-laundering">"A Real Life Example of Google's Implication in Ad Fraud and Traffic Laundering"</a></cite>
 </blockquote>
 
+CNBC and CNN commentator Shelly Palmer wrote, "Ad tech has evolved into a toxic ecosystem that is killing itself, and it is taking digital advertising with it." His article, <a href="http://www.shellypalmer.com/2016/06/well-ad-tech-dies/">"What We'll Do When Ad Tech Dies"</a> concludes, "Ad tech will be with us in its current form until someone goes to jail."
 
-<a href="http://www.applift.com/blog/mobile-fraud-programmatic">AppLift's fraud detection</a> system discovered <a href="http://www.marketingdive.com/news/34-of-mobile-programmatic-traffic-is-at-risk-of-fraud-study/410585/">34% of mobile ads at risk of fraud</a>. In the first half of 2015 <em>RiskIQ</em> measured <a href="https://www.riskiq.com/resources/press-releases/260-percent-spike-in-malicious-advertisements-2015">a 260% spike in malicious ads</a>. CNBC and CNN commentator Shelly Palmer asks <a href="http://www.shellypalmer.com/2016/06/well-ad-tech-dies/">"What We'll Do When Ad Tech Dies"</a>. Some of his choice quotes: "Ad tech has evolved into a toxic ecosystem that is killing itself, and it is taking digital advertising with it&hellip; Ad tech will be with us in its current form until someone goes to jail."
+Till then we'll continue to reap what the technology sows, like AppLift's fraud detecters discovering <a href="http://www.applift.com/blog/mobile-fraud-programmatic">34% of mobile ads are a fraud risk</a> and RiskIQ measuring, in 2015, a <a href="https://www.riskiq.com/resources/press-releases/260-percent-spike-in-malicious-advertisements-2015">260% spike in malicious advertisements</a>.
+
+
 
 <h2>Endgame</h2>
 Perhaps this partly explains the rapid rise of ad-blockers. Not having your computer hijacked by a crime syndicate seems a reasonable expectation when reading the news.
