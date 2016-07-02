@@ -64,11 +64,11 @@ This even juicier website-breaking news is <a href="https://www.engadget.com/201
 
 
 <h2>What's A Google to Do?</h2>
-The problem is not new. Here's some headline from 2013:
+The problem is not new. Here are headlines from 2013:
 * <em>Adweek</em> <a href="http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083">"The Amount of Questionable Online Traffic Will Blow Your Mind:The World Wide rip-off"</a> 
 * <em>The Ad Contrarian</em> <a href="http://adcontrarian.blogspot.co.il/2013/06/the-75-billion-ad-swindle.html">"The $7.5 Billion Ad Swindle"</a>
 
-Google has run an <a href="http://www.anti-malvertising.com/">Anti-Malvertising Team</a> since 2009. Here's the latest report on their progress:
+Google has run an <a href="http://www.anti-malvertising.com/">Anti-Malvertising Team</a> since 2009. Here's a recent report on their progress:
 
 <blockquote>
 Google is enabling traffic laundering, where websites with pirated content redirect visitors to shell websites displaying AdSense ads. These ads finance piracy, and Google is taking a cut in the process. Google clients have no clue of the reputational risk they run by using AdSense.
@@ -76,13 +76,8 @@ Google is enabling traffic laundering, where websites with pirated content redir
 <cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/real-life-example-google-implication-ad-fraud-traffic-laundering">"A Real Life Example of Google's Implication in Ad Fraud and Traffic Laundering"</a></cite>
 </blockquote>
 
-For years the Interactive Advertising Bureau and Google have tried to detect fraudulent ads. The results: 
 
-* <em>RiskIQ</em> <a href="https://www.riskiq.com/resources/press-releases/260-percent-spike-in-malicious-advertisements-2015">"260 Percent Spike in Malicious Advertisements in 2015"</a>
-
-
-An <a href="http://www.applift.com/blog/mobile-fraud-programmatic">AppLift study</a> found <a href="http://www.marketingdive.com/news/34-of-mobile-programmatic-traffic-is-at-risk-of-fraud-study/410585/">"34% of mobile programmatic traffic is at risk of fraud."</a>
-
+<a href="http://www.applift.com/blog/mobile-fraud-programmatic">AppLift's fraud detection</a> system discovered <a href="http://www.marketingdive.com/news/34-of-mobile-programmatic-traffic-is-at-risk-of-fraud-study/410585/">34% of mobile ads at risk of fraud</a>. In the first half of 2015 <em>RiskIQ</em> measured <a href="https://www.riskiq.com/resources/press-releases/260-percent-spike-in-malicious-advertisements-2015">a 260% spike in malicious ads</a>. CNBC and CNN commentator Shelly Palmer asks <a href="http://www.shellypalmer.com/2016/06/well-ad-tech-dies/">"What We'll Do When Ad Tech Dies"</a>. Some of his choice quotes: "Ad tech has evolved into a toxic ecosystem that is killing itself, and it is taking digital advertising with it&hellip; Ad tech will be with us in its current form until someone goes to jail."
 
 <h2>Endgame</h2>
 Perhaps this partly explains the rapid rise of ad-blockers. Not having your computer hijacked by a crime syndicate seems a reasonable expectation when reading the news.
@@ -99,8 +94,7 @@ Unless ad tech starts to pay attention to the consumer, its days are numbered.
 <cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">"Clickbait And Traffic Laundering: How Ad Tech Is Destroying The Web"</a></cite>
 </blockquote>
  
-
-What's slaughtering the news business is not the ads, it's the ad technologies. It's their chumboxes and subprime markets. It's their molasses-slow surveillance scripts and their swiss-cheese security. It's their superstitious belief in "big data" and their exorbitant "ad tech tax." All of which will be explained in future articles in this Breaking News series.  
+What's killing the news business is not the ads, it's the ad technologies. It's their chumboxes and subprime markets. It's their molasses-slow surveillance scripts and their swiss-cheese security. It's their superstitious belief in "big data" and their exorbitant "ad tech tax." All of which will be explained in future articles in this Breaking News series.  
 
 
 
