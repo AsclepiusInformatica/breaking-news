@@ -15,7 +15,7 @@ Those of you in the news business can then:
 
 <h2>Malvertising</h2>
 <blockquote>
-The other day I mindlessly clicked on some link-bait on my mobile phone. It was an article about "22 Photos that Prove Shaq is a Giant." Yes, I'm embarrassed, but that's not the point. Within that one listicle there were no less than 30 "impressions" of the same Best Foods Mayonnaise banner ad. How embarrassed do you think the brand manager at Best Foods will be when his CMO reads this?
+The other day I mindlessly clicked on some link-bait on my mobile phone. It was an article about "22 Photos that Prove Shaq is a Giant." Yes, I'm embarrassed, but that's not the point. Within that one listicle there were no less than 30 "impressions" of the same Best Foods Mayonnaise banner ad. How embarrassed do you think the brand manager at Best Foods will be when his CMO reads this?<br />
 <cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a><cite>
 </blockquote>
 
@@ -72,7 +72,7 @@ Google has run an <a href="http://www.anti-malvertising.com/">Anti-Malvertising 
 
 <blockquote>
 
-Google is enabling traffic laundering, where websites with pirated content redirect visitors to shell websites displaying AdSense ads. These ads finance piracy, and Google is taking a cut in the process. Google clients have no clue of the reputational risk they run by using AdSense.
+Google is enabling traffic laundering, where websites with pirated content redirect visitors to shell websites displaying AdSense ads. These ads finance piracy, and Google is taking a cut in the process. Google clients have no clue of the reputational risk they run by using AdSense.<br />
 <cite>&mdash;<em>Kalkis Research</em><a href="https://kalkis-research.com/real-life-example-google-implication-ad-fraud-traffic-laundering">"A Real Life Example of Google's Implication in Ad Fraud and Traffic Laundering"</a></cite>
 
 </blockquote>
@@ -96,7 +96,7 @@ Ad-tech is not a sustainable business model.  Let's hope news sites are planning
 
 Ad dollars are being stolen. Ad efficiency is declining. Traffic laundering is thriving. Bad guys have become experts at gaming ad tech metrics and monetizing fake or unwilling visitors.
 
-Unless ad tech starts to pay attention to the consumer, its days are numbered. 
+Unless ad tech starts to pay attention to the consumer, its days are numbered. <br />
 <cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">"Clickbait And Traffic Laundering: How Ad Tech Is Destroying The Web"</a></cite>
 </blockquote>
  
