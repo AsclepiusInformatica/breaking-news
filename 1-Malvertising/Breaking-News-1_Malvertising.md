@@ -115,7 +115,7 @@ Perhaps this partly explains the rapid rise of ad-blockers. When reading the new
 <cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">"Clickbait And Traffic Laundering: How Ad Tech Is Destroying The Web"</a></cite>
 </blockquote>
  
-What's killing the online news business is not the ads, it's the ad technologies. It's their chumboxes and subprime markets. It's their molasses-slow surveillance scripts and their swiss-cheese security. It's their superstitious belief in "big data" and their exorbitant "ad tech tax." All of which are upcoming topics in our Breaking News series.  
+What hurts online news is not the ads, it's the ad technologies. It's their chumboxes and subprime markets. It's their molasses-slow surveillance scripts and their swiss-cheese security. It's their superstitious belief in "big data" and their exorbitant "ad tech tax." These re all upcoming topics in our Breaking News series.  
 
 <em><small>Ransomware screenshots from <a href="http://www.bleepingcomputer.com/news/security/petya-is-back-and-with-a-friend-named-mischa-ransomware/">Bleeping Computer</a>.</small></em>
 
