@@ -98,10 +98,12 @@ CNBC and CNN commentator Shelly Palmer wrote, "Ad tech has evolved into a toxic 
 Till then we'll continue to reap what the technology sows, like AppLift's fraud detecters discovering <a href="http://www.applift.com/blog/mobile-fraud-programmatic">34% of mobile ads at risk of fraud</a>, and RiskIQ in 2015 measuring a <a href="https://www.riskiq.com/resources/press-releases/260-percent-spike-in-malicious-advertisements-2015">260% spike in malicious advertisements</a>.
 
 <h2>Endgame</h2>
-Perhaps this partly explains the rapid rise of ad-blockers. Not having your computer hijacked by a crime syndicate seems a reasonable expectation when reading the news.
+Let's hope news publishers are planning for a post-ad-tech world. No site owner wants to deliver this news to their readers:
+<div>
+<img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/ransomware-petya.gif" width="718" height="402" alt="Petya Ransomware skull screenshot and payment instructions">
+</div> 
 
-Let's hope news publishers are planning for a post-ad-tech world. No site owners want to deliver this news to their readers:
-<div><img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/ransomware-petya.gif" width="718" height="402" alt="Petya Ransomware skull screenshot and payment instructions"></div> 
+Perhaps this partly explains the rapid rise of ad-blockers. When reading the news, it seems a reasonable expectation to not have your computer hijacked by a crime syndicate.
 
 <blockquote>
 <p>The Web is turning into a clickbait jungle. Established publishers are trashing their websites with low-quality content recommendations. Smartphone manufacturers and software publishers, worried about worsening browsing experience, are uniting to fight online ads.</p>
@@ -113,7 +115,7 @@ Let's hope news publishers are planning for a post-ad-tech world. No site owners
 <cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">"Clickbait And Traffic Laundering: How Ad Tech Is Destroying The Web"</a></cite>
 </blockquote>
  
-What's killing the news business is not the ads, it's the ad technologies. It's their chumboxes and subprime markets. It's their molasses-slow surveillance scripts and their swiss-cheese security. It's their superstitious belief in "big data" and their exorbitant "ad tech tax." All of which will be explained in future articles in this Breaking News series.  
+What's killing the online news business is not the ads, it's the ad technologies. It's their chumboxes and subprime markets. It's their molasses-slow surveillance scripts and their swiss-cheese security. It's their superstitious belief in "big data" and their exorbitant "ad tech tax." All of which are upcoming topics in our Breaking News series.  
 
 <em><small>Ransomware screenshots from <a href="http://www.bleepingcomputer.com/news/security/petya-is-back-and-with-a-friend-named-mischa-ransomware/">Bleeping Computer</a>.</small></em>
 
