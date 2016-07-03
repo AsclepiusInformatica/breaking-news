@@ -8,12 +8,10 @@ _____________________
 </div>
 <h1>Breaking News: How monetizing became malvertising</h2>
 
-<em>
 ```
 Breaking News is a series of investigations into factors affecting online news sites,
-from performance to profits. This first report is on a ad-tech fraud.
+from performance to profits. This is the first of two articles on ad-tech fraud.
 ```
-</em>
 
 Cyber criminals are embezzling billions annually from advertisers. They take over news sites, spread computer viruses, steal passwords, and hold people's hard drives hostage.
 
@@ -37,35 +35,35 @@ Those of you in the news business can then:
 <cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite>
 </blockquote>
 
-The Interactive Advertising Bureau (IAB) estimated malicious advertising -- malvertising -- <a href="http://www.iab.com/news/digital-ad-industry-will-gain-8-2-billion-by-eliminating-fraud-and-flaws-in-internet-supply-chain-iab-ey-study-shows/">"costs the U.S. digital marketing, advertising, and media industry $8.2 billion annually."</a> 
+The Interactive Advertising Bureaufo estimated malicious advertising -- malvertising -- <a href="http://www.iab.com/news/digital-ad-industry-will-gain-8-2-billion-by-eliminating-fraud-and-flaws-in-internet-supply-chain-iab-ey-study-shows/">"costs the U.S. digital marketing, advertising, and media industry $8.2 billion annually."</a> 
 
 A few years ago malvertising was merely scamming the system: fake ads, fake traffic, fake analytics. Ad-tech's unregulated labyrinths of  circumlocution systems, for bidding, placing, and tracking ads, makes it a hacker's heaven.
 
 "All the code is awful and you aren't allowed to change it anyway," says <a href="http://www.poynter.org/2016/ad-tech-is-broken-heres-how-newsrooms-can-fix-it/407800/">Salon developer Aram Zucker-Scharff</a>. "Usually ad servers claim they run some sort of checks, but considering just how many malicious or badly formed ads get through, it is pretty apparent they don't do much."
 
-The hacker's goal is to bill, make that, bilk advertisers for ads that were never seen. Their fraud takes several forms: Ad stacking piles multiple ads on top of each other. Ad stuffing  or shrinks ads to invisible 1-pixel squares. Click farms send fraud users to real sites. Clickjacking sends real users to fraud sites. 
+The hacker's goal is to bill, make that, bilk advertisers for ads no human ever saw. Their fraud takes several forms: Ad stacking piles multiple ads on top of each other. Ad stuffing shrinks ads to invisible 1-pixel squares. Click farms send fraud users to real sites. Clickjacking sends real users to fraud sites. 
 
-This example comes from <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a>: "You’ll be redirected through a loop of various shell websites, spending a fraction of a second on each." This makes analytics algorithms see these sites as high-quality with lots of traffic. "Once the shell websites have good enough Alexa rankings, and off-the-chart demographics, they sign contracts to display ads with much better terms."
+This example comes from <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a>: "You'll be redirected through a loop of various shell websites, spending a fraction of a second on each." This makes analytics algorithms see these sites as high-quality with lots of traffic. "Once the shell websites have good enough Alexa rankings, and off-the-chart demographics, they sign contracts to display ads with much better terms."
 
-A shell game. A con. That's what malvertising was. What is has become is much worse.
+A shell game. A con. That what malvertisers did, before they became racketeers.
 
 <h2>Crime Does Pay... load</h2>
-The cyber miscreants have a new scheme. They don't just scam advertisers, now they also <em>buy</em> ads. Their new goals: Install spyware, scareware, and ransomware via websites. Capture site-visitors' computers for their "zombie army" to attack more websites and more web users. 
+The cyber miscreants now have a new scheme. They don't just scam advertisers, they also <em>buy</em> ads. Their new goals: Install spyware, scareware, and ransomware via websites. Capture site-visitors' computers for their "zombie army" to attack more websites and more web users. 
 
-<a href="http://idlewords.com/talks/website_obesity.htm">"Ads have become the major vector for malware,"</a> said Maciej Ceglowski in his Web Directions keynote. (<a href="http://idlewords.com/talks/">All his talks</a> are highly recommended reading.)
+<a href="http://idlewords.com/talks/website_obesity.htm">"Ads have become the major vector for malware,"</a> said Maciej Ceglowski in his Web Directions keynote. (<a href="http://idlewords.com/talks/">All his talks</a> are essential reading.)
 
 Again, ad tech makes this easy: "<a href="http://www.cnet.com/news/new-york-times-bbc-dangerous-ads-ransomware-malvertising/">People think you have to click on the ad for something bad to happen, but that's not the case</a>," said Jerome Segura of the security firm Malwarebytes. "The malicious activity takes place in a few seconds."
 
 Malwarebytes' Wendy Zamora wrote:
 <blockquote>
-<p>A lot of folks in the business (and consumer) world are shaking in their boots about ransomware. It’s understandable. Ransomware is a dangerous threat and, if not protected against, can do serious damage to a company’s data, reputation, and bottom line.</p>
+<p>A lot of folks in the business (and consumer) world are shaking in their boots about ransomware. It's understandable. Ransomware is a dangerous threat and, if not protected against, can do serious damage to a company’s data, reputation, and bottom line.</p>
 
-<p>But the truly alarming part is that ransomware is being delivered by malvertising. Malvertising can do this without you knowing (until it’s too late) and without your users taking a single “unsafe” action online.</p>
+<p>But the truly alarming part is that ransomware is being delivered by malvertising. Malvertising can do this without you knowing (until it’s too late) and without your users taking a single “unsafe” action online&hellip;</p>
 
 <cite>&mdash;<em>Malwarebytes</em> <a href="https://blog.malwarebytes.com/101/2016/06/malvertising-and-ransomware-the-bonnie-and-clyde-of-advanced-threats/">"Malvertising and ransomware: the Bonnie and Clyde of advanced threats"</a></cite>
 </blockquote>
 
-Malwarebytes estimate is <a href="https://blog.malwarebytes.com/101/2016/06/truth-in-malvertising-how-to-beat-bad-ads/">70% of malvertising now delivers ransomware payloads</a>. Bromium Labs researchers detected "<a href="https://www.bromium.com/sites/default/files/rpt-bromium-threat-report-1h2015-us-en.pdf">at least 27% of the Alexa 1000 websites were delivering malware via malicious advertisements</a>."  
+Malwarebytes estimates <a href="https://blog.malwarebytes.com/101/2016/06/truth-in-malvertising-how-to-beat-bad-ads/">70% of malvertising now delivers ransomware payloads</a>. Bromium Labs researchers detected "<a href="https://www.bromium.com/sites/default/files/rpt-bromium-threat-report-1h2015-us-en.pdf">at least 27% of the Alexa 1000 websites were delivering malware via malicious advertisements</a>."  
 
 And guess where malvertisers most like to share their wares.
 
@@ -75,6 +73,12 @@ Bromium Labs found more than <a href="https://www.bromium.com/company/press-rele
 In March 2016 the websites of The New York Times, BBC, Weather Network, The Hill, Newsweek, AOL, MSN, and NFL all, as CNET reported, "<a href="http://www.cnet.com/news/new-york-times-bbc-dangerous-ads-ransomware-malvertising/">inadvertently ran malicious ads that attempted to hijack the computers of visitors and demand a ransom</a>."
 
 This even juicier website-breaking news is <a href="https://www.engadget.com/2016/01/08/you-say-advertising-i-say-block-that-malware/">from Engadget</a>: "Forbes asked readers to turn off ad blockers in order to view the article. After doing so, visitors were immediately served with pop-under malware, primed to infect their computers, and likely silently steal passwords, personal data and banking information."
+
+<blockquote>
+<p>You could be researching business trends on a site like NYTimes.com and, without ever having clicked on an ad, be in trouble. A tiny piece of code hidden deep in the ad directs your computer to criminal servers. These servers catalog details about your computer and its location, and then select the "right" malware for you.</p>
+
+<cite>&mdash;<em>Malwarebytes</em> <a href="https://blog.malwarebytes.com/101/2016/06/truth-in-malvertising-how-to-beat-bad-ads/">"Truth in malvertising: How to beat bad ads"</a></cite>
+</blockquote>
 
 <h2>What's a Google to do?</h2>
 The problem is not new. Here are headlines from 2013:
