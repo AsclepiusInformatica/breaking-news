@@ -63,7 +63,7 @@ Malwarebytes' Wendy Zamora wrote:
 <cite>&mdash;<em>Malwarebytes</em> <a href="https://blog.malwarebytes.com/101/2016/06/malvertising-and-ransomware-the-bonnie-and-clyde-of-advanced-threats/">"Malvertising and ransomware: the Bonnie and Clyde of advanced threats"</a></cite>
 </blockquote>
 
-Malwarebytes estimates <a href="https://blog.malwarebytes.com/101/2016/06/truth-in-malvertising-how-to-beat-bad-ads/">70% of malvertising now delivers ransomware payloads</a>. Bromium Labs researchers detected "<a href="https://www.bromium.com/sites/default/files/rpt-bromium-threat-report-1h2015-us-en.pdf">at least 27% of the Alexa 1000 websites were delivering malware via malicious advertisements</a>."  
+Malwarebytes estimated <a href="https://blog.malwarebytes.com/101/2016/06/truth-in-malvertising-how-to-beat-bad-ads/">70% of malvertising now delivers ransomware payloads</a>. Bromium Labs researchers detected "<a href="https://www.bromium.com/sites/default/files/rpt-bromium-threat-report-1h2015-us-en.pdf">at least 27% of the Alexa 1000 websites were delivering malware via malicious advertisements</a>."  
 
 And guess where malvertisers most like to share their wares.
 
