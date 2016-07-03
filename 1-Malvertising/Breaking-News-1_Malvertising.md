@@ -16,7 +16,7 @@ Those of you in the news business can then:
 * Explain to your advertisers why their high-priced ads were never seen by anyone anywhere.
 * Explain to government investigators why you shouldn't be prosecuted for criminal conspiracy.
 
-<div class="one-half column centered">
+<div class="centered">
 <img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/recommended-chumbox.jpg" width="739" height="303" alt="Fake examples of fake clickbait ads like: I Stole Billions from Advertisers. You Can Too! ">
 </div>
 
