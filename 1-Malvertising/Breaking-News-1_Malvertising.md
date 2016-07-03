@@ -9,7 +9,7 @@ _____________________
 <h1>Breaking News: How monetizing became malvertising</h2>
 
 ```
-**Breaking News** is a series of investigations into factors affecting online news sites,
+Breaking News is a series of investigations into factors affecting online news sites,
 from performance to profits. This first report is on a ad-tech fraud.</em>
 ```
 
