@@ -1,7 +1,9 @@
 <em>Draft article for http://nieman.harvard.edu/</em>
 _____________________
 
-<div><img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/ransomware-mischa-990.png" width="990" height="571" alt="Mischa Ransomware screenshot of a skull"></div>
+<div>
+<img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/ransomware-mischa-990.png" width="990" height="571" alt="Mischa Ransomware screenshot of a skull">
+</div>
 <h1>Breaking News: How monetizing became malvertising</h2>
 Cyber criminals are embezzling billions annually from advertisers. They take over news sites, spread computer viruses, steal passwords, and hold people's hard drives hostage for a ransom.
 
@@ -14,7 +16,9 @@ Those of you in the news business can then:
 * Explain to your advertisers why their high-priced ads were never seen by anyone anywhere.
 * Explain to government investigators why you shouldn't be prosecuted for criminal conspiracy.
 
-<div><img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/recommended-chumbox.jpg" width="739" height="303" alt="Fake examples of fake clickbait ads like: I Stole Billions from Advertisers. You Can Too! "></div>
+<div class="one-half column centered">
+<img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/recommended-chumbox.jpg" width="739" height="303" alt="Fake examples of fake clickbait ads like: I Stole Billions from Advertisers. You Can Too! ">
+</div>
 
 <h2>Malvertising</h2>
 <blockquote>
