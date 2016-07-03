@@ -16,11 +16,11 @@ Those of you in the news business can then:
 * Explain to your advertisers why their high-priced ads were never seen by anyone anywhere.
 * Explain to government investigators why you shouldn't be prosecuted for criminal conspiracy.
 
-<div class="centered">
+<div class="four-fifths column centered">
 <img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/recommended-chumbox.jpg" width="739" height="303" alt="Fake examples of fake clickbait ads like: I Stole Billions from Advertisers. You Can Too! ">
 </div>
 
-<h2>Malvertising</h2>
+<h2 class="one-half column centered">Malvertising</h2>
 <blockquote>
 <p>The other day I mindlessly clicked on some link-bait on my mobile phone. It was an article about "22 Photos that Prove Shaq is a Giant." Yes, I'm embarrassed, but that's not the point. Within that one listicle there were no less than 30 "impressions" of the same Best Foods Mayonnaise banner ad. How embarrassed do you think the brand manager at Best Foods will be when his CMO reads this?</p>
 
