@@ -30,7 +30,7 @@ ___
 </div>
 ___
 
-<h2>Malvertising</h2>
+<h2>Shell game</h2>
 <blockquote>
 <p>The other day I mindlessly clicked on some link-bait on my mobile phone. It was an article about "22 Photos that Prove Shaq is a Giant." Yes, I'm embarrassed, but that's not the point. Within that one listicle there were no less than 30 "impressions" of the same Best Foods Mayonnaise banner ad. How embarrassed do you think the brand manager at Best Foods will be when his CMO reads this?</p>
 
@@ -49,7 +49,7 @@ This example comes from <a href="https://kalkis-research.com/clickbait-and-traff
 
 A shell game. A con. That what malvertisers did, before they became racketeers.
 
-<h2>Crime Does Pay... load</h2>
+<h2>Malvertising</h2>
 The cyber miscreants now have a new scheme. They don't just scam advertisers, they also <em>buy</em> ads. Their new goals: Install spyware, scareware, and ransomware via websites. Capture site-visitors' computers for their "zombie army" to attack more websites and more web users. 
 
 <a href="http://idlewords.com/talks/website_obesity.htm">"Ads have become the major vector for malware,"</a> said Maciej Ceglowski in his Web Directions keynote. (<a href="http://idlewords.com/talks/">All his talks</a> are essential reading.)
