@@ -1,7 +1,7 @@
-Breaking News: references/quotes
+# Breaking News: references/quotes
 
-_______________
-Ad tech (tax)
+___
+## Ad tech (tax)
 
 http://digiday.com/publishers/inside-guardians-plans-improve-mobile-advertising/  
 > Mostly, we’re just slamming people with mobile banner ads which is annoying and frustrating for consumers.  
@@ -10,9 +10,9 @@ http://digiday.com/publishers/inside-guardians-plans-improve-mobile-advertising/
 
 http://www.iab.com/guidelines/iab-programmatic-fee-transparency-calculator/  
 Interactive Advertising Bureau “ad tech tax”  
+http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf  
 > The IAB estimates that, in 2014, ad technology services cumulatively captured 55% of programmatic revenue
 while publishers captured the remaining 45%.  
-http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf
 
 http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html  
 Study Finds Only 40% Of Digital Buys Going To Working Media
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=fkn5LlwmHI0
 Ad Tech Tides Are Changing: Market Shift Insights from TBR’s Digital Advertising Technology Research
 
 http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/  
-Ad Tech Is the Worst Thing That Ever Happened to Advertising
+Ad Tech Is the Worst Thing That Ever Happened to Advertising  
 Ad Blocking Is Not a Threat -- It Is a Beacon for the Industry
 > Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid
 In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.
@@ -50,7 +50,7 @@ http://aramzs.github.io/ad-tech/2016/02/18/a-running-collection-of-shitty-ad-cod
 A running collection of shitty ad code
 
 https://twitter.com/Chronotope/status/722566817680605184  
-google should fix the ad server, not "encourage" pubs to run less ads & make less money  
+> Google should fix the ad server, not "encourage" pubs to run less ads & make less money.  
 --Aram Zucker-Scharff
 
 http://chronoto.pe/tag/ad-tech/
@@ -74,7 +74,7 @@ What We’ll Do When Ad Tech Dies
 > When you analyze the effects of fraud, viewability and ad blocking on the digital display advertising business, then add the ever-increasing abilities of the traffic launderers to game the system, you reach an inevitable conclusion: ad tech has evolved into a toxic ecosystem that is killing itself, and it is taking digital advertising with it...
 
 > Ad tech will be with us in its current form until someone goes to jail.  
-Shelly Palmer, "What We’ll Do When Ad Tech Dies", CEO, Palmer Advanced Media, regular commentator on CNBC and CNN
+--Shelly Palmer, CEO, Palmer Advanced Media, regular commentator on CNBC and CNN
 
 http://www.shellypalmer.com/2015/10/non-human-traffic-ad-fraud-and-viewability/  
 > Google virtually guarantees 56 percent of the digital ad impressions you pay for are never seen.
@@ -90,16 +90,17 @@ The Root of Ad Evil
 http://www.shellypalmer.com/2015/09/ad-blocking-this-time-its-serious/  
 > If you really want to be annoyed, try to read an article associated with the clickbait headline you just tapped on your phone. It will be so laden with irrelevant “content” you will not actually know where to click to get to the next few sentences. The experience (even on the best mobile optimized sites) is painful in the extreme. This is really bad for advertisers – they are not getting any value at all. It’s bad for consumers – the experience sucks! There is too much friction between the consumer and the “real” content. So the industry is about to get what it deserves – a serious spanking from a company that puts consumer experience first.
 
-> https://think.storage.googleapis.com/docs/5-factors-of-viewability_infographics.pdf  
-56.1% of all impressions are not seen
+https://think.storage.googleapis.com/docs/5-factors-of-viewability_infographics.pdf  
+> 56.1% of all impressions are not seen
 
 http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html  
 The Definition Of An Ad Impression  
-Reid Tatoris, Co-Founder and Chief Product Officer at Are You a Human  
-broken ads, bot traffic, and straight-up fraud.  
+> Broken ads, bot traffic, and straight-up fraud…
+
 > We start with the notion that only 15% of impressions ever have the possibility to be seen by a real person. Then, factor in that 54% of ads are not viewable (and we already discussed how flawed that metric is), and you’re left with only 8% of impressions that have the opportunity to be seen by a real person. Let me clarify: that does not mean that 8% of impressions are seen. That means only 8% have the chance to be seen. That’s an unbelievable amount of waste in an industry where metrics are a major selling point.
 
-> People will hide ads behind other ads, spoof their domain to trick ad networks into serving higher-paying ads on their site, and purposefully send bots to a site to drive up impressions.
+> People will hide ads behind other ads, spoof their domain to trick ad networks into serving higher-paying ads on their site, and purposefully send bots to a site to drive up impressions.  
+--Reid Tatoris, Co-Founder and Chief Product Officer at Are You a Human
 
 http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083  
 The Amount of Questionable Online Traffic Will Blow Your Mind The World Wide rip-off  
@@ -124,16 +125,10 @@ https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/
 
 
 http://chiefmartec.com/2016/03/marketing-technology-landscape-supergraphic-2016/  
-3,874 marketing technology solutions
+> 3,874 marketing technology solutions
 
-___
-http://www.digitalnewsreport.org/survey/2016/overview-key-findings-2016/
-http://www.naa.org/Trends-and-Numbers.aspx
-
-http://newspaperdeathwatch.com/
-https://en.wikipedia.org/wiki/List_of_defunct_newspapers_of_the_United_States
-https://security.googleblog.com/2015/05/new-research-ad-injection-economy.html
-Ad injectors are programs that insert new ads, or replace existing ones, into the pages you visit while browsing the web. We’ve received more than 100,000 user complaints about them in Chrome since the beginning of 2015—more than any other issue. Unwanted ad injectors are not only annoying, they can pose serious security risks to users as well.
+https://security.googleblog.com/2015/05/new-research-ad-injection-economy.html  
+> Ad injectors are programs that insert new ads, or replace existing ones, into the pages you visit while browsing the web. We’ve received more than 100,000 user complaints about them in Chrome since the beginning of 2015—more than any other issue. Unwanted ad injectors are not only annoying, they can pose serious security risks to users as well.
 
 ___
 http://www.niemanlab.org/2016/06/report-ad-tech-and-the-garbage-content-it-funds-is-killing-the-web/
@@ -270,8 +265,8 @@ success in the tech industry is perceptual and ephemeral, built on valuations th
 ___
 http://www.emarketer.com/Article/More-Than-Two-Thirds-of-US-Digital-Display-Ad-Spending-Programmatic/1013789
 
-_______________
-HTTPS
+___
+## HTTPS
 
 https://www.wired.com/2016/04/wired-launching-https-security-upgrade/
 The sheer volume of entities involved in ad delivery makes it a significant challenge to reliably serve every ad on WIRED over HTTPS. Our internal ad teams must enforce strict standards around HTTPS compliance for ads with all creatives
@@ -286,8 +281,8 @@ For the ads that come from ad exchanges, what’s inside is even more of a black
 
 
 
-_______________
-Malvertising
+___
+## Malvertising
 
 https://blog.malwarebytes.com/101/2016/06/truth-in-malvertising-how-to-beat-bad-ads/
 malicious advertising
@@ -431,8 +426,8 @@ rpt-bromium-threat-report-1h2015-us-en.pdf
 https://blog.malwarebytes.com/101/2015/02/what-is-malvertising/
 https://blog.malwarebytes.com/wp-content/uploads/2015/02/MalvertisingInfoDraft.png
 
-_______________
-Tracking
+___
+## Tracking
 https://www.ted.com/talks/gary_kovacs_tracking_the_trackers?language=en
 I feel like I'm being stalked.
 
@@ -441,8 +436,8 @@ Press Release: Media Rating Council Updates Viewable Ad Impression Measurement G
 A Viewable Impression can be counted as such if, and only if, at least 50 percent of the pixels are in view for a minimum of one continuous second for display and two continuous seconds for video advertisements.
 
 
-_______________
-Performance
+___
+## Performance
 
 http://hearingvoices.com/tools/slow-news/
 
@@ -491,8 +486,8 @@ http://v1.aberdeen.com/launch/report/research_report/5136-RR-performance-web-app
 
 
 
-_______________
-Ad/Edit ratio
+___
+## Ad/Edit ratio
 Advertorial to editorial
 
 http://www.adweek.com/news/press/adedit-balancing-act-111116
@@ -504,8 +499,8 @@ http://www.integralprintmedia.com/magazine-ratio-editorial-advertising-content/
 
 
 
-_______________
-Adblocking
+___
+## Adblocking
 
 http://digiday.com/publishers/lies-damned-lies-ad-blocking-statistics/
 
@@ -558,8 +553,8 @@ https://www.raymond.cc/blog/10-ad-blocking-extensions-tested-for-best-performanc
 http://niemanreports.org/articles/to-fight-ad-blocking-build-better-ads/
 
 http://www.cjr.org/analysis/adblockers_load_time.php
-_______________
-Ogilvy
+___
+## Ogilvy
 “I do not regard advertising as entertainment or an art form, but as a medium of information. When I write an advertisement, I don’t want you to tell me that you find it ‘creative.’ I want you to find it so interesting that you buy the product.”
 
 https://books.google.com/books?id=hVFwAAAAQBAJ&pg=PT12&dq=%22The+wrong+advertising+can+actually+reduce+the+sales+of+a+product%22&hl=en&sa=X&ved=0ahUKEwjx3JL0l8vNAhUJ5IMKHbrWDwMQ6AEIJDAB#v=onepage&q=%22The%20wrong%20advertising%20can%20actually%20reduce%20the%20sales%20of%20a%20product%22&f=false
@@ -571,8 +566,8 @@ I sometimes wonder if there is a tacit conspiracy among clients, media and agenc
 --David Ogilvy, Ogilvy on Advertising
 
 
-________________
-Idle Words, Maciej Cegłowski (MAH-tchay Cig-WOW-ski)
+___
+## ## Idle Words, Maciej Cegłowski (MAH-tchay Cig-WOW-ski)
 http://idlewords.com/about.htm
 Matthew 12:36 And I tell you this, you must give an account on judgment day for every idle word you speak.
 
@@ -655,8 +650,8 @@ We're addicted to 'big data' not because it's effective now, but because we need
 https://www.google.com/settings/ads
 
 Of course, for ad sellers, the crappiness of targeted ads is a feature! It means there's vast room for improvement. So many stories to tell the investors.
-________________
-AMP
+___
+## ## AMP
 
 http://observer.com/2016/03/google-accelerated-mobile-pages-facebook-w3c/
 
@@ -676,8 +671,8 @@ only 5 ad platforms are supported, 2 of which are owned by Google.... Right now,
 
 search carousel:
 http://searchengineland.com/live-google-launches-amp-results-in-mobile-search-results-243147
-__________________
-https://www.youtube.com/watch?v=Z8u3ItdmMME
+___
+## https://www.youtube.com/watch?v=Z8u3ItdmMME
 File: DevTools-waterfall.mp4
 Title: Chrome DevTools: Network panel: Waterfall view
 
@@ -704,8 +699,8 @@ https://www.rjionline.org/stories/need-for-speed-3-a-news-diet-for-overweight-ne
 
 Tags: Newspaper, Website, Google Chrome
 
-__________________
-https://www.youtube.com/watch?v=k_bFffp-peI
+___
+## https://www.youtube.com/watch?v=k_bFffp-peI
 File: video-speed-index-14-sec.mp4
 Title: Speed index: 14 sec; load time: 19 sec 
 
@@ -714,8 +709,8 @@ WebPagetest results for newspaper homepage, slow speed- index compared to: https
 
 See: https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning
 
-__________________
-https://www.youtube.com/watch?v=iZFYFLvgLow
+___
+## https://www.youtube.com/watch?v=iZFYFLvgLow
 File: video-speed-index-4-sec.mp4
 
 Title: Speed index: 4 sec; load time: 19 sec
@@ -725,8 +720,8 @@ WebPagetest results for newspaper homepage, better speed index compared to: http
 
 See: https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning
 
-__________________
-Jobs
+___
+## Jobs
 
 http://www.niemanlab.org/2016/06/there-are-now-more-americans-working-for-online-only-outlets-than-newspapers/
 http://www.bls.gov/opub/ted/2016/employment-trends-in-newspaper-publishing-and-other-media-1990-2016.htm
@@ -734,14 +729,14 @@ https://www.ic.gc.ca/app/scr/sbms/sbb/cis/definition.html?code=5161&lang=eng
 Internet Publishing and Broadcasting
 This industry comprises establishments exclusively engaged in publishing and/or broadcasting content on the Internet.
 
-__________________
-## FB Instant Articles
+___
+## ## FB Instant Articles
 https://github.com/whyisjake/Simple-Instant-Articles-for-Facebook
 
 http://digiday.com/publishers/car-throttles-pageviews-fell-16-percent-facebook-instant-articles-test/
 
-__________________
-var:
+___
+## var:
 http://www.mediapost.com/publications/article/265789/consumers-cant-tell-native-ads-from-editorial-con.html
 
 http://www.ft.com/intl/cms/s/0/e0c356f4-2cec-11e6-a18d-a96ab29e3c95.html#axzz4B67CFETX
@@ -749,8 +744,8 @@ http://www.ft.com/intl/cms/s/0/e0c356f4-2cec-11e6-a18d-a96ab29e3c95.html#axzz4B6
 
 http://www.poynter.org/2016/when-newsrooms-dont-own-their-data-other-companies-profit/409620/
 
-__________________
-The Great Ad Wars began in early 2016. Barbarian hordes of Blockers began knocking down the ad-supports which propped up the Fourth Estate. 
+___
+## The Great Ad Wars began in early 2016. Barbarian hordes of Blockers began knocking down the ad-supports which propped up the Fourth Estate. 
 
 The Media Giants fought back, banishing the Blockers and erecting huge Walls of Pay, reaching even to the Cloud. Whereupon, Alphabet, the High Priestess of Search, proclaimed her engines recognize no walls -- except, of course, her own: a walled garden for those obedient to her Code of AMP.
 
@@ -763,14 +758,14 @@ ThroughTheCracks.com
 
 Ad-Blocked, AMP-ed, Instant and Apple News
 
-__________________
-retargeting + prospecting platform
+___
+## retargeting + prospecting platform
 powerful algorithms and revolutionary technology deliver the highest possible probability that devices are related
 social data platform that allows you to share and receive exclusive user data sets from across mobile social apps
 dynamically convert assets into exceptional digital experiences across all channels
 
-_______________
-Profit/Loss
+___
+## Profit/Loss
 
 Gannett, Advance Publications, Hearst Corp., McClatchy Newspapers and Tribune Co. 
 http://www.marketwatch.com/investing/stock/nyt/financials
@@ -832,8 +827,18 @@ Perhaps the most revealing figures this quarter are the various line items Faceb
 
 Monetization Potential
 
-_______________
-Revenue
+
+___
+## Newspapers
+
+http://www.digitalnewsreport.org/survey/2016/overview-key-findings-2016/  
+http://www.naa.org/Trends-and-Numbers.aspx
+
+http://newspaperdeathwatch.com/
+https://en.wikipedia.org/wiki/List_of_defunct_newspapers_of_the_United_States
+
+___
+## Revenue
 
 http://www.journalism.org/2016/06/15/state-of-the-news-media-2016/
 since we do not have industry-wide figures, we need to rely on data from the five publicly traded companies that broke out digital vs. non-digital ad revenue in their SEC filings. Among those companies, one in every four dollars of ad revenue in 2015 came in the form of digital, a small bump up from 2014 and a sizable rise from the 5% of ad revenue digital sources made up in 2006.
@@ -854,8 +859,8 @@ http://www.emarketer.com/Chart/Average-Time-Spent-per-Day-with-Major-Media-by-US
 
 
 
-__________________
-Chumbox text
+___
+## Chumbox text
 
 http://www.vulture.com/2014/11/when-did-the-art-world-get-so-conservative.html
 <span class="video-label-box"><span class="video-label video-title trc_ellipsis " style="-webkit-line-clamp: 3;">Cyber Criminals Kill News Biz with Clickbait</span><span class="branding">Fraud Site Central</span></span>
