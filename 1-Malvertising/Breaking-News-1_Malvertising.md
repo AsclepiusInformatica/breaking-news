@@ -78,10 +78,11 @@ In March 2016 the websites of The New York Times, BBC, Weather Network, The Hill
 
 This even juicier website-breaking news is <a href="https://www.engadget.com/2016/01/08/you-say-advertising-i-say-block-that-malware/">from Engadget</a>: "Forbes asked readers to turn off ad blockers in order to view the article. After doing so, visitors were immediately served with pop-under malware, primed to infect their computers, and likely silently steal passwords, personal data and banking information."
 
-<div>
+<p>
 <img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/Bromium-Malvertisement-attack-sources.png" width="700" alt="Chat: malicious advertisements from news media and entertainment websites make more than half of the attacks.">
-<small>Malicious advertisements sources, <a href="https://www.bromium.com/sites/default/files/rpt-bromium-threat-report-1h2015-us-en.pdf">Bromium Labs</a></small>
-</div>
+
+<em><small>Malicious advertisements sources, <a href="https://www.bromium.com/sites/default/files/rpt-bromium-threat-report-1h2015-us-en.pdf">Bromium Labs</a></small></em>
+</p>
 
 <blockquote>
 <p>You could be researching business trends on a site like NYTimes.com and, without ever having clicked on an ad, be in trouble. A tiny piece of code hidden deep in the ad directs your computer to criminal servers. These servers catalog details about your computer and its location, and then select the "right" malware for you.</p>
