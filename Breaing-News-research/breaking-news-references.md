@@ -3,17 +3,18 @@ Breaking News: references/quotes
 _______________
 Ad tech (tax)
 
-Mostly, we’re just slamming people with mobile banner ads which is annoying and frustrating for consumers.
---Guardian News and Media’s commercial director Nick Hewat
-http://digiday.com/publishers/inside-guardians-plans-improve-mobile-advertising/
+http://digiday.com/publishers/inside-guardians-plans-improve-mobile-advertising/  
+Mostly, we’re just slamming people with mobile banner ads which is annoying and frustrating for consumers.  
+--Guardian News and Media’s commercial director Nick Hewat  
 
-http://www.iab.com/guidelines/iab-programmatic-fee-transparency-calculator/
-Interactive Advertising Bureau “ad tech tax”
+
+http://www.iab.com/guidelines/iab-programmatic-fee-transparency-calculator/  
+Interactive Advertising Bureau “ad tech tax”  
 The IAB estimates that, in 2014, ad technology services cumulatively captured 55% of programmatic revenue
-while publishers captured the remaining 45%.
+while publishers captured the remaining 45%.  
 http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf
 
-http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html
+http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html  
 Study Finds Only 40% Of Digital Buys Going To Working Media
 
 https://www.youtube.com/watch?v=fkn5LlwmHI0
