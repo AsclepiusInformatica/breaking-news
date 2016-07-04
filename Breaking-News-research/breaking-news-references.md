@@ -151,7 +151,6 @@ The Mobile Video Ad Lie
 
 > My full IP address is being passed around like chips at a Super Bowl party: a total of 291 times.
 
-___
 ### Chumbox: 
 
 <https://theawl.com/a-complete-taxonomy-of-internet-chum-de0b7a070a2d#.enld4g7rj>  
@@ -173,7 +172,7 @@ noun
 chopped fish, fish fluids, and other material thrown overboard as angling bait.
 • refuse from fish, especially that remaining after expressing oil.
 
-___
+### Kalkis Research
 <https://kalkis-research.com/google-end-of-the-online-advertising-bubble>  
 > Google's clients have no clue their ads are being displayed on worsening quality websites. A growing proportion of the ads are not being seen at all. Once they become aware of the fraud and embezzlement, Alphabet's growth story is over…
 
@@ -198,7 +197,7 @@ ___
 > The efficiency of online advertising has been in decline for years…
 
 > Chart 6:Change in advertising and sales, from 2010 to 2015 (source: SEC 10-K filings)  
-<https://kalkis-research.com/imagecache/532f1ae2393a0502f601a1c4be46036f.png>
+<img src="https://kalkis-research.com/imagecache/532f1ae2393a0502f601a1c4be46036f.png">
 
 > The ecosystem has become obscure, complex, and intermediaries are taking an ever bigger cut…
 
@@ -227,26 +226,24 @@ Clickbait And Traffic Laundering: How Ad Tech Is Destroying The Web
 > Ad efficiency is declining…
 
 > Chart 5:Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and Ebay (source: SEC 10-K filings 2010 through 2015, Kalkis Research)
-<https://kalkis-research.com/imagecache/8ebb0582bdbaa85c4dc2fcf662bfccde.png>
+<img src="https://kalkis-research.com/imagecache/8ebb0582bdbaa85c4dc2fcf662bfccde.png">
 
 > Ad tech has focused on automatization and economies of scale, which has enabled them to place low-cost ads on the murkiest of websites, because the cost of placing an ad has become so low. This rush to subprime ad space ended up hurting the high end of the market as well, as Internet users become tired of ads in general. You can only make up for low margins with volume for so long…
 
 > Advertising agencies that fail to control for publisher quality are doomed to waste their client's money. Worse, they expose their clients to outright theft. Any system that's defined by quantitative rules ends up being gamed by smart guys, as we've illustrated above. Bad guys have caught up with ad tech's "state of the art algorithms". Any technological advantage is short-lived, and it seems that we're seeing the end of the user profiling miracle.
 
 <https://kalkis-research.com/real-life-example-google-implication-ad-fraud-traffic-laundering>  
-Google is enabling traffic laundering, where websites with pirated content redirect visitors to shell websites displaying AdSense ads. These ads finance piracy, and Google is taking a cut in the process. Google clients have no clue of the reputational risk they run by using AdSense…
+> Google is enabling traffic laundering, where websites with pirated content redirect visitors to shell websites displaying AdSense ads. These ads finance piracy, and Google is taking a cut in the process. Google clients have no clue of the reputational risk they run by using AdSense…
 
-ad budgets are being stolen, and used to finance piracy
-
+> Ad budgets are being stolen, and used to finance piracy
 
 <http://www.niemanlab.org/2016/06/report-ad-tech-and-the-garbage-content-it-funds-is-killing-the-web/>  
 Report: Ad tech (and the garbage #content it funds) is killing the web
-___
+
 <http://www.trademob.com/pressrelease/40-percent-of-mobile-ad-clicks-are-fraudulent-or-accidental-according-to-new-study-by-trademob/>  
 40 Percent of Mobile Ad Clicks are Fraudulent or Accidental, According to New Study by Trademob
-The analysis of 6 million clicks across 10 top advertising networks showed that 40 percent of click-throughs generate a conversation rate of less than 0.1 percent.
+> The analysis of 6 million clicks across 10 top advertising networks showed that 40 percent of click-throughs generate a conversation rate of less than 0.1 percent.
 
-___
 <http://www.nytimes.com/2016/06/19/arts/television/silicon-valley-season-3-episode-9-recap.html>  
 ‘Silicon Valley’ Season 3, Episode 9: What Exactly Is Pied Piper?
 It’s a sly, dark joke about the ephemeral nature of our click-onomy, where success can be gamed and true value is elusive and perhaps unknowable.
@@ -255,70 +252,65 @@ It’s a sly, dark joke about the ephemeral nature of our click-onomy, where suc
 ‘Silicon Valley’ Season 3 Finale: An Empire Built on Quicksand
 success in the tech industry is perceptual and ephemeral, built on valuations that favor potential profit over actual profit and numbers that can be gamed to the point that they are meaningless.
 
-
-___
 <http://www.emarketer.com/Article/More-Than-Two-Thirds-of-US-Digital-Display-Ad-Spending-Programmatic/1013789>
 
-___
-## HTTPS
+### HTTPS
 
 <https://www.wired.com/2016/04/wired-launching-https-security-upgrade/>  
-The sheer volume of entities involved in ad delivery makes it a significant challenge to reliably serve every ad on WIRED over HTTPS. Our internal ad teams must enforce strict standards around HTTPS compliance for ads with all creatives
+> The sheer volume of entities involved in ad delivery makes it a significant challenge to reliably serve every ad on WIRED over HTTPS. Our internal ad teams must enforce strict standards around HTTPS compliance for ads with all creatives
 
 <http://open.blogs.nytimes.com/2014/11/13/embracing-https/>  
-authenticity, privacy, security
+> Authenticity, privacy, security
 
 <https://developer.washingtonpost.com/pb/blog/post/2015/12/10/moving-the-washington-post-to-https>  
-Ask any developer at a major media organization what the biggest hurdle to HTTPS adoption is, and the answer is always going to be advertising…
+> Ask any developer at a major media organization what the biggest hurdle to HTTPS adoption is, and the answer is always going to be advertising…
 
-For the ads that come from ad exchanges, what’s inside is even more of a black box—we have no idea what resources they will include, and no way of preventing specific resources.
+> For the ads that come from ad exchanges, what’s inside is even more of a black box—we have no idea what resources they will include, and no way of preventing specific resources.
 
-
-
-___
 ## Malvertising
 
 <https://blog.malwarebytes.com/101/2016/06/truth-in-malvertising-how-to-beat-bad-ads/>  
-malicious advertising
-70 percent. That’s the estimated amount of malvertising campaigns that deliver ransomware as a payload…
+> 70 percent. That’s the estimated amount of malvertising campaigns that deliver ransomware as a payload…
 
-You could be researching business trends on a site like NYTimes.com and, without ever having clicked on an ad, be in trouble. A tiny piece of code hidden deep in the ad directs your computer to criminal servers. These servers catalog details about your computer and its location, and then select the “right” malware for you.
+> You could be researching business trends on a site like NYTimes.com and, without ever having clicked on an ad, be in trouble. A tiny piece of code hidden deep in the ad directs your computer to criminal servers. These servers catalog details about your computer and its location, and then select the “right” malware for you.
 
 <https://blog.malwarebytes.com/threat-analysis/2016/06/petya-and-mischa-ransomware-duet-p2/>  
 <https://blog.malwarebytes.com/wp-content/uploads/2016/06/mischa_note.png>  
+
 <http://www.bleepingcomputer.com/news/security/petya-is-back-and-with-a-friend-named-mischa-ransomware/>  
 <http://www.bleepstatic.com/images/news/ransomware/m/mischa/ransom-note.png>  
+
 <https://blog.malwarebytes.com/threat-analysis/2016/05/petya-and-mischa-ransomware-duet-p1/>  
 <http://www.bleepingcomputer.com/news/security/petya-ransomware-skips-the-files-and-encrypts-your-hard-drive-instead/>  
 <http://www.bleepstatic.com/images/news/ransomware/petya/petya-decryption-site.jpg>
 
-Green Mischa:
+Green Mischa:  
 <https://blog.kaspersky.com/mischa-ransomware/12135/>
 
-
 <https://blog.malwarebytes.com/threat-analysis/2016/04/petya-ransomware/>  
-Petya and Mischa. Both are named after the satellites from the GoldenEye movie.
+> Petya and Mischa. Both are named after the satellites from the GoldenEye movie.
 
 <http://arstechnica.com/security/2016/03/big-name-sites-hit-by-rash-of-malicious-ads-spreading-crypto-ransomware/>  
 <http://www.cnet.com/news/new-york-times-bbc-dangerous-ads-ransomware-malvertising/>  
-The Times, the BBC, AOL and a host of other major news and entertainment websites inadvertently ran malicious ads that attempted to hijack the computers of visitors and demand a ransom, according to security researchers Malwarebytes and Trend Micro…
+> The Times, the BBC, AOL and a host of other major news and entertainment websites inadvertently ran malicious ads that attempted to hijack the computers of visitors and demand a ransom, according to security researchers Malwarebytes and Trend Micro…
 
-"People think you have to click on the ad for something bad to happen, but that's not the case," Segura said. "The malicious activity takes place in a few seconds."
+> "People think you have to click on the ad for something bad to happen, but that's not the case," Segura said. "The malicious activity takes place in a few seconds."
 Malwarebytes Senior Security Researcher Jerome Segura
+
 <https://blog.malwarebytes.com/threat-analysis/2016/03/large-angler-malvertising-campaign-hits-top-publishers/>
 
 <https://blog.malwarebytes.com/101/2016/06/malvertising-and-ransomware-the-bonnie-and-clyde-of-advanced-threats/>  
-A lot of folks in the business (and consumer) world are shaking in their boots about ransomware. It’s understandable. Ransomware is a dangerous threat and, if not protected against, can do serious damage to a company’s data, reputation, and bottom line.
+> A lot of folks in the business (and consumer) world are shaking in their boots about ransomware. It’s understandable. Ransomware is a dangerous threat and, if not protected against, can do serious damage to a company’s data, reputation, and bottom line.
 
-But the truly alarming part is that ransomware is being delivered by malvertising. Malvertising can do this without you knowing (until it’s too late) and without your users taking a single “unsafe” action online.
+> But the truly alarming part is that ransomware is being delivered by malvertising. Malvertising can do this without you knowing (until it’s too late) and without your users taking a single “unsafe” action online.
 
 <https://blog.malwarebytes.com/cybercrime/2015/04/real-time-bidding-and-malvertising-a-case-study/>  
-Malvertising continues to be one of the biggest and most effective infection mechanism which, for the most part, is based on rogue advertisers inserting malicious ads in the machine.
+> Malvertising continues to be one of the biggest and most effective infection mechanism which, for the most part, is based on rogue advertisers inserting malicious ads in the machine.
 
 <https://www.hsgac.senate.gov/media/permanent-subcommittee-on-investigations-releases-report-online-advertising-and-hidden-hazards-to-consumer-security-and-data-privacy->  
-In 2013, the online advertising industry surpassed broadcast television as the largest advertising medium in the United States, with $42.8 billion spent last year alone. . Unfortunately, the industry contains significant vulnerabilities that cyber criminals have used to initiate malware attacks against consumers, often without the consumers even having clicked on an advertisement, according to the findings of a nearly year-long bipartisan investigation by the U.S. Senate Permanent Subcommittee on Investigations.
+> In 2013, the online advertising industry surpassed broadcast television as the largest advertising medium in the United States, with $42.8 billion spent last year alone. . Unfortunately, the industry contains significant vulnerabilities that cyber criminals have used to initiate malware attacks against consumers, often without the consumers even having clicked on an advertisement, according to the findings of a nearly year-long bipartisan investigation by the U.S. Senate Permanent Subcommittee on Investigations.
 
-For example, in February 2014, an engineer at a security firm discovered that advertisements on YouTube served by Google’s ad network delivered malware to visitors’ computers.  In that case, the user didn’t need to click on any ads; just going to YouTube and watching a video was enough to infect the user’s computer with a virus.
+> For example, in February 2014, an engineer at a security firm discovered that advertisements on YouTube served by Google’s ad network delivered malware to visitors’ computers.  In that case, the user didn’t need to click on any ads; just going to YouTube and watching a video was enough to infect the user’s computer with a virus.
 --Permanent Subcommittee on Investigations Releases Report: “Online Advertising and Hidden Hazards to Consumer Security and Data Privacy”
 The Committee on Homeland Security and Governmental Affairs is the chief oversight committee of the U.S. Senate.
 
@@ -326,167 +318,154 @@ The Committee on Homeland Security and Governmental Affairs is the chief oversig
 
 <https://www.bromium.com/resources/reports.html>  
 <https://www.bromium.com/sites/default/files/rpt-bromium-threat-report-1h2015-us-en.pdf>  
-• News media websites emerge as the #1 target by malvertisement attacks
+> News media websites emerge as the #1 target by malvertisement attacks
 
 <https://www.bromium.com/company/press-releases/bromium-2015-threat-report-highlights-vulnerabilities-and-exploits-popular.html>  
-at least 27 percent of the Alexa 1000 websites were delivering malware via malicious advertisements
+> At least 27 percent of the Alexa 1000 websites were delivering malware via malicious advertisements
 
 <https://www.bromium.com/company/press-releases/bromium-threat-report-identifies-security-risks-popular-websites-and-software.html>  
-More than 58 percent of malvertisements (online advertisements with hidden malware) were delivered through news websites (32 percent) and entertainment websites (26 percent); notable websites unknowingly hosting malvertising included cbsnews.com, nbcsports.com, weather.com, boston.com and viralnova.com
-
-
+> More than 58 percent of malvertisements (online advertisements with hidden malware) were delivered through news websites (32 percent) and entertainment websites (26 percent); notable websites unknowingly hosting malvertising included cbsnews.com, nbcsports.com, weather.com, boston.com and viralnova.com
 
 <https://www.engadget.com/2016/01/08/you-say-advertising-i-say-block-that-malware/>  
-Forbes asked readers to turn off ad blockers in order to view the article. After doing so, visitors were immediately served with pop-under malware, primed to infect their computers, and likely silently steal passwords, personal data and banking information.
+> Forbes asked readers to turn off ad blockers in order to view the article. After doing so, visitors were immediately served with pop-under malware, primed to infect their computers, and likely silently steal passwords, personal data and banking information.
 
 <https://www.riskiq.com/blog/business/post/bad-news-for-ads-forbes-malvertising-attack-bolsters-ad-blocking>  
 <https://www.riskiq.com/resources/press-releases/260-percent-spike-in-malicious-advertisements-2015>
 
 <http://www.cnbc.com/2015/12/01/this-costs-media-advertisers-82-billion-a-year.html>  
-malware and fake traffic is costing the U.S. advertising and media industry about $8.2 billion each year.
+> Malware and fake traffic is costing the U.S. advertising and media industry about $8.2 billion each year.
 
 <http://www.iab.com/news/digital-ad-industry-will-gain-8-2-billion-by-eliminating-fraud-and-flaws-in-internet-supply-chain-iab-ey-study-shows/>  
 <http://www.iab.com/insights/what-is-an-untrustworthy-supply-chain-costing-the-u-s-digital-advertising-industry/>
 
-___
 <http://www.applift.com/blog/mobile-fraud-programmatic>  
 <http://www.marketingdive.com/news/34-of-mobile-programmatic-traffic-is-at-risk-of-fraud-study/410585/>  
-Mobile 22% suspected fraud, 12% High risk of fraud
-34% of mobile programmatic traffic is at risk of fraud
+> Mobile 22% suspected fraud, 12% High risk of fraud. 34% of mobile programmatic traffic is at risk of fraud
 
-___
 <https://moz.com/blog/online-advertising-fraud>  
-In another words, an "impression" occurs whenever one machine (an ad network) answers a request from another machine (a browser). (For reference, you can see my definition and example of a "request" in a prior Moz essay on log analytics and technical SEO.) Just in case it's not obvious: Human beings and human eyeballs have nothing to do with it. If your advertising data states than a display ad campaign had 500,000 impressions, then that means that the ad network served a browser 500,000 times—and nothing more. Digital marketers may tell their bosses and clients that "impression" is jargon for one person seeing an advertisement one time, but that statement is not accurate…
+> In another words, an "impression" occurs whenever one machine (an ad network) answers a request from another machine (a browser). (For reference, you can see my definition and example of a "request" in a prior Moz essay on log analytics and technical SEO.) Just in case it's not obvious: Human beings and human eyeballs have nothing to do with it. If your advertising data states than a display ad campaign had 500,000 impressions, then that means that the ad network served a browser 500,000 times—and nothing more. Digital marketers may tell their bosses and clients that "impression" is jargon for one person seeing an advertisement one time, but that statement is not accurate…
 
-I think we can see who the loser is—everyone is making money except for the clients…
+> I think we can see who the loser is—everyone is making money except for the clients…
 
-I have yet to hear about this issue being addressed in any talk, panel, or session at a digital marketing, martech, or adtech conference. Prior to today, I have seen only one article each in two major publications in the online marketing industry.
+> I have yet to hear about this issue being addressed in any talk, panel, or session at a digital marketing, martech, or adtech conference. Prior to today, I have seen only one article each in two major publications in the online marketing industry.
 
-Why is no one talking about this?
+> Why is no one talking about this?
 
-No marketing agency wants clients to know that 92% of its display advertising spend is wasted. No advertising manager wants the CMO to know that only 8% of the company's ads are reaching people at 100% cost. No CMO wants the CEO to know that 92% of the entire ad budget is being flushed down the digital toilet.
+> No marketing agency wants clients to know that 92% of its display advertising spend is wasted. No advertising manager wants the CMO to know that only 8% of the company's ads are reaching people at 100% cost. No CMO wants the CEO to know that 92% of the entire ad budget is being flushed down the digital toilet.
 
 <http://adcontrarian.blogspot.co.il/2013/06/the-75-billion-ad-swindle.html>  
 The $7.5 Billion Ad Swindle
-The first scam is the unscrupulous selling of online display ads.
+> The first scam is the unscrupulous selling of online display ads.
 
-The second is the tacit cover-up of frauds perpetrated by online ad networks and ad exchanges…
+> The second is the tacit cover-up of frauds perpetrated by online ad networks and ad exchanges…
 
-Can you imagine the outcry if it was found that gas pumps were showing 20 gallons pumped when they were only pumping 10 gallons?
+> Can you imagine the outcry if it was found that gas pumps were showing 20 gallons pumped when they were only pumping 10 gallons?
 
-Can you imagine the riots that would occur if it was found that banks were embezzling half the money from their depositors?..
+> Can you imagine the riots that would occur if it was found that banks were embezzling half the money from their depositors?..
 
-This is the biggest advertising story of the decade, and it's being buried.
+> This is the biggest advertising story of the decade, and it's being buried.  
 --Bob Hoffman, The Ad Contrarian (retired CEO and chairman of Hoffman/Lewis Advertising)
 
 <http://www.wsj.com/articles/SB10001424127887324904004578537131312357490>  
 <https://www.engagingmeredith.com/pdf/suzanne-vranica.pdf>  
-The old adage in advertising—that half the money is wasted but no one knows which half—turns out to be as true for the digital world as it ever was for traditional media.
+> The old adage in advertising—that half the money is wasted but no one knows which half—turns out to be as true for the digital world as it ever was for traditional media.
 
 <http://digiday.com/publishers/confessions-bot-traffic-buyer/>  
 Confessions of a Fake Web Traffic Buyer
-Do you think publishers know when they’re buying fake traffic?
-Publishers know. They might say "we had no idea" and blame it on their traffic acquisition vendor, but that's bullshit, and they know it. If you're buying visits for less than a penny, there's no way you don't understand what's going on. Any publisher that's smart enough understand an arbitrage opportunity is smart enough to understand that if it was a legitimate strategy that the opportunity would eventually disappear as more buyers crowded in. What we were doing was 100 percent intentional. Some articles revolving around bot traffic paint publishers as rubes who were duped into buying bad traffic by shady bot owners. Rather, I believe publishers are willing to do anything to make their economics work.
+> *Do you think publishers know when they’re buying fake traffic?*
 
-Do networks, exchanges and other ad tech companies do anything to stop this from happening?
-We worked with a major supply-side platform partner that was just wink wink, nudge nudge about it. They asked us to explain why almost all of our traffic came from one operating system and the majority had all the same user-agent string. There was nothing I could really say to answer that question. It was their way of letting us know that they understood what was going on. It wasn’t just our account rep, either. It was people at the highest levels in the company. Part of me wished they’d said “You are in violation of our TOS and you have to stop running our tags.” I would have been happy with that. But they didn’t; they were willing to take the money.
+> Publishers know. They might say "we had no idea" and blame it on their traffic acquisition vendor, but that's bullshit, and they know it. If you're buying visits for less than a penny, there's no way you don't understand what's going on. Any publisher that's smart enough understand an arbitrage opportunity is smart enough to understand that if it was a legitimate strategy that the opportunity would eventually disappear as more buyers crowded in. What we were doing was 100 percent intentional. Some articles revolving around bot traffic paint publishers as rubes who were duped into buying bad traffic by shady bot owners. Rather, I believe publishers are willing to do anything to make their economics work.
+
+> *Do networks, exchanges and other ad tech companies do anything to stop this from happening?*
+
+> We worked with a major supply-side platform partner that was just wink wink, nudge nudge about it. They asked us to explain why almost all of our traffic came from one operating system and the majority had all the same user-agent string. There was nothing I could really say to answer that question. It was their way of letting us know that they understood what was going on. It wasn’t just our account rep, either. It was people at the highest levels in the company. Part of me wished they’d said “You are in violation of our TOS and you have to stop running our tags.” I would have been happy with that. But they didn’t; they were willing to take the money.
 
 <http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/>  
-Media-Agency Kickbacks. Yes, They're Real.
+Media-Agency Kickbacks. Yes, They're Real.  
 Secret Rebates, Sketchy Services and Offshore Deals. Inside the Murky New World of Ad Buying
-Kickback payments tied to U.S. media-agency deals are real and on the rise, according to Ad Age interviews with more than a dozen current and former media-agency executives, marketers' auditors, media sellers and ad-tech vendors who said they'd either participated in such arrangements or had seen evidence of them…
+>> Kickback payments tied to U.S. media-agency deals are real and on the rise, according to Ad Age interviews with more than a dozen current and former media-agency executives, marketers' auditors, media sellers and ad-tech vendors who said they'd either participated in such arrangements or had seen evidence of them…
 
-U.S.-based marketers are being kept out of the loop about billions of dollars that agencies make back from deals on clients' behalf, according to industry executives, whether in the form of opaque markups, kickbacks or undisclosed rebates.
+> U.S.-based marketers are being kept out of the loop about billions of dollars that agencies make back from deals on clients' behalf, according to industry executives, whether in the form of opaque markups, kickbacks or undisclosed rebates.
 
 
 <https://www.wired.com/2015/12/hacker-lexicon-malvertising-the-hack-that-infects-computers-without-a-click/>
 
 <https://www.theguardian.com/technology/2016/mar/16/major-sites-new-york-times-bbc-ransomware-malvertising>  
-The malware was delivered through multiple ad networks, and used a number of vulnerabilities…
+>The malware was delivered through multiple ad networks, and used a number of vulnerabilities…
 
-encrypts the user’s hard drive and demands payment in bitcoin for the keys to unlock it.
+> When the infected adverts hit users, they redirect the page to servers hosting the malware, which includes the widely-used (amongst cybercriminals) Angler exploit kit. That kit then attempts to find any back door it can into the target’s computer, where it will install cryptolocker-style software, which encrypts the user’s hard drive and demands payment in bitcoin for the keys to unlock it.
 
-2013:
-Clicking Online Ads More Likely To Deliver Malware Than Surfing Porn Sites, Report Finds
 <http://thinkprogress.org/security/2013/02/01/1529821/malware-online-ads-porn/>  
-<https://newsroom.cisco.com/press-release-content?type=webcontent&articleId=1133334>
-
-
-malicious advertisements from news media and
-entertainment websites make more than half of the attacks.
-Bromium-Malvertisement-attack-sources.png
-rpt-bromium-threat-report-1h2015-us-en.pdf
-
+<https://newsroom.cisco.com/press-release-content?type=webcontent&articleId=1133334>  
+(2013) Clicking Online Ads More Likely To Deliver Malware Than Surfing Porn Sites, Report Finds
 
 <https://blog.malwarebytes.com/101/2015/02/what-is-malvertising/>  
-<https://blog.malwarebytes.com/wp-content/uploads/2015/02/MalvertisingInfoDraft.png>
+<img src="https://blog.malwarebytes.com/wp-content/uploads/2015/02/MalvertisingInfoDraft.png">
 
-___
 ## Tracking
 <https://www.ted.com/talks/gary_kovacs_tracking_the_trackers?language=en>  
-I feel like I'm being stalked.
+> I feel like I'm being stalked.
 
 <http://measurementnow.net/press-release-media-rating-council-updates-viewable-ad-impression-measurement-guidelines/#.V3VRbZMrLOY>  
 Press Release: Media Rating Council Updates Viewable Ad Impression Measurement Guidelines
-A Viewable Impression can be counted as such if, and only if, at least 50 percent of the pixels are in view for a minimum of one continuous second for display and two continuous seconds for video advertisements.
+> A Viewable Impression can be counted as such if, and only if, at least 50 percent of the pixels are in view for a minimum of one continuous second for display and two continuous seconds for video advertisements.
 
-
-___
 ## Performance
 
 <http://hearingvoices.com/tools/slow-news/>
 
 <https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/>  
-Alice: How long is forever?
-White Rabbit: Sometimes, just one second.”
+> Alice: How long is forever?
+
+> White Rabbit: Sometimes, just one second.”  
 --Lewis Carroll. “Alice’s Adventures in Wonderland.”
 
 <http://engineroom.ft.com/2016/04/04/a-faster-ft-com/>
 
 <https://wpostats.com/>  
-The Trainline reduced latency by 0.3 seconds across their funnel and customers spent an extra £8 million (~$11.5 million) a year.
+> The Trainline reduced latency by 0.3 seconds across their funnel and customers spent an extra £8 million (~$11.5 million) a year.
+
 <https://github.com/tkadlec/WPOStats/blob/master/CONTRIBUTING.md>
 
-One ad generates 6K requests for 50MB in just a few minutes:
 <https://plus.google.com/+ArtemRussakovskii/posts/7jMWV7oCQpn>
+> One ad generates 6K requests for 50MB in just a few minutes.
 
-___
-and user trust:
+### and user trust
 
 <https://digitalcontentnext.org/blog/2015/09/22/building-consumer-trust-in-digital-brands/>  
-key factors connect user satisfaction and brand trust:
+> key factors connect user satisfaction and brand trust:  
 accuracy: 91% inaccurate content causes users to lose trust in a website… includes misspellings, broken links to content or outdated offerings. In addition, advertising that interferes with content (55%) and ads that redirects users to sites they don’t want to see (52%).. includes misspellings, broken links to content or outdated offerings. In addition, advertising that interferes with content (55%) and ads that redirects users to sites they don’t want to see (52%)
 
-stability: downtime… general usability.
+> stability: downtime… general usability.
 
 security: the speed of overall site performance and page downloads are related to security concerns. More than three-quarters of respondents (78%) reported that security concerns them when a site performs slowly. Further, 67% of users lose trust in a website when its pages take a long time to download. In addition, close to two-thirds of respondents (63%) report distrusting brands whose data was breached.
 
 <https://www.neustar.biz/resources/whitepapers/digital-brands-trust-report>  
-security and performance issues raise doubts about the brand
-slow websites not only annoy consumers but raise security concerns, too
+> security and performance issues raise doubts about the brand…
+
+> slow websites not only annoy consumers but raise security concerns, too
+
 <https://ns-cdn.neustar.biz/creative_services/biz/neustar/www/resources/whitepapers/it-security/ponemon-report-2015.pdf>  
+
 I do not trust websites that take too long to load: 67%
-PERCEPTIONS ABOUT TRUSTWORTHY WEBSITES:
+>PERCEPTIONS ABOUT TRUSTWORTHY WEBSITES:  
 * 52% OF CONSUMERS DISLIKE ADS THAT TAKE THEM TO OTHER SITES
-WHAT RESPONDENTS DISLIKE ABOUT WEBSITES:
+
+> WHAT RESPONDENTS DISLIKE ABOUT WEBSITES:  
 1. Ads that interfere with content: 55%
 2. Ads that redirect me to sites I don’t want to see: 52%
 3. Slow page loads (poor response time): 50%
 
-“A 1-second delay in page load time equals 11% fewer page views, a 16% decrease in customer satisfaction, and 7% loss in conversions.”
---Aberdeen Group
-
+> “A 1-second delay in page load time equals 11% fewer page views, a 16% decrease in customer satisfaction, and 7% loss in conversions.”
+--Aberdeen Group  
 <http://www.aberdeen.com/research/5136/ra-performance-web-application/content.aspx>  
 <http://v1.aberdeen.com/launch/report/research_report/5136-RR-performance-web-application.asp>
 
-
-
-___
 ## Ad/Edit ratio
 Advertorial to editorial
 
 <http://www.adweek.com/news/press/adedit-balancing-act-111116>  
-47-51% ads in mags
+> 47-51% ads in mags
 
 <http://www.editorandpublisher.com/news/higher-ad-to-edit-ratio-not-a-good-thing/>
 
@@ -509,31 +488,30 @@ ___
 
 <http://www.digitalnewsreport.org/survey/2016/foreword-2016/>  
 Reuters Institute Digital News Report 2016
-The vast majority of those who have ever downloaded a blocker are using them regularly, suggesting that once downloaded people rarely go back.
+> The vast majority of those who have ever downloaded a blocker are using them regularly, suggesting that once downloaded people rarely go back.
 
 <https://en.wikipedia.org/wiki/Safari_(web_browser)#Safari_5>  
 > Apple released Safari 5 on June 7, 2010, featuring the new Safari Reader,… which removes formatting and ads from webpages,… for reading articles on the web without distraction (based on Arc90's Readability tool).
 
-___
-"Your site may soon be collateral damage in a war between Silicon Valley superpowers."
-Jeffrey Zeldman, "Ad Blocking and the Future of the Web"
-"Figure out how to increase engagement while minimizing clutter. I even tried to sell my studio’s media clients on the notion of fewer, better priced, better targeted ads. But of course the ad networks have done the opposite — constantly interrupting content to force misleading, low-interest ads on you."
+<http://www.zeldman.com/2015/09/18/ad-blocking-and-the-future-of-the-web/>  
+<https://medium.com/@zeldman/ad-blocking-and-the-future-of-the-web-78e44e57edb9>  
+"Ad Blocking and the Future of the Web"
+> Your site may soon be collateral damage in a war between Silicon Valley superpowers.
 
-"We hate advertising so much, we’ve trained ourselves not to look at the top or right sidebar on most sites."
+> Figure out how to increase engagement while minimizing clutter. I even tried to sell my studio’s media clients on the notion of fewer, better priced, better targeted ads. But of course the ad networks have done the opposite — constantly interrupting content to force misleading, low-interest ads on you.
 
-"Hip web consumers have long used third-party ad blockers to unfug the web experience."
-iOS Safari Reader Mode 2010
-iOS 5 2011
+> We hate advertising so much, we’ve trained ourselves not to look at the top or right sidebar on most sites.
 
+> Hip web consumers have long used third-party ad blockers to unfug the web experience.
+
+> And in this environment of sites so cluttered with misleading ads they are almost unnavigable, Apple looks heroic, riding to the consumer’s rescue by providing all the content from newspapers without the ads, and by blocking ugly advertising on websites. But if they succeed, will media companies and independent sites survive?  
+__Jeffrey Zeldman
+
+iOS Safari Reader Mode 2010  
+iOS 5 2011  
 <https://www.readability.com/>  
 <https://www.instapaper.com/>
 
-"And in this environment of sites so cluttered with misleading ads they are almost unnavigable, Apple looks heroic, riding to the consumer’s rescue by providing all the content from newspapers without the ads, and by blocking ugly advertising on websites. But if they succeed, will media companies and independent sites survive?"
-<https://medium.com/@zeldman/ad-blocking-and-the-future-of-the-web-78e44e57edb9>
-
-<http://www.zeldman.com/2015/09/18/ad-blocking-and-the-future-of-the-web/>
-
----
 <http://adage.com/article/digitalnext/ad-blocking-a-problem-a-creative-solution/299686/>  
 "Instead of Blocking the Blockers, Let's Focus on Making Advertising Better"
 
@@ -542,7 +520,7 @@ iOS 5 2011
 <https://www.globalwebindex.net/blog/adblocking-is-more-common-than-you-think>
 
 <http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html>  
-We measured the mix of advertising and editorial on the mobile home pages of the top 50 news websites – including ours – and found that more than half of all data came from ads and other content filtered by ad blockers.
+> We measured the mix of advertising and editorial on the mobile home pages of the top 50 news websites – including ours – and found that more than half of all data came from ads and other content filtered by ad blockers.
 
 <http://www.nytimes.com/2015/10/01/technology/personaltech/ad-blockers-mobile-iphone-browsers.html>
 
@@ -551,105 +529,92 @@ We measured the mix of advertising and editorial on the mobile home pages of the
 <http://niemanreports.org/articles/to-fight-ad-blocking-build-better-ads/>
 
 <http://www.cjr.org/analysis/adblockers_load_time.php>  
-___
+
 ## Ogilvy
-“I do not regard advertising as entertainment or an art form, but as a medium of information. When I write an advertisement, I don’t want you to tell me that you find it ‘creative.’ I want you to find it so interesting that you buy the product.”
+> I do not regard advertising as entertainment or an art form, but as a medium of information. When I write an advertisement, I don’t want you to tell me that you find it ‘creative.’ I want you to find it so interesting that you buy the product.
 
 <https://books.google.com/books?id=hVFwAAAAQBAJ&pg=PT12&dq=%22The+wrong+advertising+can+actually+reduce+the+sales+of+a+product%22&hl=en&sa=X&ved=0ahUKEwjx3JL0l8vNAhUJ5IMKHbrWDwMQ6AEIJDAB#v=onepage&q=%22The%20wrong%20advertising%20can%20actually%20reduce%20the%20sales%20of%20a%20product%22&f=false>  
-The wrong advertising can actually reduce the sales of a product. I am told that George Hay Brown, at one time head of marketing research at Ford, inserted advertisements in every other copy of the Reader's Digest. At the end of the year, the people who had not been exposed to the advertising had bought more Fords than those who had.
+> The wrong advertising can actually reduce the sales of a product. I am told that George Hay Brown, at one time head of marketing research at Ford, inserted advertisements in every other copy of the Reader's Digest. At the end of the year, the people who had not been exposed to the advertising had bought more Fords than those who had.
 
-In another survey it was found that consumption of a certain brand of beer was lower among people who remembered its advertising than those who did not. The brewer had spent millions of dollars on advertising which un-sold his beer.
+> In another survey it was found that consumption of a certain brand of beer was lower among people who remembered its advertising than those who did not. The brewer had spent millions of dollars on advertising which un-sold his beer.
 
-I sometimes wonder if there is a tacit conspiracy among clients, media and agencies to avoid putting advertising to such acid tests. Everyone involved has a vested interest in prolonging the myth that all advertising increases sales to some degree. It doesn't.
+> I sometimes wonder if there is a tacit conspiracy among clients, media and agencies to avoid putting advertising to such acid tests. Everyone involved has a vested interest in prolonging the myth that all advertising increases sales to some degree. It doesn't.  
 --David Ogilvy, Ogilvy on Advertising
 
 
-___
 ## ## Idle Words, Maciej Cegłowski (MAH-tchay Cig-WOW-ski)
 <http://idlewords.com/about.htm>  
-Matthew 12:36 And I tell you this, you must give an account on judgment day for every idle word you speak.
+(Matthew 12:36: "And I tell you this, you must give an account on judgment day for every idle word you speak.")
 
-__
 The Website Obesity Crisis
 <https://vimeo.com/147806338>
 
 (start at X min and X sec: #t=1m5s)
 
 <http://idlewords.com/talks/website_obesity.htm>  
-"Here’s an article on GigaOm from 2012 titled "The Growing Epidemic of Page Bloat". It warns that the average web page is over a megabyte in size.
-
-The article itself is 1.8 megabytes long.
-
-Maciej Ceglowski - The Website Obesity Crisis
 <https://vimeo.com/147806338>  
-“ads have become the major vector for malware"
+The Website Obesity Crisis
+> Here’s an article on GigaOm from 2012 titled "The Growing Epidemic of Page Bloat". It warns that the average web page is over a megabyte in size. The article itself is 1.8 megabytes long.
 
-Here's an almost identical article from the same website two years later, called “The Overweight Web". This article warns that average page size is approaching 2 megabytes.
+Here's an almost identical article from the same website two years later, called “The Overweight Web". This article warns that average page size is approaching 2 megabytes. That article is 3 megabytes long."
 
-That article is 3 megabytes long."
+> Ads have become the major vector for malware.
 
-__
 <http://idlewords.com/2015/11/the_advertising_bubble.htm>  
-The ad technology sector is extremely complicated (I believe intentionally so).
+> The ad technology sector is extremely complicated (I believe intentionally so).
 
-A customer pays money for a good or service. Some portion of the purchase goes to pay for advertising… In essence, we pay a small consumption tax to fund advertising.
+> A customer pays money for a good or service. Some portion of the purchase goes to pay for advertising… In essence, we pay a small consumption tax to fund advertising.
 
-This diverted stream of money feeds a swamp of ad companies (several thousand at this point) with a complicated set of interlocking business relationships. These include companies producing desktop ads, mobile ads, ad brokers, marketplaces, platforms, the thriving consumer surveillance sector, and a new layer of startups specializing in defeating consumer countermeasures like ad blockers…
+> This diverted stream of money feeds a swamp of ad companies (several thousand at this point) with a complicated set of interlocking business relationships. These include companies producing desktop ads, mobile ads, ad brokers, marketplaces, platforms, the thriving consumer surveillance sector, and a new layer of startups specializing in defeating consumer countermeasures like ad blockers…
 
-Right now, all the ad profits flow into the pockets of a few companies like Facebook, Yahoo, and Google. Everybody else is fighting to join them….
+> Right now, all the ad profits flow into the pockets of a few companies like Facebook, Yahoo, and Google. Everybody else is fighting to join them….
 
-You'll notice that the incoming and outgoing arrows in this diagram aren't equal. There's more money being made from advertising than consumers are putting in.
+> You'll notice that the incoming and outgoing arrows in this diagram aren't equal. There's more money being made from advertising than consumers are putting in.
 
-The balance comes out of the pockets of investors, who are all gambling that their pet company or technology will come out a winner. They provide a massive subsidy to the adtech sector…
+> The balance comes out of the pockets of investors, who are all gambling that their pet company or technology will come out a winner. They provide a massive subsidy to the adtech sector…
 
-(Not pictured in these diagrams is the massive arrow that is going to ad fraud).
+> (Not pictured in these diagrams is the massive arrow that is going to ad fraud).
 
-The only way to make the arrows balance at this point will be to divert more of each consumer dollar into advertising (raise the ad tax), or persuade people to buy more stuff.
+> The only way to make the arrows balance at this point will be to divert more of each consumer dollar into advertising (raise the ad tax), or persuade people to buy more stuff.
 
-I doubt whether either option is viable. Compare the number of ads you see in a given day to the number of purchases you make. And consider the indirect maziness of modern advertising, with its brand awareness campaigns and social media influencers…
+> I doubt whether either option is viable. Compare the number of ads you see in a given day to the number of purchases you make. And consider the indirect maziness of modern advertising, with its brand awareness campaigns and social media influencers…
 
-The problem is not that these companies will fail (may they all die in agony), but that the survivors will take desperate measures to stay alive as the failure spiral tightens.
+> The problem is not that these companies will fail (may they all die in agony), but that the survivors will take desperate measures to stay alive as the failure spiral tightens.
 
-These companies have been collecting and trafficking in our most personal data for many years. It's going to get ugly.
+T> hese companies have been collecting and trafficking in our most personal data for many years. It's going to get ugly.
 
-__
 <http://idlewords.com/talks/web_design_first_100_years.htm>
 
-__
 The Internet With A Human Face - Beyond Tellerrand 2014 Conference Talk
 <http://idlewords.com/talks/internet_with_a_human_face.htm>>  
 <https://vimeo.com/102717446>  
-___
-
-<http://idlewords.com/talks/internet_with_a_human_face.htm>>  
-"Investor Storytime"
-Advertising we all know. Someone pays you to convince your users that they'll be happy if they buy a product or service.
+("Investor Storytime")  
+> Advertising we all know. Someone pays you to convince your users that they'll be happy if they buy a product or service.
 Advertising is really lucrative if you run your own ad network. That's like running a casino. You can't help but make money.
 
-If you don't run your own ad network, advertising is a scary business. You bring your user data to the altar and sacrifice it to AdSense. If the AdSense gods are pleased, they rain earnings down upon you.
+> If you don't run your own ad network, advertising is a scary business. You bring your user data to the altar and sacrifice it to AdSense. If the AdSense gods are pleased, they rain earnings down upon you.
 
-But if the AdSense gods are angry, there is wailing, and gnashing of teeth. You rend your garments and ask forgiveness, but you can never be sure what you did wrong. Maybe you pray to Matt Cutts, the intercessionary saint at Google, who has been known to descend from the clouds and speak with a human voice…
+> But if the AdSense gods are angry, there is wailing, and gnashing of teeth. You rend your garments and ask forgiveness, but you can never be sure what you did wrong. Maybe you pray to Matt Cutts, the intercessionary saint at Google, who has been known to descend from the clouds and speak with a human voice…
 
-Investor storytime is not exactly advertising, but it is related to advertising. Think of it as an advertising future, or perhaps the world's most targeted ad.
+> Investor storytime is not exactly advertising, but it is related to advertising. Think of it as an advertising future, or perhaps the world's most targeted ad.
 
-Both business models involve persuasion. In one of them, you're asking millions of listeners to hand over a little bit of money. In the other, you're persuading one or two listeners to hand over millions of money.
+> Both business models involve persuasion. In one of them, you're asking millions of listeners to hand over a little bit of money. In the other, you're persuading one or two listeners to hand over millions of money.
 
-I like to think of the quote from King Lear:
-	I will do such things,—
-	What they are, yet I know not: but they shall be
-	The terrors of the earth
+> I like to think of the quote from King Lear:  
+>> I will do such things,__  
+>> What they are, yet I know not: but they shall be  
+>> The terrors of the earth
 
-That's the essence of investor storytime. Give us money now, and you won't believe how awesome our ads will be when we finally put them on the site.
+> That's the essence of investor storytime. Give us money now, and you won't believe how awesome our ads will be when we finally put them on the site.
 
-King Lear would have killed it in Silicon Valley…
+> King Lear would have killed it in Silicon Valley…
 
-We're addicted to 'big data' not because it's effective now, but because we need it to tell better stories…
+> We're addicted to 'big data' not because it's effective now, but because we need it to tell better stories…
 
 <https://www.google.com/settings/ads>
+> Of course, for ad sellers, the crappiness of targeted ads is a feature! It means there's vast room for improvement. So many stories to tell the investors.
 
-Of course, for ad sellers, the crappiness of targeted ads is a feature! It means there's vast room for improvement. So many stories to tell the investors.
-___
-## ## AMP
+## AMP
 
 <http://observer.com/2016/03/google-accelerated-mobile-pages-facebook-w3c/>
 
@@ -658,111 +623,51 @@ ___
 <https://www.scalewp.io/>
 
 <http://www.forbes.com/sites/kalevleetaru/2016/02/06/why-the-web-is-so-slow-and-what-it-tells-us-about-the-future-of-online-journalism/#5e6e1b42bf60>  
-Great article/resource. Your estimate: "a typical news article on a major American news website required on average almost 500 requests totaling 3-4MB total and finishing in around 17 seconds" corresponds closely to my WebPageTest.org results:
+> Great article/resource. Your estimate: "a typical news article on a major American news website required on average almost 500 requests totaling 3-4MB total and finishing in around 17 seconds" corresponds closely to my WebPageTest.org results:
 U.S. daily and alt-weekly newspapers (1400+) averages: 17 seconds load time, 292 requests, 4.7 MB page weight.
-<https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning>
-
 
 <https://yoast.com/weekly-seo-recap-41/>  
-only 5 ad platforms are supported, 2 of which are owned by Google…. Right now, AMP seems to be far from an open standard. It’s a standard devised by Google, which was smart enough to allow a few competitors access to not be hit by court cases immediately.
+> Only 5 ad platforms are supported, 2 of which are owned by Google….
 
+> Right now, AMP seems to be far from an open standard. It’s a standard devised by Google, which was smart enough to allow a few competitors access to not be hit by court cases immediately.
 
-search carousel:
 <http://searchengineland.com/live-google-launches-amp-results-in-mobile-search-results-243147>  
-___
-## https://www.youtube.com/watch?v=Z8u3ItdmMME
-File: DevTools-waterfall.mp4
+(search carousel)
+
+<https://www.youtube.com/watch?v=Z8u3ItdmMME>  
+<https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning>  
 Title: Chrome DevTools: Network panel: Waterfall view
+> A screen capture of the Waterfall view in the Network panel in Chrome DevTools. This movie shows of the Las Vegas Sun fly in in four seconds -- a class-five rapids waterfall compared to the newspaper industry average of 17 excruciatingly slow seconds.
 
-Description:
-A screen capture of the Waterfall view in the Network panel in Chrome DevTools. Shows all page requests as they load.
-
-To watch the waterfall flow, first navigate to the page you want to chart. Then, in the Chrome menu:
-* Select Chrome menu option View: Developer: Developer Tools.
-* Select the Network tab at the top of the Developer Tools.
-* Check the "Disable Cache" box (below the tabs).
-* Then reload with command-r (Mac)/control-r (Win).
-
-This movie shows of the Las Vegas Sun fly in in four seconds -- a class-five rapids waterfall compared to the newspaper industry average of 17 excruciatingly slow seconds:
-<https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning>
-
-Here's the same site's waterfall using the WepPagetest.org tool: 
-<http://tools.pingdom.com/fpt/#!/3IAMR/http://lasvegassun.com/>
-
-And using the Pingdom Website Speed Test:
+> Here's the same site's waterfall using the WepPagetest.org tool: 
 <http://www.webpagetest.org/result/151119_5W_17AE/>
 
-See:
-<https://www.rjionline.org/stories/need-for-speed-3-a-news-diet-for-overweight-newspaper-sites>
+> And using the Pingdom Website Speed Test:  
+<http://tools.pingdom.com/fpt/#!/3IAMR/http://lasvegassun.com/>
 
-Tags: Newspaper, Website, Google Chrome
+> See: <https://www.rjionline.org/stories/need-for-speed-3-a-news-diet-for-overweight-newspaper-sites>
 
-___
-## https://www.youtube.com/watch?v=k_bFffp-peI
-File: video-speed-index-14-sec.mp4
-Title: Speed index: 14 sec; load time: 19 sec 
+<https://www.youtube.com/watch?v=k_bFffp-peI>
+Title: Speed index: 14 sec; load time: 19 sec  
+> WebPagetest results for newspaper homepage, slow speed- index compared to:
 
-Description:
-WebPagetest results for newspaper homepage, slow speed- index compared to: https://www.youtube.com/edit?video_id=iZFYFLvgLow
+<https://www.youtube.com/watch?v=iZFYFLvgLow>
+Title: Speed index: 4 sec; load time: 19 sec  
+> WebPagetest results for newspaper homepage, better speed index
 
-See: https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning
-
-___
-## https://www.youtube.com/watch?v=iZFYFLvgLow
-File: video-speed-index-4-sec.mp4
-
-Title: Speed index: 4 sec; load time: 19 sec
-
-Description:
-WebPagetest results for newspaper homepage, better speed index compared to: https://www.youtube.com/edit?video_id=k_bFffp-peI
-
-See: https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning
-
-___
-## Jobs
-
-<http://www.niemanlab.org/2016/06/there-are-now-more-americans-working-for-online-only-outlets-than-newspapers/>  
-<http://www.bls.gov/opub/ted/2016/employment-trends-in-newspaper-publishing-and-other-media-1990-2016.htm>  
-<https://www.ic.gc.ca/app/scr/sbms/sbb/cis/definition.html?code=5161&lang=eng>  
-Internet Publishing and Broadcasting
-This industry comprises establishments exclusively engaged in publishing and/or broadcasting content on the Internet.
-
-___
-## ## FB Instant Articles
+## FB Instant Articles
 <https://github.com/whyisjake/Simple-Instant-Articles-for-Facebook>
 
 <http://digiday.com/publishers/car-throttles-pageviews-fell-16-percent-facebook-instant-articles-test/>
 
-___
-## var:
+## Var:
 <http://www.mediapost.com/publications/article/265789/consumers-cant-tell-native-ads-from-editorial-con.html>
 
 <http://www.ft.com/intl/cms/s/0/e0c356f4-2cec-11e6-a18d-a96ab29e3c95.html#axzz4B67CFETX>
 
-
 <http://www.poynter.org/2016/when-newsrooms-dont-own-their-data-other-companies-profit/409620/>
 
-___
-## The Great Ad Wars began in early 2016. Barbarian hordes of Blockers began knocking down the ad-supports which propped up the Fourth Estate. 
 
-The Media Giants fought back, banishing the Blockers and erecting huge Walls of Pay, reaching even to the Cloud. Whereupon, Alphabet, the High Priestess of Search, proclaimed her engines recognize no walls -- except, of course, her own: a walled garden for those obedient to her Code of AMP.
-
-So it was chronicled in the Book of Face, whose own Instant Articles soon became Articles of War on the battle sites in the Valley of Silicon…
-
-___
-The Great Ad Wars started in early 2016. Barbarian hordes of Blockers began knocking down the ad-supports upon which the Fourth Estate was built. The Media Giants fought back, banishing the Blockers, but the attackers kept finding new holes in their defenses. The Gray Lady and the newly rechristened Amazon Prime Post erected ever higher Walls of Pay, reaching even to the Cloud. Whereupon, Alphabet, the High Priestess of Search, proclaimed her engines recognize no walls -- except, of course, her own walled garden for those who pledge obedience to the Code of AMP, and said to enclose many splendors: a grand Search Carousel, and feather-weight Pages with breathtaking speed. So it is chronicled in the mighty Book of Faces, whose authors themselves coveted these magical Instantly-appearing Pages, hoping to fill them with Ads, both the Banners and the Natives.
-
-ThroughTheCracks.com
-
-Ad-Blocked, AMP-ed, Instant and Apple News
-
-___
-## retargeting + prospecting platform
-powerful algorithms and revolutionary technology deliver the highest possible probability that devices are related
-social data platform that allows you to share and receive exclusive user data sets from across mobile social apps
-dynamically convert assets into exceptional digital experiences across all channels
-
-___
 ## Profit/Loss
 
 Gannett, Advance Publications, Hearst Corp., McClatchy Newspapers and Tribune Co. 
@@ -835,17 +740,23 @@ ___
 <http://newspaperdeathwatch.com/>  
 <https://en.wikipedia.org/wiki/List_of_defunct_newspapers_of_the_United_States>
 
-___
+## Jobs
+
+<http://www.niemanlab.org/2016/06/there-are-now-more-americans-working-for-online-only-outlets-than-newspapers/>  
+<http://www.bls.gov/opub/ted/2016/employment-trends-in-newspaper-publishing-and-other-media-1990-2016.htm>  
+<https://www.ic.gc.ca/app/scr/sbms/sbb/cis/definition.html?code=5161&lang=eng>  
+Internet Publishing and Broadcasting
+> This industry comprises establishments exclusively engaged in publishing and/or broadcasting content on the Internet.
+
 ## Revenue
 
 <http://www.journalism.org/2016/06/15/state-of-the-news-media-2016/>  
-since we do not have industry-wide figures, we need to rely on data from the five publicly traded companies that broke out digital vs. non-digital ad revenue in their SEC filings. Among those companies, one in every four dollars of ad revenue in 2015 came in the form of digital, a small bump up from 2014 and a sizable rise from the 5% of ad revenue digital sources made up in 2006.
+> Since we do not have industry-wide figures, we need to rely on data from the five publicly traded companies that broke out digital vs. non-digital ad revenue in their SEC filings. Among those companies, one in every four dollars of ad revenue in 2015 came in the form of digital, a small bump up from 2014 and a sizable rise from the 5% of ad revenue digital sources made up in 2006.
 
 
 <https://www.youtube.com/watch?v=334Gfug5OL0>  
 Internet trends report | Mary Meeker, KPCB | Code Conference 2016
 <http://www.kpcb.com/blog/2016-internet-trends-report>
-
 
 <https://unruly.co/news/article/2015/09/24/unruly-launches-new-video-lab-to-help-advertisers-survive-ad-blocking-phenomenon/>
 
