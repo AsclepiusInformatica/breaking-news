@@ -63,9 +63,9 @@ Malwarebytes' Wendy Zamora wrote:
 <cite>&mdash;<em>Malwarebytes</em> <a href="https://blog.malwarebytes.com/101/2016/06/malvertising-and-ransomware-the-bonnie-and-clyde-of-advanced-threats/">"Malvertising and ransomware: the Bonnie and Clyde of advanced threats"</a></cite>
 </blockquote>
 
-<div>
+<p>
 <img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/Malwarebytes-What-is-Malvertising.png" width="990" alt="Malwarebytes infographic: What is Malvertising?">
-</div>
+</p>
 
 Malwarebytes estimated <a href="https://blog.malwarebytes.com/101/2016/06/truth-in-malvertising-how-to-beat-bad-ads/">70% of malvertising now delivers ransomware payloads</a>. Bromium Labs researchers detected "<a href="https://www.bromium.com/sites/default/files/rpt-bromium-threat-report-1h2015-us-en.pdf">at least 27% of the Alexa 1000 websites were delivering malware via malicious advertisements</a>."  
 
@@ -79,9 +79,8 @@ In March 2016 the websites of The New York Times, BBC, Weather Network, The Hill
 This even juicier website-breaking news is <a href="https://www.engadget.com/2016/01/08/you-say-advertising-i-say-block-that-malware/">from Engadget</a>: "Forbes asked readers to turn off ad blockers in order to view the article. After doing so, visitors were immediately served with pop-under malware, primed to infect their computers, and likely silently steal passwords, personal data and banking information."
 
 <p>
-<img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/Bromium-Malvertisement-attack-sources.png" width="700" alt="Chat: malicious advertisements from news media and entertainment websites make more than half of the attacks.">
-
-<em><small>Malicious advertisements sources, <a href="https://www.bromium.com/sites/default/files/rpt-bromium-threat-report-1h2015-us-en.pdf">Bromium Labs</a></small></em>
+<div><img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/Bromium-Malvertisement-attack-sources.png" width="700" alt="Chat: malicious advertisements from news media and entertainment websites make more than half of the attacks."></div>
+<div><em>Malicious advertisements sources, <a href="https://www.bromium.com/sites/default/files/rpt-bromium-threat-report-1h2015-us-en.pdf">Bromium Labs</a></small></em></div>
 </p>
 
 <blockquote>
