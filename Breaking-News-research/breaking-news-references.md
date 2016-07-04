@@ -730,9 +730,7 @@ Perhaps the most revealing figures this quarter are the various line items Faceb
 
 Monetization Potential
 
-
-___
-## Newspapers
+Newspapers
 
 <http://www.digitalnewsreport.org/survey/2016/overview-key-findings-2016/>  
 <http://www.naa.org/Trends-and-Numbers.aspx>
