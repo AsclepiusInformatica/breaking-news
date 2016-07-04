@@ -4,13 +4,13 @@ _______________
 Ad tech (tax)
 
 http://digiday.com/publishers/inside-guardians-plans-improve-mobile-advertising/  
-Mostly, we’re just slamming people with mobile banner ads which is annoying and frustrating for consumers.  
+> Mostly, we’re just slamming people with mobile banner ads which is annoying and frustrating for consumers.  
 --Guardian News and Media’s commercial director Nick Hewat  
 
 
 http://www.iab.com/guidelines/iab-programmatic-fee-transparency-calculator/  
 Interactive Advertising Bureau “ad tech tax”  
-The IAB estimates that, in 2014, ad technology services cumulatively captured 55% of programmatic revenue
+> The IAB estimates that, in 2014, ad technology services cumulatively captured 55% of programmatic revenue
 while publishers captured the remaining 45%.  
 http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf
 
@@ -20,121 +20,110 @@ Study Finds Only 40% Of Digital Buys Going To Working Media
 https://www.youtube.com/watch?v=fkn5LlwmHI0
 Ad Tech Tides Are Changing: Market Shift Insights from TBR’s Digital Advertising Technology Research
 
-http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/
+http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/  
 Ad Tech Is the Worst Thing That Ever Happened to Advertising
 Ad Blocking Is Not a Threat -- It Is a Beacon for the Industry
-Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid
+> Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid
 In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.
 
-The other day I mindlessly clicked on some link-bait on my mobile phone. It was an article about "22 Photos that Prove Shaq is a Giant." Yes, I'm embarrassed, but that's not the point. Within that one listicle there were no less than 30 "impressions" of the same Best Foods Mayonnaise banner ad. How embarrassed do you think the brand manager at Best Foods will be when his CMO reads this?
-___
-http://www.bloomberg.com/news/articles/2016-04-22/google-and-facebook-lead-digital-ad-industry-to-revenue-record
-Online advertising revenue in the U.S. reached a record of $59.6 billion last year, up 20 percent from 2014, the Interactive Advertising Bureau said in its annual report on the business.
+> The other day I mindlessly clicked on some link-bait on my mobile phone. It was an article about "22 Photos that Prove Shaq is a Giant." Yes, I'm embarrassed, but that's not the point. Within that one listicle there were no less than 30 "impressions" of the same Best Foods Mayonnaise banner ad. How embarrassed do you think the brand manager at Best Foods will be when his CMO reads this?
 
-Google, the leading Internet search provider, and Facebook, the biggest social network operator, claimed 64 percent of that revenue, according to Pivotal Research analyst Brian Wieser. Google scooped up $30 billion and Facebook gathered $8 billion, while other smaller companies lost market share, the analyst noted.
+http://www.bloomberg.com/news/articles/2016-04-22/google-and-facebook-lead-digital-ad-industry-to-revenue-record  
+>Online advertising revenue in the U.S. reached a record of $59.6 billion last year, up 20 percent from 2014, the Interactive Advertising Bureau said in its annual report on the business.
 
-"Smaller companies will continue to operate in the shadows of the industry’s two dominant players," Wieser wrote in a note to investors.
+>Google, the leading Internet search provider, and Facebook, the biggest social network operator, claimed 64 percent of that revenue, according to Pivotal Research analyst Brian Wieser. Google scooped up $30 billion and Facebook gathered $8 billion, while other smaller companies lost market share, the analyst noted.
+
+>"Smaller companies will continue to operate in the shadows of the industry’s two dominant players," Wieser wrote in a note to investors.  
 http://www.iab.com/wp-content/uploads/2016/04/IAB-Internet-Advertising-Revenue-Report-FY-2015.pdf
 
-http://www.poynter.org/2016/ad-tech-is-broken-heres-how-newsrooms-can-fix-it/407800/
+http://www.poynter.org/2016/ad-tech-is-broken-heres-how-newsrooms-can-fix-it/407800/  
+>Usually ad servers claim they run some sort of checks, but considering just how many malicious or badly formed ads get through, it is pretty apparent they don't do much. The things that kill performance on a site aren't even the malicious ads. They are the broken ones."
+
+> We gave away our control in exchange for the promise of not just profit but also that places like Google's DFP would be our partners! That they'd work with us for mutual benefit. That hasn't turned out to be the case...
+
+> Devs hate dealing with it because all the code is awful and you aren't allowed to change it anyway...
+
+> If everything wasn't a mystery, advertisers wouldn't feel the need to load 20 scripts onto an ad to assure themselves it was being seen.  
 --Aram Zucker-Scharff, a developer who works at Salon
-Usually ad servers claim they run some sort of checks, but considering just how many malicious or badly formed ads get through, it is pretty apparent they don't do much. The things that kill performance on a site aren't even the malicious ads. They are the broken ones."
 
-we gave away our control in exchange for the promise of not just profit but also that places like Google's DFP would be our partners! That they'd work with us for mutual benefit. That hasn't turned out to be the case...
-
-Devs hate dealing with it because all the code is awful and you aren't allowed to change it anyway...
-
-If everything wasn't a mystery, advertisers wouldn't feel the need to load 20 scripts onto an ad to assure themselves it was being seen.
-
-http://aramzs.github.io/ad-tech/2016/02/18/a-running-collection-of-shitty-ad-code.html
+http://aramzs.github.io/ad-tech/2016/02/18/a-running-collection-of-shitty-ad-code.html  
 A running collection of shitty ad code
 
-google should fix the ad server, not "encourage" pubs to run less ads & make less money
-https://twitter.com/Chronotope/status/722566817680605184
+https://twitter.com/Chronotope/status/722566817680605184  
+google should fix the ad server, not "encourage" pubs to run less ads & make less money  
 --Aram Zucker-Scharff
 
 http://chronoto.pe/tag/ad-tech/
 
-https://backchannel.com/the-perks-are-great-just-dont-ask-us-what-we-do-d5abc6867103#.rqgus81i2
-Download a free Flash player, for example, and it might come bundled with adware. Suddenly, you’d see ads on sites like Wikipedia or Target.com — ads those websites never agreed to display and weren’t making money from...
+https://backchannel.com/the-perks-are-great-just-dont-ask-us-what-we-do-d5abc6867103#.rqgus81i2  
+> Download a free Flash player, for example, and it might come bundled with adware. Suddenly, you’d see ads on sites like Wikipedia or Target.com — ads those websites never agreed to display and weren’t making money from...
 
-“We’re that skeezy toolbar company that your grandmother installs that she can’t get out and she’s got seven of ’em and her computer doesn’t work anymore?”
-Former 50onRed employee
-The Perks Are Great. Just Don’t Ask Us What We Do.
+> “We’re that skeezy toolbar company that your grandmother installs that she can’t get out and she’s got seven of ’em and her computer doesn’t work anymore?”  
+-- Former 50onRed employee, "The Perks Are Great. Just Don’t Ask Us What We Do"
 
-http://www.benedelman.org/injectors/
-Ad injectors insert ads into others' sites, without permission from those sites and without payment to those sites. See example screenshots at right showing injections into YouTube, Amazon, CNN, Dell, and eBay. In this article, we review the basic operation of ad injectors, then examine the ad networks, exchanges, and other intermediaries that broker the placement of advertising through injectors.
+http://www.benedelman.org/injectors/  
+> Ad injectors insert ads into others' sites, without permission from those sites and without payment to those sites. See example screenshots at right showing injections into YouTube, Amazon, CNN, Dell, and eBay. In this article, we review the basic operation of ad injectors, then examine the ad networks, exchanges, and other intermediaries that broker the placement of advertising through injectors.
 
-We focus on advertisers and ad networks because their payments are the sole funding of most ad injectors. If advertisers and ad brokers universally rejected injector traffic as improper and unwanted, then injectors would have no reason to exist, no means to pay to get installed on users' computers, and no reason to continue operation.
+> We focus on advertisers and ad networks because their payments are the sole funding of most ad injectors. If advertisers and ad brokers universally rejected injector traffic as improper and unwanted, then injectors would have no reason to exist, no means to pay to get installed on users' computers, and no reason to continue operation.
 
 http://www.poynter.org/2016/before-using-a-third-party-tool-publishers-should-ask-themselves-these-questions/406359/
 
-__
-https://www.linkedin.com/pulse/what-well-do-when-ad-tech-dies-shelly-palmer
-What We’ll Do When Ad Tech Dies
-http://www.shellypalmer.com/2016/06/well-ad-tech-dies/
-When you analyze the effects of fraud, viewability and ad blocking on the digital display advertising business, then add the ever-increasing abilities of the traffic launderers to game the system, you reach an inevitable conclusion: ad tech has evolved into a toxic ecosystem that is killing itself, and it is taking digital advertising with it...
+http://www.shellypalmer.com/2016/06/well-ad-tech-dies/  
+https://www.linkedin.com/pulse/what-well-do-when-ad-tech-dies-shelly-palmer  
+What We’ll Do When Ad Tech Dies  
+> When you analyze the effects of fraud, viewability and ad blocking on the digital display advertising business, then add the ever-increasing abilities of the traffic launderers to game the system, you reach an inevitable conclusion: ad tech has evolved into a toxic ecosystem that is killing itself, and it is taking digital advertising with it...
 
-Ad tech will be with us in its current form until someone goes to jail.
+> Ad tech will be with us in its current form until someone goes to jail.  
+Shelly Palmer, "What We’ll Do When Ad Tech Dies", CEO, Palmer Advanced Media, regular commentator on CNBC and CNN
 
-Shelly Palmer, "What We’ll Do When Ad Tech Dies", CEO, Palmer Advanced Media
-regular commentator on CNBC and CNN
+http://www.shellypalmer.com/2015/10/non-human-traffic-ad-fraud-and-viewability/  
+> Google virtually guarantees 56 percent of the digital ad impressions you pay for are never seen.
 
-http://www.shellypalmer.com/2015/10/non-human-traffic-ad-fraud-and-viewability/
-Google virtually guarantees 56 percent of the digital ad impressions you pay for are never seen.
+> When you analyze the effects of fraud, viewability and ad blocking on the digital display advertising business, then add the ever-increasing abilities of the traffic launderers to game the system, you reach an inevitable conclusion: ad tech has evolved into a toxic ecosystem that is killing itself, and it is taking digital advertising with it.
 
+http://www.shellypalmer.com/2015/10/the-root-of-ad-evil/  
+The Root of Ad Evil  
+> Viewability and fraud are the buzzwords of the current ad crisis. No one wants to pay for an ad that cannot be seen. And absolutely nobody wants to pay for an ad that is only displayed to NHT (Non-Human Traffic). The industry is doing everything it can to increase viewability and to decrease fraud – laudable efforts to be sure, but in the meantime, nothing good is happening...
 
-When you analyze the effects of fraud, viewability and ad blocking on the digital display advertising business, then add the ever-increasing abilities of the traffic launderers to game the system, you reach an inevitable conclusion: ad tech has evolved into a toxic ecosystem that is killing itself, and it is taking digital advertising with it.
+> High-quality purchased traffic is so expensive that it may not make financial sense to purchase it, so the alternative is cheap purchased traffic – and cheap purchased traffic is not worth what you pay for it. NHT is pure fraud, but some of it is necessary to dollar cost average the remainder of the order. This problem is epidemic.
 
-https://think.storage.googleapis.com/docs/5-factors-of-viewability_infographics.pdf
+http://www.shellypalmer.com/2015/09/ad-blocking-this-time-its-serious/  
+> If you really want to be annoyed, try to read an article associated with the clickbait headline you just tapped on your phone. It will be so laden with irrelevant “content” you will not actually know where to click to get to the next few sentences. The experience (even on the best mobile optimized sites) is painful in the extreme. This is really bad for advertisers – they are not getting any value at all. It’s bad for consumers – the experience sucks! There is too much friction between the consumer and the “real” content. So the industry is about to get what it deserves – a serious spanking from a company that puts consumer experience first.
+
+> https://think.storage.googleapis.com/docs/5-factors-of-viewability_infographics.pdf  
 56.1% of all impressions are not seen
 
-http://www.shellypalmer.com/2015/10/the-root-of-ad-evil/
-The Root of Ad Evil
-Viewability and fraud are the buzzwords of the current ad crisis. No one wants to pay for an ad that cannot be seen. And absolutely nobody wants to pay for an ad that is only displayed to NHT (Non-Human Traffic). The industry is doing everything it can to increase viewability and to decrease fraud – laudable efforts to be sure, but in the meantime, nothing good is happening...
+http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html  
+The Definition Of An Ad Impression  
+Reid Tatoris, Co-Founder and Chief Product Officer at Are You a Human  
+broken ads, bot traffic, and straight-up fraud.  
+> We start with the notion that only 15% of impressions ever have the possibility to be seen by a real person. Then, factor in that 54% of ads are not viewable (and we already discussed how flawed that metric is), and you’re left with only 8% of impressions that have the opportunity to be seen by a real person. Let me clarify: that does not mean that 8% of impressions are seen. That means only 8% have the chance to be seen. That’s an unbelievable amount of waste in an industry where metrics are a major selling point.
 
-High-quality purchased traffic is so expensive that it may not make financial sense to purchase it, so the alternative is cheap purchased traffic – and cheap purchased traffic is not worth what you pay for it. NHT is pure fraud, but some of it is necessary to dollar cost average the remainder of the order. This problem is epidemic.
+> People will hide ads behind other ads, spoof their domain to trick ad networks into serving higher-paying ads on their site, and purposefully send bots to a site to drive up impressions.
 
-http://www.shellypalmer.com/2015/09/ad-blocking-this-time-its-serious/
-If you really want to be annoyed, try to read an article associated with the clickbait headline you just tapped on your phone. It will be so laden with irrelevant “content” you will not actually know where to click to get to the next few sentences. The experience (even on the best mobile optimized sites) is painful in the extreme. This is really bad for advertisers – they are not getting any value at all. It’s bad for consumers – the experience sucks! There is too much friction between the consumer and the “real” content. So the industry is about to get what it deserves – a serious spanking from a company that puts consumer experience first.
+http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083  
+The Amount of Questionable Online Traffic Will Blow Your Mind The World Wide rip-off  
+> Wenda Millard, president of Medialink, made the bold claim that a quarter of the online ad market is fraudulent. “What we have found is the devaluation of digital media is causing us to lose about 25 percent of the roughly $30 billion that is being spent,” she reported. “It’s stolen [ad revenue].” In defining fraud, Millard lumped together piracy, nonviewable ads, ads stacked on top of one another, inappropriate content and, of course, deliberate malicious behavior, in her analysis. “In most people’s wildest dreams, they wouldn’t imagine how much [questionable traffic] there is,” she says. “People should be very, very worried.”
+
+http://www.theatlantic.com/technology/archive/2013/12/welcome-to-the-internet-of-thingies-615-of-web-traffic-is-not-human/282309/  
+Welcome to the Internet of Thingies: 61.5% of Web Traffic Is Not Human  
+> This non-human traffic is search bots, scrapers, hacking tools, and other human impersonators, little pieces of code skittering across the web.
+
+https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/  
+> There are a lot of ways to perpetrate traffic fraud, including the following:
+
+> * Clickjacking malware. This kind of malware sends real users to websites they never planned to visit in the first place. Another method is to have bots imitate real users by “clicking” on ads or repeatedly loading a page.
+
+> * iFrame stuffing. iFrame stuffing compresses an ad into a tiny one-by-one pixel size. The ad is served up on a site as a real ad and reported as a view, even though a real user would never be able to view such a tiny ad.
+
+> * Ad stacking. In this type of scam, multiple ads are placed on top of each other in a single ad placement. Only the top ad is in view, but all of the ads are reported as viewed.
+
+> These kinds of traffic fraud manipulate metrics like page views and click-through rate, making cost-per-impression a dangerous pricing model for advertisers...
+
+> Online advertising is a fraudster’s heaven, and even the savviest advertisers lose millions of dollars each month.
 
 
-http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
-The Definition Of An Ad Impression
-Reid Tatoris, Co-Founder and Chief Product Officer at Are You a Human
-broken ads, bot traffic, and straight-up fraud.
-We start with the notion that only 15% of impressions ever have the possibility to be seen by a real person. Then, factor in that 54% of ads are not viewable (and we already discussed how flawed that metric is), and you’re left with only 8% of impressions that have the opportunity to be seen by a real person. Let me clarify: that does not mean that 8% of impressions are seen. That means only 8% have the chance to be seen. That’s an unbelievable amount of waste in an industry where metrics are a major selling point.
-
-People will hide ads behind other ads, spoof their domain to trick ad networks into serving higher-paying ads on their site, and purposefully send bots to a site to drive up impressions.
-
-
-
-
-
-http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083
-The Amount of Questionable Online Traffic Will Blow Your Mind The World Wide rip-off
-Wenda Millard, president of Medialink, made the bold claim that a quarter of the online ad market is fraudulent. “What we have found is the devaluation of digital media is causing us to lose about 25 percent of the roughly $30 billion that is being spent,” she reported. “It’s stolen [ad revenue].” In defining fraud, Millard lumped together piracy, nonviewable ads, ads stacked on top of one another, inappropriate content and, of course, deliberate malicious behavior, in her analysis. “In most people’s wildest dreams, they wouldn’t imagine how much [questionable traffic] there is,” she says. “People should be very, very worried.”
-
-
-
-http://www.theatlantic.com/technology/archive/2013/12/welcome-to-the-internet-of-thingies-615-of-web-traffic-is-not-human/282309/
-Welcome to the Internet of Thingies: 61.5% of Web Traffic Is Not Human
-This non-human traffic is search bots, scrapers, hacking tools, and other human impersonators, little pieces of code skittering across the web.
-
-https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/
-there are a lot of ways to perpetrate traffic fraud, including the following:
-
-* Clickjacking malware. This kind of malware sends real users to websites they never planned to visit in the first place. Another method is to have bots imitate real users by “clicking” on ads or repeatedly loading a page.
-
-* iFrame stuffing. iFrame stuffing compresses an ad into a tiny one-by-one pixel size. The ad is served up on a site as a real ad and reported as a view, even though a real user would never be able to view such a tiny ad.
-
-* Ad stacking. In this type of scam, multiple ads are placed on top of each other in a single ad placement. Only the top ad is in view, but all of the ads are reported as viewed.
-
-These kinds of traffic fraud manipulate metrics like page views and click-through rate, making cost-per-impression a dangerous pricing model for advertisers...
-
-Online advertising is a fraudster’s heaven, and even the savviest advertisers lose millions of dollars each month.
-___
-http://chiefmartec.com/2016/03/marketing-technology-landscape-supergraphic-2016/
+http://chiefmartec.com/2016/03/marketing-technology-landscape-supergraphic-2016/  
 3,874 marketing technology solutions
 
 ___
