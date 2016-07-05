@@ -1,4 +1,9 @@
 <em>Draft article for http://nieman.harvard.edu/</em>
+
+<div class="header">
+Breaking News is a series of investigations into factors affecting online news sites, from
+performance to profits. This is the first of two articles on advertising technologies (ad-tech).
+</div>
 _____________________
 
 <div>
@@ -7,8 +12,8 @@ _____________________
 <h1>Breaking News: How monetizing became malvertising</h2>
 
 ```
-Breaking News is a series of investigations into factors affecting online news sites,
-from performance to profits. This is the first of two articles on ad-tech fraud.
+Breaking News is a series of investigations into factors affecting online news sites, from
+performance to profits. This is the first of two articles on advertising technologies (ad-tech).
 ```
 
 Cyber criminals are embezzling billions annually from advertisers. They take over news sites, spread computer viruses, steal passwords, and hold people's hard drives hostage.
