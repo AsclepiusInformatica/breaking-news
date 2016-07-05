@@ -1,4 +1,4 @@
-<em>Draft article for http://nieman.harvard.edu/</em>
+<em>[Draft article for http://nieman.harvard.edu/]</em>
 
 <em><strong>Breaking News</strong> is a series of investigations into factors affecting online news sites, from performance to profits. This is the first of two articles on advertising technologies (ad-tech).</em>
 _____________________
