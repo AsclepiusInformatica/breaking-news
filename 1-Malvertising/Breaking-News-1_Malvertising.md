@@ -1,12 +1,12 @@
 <em>Draft article for http://nieman.harvard.edu/</em>
+
+<em><strong>Breaking News</strong> is a series of investigations into factors affecting online news sites, from performance to profits. This is the first of two articles on advertising technologies (ad-tech).</em>
 _____________________
 
 <div>
 <img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/ransomware-mischa-990.png" width="990" height="571" alt="Mischa Ransomware screenshot of a skull">
 </div>
 <h1>Breaking News: How monetizing became malvertising</h2>
-
-<em><strong>Breaking News</strong> is a series of investigations into factors affecting online news sites, from performance to profits. This is the first of two articles on advertising technologies (ad-tech).</em>
 
 Cyber criminals are embezzling billions annually from advertisers. They take over news sites, spread computer viruses, steal passwords, and hold people's hard drives hostage.
 
