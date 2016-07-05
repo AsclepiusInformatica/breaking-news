@@ -1,15 +1,12 @@
 <em>Draft article for http://nieman.harvard.edu/</em>
-
-<div class="header">
-Breaking News is a series of investigations into factors affecting online news sites, from
-performance to profits. This is the first of two articles on advertising technologies (ad-tech).
-</div>
 _____________________
 
 <div>
 <img src="https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/ransomware-mischa-990.png" width="990" height="571" alt="Mischa Ransomware screenshot of a skull">
 </div>
 <h1>Breaking News: How monetizing became malvertising</h2>
+
+<em>Breaking News is a series of investigations into factors affecting online news sites, from performance to profits. This is the first of two articles on advertising technologies (ad-tech).</em>
 
 ```
 Breaking News is a series of investigations into factors affecting online news sites, from
