@@ -132,9 +132,10 @@ Welcome to the Internet of Thingies: 61.5% of Web Traffic Is Not Human
 
 
 <http://www.niemanlab.org/2016/06/report-ad-tech-and-the-garbage-content-it-funds-is-killing-the-web/>  
-The key takeaway: News organizations need to think of the needs of their users and not just overload their pages with spammy ads.
+> The key takeaway: News organizations need to think of the needs of their users and not just overload their pages with spammy ads.
 
-<http://www.imore.com/content-blockers-bad-ads-aiMore,>the Apple news site, on "The Black Box">  
+<http://www.imore.com/content-blockers-bad-ads-aiMore>  
+the Apple news site, on "The Black Box"  
 > Each ad gets its own iframe, so load is asynchronous and, if one fails, it doesn't kill the entire site. Unfortunately, that also means each one fires its own trackers, even if those trackers are identical across ads. It's terribly inefficient…
 
 > It's so bad, our tech team has been exploring their own "bad ads" extension that would identify any resource-heavy ads that violate our policies, and provide us with better information so the ad network can more easily find and kill them. And yes, we're well aware of how insane that sounds…
