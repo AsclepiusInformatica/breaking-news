@@ -2,6 +2,83 @@
 
 https://pinboard.in/u:hearvox
 ___
+## New- to file:
+
+The Online Ad Scams Every Marketer Should Watch Out For  
+https://hbr.org/2015/10/the-online-ad-scams-every-marketer-should-watch-out-for  
+>In a remarkable experiment, economist Steve Tadelis and coauthors turned off eBay’s trademark-triggered advertising in about half the cities in the U.S. They found that sales in those regions stayed the same even as eBay’s advertising expenditure dropped. eBay’s measure of ad effectiveness was totally off-base and had led to millions of dollars of overspending.
+ad-tech  
+
+The Fake Traffic Schemes That Are Rotting the Internet - Bloomberg Business  
+http://www.bloomberg.com/features/2015-click-fraud/  
+> The ideal programmatic transaction works like this: A user clicks on a website and suddenly her Internet address and browsing history are packaged and whisked off to an auction site, where software, on behalf of advertisers, scrutinizes her profile (or an anonymized version of it) and determines whether to bid to place an ad next to that article. Ford Motor could pay to put its ads on websites for car buffs, or, with the help of cookies, track car buffs wherever they may be online. Ford might want to target males age 25-40 for pickup-truck ads, or, better yet, anybody in that age group who’s even read about pickups in the past six months.… 
+
+<iframe src="http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ" allowscriptaccess="always" frameborder="0"></iframe> 
+
+> Ron Amram is at Heineken USA now, where the annual ad budget is in the $150 million range. In 2013 the company replaced its old stubby bottles with a fashionably long-necked version that supposedly keeps the beer cold longer. “We had a healthy investment in TV, local media, and digital,” he says. “We thought digital would come close and compete with television in terms of effectiveness.” 
+
+> Late that year he and a half-dozen or so colleagues gathered in a New York conference room for a presentation on the performance of the online ads. They were stunned. Digital’s return on investment was around 2 to 1, a $2 increase in revenue for every $1 of ad spending, compared with at least 6 to 1 for TV. The most startling finding: Only 20 percent of the campaign’s “ad impressions”—ads that appear on a computer or smartphone screen—were even seen by actual people. 
+
+> “The room basically stopped,” Amram recalls. The team was concerned about their jobs; someone asked, “Can they do that? Is it legal?” But mostly it was disbelief and outrage. “It was like we’d been throwing our money to the mob,” Amram says. “As an advertiser we were paying for eyeballs and thought that we were buying views. But in the digital world, you’re just paying for the ad to be served, and there’s no guarantee who will see it, or whether a human will see it at all.”… 
+
+http://www.bloomberg.com/features/2015-click-fraud/img/pq3.jpg 
+
+> “I can think of nothing that has done more harm to the Internet than ad tech,” says Bob Hoffman, a veteran ad executive, industry critic, and author of the blog the Ad Contrarian. “It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires.”… 
+
+http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif 
+
+> The traffic market is unregulated, and sellers range from unimpeachable to adequate to downright sleazy; price is part of the market’s code. The cheap stuff is very easy to find. On LinkedIn there’s a forum called “Buying & Selling TRAFFIC,” where 1,000 “visitors” can be had for $1.… 
+
+> Soon after it started buying traffic, Bonnier’s numbers began to jump. In the summer of 2014, several of the video sites had almost zero visitors, according to ComScore. By December, Saveur.tv had 6 million monthly visitors and WorkingMotherTV.com, 4 million, according to site data provided by Bonnier. In May traffic surged again: 9 million for Saveur.tv; 5 million for WorkingMotherTV.com.… 
+
+http://www.bloomberg.com/features/2015-click-fraud/img/flowchart.png 
+
+> And if advertisers don’t like it, he adds, “they should go buy somewhere else. They want to pay only a little and get a lot of traffic and results. If they want all human traffic, they should go direct to the publisher and pay more.”… 
+
+> Programmatic advertising has become such a tangle of data firms, marketing firms, strategy firms, and ad tech companies that it can be hard even for the biggest brands to keep track of it all. Three years ago executives at Kellogg started to notice that spots for Cheez-It, Pop-Tarts, and Special K were running on sketchy websites, hidden in pop-under windows, or compressed into screens as tiny as a single pixel. Others were displayed on sites where much of the “audience” was bots. “It turns out I’m buying from this guy down the street who opens up his coat and says, ‘Hey, you want to buy some ads?’ ” says Jim Kiszka, the food company’s senior manager for digital strategy. 
+
+> The situation became more infuriating when Kellogg tried to get a simple breakdown: How much was each part of the labyrinthine digital-ad process costing? Answers were impossible to come by. Kellogg asked for itemized bills from the various ad agencies and data companies it hired, but they all refused. “It wasn’t a smoking gun,” Kiszka says. “It was more like a detective story where you had to piece together the evidence. And it was clear that in a system with that little transparency, there was bound to be problems.” 
+
+> In response, Kellogg’s in-house ad department assumed control of its contracts with publishers and ad platforms such as Google and Yahoo, removing the agencies from the process. Kellogg started using software that alerted it when ads ran on suspect sites and refused to do business with any sites that wouldn’t allow third-party validators to screen for bad traffic. Kiszka says the company has seen a 50 percent to 75 percent drop in bot traffic and a significant jump in its return on investment in advertising for Raisin Bran and Corn Flakes.
+ad-tech  
+
+Video Auctions: The Real Price Of Bidding Without Paying 10/21/2015  
+http://www.mediapost.com/publications/article/260739/video-auctions-the-real-price-of-bidding-without.html
+> Programmatic sale of video advertising today is structured in a way that encourages a highly problematic form of "arbitrage."
+ad-tech-tax  
+
+World Press Trends: Newspaper Revenues Shift To New Sources - WAN-IFRA  ☑ 
+http://www.wan-ifra.org/press-releases/2015/06/01/world-press-trends-newspaper-revenues-shift-to-new-sources
+> Print Still Pays 
+
+> -- Globally, more than 93 per cent of all newspaper revenues still come from print, and print will continue to be a major source of revenue for many years to come. At the same time, newspapers around the world are investing efforts and are increasingly innovative in turning the business model from two-dimensional to multi-dimensional. 
+
+> -- While digital advertising represents a small part of overall newspaper revenue, it continues to grow significantly, increasing 8 per cent in 2014 and 59 per cent over five years, according to PricewaterhouseCoopers.
+news-print  
+
+
+High-Speed Ad Traders Profit by Arbitraging Your Eyeballs - Bloomberg  http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs
+> The high-frequency trading pioneered on Wall Street has come to Madison Avenue. 
+Arbitragers are buying millions of online ads and reselling them for a profit in the blink of an eye. They’re exploiting price discrepancies in a fast-evolving marketplace, where this year companies around the world will spend an estimated $9.33 billion on display and banner ads at auction.… 
+
+> When you open a web page, information such as age, sex, location and search history are zapped to buyers vying for your attention. Bundled with 999 other people, those eyeballs are offered to the highest bidder, usually ad agencies and their clients, which can range from big public companies such as Apple Inc. to local car dealerships.… 
+
+> Arbitragers win the first auction and resell the ad, finding exchanges where it’s more valuable and pocketing the difference. The process is over in a tenth of a second. On a typical day, the Chinatown traders’ 10-person company will arbitrage about 500 million advertisements, mostly banner ads, they said; about 30 billion ads are sold on AppNexus a day.…
+ad-tech  ad-tech-tax  
+
+Why Ad Tech Is More Complicated Than Wall Street - Martin Kihn  
+http://blogs.gartner.com/martin-kihn/ad-tech-worse-wall-street/
+> No, my friends, I’m afraid there is plenty of reason to think that ad tech – and particularly the world of real-time bidding, which comprises over 25% of all display impressions sold in the U.S. – that it’s just as shifty, conflicted, bewildered and disingenuously crooked as Wall Street. In fact, it’s probably worse…
+
+> The world of ad tech processes about 400 billion transaction-like events per day, while the New York Stock Exchange processes a puny six billion trades; and programmatic ad trades use up to 100 data fields each, while a stock trade only has ten (you know, bid price, ticker symbol, etc.).…
+
+> There’s also the sad truth that actual prices paid are obscured by layers of middle-people – for example, your ad agency’s trading desk may not tell you what they paid for those impressions, but they’ll certainly tell you what they’re charging *you* for them. Often, you as an advertiser won’t even know where they ran.…
+
+> Michael Tiffany of White Ops, an expert in display ad impression fraud… said comparisons to credit card fraud miss the obvious point – namely, that credit card fraud affects only about 0.07% of transactions. Meanwhile, fraudulent impressions on ad networks and exchanges could be as high as 30%.  
+—Gartner for Marketers (Market Research)
+
+___
+
 ## Ad tech (tax)
 
 <http://digiday.com/publishers/inside-guardians-plans-improve-mobile-advertising/>  
