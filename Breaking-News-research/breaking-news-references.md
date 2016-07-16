@@ -764,3 +764,8 @@ Internet trends report | Mary Meeker, KPCB | Code Conference 2016
 <http://www.iab.com/news/us-internet-ad-revenues-hit-landmark-59-6-billion-in-2015/>
 
 <http://www.emarketer.com/Chart/Average-Time-Spent-per-Day-with-Major-Media-by-US-Adults-2012-2018-hrsmins/188929
+
+<blockquote>
+<p>QUOTE</p>
+<cite>&mdash;<em>PUBLICATION</em> <a href="">"ARTICLE"</a></cite>
+</blockquote>
