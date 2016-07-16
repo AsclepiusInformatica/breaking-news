@@ -10,19 +10,20 @@
 
 <h2>Making a bad impression</h2>
 
-http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html
-The Definition Of An Ad Impression
-
-Broken ads, bot traffic, and straight-up fraud…
-
-We start with the notion that only 15% of impressions ever have the possibility to be seen by a real person. Then, factor in that 54% of ads are not viewable (and we already discussed how flawed that metric is), and you’re left with only 8% of impressions that have the opportunity to be seen by a real person. Let me clarify: that does not mean that 8% of impressions are seen. That means only 8% have the chance to be seen. That’s an unbelievable amount of waste in an industry where metrics are a major selling point.
-
-People will hide ads behind other ads, spoof their domain to trick ad networks into serving higher-paying ads on their site, and purposefully send bots to a site to drive up impressions.
---Reid Tatoris, Co-Founder and Chief Product Officer at Are You a Human
+<blockquote>
+<p>We start with the notion that only 15% of impressions ever have the possibility to be seen by a real person. Then, factor in that 54% of ads are not viewable (and we already discussed how flawed that metric is), and you’re left with only 8% of impressions that have the opportunity to be seen by a real person. Let me clarify: that does not mean that 8% of impressions are seen. That means only 8% have the chance to be seen. That’s an unbelievable amount of waste in an industry where metrics are a major selling point.</p>
+<cite>&mdash;Reid Tatoris (Co Founder of <a href="http://areyouahuman.com/">Are You a Human?</a>), <em>MediaPost</em> <em>PUBLICATION</em> <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">"The Definition Of An Ad Impression"</a></cite>
+</blockquote>
 
 
-https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/
-Online advertising is a fraudster’s heaven, and even the savviest advertisers lose millions of dollars each month.
+
+<blockquote>
+<p>Online advertising is a fraudster’s heaven, and even the savviest advertisers lose millions of dollars each month.</p>
+<cite>&mdash;<em>TechCrunch</em> <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">"Are Bots Hijacking Your Marketing Budget?"</a></cite>
+</blockquote>
+
+
+
 
 
 <h2>We know what you bought last summer</h2>
@@ -39,7 +40,7 @@ You'd think the ad industry would be at the forefront of user experience, and th
 
 <blockquote>
 <p>My full IP address is being passed around like chips at a Super Bowl party: a total of 291 times.</p>
-<cite>&mdash;<em>PUBLICATION</em> <a href="https://medium.com/@robleathern/the-mobile-video-ad-lie-938a6de51367#.pplm5xgkz">"The Mobile Video Ad Lie"</a></cite>
+<cite>&mdash;Rob Leathern (CEO of <a href="http://optimal.com/">Optimal.com<a>), <a href="https://medium.com/@robleathern/the-mobile-video-ad-lie-938a6de51367#.pplm5xgkz">"The Mobile Video Ad Lie"</a></cite>
 </blockquote>
 
 
@@ -56,7 +57,7 @@ You'd think the ad industry would be at the forefront of user experience, and th
 <cite>&mdash;David Ogilvy, <a href="https://books.google.com/books?id=hVFwAAAAQBAJ&pg=PT12&dq=%22The+wrong+advertising+can+actually+reduce+the+sales+of+a+product%22&hl=en&sa=X&ved=0ahUKEwjx3JL0l8vNAhUJ5IMKHbrWDwMQ6AEIJDAB#v=onepage&q=%22The%20wrong%20advertising%20can%20actually%20reduce%20the%20sales%20of%20a%20product%22&f=false"><em>Ogilvy on Advertising</em></a></cite>
 </blockquote>
 
-https://kalkis-research.com/google-end-of-the-online-advertising-bubble
+
 
 
  
@@ -64,7 +65,7 @@ https://kalkis-research.com/google-end-of-the-online-advertising-bubble
 <p>As a result, online advertising efficiency has been decreasing for years, and companies have to spend more ad dollars for the same result. The process of ad placement has become ever more automated, obscure and complex, while intermediaries have multiplied, each taking a cut from the client's initial ad budget. Controls and regulations are nonexistent, and a big chunk of ad spending is being stolen, plain and simple.
 
 Websites have been invaded by click ads, display ads, and forced video ad views. Naturally, Internet users have grown sick and tired of this ad pollution, and have started installing ad blocking software. What makes this trend worse is that users who install ad blockers first, tend to be the more sophisticated and the more affluent ones</p>
-<cite>&mdash;<em>Kalkis Research</em> <a href="">"End Of The Online Advertising Bubble"</a></cite>
+<cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">"End Of The Online Advertising Bubble"</a></cite>
 </blockquote>
 
 
