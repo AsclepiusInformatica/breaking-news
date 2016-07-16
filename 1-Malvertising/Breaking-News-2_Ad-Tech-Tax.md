@@ -27,7 +27,7 @@
 
 
 <h2>We know what you bought last summer</h2>
-<em>iMore<em>, the Apple news site, on "The Black Box"
+<em>iMore</em>, the Apple news site, on "The Black Box":
 <blockquote>
 <p>Each ad gets its own iframe, so load is asynchronous and, if one fails, it doesn't kill the entire site. Unfortunately, that also means each one fires its own trackers, even if those trackers are identical across ads. It's terribly inefficient…
 
