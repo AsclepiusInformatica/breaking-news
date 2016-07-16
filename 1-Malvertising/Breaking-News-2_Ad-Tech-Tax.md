@@ -13,4 +13,8 @@
 <h2>When ads go bad</h2>
 
 <h2>The Great Ad Wars of 2016</h2>
-In early 2016 barbarian hordes of Blockers began knocking down the ad-supports upon which the Fourth Estate was built. The Media Giantsbanished the Blockers, building ever higher Walls of Pay
+<blockquote>
+<blockquote>
+<p>In early 2016 barbarian hordes of Blockers began knocking down the ad-supports upon which the Fourth Estate was built. The Media Giantsbanished the Blockers, building ever higher Walls of Pay&hellip;</p>
+<cite>&mdash;<em>The Book of Face</em></cite>
+</blockquote>
