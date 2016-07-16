@@ -68,6 +68,29 @@
 <cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">"End Of The Online Advertising Bubble"</a></cite>
 </blockquote>
 
+<h2>The superstitious belief in big data</h2>
+Ad tech companies lose money. The only way they exist and survive is convincing investors that someday their scheme will prove pofitable. 
+Maciej Cegłowski calls this "investor storytime":
+<blockquote>
+<p>Investor storytime is not exactly advertising, but it is related to advertising. Think of it as an advertising future, or perhaps the world's most targeted ad.</p>
+
+<p>Both business models involve persuasion. In one of them, you're asking millions of listeners to hand over a little bit of money. In the other, you're persuading one or two listeners to hand over millions of money.</p>
+
+<p>I like to think of the quote from King Lear:  
+	I will do such things,—  
+	What they are, yet I know not: but they shall be  
+	The terrors of the earth</p>
+
+<p>That's the essence of investor storytime. Give us money now, and you won't believe how awesome our ads will be when we finally put them on the site.</p>
+
+<p>King Lear would have killed it in Silicon Valley...</p>
+
+<p>We're addicted to 'big data' not because it's effective now, but because we need it to tell better stories.</p>
+<cite>&mdash;Maciej Cegłowski, <a href="http://idlewords.com/talks/internet_with_a_human_face.htm ">"The Internet With A Human Face"</a></cite>
+</blockquote>
+
+
+
 
 <h2>The Great Ad Wars of 2016</h2>
 <blockquote>
