@@ -29,11 +29,11 @@
 <h2>We know what you bought last summer</h2>
 <em>iMore</em>, the Apple news site, on "The Black Box":
 <blockquote>
-<p>Each ad gets its own iframe, so load is asynchronous and, if one fails, it doesn't kill the entire site. Unfortunately, that also means each one fires its own trackers, even if those trackers are identical across ads. It's terribly inefficient…
+<p>Each ad gets its own iframe, so load is asynchronous and, if one fails, it doesn't kill the entire site. Unfortunately, that also means each one fires its own trackers, even if those trackers are identical across ads. It's terribly inefficient…</p>
 
-Just as desktop ads pay far less than old-fashioned print ads, mobile ads pay far less than desktop. Because phone displays are smaller than desktop, ads are also far harder to ignore. They're not off to the side or a small strip on a big screen. They're in our faces and in our way…
+<p>Just as desktop ads pay far less than old-fashioned print ads, mobile ads pay far less than desktop. Because phone displays are smaller than desktop, ads are also far harder to ignore. They're not off to the side or a small strip on a big screen. They're in our faces and in our way…</p>
 
-You'd think the ad industry would be at the forefront of user experience, and that making gorgeous, high performance, highly engaging ads would boost conversion and ultimately income for everyone. Unfortunately, it seems like whatever math they're running shows bad ads perform well enough that making great ads isn't worth the extra effort…</p>
+<p>You'd think the ad industry would be at the forefront of user experience, and that making gorgeous, high performance, highly engaging ads would boost conversion and ultimately income for everyone. Unfortunately, it seems like whatever math they're running shows bad ads perform well enough that making great ads isn't worth the extra effort.</p>
 <cite>&mdash;<em>iMore</em> <a href="http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it">"Content blockers, bad ads, and what we're doing about it"</a></cite>
 </blockquote>
 
@@ -62,9 +62,9 @@ You'd think the ad industry would be at the forefront of user experience, and th
 
  
 <blockquote>
-<p>As a result, online advertising efficiency has been decreasing for years, and companies have to spend more ad dollars for the same result. The process of ad placement has become ever more automated, obscure and complex, while intermediaries have multiplied, each taking a cut from the client's initial ad budget. Controls and regulations are nonexistent, and a big chunk of ad spending is being stolen, plain and simple.
+<p>As a result, online advertising efficiency has been decreasing for years, and companies have to spend more ad dollars for the same result. The process of ad placement has become ever more automated, obscure and complex, while intermediaries have multiplied, each taking a cut from the client's initial ad budget. Controls and regulations are nonexistent, and a big chunk of ad spending is being stolen, plain and simple.</p>
 
-Websites have been invaded by click ads, display ads, and forced video ad views. Naturally, Internet users have grown sick and tired of this ad pollution, and have started installing ad blocking software. What makes this trend worse is that users who install ad blockers first, tend to be the more sophisticated and the more affluent ones</p>
+<p>Websites have been invaded by click ads, display ads, and forced video ad views. Naturally, Internet users have grown sick and tired of this ad pollution, and have started installing ad blocking software. What makes this trend worse is that users who install ad blockers first, tend to be the more sophisticated and the more affluent ones</p>
 <cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">"End Of The Online Advertising Bubble"</a></cite>
 </blockquote>
 
