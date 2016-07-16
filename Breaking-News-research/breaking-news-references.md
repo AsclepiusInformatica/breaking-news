@@ -1,16 +1,16 @@
 # Breaking News: references/quotes
 
 https://pinboard.in/u:hearvox
-___
+___cha
 ## New- to file:
 
 The Online Ad Scams Every Marketer Should Watch Out For  
-https://hbr.org/2015/10/the-online-ad-scams-every-marketer-should-watch-out-for  
+https://hbr.org/2015/10/the-online-ad-scams-every-marketer-should-watch-out-for
 >In a remarkable experiment, economist Steve Tadelis and coauthors turned off eBay’s trademark-triggered advertising in about half the cities in the U.S. They found that sales in those regions stayed the same even as eBay’s advertising expenditure dropped. eBay’s measure of ad effectiveness was totally off-base and had led to millions of dollars of overspending.
 ad-tech  
 
 The Fake Traffic Schemes That Are Rotting the Internet - Bloomberg Business  
-http://www.bloomberg.com/features/2015-click-fraud/  
+http://www.bloomberg.com/features/2015-click-fraud/
 > The ideal programmatic transaction works like this: A user clicks on a website and suddenly her Internet address and browsing history are packaged and whisked off to an auction site, where software, on behalf of advertisers, scrutinizes her profile (or an anonymized version of it) and determines whether to bid to place an ad next to that article. Ford Motor could pay to put its ads on websites for car buffs, or, with the help of cookies, track car buffs wherever they may be online. Ford might want to target males age 25-40 for pickup-truck ads, or, better yet, anybody in that age group who’s even read about pickups in the past six months.… 
 
 <iframe src="http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ" allowscriptaccess="always" frameborder="0"></iframe> 
@@ -21,17 +21,17 @@ http://www.bloomberg.com/features/2015-click-fraud/
 
 > “The room basically stopped,” Amram recalls. The team was concerned about their jobs; someone asked, “Can they do that? Is it legal?” But mostly it was disbelief and outrage. “It was like we’d been throwing our money to the mob,” Amram says. “As an advertiser we were paying for eyeballs and thought that we were buying views. But in the digital world, you’re just paying for the ad to be served, and there’s no guarantee who will see it, or whether a human will see it at all.”… 
 
-http://www.bloomberg.com/features/2015-click-fraud/img/pq3.jpg 
+<img src="http://www.bloomberg.com/features/2015-click-fraud/img/pq3.jpg" />
 
 > “I can think of nothing that has done more harm to the Internet than ad tech,” says Bob Hoffman, a veteran ad executive, industry critic, and author of the blog the Ad Contrarian. “It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires.”… 
 
-http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif 
+<img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" /> 
 
 > The traffic market is unregulated, and sellers range from unimpeachable to adequate to downright sleazy; price is part of the market’s code. The cheap stuff is very easy to find. On LinkedIn there’s a forum called “Buying & Selling TRAFFIC,” where 1,000 “visitors” can be had for $1.… 
 
 > Soon after it started buying traffic, Bonnier’s numbers began to jump. In the summer of 2014, several of the video sites had almost zero visitors, according to ComScore. By December, Saveur.tv had 6 million monthly visitors and WorkingMotherTV.com, 4 million, according to site data provided by Bonnier. In May traffic surged again: 9 million for Saveur.tv; 5 million for WorkingMotherTV.com.… 
 
-http://www.bloomberg.com/features/2015-click-fraud/img/flowchart.png 
+<img src="http://www.bloomberg.com/features/2015-click-fraud/img/flowchart.png" />
 
 > And if advertisers don’t like it, he adds, “they should go buy somewhere else. They want to pay only a little and get a lot of traffic and results. If they want all human traffic, they should go direct to the publisher and pay more.”… 
 
