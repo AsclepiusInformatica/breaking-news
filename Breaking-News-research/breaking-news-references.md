@@ -1,13 +1,12 @@
 # Breaking News: references/quotes
 
 https://pinboard.in/u:hearvox
-___cha
+___
 ## New- to file:
 
 The Online Ad Scams Every Marketer Should Watch Out For  
 https://hbr.org/2015/10/the-online-ad-scams-every-marketer-should-watch-out-for
 >In a remarkable experiment, economist Steve Tadelis and coauthors turned off eBay’s trademark-triggered advertising in about half the cities in the U.S. They found that sales in those regions stayed the same even as eBay’s advertising expenditure dropped. eBay’s measure of ad effectiveness was totally off-base and had led to millions of dollars of overspending.
-ad-tech  
 
 The Fake Traffic Schemes That Are Rotting the Internet - Bloomberg Business  
 http://www.bloomberg.com/features/2015-click-fraud/
@@ -40,12 +39,10 @@ http://www.bloomberg.com/features/2015-click-fraud/
 > The situation became more infuriating when Kellogg tried to get a simple breakdown: How much was each part of the labyrinthine digital-ad process costing? Answers were impossible to come by. Kellogg asked for itemized bills from the various ad agencies and data companies it hired, but they all refused. “It wasn’t a smoking gun,” Kiszka says. “It was more like a detective story where you had to piece together the evidence. And it was clear that in a system with that little transparency, there was bound to be problems.” 
 
 > In response, Kellogg’s in-house ad department assumed control of its contracts with publishers and ad platforms such as Google and Yahoo, removing the agencies from the process. Kellogg started using software that alerted it when ads ran on suspect sites and refused to do business with any sites that wouldn’t allow third-party validators to screen for bad traffic. Kiszka says the company has seen a 50 percent to 75 percent drop in bot traffic and a significant jump in its return on investment in advertising for Raisin Bran and Corn Flakes.
-ad-tech  
 
 Video Auctions: The Real Price Of Bidding Without Paying 10/21/2015  
 http://www.mediapost.com/publications/article/260739/video-auctions-the-real-price-of-bidding-without.html
 > Programmatic sale of video advertising today is structured in a way that encourages a highly problematic form of "arbitrage."
-ad-tech-tax  
 
 World Press Trends: Newspaper Revenues Shift To New Sources - WAN-IFRA  ☑ 
 http://www.wan-ifra.org/press-releases/2015/06/01/world-press-trends-newspaper-revenues-shift-to-new-sources
@@ -54,7 +51,6 @@ http://www.wan-ifra.org/press-releases/2015/06/01/world-press-trends-newspaper-r
 > -- Globally, more than 93 per cent of all newspaper revenues still come from print, and print will continue to be a major source of revenue for many years to come. At the same time, newspapers around the world are investing efforts and are increasingly innovative in turning the business model from two-dimensional to multi-dimensional. 
 
 > -- While digital advertising represents a small part of overall newspaper revenue, it continues to grow significantly, increasing 8 per cent in 2014 and 59 per cent over five years, according to PricewaterhouseCoopers.
-news-print  
 
 
 High-Speed Ad Traders Profit by Arbitraging Your Eyeballs - Bloomberg  http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs
