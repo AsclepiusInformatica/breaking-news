@@ -1,8 +1,7 @@
 <h1>Breaking News 2: When Goods Ads Go Bad</h1>
 
+"Ad tech" is how we buy, sell, deliver, and display online advertising.
 
-
-"ad tech" is the selling, buying and distribution of (mostly) online advertising by software
 
 kickbacks, high-frequency price pumping, non-human trafficking, 
 <blockquote>
