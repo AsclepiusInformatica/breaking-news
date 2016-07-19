@@ -1,4 +1,4 @@
-<h1>Breaking News 2: When Goods Ads Go Bad</h1>
+<h1>Breaking News 2: The Ad Tech Tax, or When Goods Ads Go Bad</h1>
 
 "Ad tech" is how we buy, sell, deliver, and display online advertising.
 
