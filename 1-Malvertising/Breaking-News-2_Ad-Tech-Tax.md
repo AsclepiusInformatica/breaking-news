@@ -3,7 +3,14 @@
 "Ad tech" is how we buy, sell, deliver, and display online advertising.
 
 
-kickbacks, high-frequency price pumping, non-human trafficking, 
+kickbacks, high-frequency price pumping, non-human trafficking,
+
+Big Data computer programs try to target ads tospecific groups of people. Mostly what it hits isn't even a person at all, just another computer programs. 
+
+policy of pissing off readers.
+
+addicted to analytics. Maybe it's CYA, maybe they're bedazzled by spreadsheets. But I think at this point it'd be hard to make the case BigData has sold anything -- other than itself -- to anyone. And it'd be easy to show how the side effects of BigData is killing the adverstising and news inductries. 
+
 <blockquote>
 <p>Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.</p>
 <cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite>
