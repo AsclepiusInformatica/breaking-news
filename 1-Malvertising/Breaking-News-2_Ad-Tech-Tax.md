@@ -1,5 +1,7 @@
 <h1>Breaking News 2: The Ad Tech Tax, or When Goods Ads Go Bad</h1>
 
+
+
 "Ad tech" is how we buy, sell, deliver, and display online advertising.
 
 
@@ -115,7 +117,9 @@ Maciej Cegłowski calls this "investor storytime":
 <cite>&mdash;Maciej Cegłowski, <a href="http://idlewords.com/talks/internet_with_a_human_face.htm ">"The Internet With A Human Face"</a></cite>
 </blockquote>
 
-
+https://www.google.com/settings/u/0/ads/authenticated?hl=en
+East Asian Music, Make-Up & Cosmetics, Hygiene & Toiletries
+"These topics are derived from your activity on Google sites, such as the videos you've watched on YouTube. This does not include Gmail topics, which are used only for ads within Gmail."
 
 
 <h2>The Great Ad Wars of 2016</h2>
