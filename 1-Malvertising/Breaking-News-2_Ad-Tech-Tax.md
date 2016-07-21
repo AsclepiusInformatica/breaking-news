@@ -11,7 +11,7 @@ But perhaps that's too much too soon. Let me back up.
 
 Ad tech was once defined as the automated way we buy, sell, deliver, and display online advertising.
 
-<img align="right" width="230" src="https://github.com/hearvox/breaking-news/blob/master/assets/ad-plymouth.jpg?raw=true">Long ago, in the pre-ad-tech dark ages, an advertiser contracted a media agency to place specific advertisments in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of ad's cost; the publishers pocketed the rest.
+<img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ad-plymouth.jpg?raw=true">Long ago, in the pre-ad-tech dark ages, an advertiser contracted a media agency to place specific advertisments in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of ad's cost; the publishers pocketed the rest.
 
 This, of course, is grossly inefficient and technologically ignorant. Just look at the results: This antiquated form of advertising only built the brands of nearly every major product and service you've ever heard of.
 
