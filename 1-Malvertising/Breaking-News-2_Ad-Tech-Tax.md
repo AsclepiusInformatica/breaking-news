@@ -1,13 +1,27 @@
-<h1>Breaking News 2: The Ad Tech Tax, or When Goods Ads Go Bad</h1>
+<h1>Breaking News 2: Ad Tech — When Goods Ads Go Bad</h1>
+
+"Ad tech" is commonly defined as: The seething cesspool of criminal syndicates and greed-crazed startups now destroying both online advertising and news websites.
+
+But perhaps that's too much too soon. Let me back up.
+
+Ad tech was once known as an automated way to buy, sell, deliver, and display online advertising.
+
+Long ago, if you were an advertiser, you'd contract a media agency to place specific advertisments in specific publications. The publishers provided you "tear sheets" proving the ad had run. You'd pay up. The agency got 15%; the publishers got the rest.
+
+This, of course, is highly inefficient and technologically ignorant, as is evident from the results: This antiquated form of advertising only built the brands of nearly every major product and service you've ever heard of.
+
+To correct this e-commerce oversight, legions of millenials invented ad tech, They set doing things like leveraging data to strategically deliver your messaging, or maybe scaling your social media reach to impact highly engaged conversations.
+
+This of course costs lots of money, so the old 15% media-agancy creeped up to 55% in 2014. And in 2015 the creeps needed 60%. Expensive, but think of all the strategically impacted conversations your brand just bought.
+
+Say you want to target amoral wannabe hipsters running a VC-fueled ad-tech racketerring outfit. Big Data simply identifies people with high latte consumptions who frequent Ferrari's website and are chronic Disrupt attendees. You buy your ad and moments later everyone on the Google bus is staring at your product.
+
+This is how it often works, and by "often" I mean "almost never."
 
 
+Am I being too harsh? If so, to be nicer to the ad tech folks, I won't even mention their kickbacks, high-frequency price pumping, and  non-human trafficking.
 
-"Ad tech" is how we buy, sell, deliver, and display online advertising.
-
-
-kickbacks, high-frequency price pumping, non-human trafficking,
-
-Big Data computer programs try to target ads tospecific groups of people. Mostly what it hits isn't even a person at all, just another computer programs. 
+The fairy tale is that Big Data and high-tech can target ads tospecific groups of people. The reality is they mostly can't even get the ad to a person, any person. All most programmatically targeted ads hits is just another computer program. 
 
 policy of pissing off readers.
 
