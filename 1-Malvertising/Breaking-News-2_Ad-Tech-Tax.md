@@ -1,31 +1,32 @@
 <h1>Breaking News 2: Ad Tech — When Goods Ads Go Bad</h1>
 
-"Ad tech" is commonly defined as: The seething cesspool of criminal syndicates and greed-crazed startups now destroying both online advertising and news websites.
+"Ad tech" is commonly known as: The seething cesspool of criminal syndicates and greed-crazed startups now destroying both online advertising and news websites.
+
+<blockquote>
+<p>I can think of nothing that has done more harm to the Internet than ad tech. It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires.</p>
+<cite>&mdash;Bob Hoffman (<a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a>) quoted by <a href="http://www.bloomberg.com/features/2015-click-fraud/"><em>Bloomberg Business</em></a></cite>
+</blockquote>
 
 But perhaps that's too much too soon. Let me back up.
 
-Ad tech was once known as an automated way to buy, sell, deliver, and display online advertising.
+Ad tech was once defined as the automated way we buy, sell, deliver, and display online advertising.
 
-Long ago, if you were an advertiser, you'd contract a media agency to place specific advertisments in specific publications. The publishers provided you "tear sheets" proving the ad had run. You'd pay up. The agency got 15%; the publishers got the rest.
+Long ago, in the pre-ad-tech dark ages, an advertiser contracted a media agency to place specific advertisments in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of ad's cost; the publishers pocketed the rest.
 
-This, of course, is highly inefficient and technologically ignorant, as is evident from the results: This antiquated form of advertising only built the brands of nearly every major product and service you've ever heard of.
+This, of course, is grossly inefficient and technologically ignorant. Just look at the results: This antiquated form of advertising only built the brands of nearly every major product and service you've ever heard of.
 
 To correct this e-commerce oversight, legions of millenials invented ad tech, They set doing things like leveraging data to strategically deliver your messaging, or maybe scaling your social media reach to impact highly engaged conversations.
 
-This of course costs lots of money, so the old 15% media-agancy creeped up to 55% in 2014. And in 2015 the creeps needed 60%. Expensive, but think of all the strategically impacted conversations your brand just bought.
+This of course costs lots of money, so the old 15% media-agancy creeped up to 55% in 2014. This is called the "ad tech tax", and in 2015 the creeps needed 60%. Expensive, but think of all the strategically impacted conversations your brand just bought.
+
+<blockquote>
+<p>When you open a web page, information such as age, sex, location and search history are zapped to buyers vying for your attention. Bundled with 999 other people, those eyeballs are offered to the highest bidder, usually ad agencies and their clients, which can range from big public companies such as Apple Inc. to local car dealerships.</p>
+<cite>&mdash;<em>Bloomberg</em> <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">"High-Speed Ad Traders Profit by Arbitraging Your Eyeballs "</a></cite>
+</blockquote>
 
 Say you want to target amoral wannabe hipsters running a VC-fueled ad-tech racketerring outfit. Big Data simply identifies people with high latte consumptions who frequent Ferrari's website and are chronic Disrupt attendees. You buy your ad and moments later everyone on the Google bus is staring at your product.
 
 This is how it often works, and by "often" I mean "almost never."
-
-
-Am I being too harsh? If so, to be nicer to the ad tech folks, I won't even mention their kickbacks, high-frequency price pumping, and  non-human trafficking.
-
-The fairy tale is that Big Data and high-tech can target ads tospecific groups of people. The reality is they mostly can't even get the ad to a person, any person. All most programmatically targeted ads hits is just another computer program. 
-
-policy of pissing off readers.
-
-addicted to analytics. Maybe it's CYA, maybe they're bedazzled by spreadsheets. But I think at this point it'd be hard to make the case BigData has sold anything -- other than itself -- to anyone. And it'd be easy to show how the side effects of BigData is killing the adverstising and news inductries. 
 
 <blockquote>
 <p>Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.</p>
@@ -33,22 +34,13 @@ addicted to analytics. Maybe it's CYA, maybe they're bedazzled by spreadsheets. 
 </blockquote>
 
 
-<h2>Ad tech tax</h2>
 
-<blockquote>
-<p>A user clicks on a website and suddenly her Internet address and browsing history are packaged and whisked off to an auction site, where software, on behalf of advertisers, scrutinizes her profile (or an anonymized version of it) and determines whether to bid to place an ad next to that article. Ford Motor could pay to put its ads on websites for car buffs, or, with the help of cookies, track car buffs wherever they may be online. Ford might want to target males age 25-40 for pickup-truck ads, or, better yet, anybody in that age group who’s even read about pickups in the past six months.</p>
-<cite>&mdash;<em>Bloomberg Business</em> <a href="http://www.bloomberg.com/features/2015-click-fraud/">"The Fake Traffic Schemes That Are Rotting the Internet"</a></cite>
-</blockquote>
 
-<blockquote>
-<p>I can think of nothing that has done more harm to the Internet than ad tech. It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires.</p>
-<cite>&mdash;Bob Hoffman (<a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a>) quoted by <a href="http://www.bloomberg.com/features/2015-click-fraud/"><em>Bloomberg Business</em></a></cite>
-</blockquote>
 
-<blockquote>
-<p>When you open a web page, information such as age, sex, location and search history are zapped to buyers vying for your attention. Bundled with 999 other people, those eyeballs are offered to the highest bidder, usually ad agencies and their clients, which can range from big public companies such as Apple Inc. to local car dealerships.</p>
-<cite>&mdash;<em>Bloomberg</em> <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">"High-Speed Ad Traders Profit by Arbitraging Your Eyeballs "</a></cite>
-</blockquote>
+
+
+
+
 
 <h2>Making a bad impression</h2>
 
@@ -140,6 +132,21 @@ East Asian Music, Make-Up & Cosmetics, Hygiene & Toiletries
 <blockquote>
 <p>In early 2016 barbarian hordes of Blockers began knocking down the ad-supports upon which the Fourth Estate was built. The Media Giantsbanished the Blockers, erecting ever higher Walls of Pay&hellip;</p>
 <cite>&mdash;<em>The Book of Face</em></cite>
+</blockquote>
+
+<h2>save</h2>
+
+Am I being too harsh? If so, to be nicer to the ad tech folks, I won't even mention their kickbacks, a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-freq price pumping</a>, and  <a href="http://www.bloomberg.com/features/2015-click-fraud/">non-human trafficking</a>.
+
+The fairy tale is that Big Data and high-tech can target ads tospecific groups of people. The reality is they mostly can't even get the ad to a person, any person. All most programmatically targeted ads hits is just another computer program. 
+
+policy of pissing off readers.
+
+addicted to analytics. Maybe it's CYA, maybe they're bedazzled by spreadsheets. But I think at this point it'd be hard to make the case BigData has sold anything -- other than itself -- to anyone. And it'd be easy to show how the side effects of BigData is killing the adverstising and news inductries. 
+
+<blockquote>
+<p>A user clicks on a website and suddenly her Internet address and browsing history are packaged and whisked off to an auction site, where software, on behalf of advertisers, scrutinizes her profile (or an anonymized version of it) and determines whether to bid to place an ad next to that article. Ford Motor could pay to put its ads on websites for car buffs, or, with the help of cookies, track car buffs wherever they may be online. Ford might want to target males age 25-40 for pickup-truck ads, or, better yet, anybody in that age group who’s even read about pickups in the past six months.</p>
+<cite>&mdash;<em>Bloomberg Business</em> <a href="http://www.bloomberg.com/features/2015-click-fraud/">"The Fake Traffic Schemes That Are Rotting the Internet"</a></cite>
 </blockquote>
 
 <blockquote>
