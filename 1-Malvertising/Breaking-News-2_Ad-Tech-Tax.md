@@ -17,7 +17,9 @@ This, of course, is grossly inefficient and technologically ignorant. Just look 
 
 To correct this e-commerce oversight, legions of millenials innovasted advertising technologies. They did things like leverage data to strategically deliver story messaging, or maybe scale integrated social media reach to impact highly engaged conversations.
 
-This of course costs lots of money, called the "ad tech tax." The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>. Expensive, but think of all those strategically impacted conversations a brand can by.
+This of course costs boatloads of money. We call it the "ad tech tax."
+
+The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>. Expensive, but think of all those strategically impacted conversations a brand can by.
 
 <blockquote>
 <p>When you open a web page, information such as age, sex, location and search history are zapped to buyers vying for your attention. Bundled with 999 other people, those eyeballs are offered to the highest bidder, usually ad agencies and their clients, which can range from big public companies such as Apple Inc. to local car dealerships.</p>
