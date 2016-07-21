@@ -15,16 +15,16 @@ Long ago, in the pre-ad-tech dark ages, an advertiser contracted a media agency 
 
 This, of course, is grossly inefficient and technologically ignorant. Just look at the results: This antiquated form of advertising only built the brands of nearly every major product and service you've ever heard of.
 
-To correct this e-commerce oversight, legions of millenials invented ad tech, They set doing things like leveraging data to strategically deliver your messaging, or maybe scaling your social media reach to impact highly engaged conversations.
+To correct this e-commerce oversight, legions of millenials innovasted advertising technologies. They did things like leverage data to strategically deliver story messaging, or maybe scale integrated social media reach to impact highly engaged conversations.
 
-This of course costs lots of money, so the old 15% media-agancy creeped up to 55% in 2014. This is called the "ad tech tax", and in 2015 the creeps needed 60%. Expensive, but think of all the strategically impacted conversations your brand just bought.
+This of course costs lots of money, called the "ad tech tax." The old 15% cut for media agencies has creeped up to 55% in 2014. In 2015, the creeps took 60%. Expensive, but think of all those strategically impacted conversations a brand can by.
 
 <blockquote>
 <p>When you open a web page, information such as age, sex, location and search history are zapped to buyers vying for your attention. Bundled with 999 other people, those eyeballs are offered to the highest bidder, usually ad agencies and their clients, which can range from big public companies such as Apple Inc. to local car dealerships.</p>
 <cite>&mdash;<em>Bloomberg</em> <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">"High-Speed Ad Traders Profit by Arbitraging Your Eyeballs "</a></cite>
 </blockquote>
 
-Say you want to target amoral wannabe hipsters running a VC-fueled ad-tech racketerring outfit. Big Data simply identifies people with high latte consumptions who frequent Ferrari's website and are chronic Disrupt attendees. You buy your ad and moments later everyone on the Google bus is staring at your product.
+Say you want to target amoral, wannabe hipster, ad-tech racketeers. Big Data simply cross-correllates latte addicts who frequent Ferrari's website and are chronic Disrupt attendees. You buy your ad and instantly everyone on the Google bus is staring at your product.
 
 This is how it often works, and by "often" I mean "almost never."
 
@@ -32,15 +32,6 @@ This is how it often works, and by "often" I mean "almost never."
 <p>Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.</p>
 <cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite>
 </blockquote>
-
-
-
-
-
-
-
-
-
 
 <h2>Making a bad impression</h2>
 
@@ -133,6 +124,12 @@ East Asian Music, Make-Up & Cosmetics, Hygiene & Toiletries
 <p>In early 2016 barbarian hordes of Blockers began knocking down the ad-supports upon which the Fourth Estate was built. The Media Giantsbanished the Blockers, erecting ever higher Walls of Pay&hellip;</p>
 <cite>&mdash;<em>The Book of Face</em></cite>
 </blockquote>
+
+<h2>News funds its own premature funeral</h2>
+
+<hr />
+
+<hr />
 
 <h2>save</h2>
 
