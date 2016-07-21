@@ -21,12 +21,14 @@ This of course costs boatloads of money. We call it the "ad tech tax."
 
 The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>. Expensive, but think of all those strategically impacted conversations a brand can by.
 
+<h2>Targeting ads: bullseye or bullshit?</h2>
+
 <blockquote>
 <p>When you open a web page, information such as age, sex, location and search history are zapped to buyers vying for your attention. Bundled with 999 other people, those eyeballs are offered to the highest bidder, usually ad agencies and their clients, which can range from big public companies such as Apple Inc. to local car dealerships.</p>
 <cite>&mdash;<em>Bloomberg</em> <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">"High-Speed Ad Traders Profit by Arbitraging Your Eyeballs "</a></cite>
 </blockquote>
 
-Say you want to target amoral, wannabe hipster, ad-tech racketeers. Big Data simply cross-correllates latte addicts who frequent Ferrari's website and are chronic Disrupt attendees. You buy your ad and instantly everyone on the Google bus is staring at your product.
+Say you want your ad to target amoral brogrammers in the ad-tech racket. You simply puchase a steaming pile of Big Data to identify latte addicts who frequent Ferrari's website and are chronic Disrupt attendees. You place your ad and instantly half the Google bus sees your product.
 
 This is how it often works, and by "often" I mean "almost never."
 
