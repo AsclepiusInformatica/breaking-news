@@ -1,6 +1,6 @@
 <h1>Breaking News 2: Ad Tech — When Goods Ads Go Bad</h1>
 
-"Ad tech" is commonly known as: The seething cesspool of criminal syndicates and greed-crazed startups now destroying both online advertising and news websites.
+"Ad tech" is commonly known as: The seething cesspool of racketeering syndicates and greed-crazed startups now destroying both online advertising and news websites.
 
 <blockquote>
 <p>I can think of nothing that has done more harm to the Internet than ad tech. It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires.</p>
@@ -11,15 +11,15 @@ But perhaps that's too much too soon. Let me back up.
 
 Ad tech was once defined as the automated way we buy, sell, deliver, and display online advertising.
 
-<img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ad-plymouth.jpg?raw=true">Long ago, in the pre-ad-tech dark ages, an advertiser contracted a media agency to place specific advertisments in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of ad's cost; the publishers pocketed the rest.
+<img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ad-plymouth.jpg?raw=true">Long ago, in the dark ages, an advertiser contracted a media agency to place specific advertisments in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of ad's cost; the publishers pocketed the rest.
 
 This, of course, is grossly inefficient and technologically ignorant. Just look at the results: This antiquated form of advertising only built the brands of nearly every major product and service you've ever heard of.
 
-To correct this e-commerce oversight, legions of millenials innovasted advertising technologies. They did things like leverage data to strategically deliver story messaging, or maybe scale integrated social media reach to impact highly engaged conversations.
+To correct this e-commerce oversight, legions of millenials innovated advertising technologies. They did things like leverage data to strategically deliver story messaging, or maybe scale integrated social media reach to impact highly engaged conversations.
 
 This of course costs boatloads of money. We call it the "ad tech tax."
 
-The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>. Expensive, but think of all those strategically impacted conversations a brand can by.
+The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>. Expensive, but think of all those strategically impacted conversations a brand can butt in.
 
 <h2>Ad targetting: bullseye or bullshit?</h2>
 
@@ -28,7 +28,7 @@ The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com
 <cite>&mdash;<em>Bloomberg</em> <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">"High-Speed Ad Traders Profit by Arbitraging Your Eyeballs "</a></cite>
 </blockquote>
 
-Say you want your ad to target amoral brogrammers in the ad-tech racket. You simply puchase a steaming pile of Big Data to identify latte addicts who frequent Ferrari's website and are chronic Disrupt attendees. You place your ad and instantly half the Google bus sees your product.
+Say you want your ad to target amoral brogrammers in the ad-tech racket. You simply puchase a steaming pile of Big Data to identify latte addicts who frequent Ferrari's website and are chronic Disrupt attendees. As soon as you place your ad, instantly half the Google bus sees your product.
 
 This is how it often works, and by "often" I mean "almost never."
 
@@ -39,36 +39,18 @@ This is how it often works, and by "often" I mean "almost never."
 
 <h2>Making a bad impression</h2>
 
-Ad tech sells impressions to advertisers. The <a href="http://measurementnow.net/press-release-media-rating-council-updates-viewable-ad-impression-measurement-guidelines/#.V5ELiZMrLOZ">Media Rating Council offers guidlines</a>: "A Viewable Impression can be counted as such if, and only if, at least 50 percent of the pixels are in view for a minimum of one continuous second for display and two continuous seconds for video advertisements."
+Ad tech bills advertisers by the "impression," a semi-mythical event that happens, per the <a href="http://measurementnow.net/press-release-media-rating-council-updates-viewable-ad-impression-measurement-guidelines/#.V5ELiZMrLOZ">Media Rating Council guidlines</a>, when half an advert's pixels are "in view" for one continuous second (two second for video ads).
 
-
+Reid Tatoris, Co-Founder of <a href="http://areyouahuman.com/">Are You a Human?</a>, broke it down further in <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">MediaPost</a>. Of the impresssions advertisers pay for: Half are <a href="http://www.theatlantic.com/technology/archive/2013/12/welcome-to-the-internet-of-thingies-615-of-web-traffic-is-not-human/282309/">"viewed" by bots</a> (search engines, etc.) not by humans. About <a href="http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083">25% are ad fraud, of which there many forms. And 15% are broken ads that never display. 
 
 <blockquote>
 <p>We start with the notion that only 15% of impressions ever have the possibility to be seen by a real person. Then, factor in that 54% of ads are not viewable (and we already discussed how flawed that metric is), and you’re left with only 8% of impressions that have the opportunity to be seen by a real person. Let me clarify: that does not mean that 8% of impressions are seen. That means only 8% have the chance to be seen. That’s an unbelievable amount of waste in an industry where metrics are a major selling point.</p>
-<cite>&mdash;Reid Tatoris (Co Founder of <a href="http://areyouahuman.com/">Are You a Human?</a>), <em>MediaPost</em> <em>PUBLICATION</em> <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">"The Definition Of An Ad Impression"</a></cite>
+<cite>&mdash;Reid Tatoris, <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">"The Definition Of An Ad Impression"</a></cite>
 </blockquote>
-
-
-
-<blockquote>
-<p>Online advertising is a fraudster’s heaven, and even the savviest advertisers lose millions of dollars each month.</p>
-<cite>&mdash;<em>TechCrunch</em> <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">"Are Bots Hijacking Your Marketing Budget?"</a></cite>
-</blockquote>
-
-
-
 
 
 <h2>We know what you bought last summer</h2>
-<em>iMore</em>, the Apple news site, on "The Black Box":
-<blockquote>
-<p>Each ad gets its own iframe, so load is asynchronous and, if one fails, it doesn't kill the entire site. Unfortunately, that also means each one fires its own trackers, even if those trackers are identical across ads. It's terribly inefficient…</p>
 
-<p>Just as desktop ads pay far less than old-fashioned print ads, mobile ads pay far less than desktop. Because phone displays are smaller than desktop, ads are also far harder to ignore. They're not off to the side or a small strip on a big screen. They're in our faces and in our way…</p>
-
-<p>You'd think the ad industry would be at the forefront of user experience, and that making gorgeous, high performance, highly engaging ads would boost conversion and ultimately income for everyone. Unfortunately, it seems like whatever math they're running shows bad ads perform well enough that making great ads isn't worth the extra effort.</p>
-<cite>&mdash;<em>iMore</em> <a href="http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it">"Content blockers, bad ads, and what we're doing about it"</a></cite>
-</blockquote>
 
 
 <blockquote>
@@ -152,6 +134,21 @@ addicted to analytics. Maybe it's CYA, maybe they're bedazzled by spreadsheets. 
 <blockquote>
 <p>A user clicks on a website and suddenly her Internet address and browsing history are packaged and whisked off to an auction site, where software, on behalf of advertisers, scrutinizes her profile (or an anonymized version of it) and determines whether to bid to place an ad next to that article. Ford Motor could pay to put its ads on websites for car buffs, or, with the help of cookies, track car buffs wherever they may be online. Ford might want to target males age 25-40 for pickup-truck ads, or, better yet, anybody in that age group who’s even read about pickups in the past six months.</p>
 <cite>&mdash;<em>Bloomberg Business</em> <a href="http://www.bloomberg.com/features/2015-click-fraud/">"The Fake Traffic Schemes That Are Rotting the Internet"</a></cite>
+</blockquote>
+
+<blockquote>
+<p>Online advertising is a fraudster’s heaven, and even the savviest advertisers lose millions of dollars each month.</p>
+<cite>&mdash;<em>TechCrunch</em> <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">"Are Bots Hijacking Your Marketing Budget?"</a></cite>
+</blockquote>
+
+<em>iMore</em>, the Apple news site, on "The Black Box":
+<blockquote>
+<p>Each ad gets its own iframe, so load is asynchronous and, if one fails, it doesn't kill the entire site. Unfortunately, that also means each one fires its own trackers, even if those trackers are identical across ads. It's terribly inefficient…</p>
+
+<p>Just as desktop ads pay far less than old-fashioned print ads, mobile ads pay far less than desktop. Because phone displays are smaller than desktop, ads are also far harder to ignore. They're not off to the side or a small strip on a big screen. They're in our faces and in our way…</p>
+
+<p>You'd think the ad industry would be at the forefront of user experience, and that making gorgeous, high performance, highly engaging ads would boost conversion and ultimately income for everyone. Unfortunately, it seems like whatever math they're running shows bad ads perform well enough that making great ads isn't worth the extra effort.</p>
+<cite>&mdash;<em>iMore</em> <a href="http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it">"Content blockers, bad ads, and what we're doing about it"</a></cite>
 </blockquote>
 
 <blockquote>
