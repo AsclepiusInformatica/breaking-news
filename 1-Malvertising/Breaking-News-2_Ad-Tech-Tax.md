@@ -44,13 +44,14 @@ This is how it often works, and by "often" I mean "almost never."
 
 <h2>Making a bad impression</h2>
 
-Ad tech bills advertisers by the "impression," a semi-mythical event that happens, per the <a href="http://measurementnow.net/press-release-media-rating-council-updates-viewable-ad-impression-measurement-guidelines/#.V5ELiZMrLOZ">Media Rating Council guidlines</a>, when half an advert's pixels are "in view" for one continuous second (two second for video ads).
+Ad tech bills advertisers by the "impression," a semi-mythical event thought to occur when half an advert's pixels are "in view" for one continuous second, or two seconds for video ads (<a href="http://measurementnow.net/press-release-media-rating-council-updates-viewable-ad-impression-measurement-guidelines/#.V5ELiZMrLOZ">Media Rating Council guidlines</a>).
 
-Reid Tatoris, Co-Founder of <a href="http://areyouahuman.com/">Are You a Human?</a>, broke it down further in <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">MediaPost</a>. Of the impresssions advertisers pay for: Half are <a href="http://www.theatlantic.com/technology/archive/2013/12/welcome-to-the-internet-of-thingies-615-of-web-traffic-is-not-human/282309/">"viewed" by bots</a> (search engines, etc.) not by humans. About <a href="http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083">25% are ad fraud, of which there many forms. And 15% are broken ads that never display. 
+Inconveniently, of the impresssions advertisers pay for: Half are <a href="http://www.theatlantic.com/technology/archive/2013/12/welcome-to-the-internet-of-thingies-615-of-web-traffic-is-not-human/282309/">"viewed" by bots</a> (search engines, etc.) not by humans. <a href="http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083">One-quarter are fraud ads</a>, in one of its <a href="https://github.com/hearvox/breaking-news/blob/master/1-Malvertising/Breaking-News-1_Malvertising.md">many forms</a>. And 15% are broken ads that never display. 
 
+Reid Tatoris, Co-Founder of <a href="http://areyouahuman.com/">Are You a Human?</a>, breaks it down:
 <blockquote>
 <p>We start with the notion that only 15% of impressions ever have the possibility to be seen by a real person. Then, factor in that 54% of ads are not viewable (and we already discussed how flawed that metric is), and you’re left with only 8% of impressions that have the opportunity to be seen by a real person. Let me clarify: that does not mean that 8% of impressions are seen. That means only 8% have the chance to be seen. That’s an unbelievable amount of waste in an industry where metrics are a major selling point.</p>
-<cite>&mdash;Reid Tatoris, <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">"The Definition Of An Ad Impression"</a></cite>
+<cite>&mdash;<em>MediaPost</em> <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">"The Definition Of An Ad Impression"</a></cite>
 </blockquote>
 
 
@@ -128,7 +129,7 @@ East Asian Music, Make-Up & Cosmetics, Hygiene & Toiletries
 
 <h2>save</h2>
 
-Am I being too harsh? If so, to be nicer to the ad tech folks, I won't even mention their kickbacks, a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-freq price pumping</a>, and  <a href="http://www.bloomberg.com/features/2015-click-fraud/">non-human trafficking</a>.
+Am I being too harsh? If so, to be nicer to the ad tech folks, I won't even mention <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">their kickbacks</a>, a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-freq price pumping</a>, and  <a href="http://www.bloomberg.com/features/2015-click-fraud/">non-human trafficking</a>.
 
 The fairy tale is that Big Data and high-tech can target ads tospecific groups of people. The reality is they mostly can't even get the ad to a person, any person. All most programmatically targeted ads hits is just another computer program. 
 
