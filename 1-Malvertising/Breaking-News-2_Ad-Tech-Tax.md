@@ -1,3 +1,8 @@
+<em>[Draft of article]</em>
+
+<em><strong>Breaking News</strong> is an investigative series into factors affecting online news sites, from performance to profits. This is the second of two articles on advertising technologies (ad-tech).</em>
+_____________________
+
 <h1>Breaking News 2: Ad Tech — When Goods Ads Go Bad</h1>
 
 "Ad tech" is commonly known as: The seething cesspool of racketeering syndicates and greed-crazed startups now destroying both online advertising and news websites.
