@@ -164,10 +164,10 @@ addicted to analytics. Maybe it's CYA, maybe they're bedazzled by spreadsheets. 
 Your browser does not support the video tag.
 </video>
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+[![ScreenShot](https:/bcsecure01-a.akamaihd.net/13/47628783001/201605/2835/47628783001_4897492924001_MAS-FT-Business-PrinceOfJihad.jpg)](http://youtu.be/vt5fpE0bzSY)
 
 
-[![ScreenShot](https:/bcsecure01-a.akamaihd.net/13/47628783001/201605/2835/47628783001_4897492924001_MAS-FT-Business-PrinceOfJihad.jpg)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
+[![ScreenShot]()](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
 https://next.ft.com/content/b06d18c0-1bfb-11e6-8fa5-44094f6d9c46
 
 <blockquote>
