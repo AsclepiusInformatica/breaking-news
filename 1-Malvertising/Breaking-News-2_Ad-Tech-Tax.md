@@ -164,8 +164,8 @@ addicted to analytics. Maybe it's CYA, maybe they're bedazzled by spreadsheets. 
 Your browser does not support the video tag.
 </video>
 
-<div class="n-content-video n-content-video--brightcove"><div class="n-content-video__placeholder n-video--player" data-n-component="n-video" data-n-video-source="brightcove" data-n-video-id="4897450793001" data-n-video-js=""><a data-asset-type="video" data-embedded="true" href="http://video.ft.com/4897450793001" data-trackable="link"></a><video controls="true" poster="https://next-geebee.ft.com/image/v1/images/raw/https%3A%2F%2Fbcsecure01-a.akamaihd.net%2F13%2F47628783001%2F201605%2F2835%2F47628783001_4897492924001_MAS-FT-Business-PrinceOfJihad.jpg%3FpubId%3D47628783001?source=next&amp;fit=scale-down&amp;width=680" src="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4" class="n-video__video"></video></div></div>
-
+[![ScreenShot](https:/bcsecure01-a.akamaihd.net/13/47628783001/201605/2835/47628783001_4897492924001_MAS-FT-Business-PrinceOfJihad.jpg)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
+https://next.ft.com/content/b06d18c0-1bfb-11e6-8fa5-44094f6d9c46
 
 <blockquote>
 <p>QUOTE</p>
