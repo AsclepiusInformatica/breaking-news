@@ -159,6 +159,14 @@ addicted to analytics. Maybe it's CYA, maybe they're bedazzled by spreadsheets. 
 <cite>&mdash;<em>iMore</em> <a href="http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it">"Content blockers, bad ads, and what we're doing about it"</a></cite>
 </blockquote>
 
+<video width="600" height="400" controls>
+  <source src="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<div class="n-content-video n-content-video--brightcove"><div class="n-content-video__placeholder n-video--player" data-n-component="n-video" data-n-video-source="brightcove" data-n-video-id="4897450793001" data-n-video-js=""><a data-asset-type="video" data-embedded="true" href="http://video.ft.com/4897450793001" data-trackable="link"></a><video controls="true" poster="https://next-geebee.ft.com/image/v1/images/raw/https%3A%2F%2Fbcsecure01-a.akamaihd.net%2F13%2F47628783001%2F201605%2F2835%2F47628783001_4897492924001_MAS-FT-Business-PrinceOfJihad.jpg%3FpubId%3D47628783001?source=next&amp;fit=scale-down&amp;width=680" src="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4" class="n-video__video"></video></div></div>
+
+
 <blockquote>
 <p>QUOTE</p>
 <cite>&mdash;<em>PUBLICATION</em> <a href="">"ARTICLE"</a></cite>
