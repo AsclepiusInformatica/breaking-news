@@ -1,6 +1,8 @@
 <em>[Draft of article]</em>
 
 <em><strong>Breaking News</strong> is a series of investigations into factors affecting online news sites, from performance to profits. This is the first of two articles on advertising technologies (ad-tech).</em>
+
+<em><strong>Breaking News</strong> is a series on the fractures (mostly self-inflicted) breaking the news business. My Reynolds Journalism Institute research showed how molasses-slow newspaper websites are. The main culprit isn't ads, as many asuume, but rather all the cruft that comes with ads. This first report is on the malignant effects of ad tech.</em>
 _____________________
 
 <div>
