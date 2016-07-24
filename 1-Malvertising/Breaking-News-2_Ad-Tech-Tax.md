@@ -5,7 +5,7 @@ _____________________
 
 <h1>Breaking News 2: Ad Tech — When Goods Ads Go Bad</h1>
 
-"Ad tech" is commonly known as: The seething cesspool of racketeering syndicates and greed-crazed startups now destroying both online advertising and news websites.
+"Ad tech" is commonly known as: A seething cesspool of opportunity for racketeering syndicates and greed-crazed startups to destroy both online advertising and news websites.
 
 <blockquote>
 <p>I can think of nothing that has done more harm to the Internet than ad tech. It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires.</p>
