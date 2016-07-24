@@ -127,6 +127,8 @@ East Asian Music, Make-Up & Cosmetics, Hygiene & Toiletries
 
 <hr />
 
+<h2>Follow the monetizing</h2>
+
 <h2>save</h2>
 
 Am I being too harsh? If so, to be nicer to the ad tech folks, I won't even mention <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">their kickbacks</a>, a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-freq price pumping</a>, and  <a href="http://www.bloomberg.com/features/2015-click-fraud/">non-human trafficking</a>.
