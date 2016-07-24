@@ -1,6 +1,6 @@
 <em>[Draft of article]</em>
 
-<em><strong>Breaking News</strong> is an investigative series into factors affecting online news sites, from performance to profits. This is the second of two articles on advertising technologies (ad-tech).</em>
+<em><strong>Breaking News</strong> is a series on the fractures (mostly self-inflicted) breaking the news business. This second report is on the "ad tech tax" everyone pays, in dollars, time, and readership.</em>
 _____________________
 
 <h1>Breaking News 2: Ad Tech — When Goods Ads Go Bad</h1>
