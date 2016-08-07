@@ -1,6 +1,6 @@
 <em>[Draft of article]</em>
 
-<em><strong>Breaking News</strong> is a series on the fractures (mostly self-inflicted) breaking the news business. My Reynolds Journalism Institute research showed how molasses-slow newspaper websites are. The main culprit isn't ads, as many asuume, but rather all the cruft that comes with ads. This first report is on the malignant effects of ad tech.</em>
+<em><strong>Breaking News</strong> is a series on the fractures breaking the news business (mostly self-inflicted). My <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">Reynolds Journalism Institute research</a> showed how molasses-slow newspaper websites are. The main culprit isn't ads, as many asuume, but rather all the cruft that comes with ads. This first report is on the malignant effects of ad tech.</em>
 _____________________
 
 <div>
@@ -125,4 +125,4 @@ What hurts online news is not the ads, it's the ad technologies. It's their <a r
 
 <em><small>Ransomware screenshots from <a href="http://www.bleepingcomputer.com/news/security/petya-is-back-and-with-a-friend-named-mischa-ransomware/">Bleeping Computer</a>.</small></em>
 
-
+BIO: <a href="https://www.rjionline.org/stories/series/storytelling-tools/">RJI Storytelling Tools</a>
