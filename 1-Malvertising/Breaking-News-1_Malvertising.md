@@ -1,4 +1,5 @@
-<em>[Draft of article]</em>
+<em>[Draft of article]</em>  
+https://github.com/hearvox/breaking-news/blob/master/Breaking-News-drafts/Breaking-News-1_Malvertising.md
 
 <em><strong>Breaking News</strong> is a series on the fractures (mostly self-inflicted) breaking the news business. My Reynolds Journalism Institute research showed how molasses-slow newspaper websites are. The main culprit isn't ads, as many asuume, but rather all the cruft that comes with ads. This first report is on the malignant effects of ad tech.</em>
 _____________________
