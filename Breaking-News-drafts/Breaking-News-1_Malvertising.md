@@ -34,18 +34,18 @@ ___
 
 The Interactive Advertising Bureau estimates malicious advertising -- malvertising -- <a href="http://www.iab.com/news/digital-ad-industry-will-gain-8-2-billion-by-eliminating-fraud-and-flaws-in-internet-supply-chain-iab-ey-study-shows/">"costs the U.S. digital marketing, advertising, and media industry $8.2 billion annually."</a> 
 
-A few years ago malvertising was merely scamming the system: fake ads, fake traffic, fake analytics. Ad-tech's unregulated labyrinths of  circumlocution systems, for bidding, placing, and tracking ads, makes it a hacker's heaven.
+A few years ago malvertising was merely scamming the system: fake ads, fake traffic, fake analytics. Ad-tech is a a hacker's heaven, an unregulated labyrinth of circumlocution systems for bidding, placing, and tracking ads.
 
 "All the code is awful and you aren't allowed to change it anyway," says <a href="http://www.poynter.org/2016/ad-tech-is-broken-heres-how-newsrooms-can-fix-it/407800/">Salon developer Aram Zucker-Scharff</a>. "Usually ad servers claim they run some sort of checks, but considering just how many malicious or badly formed ads get through, it is pretty apparent they don't do much."
 
-The hacker's goal is to bill, make that, bilk advertisers for ads no human ever saw. Their fraud takes several forms: Ad stacking piles multiple ads on top of each other. Ad stuffing shrinks ads to invisible 1-pixel squares. Click farms send fraud users to real sites. Clickjacking sends real users to fraud sites. 
+The hacker's goal is to bill, a.k.a., bilk, advertisers for ads no human ever saw. Their fraud takes several forms: Ad stacking piles multiple ads on top of each other. Ad stuffing shrinks ads to invisible 1-pixel squares. Click farms send fraud users to real sites. Clickjacking sends real users to fraud sites. 
 
-This example comes from <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a>: "You'll be redirected through a loop of various shell websites, spending a fraction of a second on each." This makes analytics algorithms see these sites as high-quality with lots of traffic. "Once the shell websites have good enough Alexa rankings, and off-the-chart demographics, they sign contracts to display ads with much better terms."
+This example comes from <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a>: "You'll be redirected through a loop of various shell websites, spending a fraction of a second on each [making the bogus sites seem, to analytics algorithms, as high-quality and high-traffic]. Once the shell websites have good enough Alexa rankings, and off-the-chart demographics, they sign contracts to display ads with much better terms."
 
 A shell game. A con. That what malvertisers did, before they became racketeers.
 
 <h2>Malvertising</h2>
-The cyber miscreants now have a new scheme. They don't just scam advertisers, they also <em>buy</em> ads. Their new goals: Install spyware, scareware, and ransomware via websites. Capture site-visitors' computers for their "zombie army" to attack more websites and more web users. 
+The cyber miscreants now have a new scheme. They don't just scam advertisers, they also <em>buy</em> ads. Their new goals: Install spyware, scareware, and ransomware via websites; capture site-visitors' computers for their "zombie army" to attack more websites and more web users. 
 
 <a href="http://idlewords.com/talks/website_obesity.htm">"Ads have become the major vector for malware,"</a> said Maciej Ceglowski in his Web Directions keynote. (<a href="http://idlewords.com/talks/">All his talks</a> are essential reading.)
 
@@ -69,7 +69,7 @@ Malwarebytes estimated <a href="https://blog.malwarebytes.com/101/2016/06/truth-
 And guess where malvertisers most like to share their wares.
 
 <h2>We're number one</h2>
-Bromium Labs found more than <a href="https://www.bromium.com/company/press-releases/bromium-threat-report-identifies-security-risks-popular-websites-and-software.html">half the ads with malware-payloads were on either news and entertainment websites</a>, with news at the top of the pack (32%). Like all marketers, malvertisers wants premiere placement on well-respected sites. The ad-bidding process grants them their wish.
+Bromium Labs found more than <a href="https://www.bromium.com/company/press-releases/bromium-threat-report-identifies-security-risks-popular-websites-and-software.html">half the ads with malware-payloads were on either news and entertainment websites</a>, with news at the top of the pack (32%). Like all marketers, malvertisers want premiere placement on well-respected sites. The ad-bidding process grants them their wish.
 
 In March 2016 the websites of The New York Times, BBC, Weather Network, The Hill, Newsweek, AOL, MSN, and NFL all, as CNET reported, "<a href="http://www.cnet.com/news/new-york-times-bbc-dangerous-ads-ransomware-malvertising/">inadvertently ran malicious ads that attempted to hijack the computers of visitors and demand a ransom</a>."
 
@@ -87,7 +87,7 @@ This even juicier website-breaking news is <a href="https://www.engadget.com/201
 </blockquote>
 
 <h2>What's a Google to do?</h2>
-The problem is not new, it's been <a href="http://news.softpedia.com/news/malvertising-campaign-infected-thousands-of-users-per-day-for-more-than-a-year-506730.shtml#ixzz4Ftwo5H25">going on for years</a>. Here are headlines from 2013:
+The problem is not new, it's been happening <a href="http://news.softpedia.com/news/malvertising-campaign-infected-thousands-of-users-per-day-for-more-than-a-year-506730.shtml#ixzz4Ftwo5H25"> on news sites for years</a>. Here are headlines from 2013:
 * <em>Adweek</em> <a href="http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083">"The Amount of Questionable Online Traffic Will Blow Your Mind:The World Wide rip-off"</a> 
 * <em>The Ad Contrarian</em> <a href="http://adcontrarian.blogspot.co.il/2013/06/the-75-billion-ad-swindle.html">"The $7.5 Billion Ad Swindle"</a>
 
