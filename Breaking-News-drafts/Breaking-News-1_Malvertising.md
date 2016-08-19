@@ -87,7 +87,7 @@ This even juicier website-breaking news is <a href="https://www.engadget.com/201
 </blockquote>
 
 <h2>What's a Google to do?</h2>
-The problem is not new. Here are headlines from 2013:
+The problem is not new, it's been <a href="http://news.softpedia.com/news/malvertising-campaign-infected-thousands-of-users-per-day-for-more-than-a-year-506730.shtml#ixzz4Ftwo5H25">going on for years</a>. Here are headlines from 2013:
 * <em>Adweek</em> <a href="http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083">"The Amount of Questionable Online Traffic Will Blow Your Mind:The World Wide rip-off"</a> 
 * <em>The Ad Contrarian</em> <a href="http://adcontrarian.blogspot.co.il/2013/06/the-75-billion-ad-swindle.html">"The $7.5 Billion Ad Swindle"</a>
 
