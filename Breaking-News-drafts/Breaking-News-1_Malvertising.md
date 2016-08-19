@@ -32,7 +32,7 @@ ___
 <cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite>
 </blockquote>
 
-The Interactive Advertising Bureaufo estimated malicious advertising -- malvertising -- <a href="http://www.iab.com/news/digital-ad-industry-will-gain-8-2-billion-by-eliminating-fraud-and-flaws-in-internet-supply-chain-iab-ey-study-shows/">"costs the U.S. digital marketing, advertising, and media industry $8.2 billion annually."</a> 
+The Interactive Advertising Bureau estimates malicious advertising -- malvertising -- <a href="http://www.iab.com/news/digital-ad-industry-will-gain-8-2-billion-by-eliminating-fraud-and-flaws-in-internet-supply-chain-iab-ey-study-shows/">"costs the U.S. digital marketing, advertising, and media industry $8.2 billion annually."</a> 
 
 A few years ago malvertising was merely scamming the system: fake ads, fake traffic, fake analytics. Ad-tech's unregulated labyrinths of  circumlocution systems, for bidding, placing, and tracking ads, makes it a hacker's heaven.
 
