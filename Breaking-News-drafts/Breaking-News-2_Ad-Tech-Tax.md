@@ -3,28 +3,24 @@
 <em><strong>Breaking News</strong> is a series on the fractures (mostly self-inflicted) breaking the news business. This second report is on the "ad tech tax" everyone pays, in dollars, time, and readership.</em>
 _____________________
 
-<h1>Breaking News 2: Ad Tech — When Goods Ads Go Bad</h1>
-
-"Ad tech" is commonly known as: A seething cesspool of opportunity for racketeering syndicates and greed-crazed startups to destroy both online advertising and news websites.
+<h1>Breaking News 2: Ad Tech Tax — Goods Ads Gone Bad</h1>
 
 <blockquote>
 <p>I can think of nothing that has done more harm to the Internet than ad tech. It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires.</p>
 <cite>&mdash;Bob Hoffman (<a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a>) quoted by <a href="http://www.bloomberg.com/features/2015-click-fraud/"><em>Bloomberg Business</em></a></cite>
 </blockquote>
 
-But perhaps that's too much too soon. Let me back up.
+My 93-year-old mom called the other day, almost in tears. A link at RealClearPolitics brought her to a site which mercilessly launch popup windows. The kept reappearing no matter how many times she closed them, locking up her browser. Even after quitting, the slimy site and its putrid popups persisted. My mom had become another victim of modern advertising.
 
-Ad tech was once defined as the automated way we buy, sell, deliver, and display online advertising.
+<img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ad-plymouth.jpg?raw=true">Once upon a time, an advertiser contracted a media agency to place specific advertisments in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of ad's cost; the publishers pocketed the rest.
 
-<img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ad-plymouth.jpg?raw=true">Long ago, in the dark ages, an advertiser contracted a media agency to place specific advertisments in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of ad's cost; the publishers pocketed the rest.
+This was an antiquated form of advertising, resulting only in building the brands of nearly every major product and service you've ever heard of.
 
-This, of course, is grossly inefficient and technologically ignorant. Just look at the results: This antiquated form of advertising only built the brands of nearly every major product and service you've ever heard of.
+To correct this e-commerce oversight, legions of millenials have innovated advertising technologies. They do things like strategically leverage social media data and integrate branding stories and impact highly engaged conversations.
 
-To correct this e-commerce oversight, legions of millenials innovated advertising technologies. They did things like leverage data to strategically deliver story messaging, or maybe scale integrated social media reach to impact highly engaged conversations.
+"Ad tech" is the automated way we now buy, sell, deliver, and display online advertising. This date-driven automation costs lots of money. We call it the "ad tech tax."
 
-This of course costs boatloads of money. We call it the "ad tech tax."
-
-The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>. Expensive, but think of all those strategically impacted conversations a brand can butt in.
+The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>. A small price brands to pay for being able to butt in all those strategically impacted conversations.
 
 <h2>Ad targetting: bullseye or bullshit?</h2>
 
