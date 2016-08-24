@@ -10,7 +10,9 @@ _____________________
 <cite>&mdash;Bob Hoffman (<a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a>) quoted by <a href="http://www.bloomberg.com/features/2015-click-fraud/"><em>Bloomberg Business</em></a></cite>
 </blockquote>
 
-My 93-year-old mom called the other day, almost in tears. A link at RealClearPolitics brought her to a site which mercilessly launch popup windows. The kept reappearing no matter how many times she closed them, locking up her browser. Even after quitting, the slimy site and its putrid popups persisted. My mom had become another victim of modern advertising.
+My 93-year-old mom called the other day, almost in tears. Her browser had been taken over. A link at RealClearPolitics to a site which mercilessly launched popup windows that re-popped up every time she closed one. She's quit and re-opened the browser, but the slimy site and its putrid popups persisted. My mom was yet another victim of modern advertising.
+
+<h2>Old hotness, new and busted</h2>
 
 <img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ad-plymouth.jpg?raw=true">Once upon a time, an advertiser contracted a media agency to place specific advertisments in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of ad's cost; the publishers pocketed the rest.
 
