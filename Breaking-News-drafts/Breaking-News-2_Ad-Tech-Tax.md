@@ -10,19 +10,19 @@ _____________________
 <cite>&mdash;Bob Hoffman (<a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a>) quoted by <a href="http://www.bloomberg.com/features/2015-click-fraud/"><em>Bloomberg Business</em></a></cite>
 </blockquote>
 
-My 93-year-old mom called the other day, almost in tears. Her browser had been taken over. A link at RealClearPolitics to a site which mercilessly launched popup windows that re-popped up every time she closed one. She's quit and re-opened the browser, but the slimy site and its putrid popups persisted. My mom was yet another victim of modern advertising.
+My 93-year-old mom called the other day, almost in tears. Her browser had been taken over. She'd clicked a link at RealClearPolitics to a site which mercilessly launched and re-launched popup windows not matter how many times she closed them. The slimy site and its putrid popups persisted even after quitting and re-opening the bbrowser. My mom had become another victim of modern advertising.
 
 <h2>Old hotness, new and busted</h2>
 
 <img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ad-plymouth.jpg?raw=true">Once upon a time, an advertiser contracted a media agency to place specific advertisments in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of ad's cost; the publishers pocketed the rest.
 
-This was an antiquated form of advertising, resulting only in building the brands of nearly every major product and service you've ever heard of.
+This type of advertising built the brands of nearly every major product and service you've ever heard of. So, obviously, the whole process was in need of radical disruption.
 
-To correct this e-commerce oversight, legions of millenials have innovated advertising technologies. They do things like strategically leverage social media data and integrate branding stories and impact highly engaged conversations.
+Legions of millenials began innovating advertising technologies. They strategically leveraged social media data. They impacted highly engaged conversations. And they radically raised their rates.
 
-"Ad tech" is the automated way we now buy, sell, deliver, and display online advertising. This date-driven automation costs lots of money. We call it the "ad tech tax."
+The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>. It costs money for brands to butt into all those strategically impacted conversations.
 
-The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>. A small price brands to pay for being able to butt in all those strategically impacted conversations.
+"Ad tech" is the new automated way we now buy, sell, deliver, and display online advertising. And the surcharge for this data-driven is the "ad tech tax."
 
 <h2>Ad targetting: bullseye or bullshit?</h2>
 
