@@ -22,7 +22,7 @@ Legions of millenials began innovating advertising technologies. They strategica
 
 The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>. It costs money for brands to butt into all those strategically impacted conversations.
 
-"Ad tech" is the new automated way we now buy, sell, deliver, and display online advertising. And the surcharge for this data-driven is the "ad tech tax."
+"Ad tech" is the new automated way we now buy, sell, deliver, and display online advertising. The surcharge for this data-driven automation is the "ad tech tax."
 
 <h2>Ad targetting: bullseye or bullshit?</h2>
 
@@ -31,9 +31,9 @@ The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com
 <cite>&mdash;<em>Bloomberg</em> <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">"High-Speed Ad Traders Profit by Arbitraging Your Eyeballs "</a></cite>
 </blockquote>
 
-Say you want your ad to target amoral brogrammers in the ad-tech racket. You simply puchase a steaming pile of Big Data to identify latte addicts who frequent Ferrari's website and are chronic Disrupt attendees. As soon as you place your ad, instantly half the Google bus sees your product.
+Say you want your ad to target brogrammers running a questionable ad-tech racket. You simply puchase a steaming pile of Big Data that cross-tabs latte addicts who frequent Ferrari's website with chronic Disrupt attendees. Instantly half the phonmes on the Google bus light up with your product.
 
-This is how it often works, and by "often" I mean "almost never."
+It doesn't always work this way, though, and by "not often" I mean "almost never."
 
 <blockquote>
 <p>Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.</p>
@@ -42,29 +42,22 @@ This is how it often works, and by "often" I mean "almost never."
 
 <h2>Making a bad impression</h2>
 
-Ad tech bills advertisers by the "impression," a semi-mythical event thought to occur when half an advert's pixels are "in view" for one continuous second, or two seconds for video ads (<a href="http://measurementnow.net/press-release-media-rating-council-updates-viewable-ad-impression-measurement-guidelines/#.V5ELiZMrLOZ">Media Rating Council guidlines</a>).
+Ad tech bills advertisers by the "impression," a semi-mythical event hypothesized, by the <a href="http://measurementnow.net/press-release-media-rating-council-updates-viewable-ad-impression-measurement-guidelines/#.V5ELiZMrLOZ">Media Rating Council</a>, to occur when half an advert's pixels are "in view" for one continuous second (two seconds for video ads).
 
-Inconveniently, of the impresssions advertisers pay for: Half are <a href="http://www.theatlantic.com/technology/archive/2013/12/welcome-to-the-internet-of-thingies-615-of-web-traffic-is-not-human/282309/">"viewed" by bots</a> (search engines, etc.) not by humans. <a href="http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083">One-quarter are fraud ads</a>, in one of its <a href="https://github.com/hearvox/breaking-news/blob/master/1-Malvertising/Breaking-News-1_Malvertising.md">many forms</a>. And 15% are broken ads that never display. 
+Inconveniently, <a href="http://www.theatlantic.com/technology/archive/2013/12/welcome-to-the-internet-of-thingies-615-of-web-traffic-is-not-human/282309/">bots</a> (search engines, etc.), not humans</a> are the "viewers" of half these paid-for impresssions. <a href="http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083">Another quarter are fraud ads</a>, in its <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">myriad forms</a>. And 15% are broken ads that never display. 
 
-Reid Tatoris, Co-Founder of <a href="http://areyouahuman.com/">Are You a Human?</a>, breaks it down:
+That leaves 15 percent, which Reid Tatoris, Co-Founder of <a href="http://areyouahuman.com/">Are You a Human?</a>, breaks down even further:
 <blockquote>
 <p>We start with the notion that only 15% of impressions ever have the possibility to be seen by a real person. Then, factor in that 54% of ads are not viewable (and we already discussed how flawed that metric is), and you’re left with only 8% of impressions that have the opportunity to be seen by a real person. Let me clarify: that does not mean that 8% of impressions are seen. That means only 8% have the chance to be seen. That’s an unbelievable amount of waste in an industry where metrics are a major selling point.</p>
 <cite>&mdash;<em>MediaPost</em> <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">"The Definition Of An Ad Impression"</a></cite>
 </blockquote>
 
-
 <h2>We know what you bought last summer</h2>
-
-
 
 <blockquote>
 <p>My full IP address is being passed around like chips at a Super Bowl party: a total of 291 times.</p>
 <cite>&mdash;Rob Leathern (CEO of <a href="http://optimal.com/">Optimal.com<a>), <a href="https://medium.com/@robleathern/the-mobile-video-ad-lie-938a6de51367#.pplm5xgkz">"The Mobile Video Ad Lie"</a></cite>
 </blockquote>
-
-
-
-
 
 <h2>When good ads go bad</h2>
 <blockquote>
