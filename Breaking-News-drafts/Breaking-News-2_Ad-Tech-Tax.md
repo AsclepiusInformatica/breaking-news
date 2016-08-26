@@ -43,7 +43,7 @@ But it's <a href="http://www.theatlantic.com/technology/archive/2013/12/welcome-
 
 So, 85 percent of paid-for impresssions are fraud, broken, or bot-hits. Reid Tatoris, Co-Founder of <a href="http://areyouahuman.com/">Are You a Human?</a>, breaks down the remainder:
 <blockquote>
-<p>We start with the notion that only 15% of impressions ever have the possibility to be seen by a real person. Then, factor in that 54% of ads are not viewable (and we already discussed how flawed that metric is), and you’re left with only 8% of impressions that have the opportunity to be seen by a real person. Let me clarify: that does not mean that 8% of impressions are seen. That means only 8% have the chance to be seen. That’s an unbelievable amount of waste in an industry where metrics are a major selling point.</p>
+<p>We start with the notion that only 15% of impressions ever have the possibility to be seen by a real person. Then, factor in that <a href="http://www.comscore.com/Insights/Blog/Viewability_Benchmarks_Show_Many_Ads_Are_Not_In-View_but_Rates_Vary_by_Publisher">54% of ads are not viewable</a> (and we already discussed how flawed that metric is), and you’re left with <em>only 8% of impressions that have the opportunity to be seen by a real person</em>. Let me clarify: that does not mean that 8% of impressions are seen. That means only 8% have the chance to be seen. That’s an unbelievable amount of waste in an industry where metrics are a major selling point.</p>
 <cite>&mdash;<em>MediaPost</em> <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">"The Definition Of An Ad Impression"</a></cite>
 </blockquote>
 
