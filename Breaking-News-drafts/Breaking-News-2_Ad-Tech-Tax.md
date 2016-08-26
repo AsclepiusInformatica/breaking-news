@@ -31,13 +31,13 @@ The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com
 <cite>&mdash;<em>Bloomberg</em> <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">"High-Speed Ad Traders Profit by Arbitraging Your Eyeballs "</a></cite>
 </blockquote>
 
-Say you want your ad to target brogrammers running a questionable ad-tech racket. You simply puchase a steaming pile of Big Data that cross-tabs latte addicts who frequent Ferrari's website with chronic Disrupt attendees. Instantly half the phonmes on the Google bus light up with your product.
+Say you want to tartget your ad to brogrammers running ad-tech rackets. You simply puchase a steaming pile of Big Data that cross-tabs chronic Disrupt attendees with dailt tweeters with frequent Ferrari web visitors. Instantly half the phones in Palo Alto light up with your product.
 
 It doesn't always work this way, though, and by "not always" I mean "almost never."
 
 <h2>Making a bad impression</h2>
 
-Ad tech bills advertisers by the "impression," a semi-mythical event hypothesized, by the <a href="http://measurementnow.net/press-release-media-rating-council-updates-viewable-ad-impression-measurement-guidelines/#.V5ELiZMrLOZ">Media Rating Council</a>, to occur when half an advert's pixels are "in view" for one continuous second (two seconds for video ads).
+Ad tech bills advertisers by the "impression," a semi-mythical event, hypothesized by the <a href="http://measurementnow.net/press-release-media-rating-council-updates-viewable-ad-impression-measurement-guidelines/#.V5ELiZMrLOZ">Media Rating Council</a>, said to occur when half an advert's pixels are "in view" for one continuous second (two seconds for video ads).
 
 But it's <a href="http://www.theatlantic.com/technology/archive/2013/12/welcome-to-the-internet-of-thingies-615-of-web-traffic-is-not-human/282309/">bots</a> (search engines, etc.) that "view" half</a> these ads, not humans. Another quarter are of these paid-for impresssions are <a href="http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083">fraudulent ads</a>, in its <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">myriad forms</a>. And 15% the ads are broken -- they never display at all. 
 
