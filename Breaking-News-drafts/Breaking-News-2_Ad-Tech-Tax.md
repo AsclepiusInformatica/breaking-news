@@ -24,6 +24,9 @@ The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com
 
 "Ad tech" is the new automated way we now buy, sell, deliver, and display online advertising. The surcharge for this data-driven automation is the "ad tech tax."
 
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/IAB-Programmatic-CPM.png?raw=true" />  
+<em><a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Anatomy of a Programmatic CPM</a>, Interactive Advertising Bureau</em>
+
 <h2>Ad targetting: bullseye or bullshit?</h2>
 
 <blockquote>
