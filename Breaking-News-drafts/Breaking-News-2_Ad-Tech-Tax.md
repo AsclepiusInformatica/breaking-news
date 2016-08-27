@@ -40,9 +40,10 @@ A user clicks on a website and suddenly her Internet address and browsing histor
 <div><cite>&mdash;<em>Bloomberg Business</em> <a href="http://www.bloomberg.com/features/2015-click-fraud/">"The Fake Traffic Schemes That Are Rotting the Internet"</a></cite></div>
 </blockquote>
 
-
-
 <h2>Making a bad impression</h2>
+
+<img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
+<em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
 
 Ad tech bills advertisers by the "impression," a semi-mythical event, hypothesized by the <a href="http://measurementnow.net/press-release-media-rating-council-updates-viewable-ad-impression-measurement-guidelines/#.V5ELiZMrLOZ">Media Rating Council</a>, said to occur when half an advert's pixels are "in view" for one continuous second (two seconds for video ads).
 
