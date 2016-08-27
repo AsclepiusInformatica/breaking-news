@@ -1,8 +1,8 @@
-<em>[Draft of article]</em>
+<em>[Draft of article, part 2 in series (<a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">part 1</a>)]</em>
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Plymouth-1961-ad-turnpikes-shorter.jpg?raw=true" alt="1961 Plymouth car ad: Are they making turnpikes shorter this year?" />  
 
-<h1>Breaking News 2: Ad Tech Tax, When Goods Ads Go Bad</h1>
+<h1>Breaking News 2: The Ad Tech Tax, When Goods Ads Go Bad</h1>
 
 <em><strong>Breaking News</strong> is a series on the self-inflicted fractures breaking the news business. This second report is on the "ad tech tax" everyone pays, in dollars, time, and readership.</em>
 _____________________
