@@ -10,7 +10,7 @@ _____________________
 <cite>&mdash;Bob Hoffman (<a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a>) quoted by <a href="http://www.bloomberg.com/features/2015-click-fraud/"><em>Bloomberg Business</em></a></cite>
 </blockquote>
 
-My 93-year-old mom called the other day, almost in tears. Her browser had been taken over. She'd clicked a link at RealClearPolitics to a site which mercilessly launched and re-launched popup windows not matter how many times she closed them. The slimy site and its putrid popups persisted even after quitting and re-opening the bbrowser. My mom had become another victim of modern advertising.
+My 93-year-old mom called the other day, almost in tears. Her browser had been taken over by popups that re-popped up every time she closed them, even after quitting and relaunching the browser, the slimy site (that she'd clicked a link at RealClearPolitics) and putrid popups persisted. My mother was another victim of modern advertising.
 
 <h2>Old hotness, new and busted</h2>
 
