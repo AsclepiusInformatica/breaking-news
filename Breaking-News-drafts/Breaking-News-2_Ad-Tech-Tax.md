@@ -10,7 +10,7 @@ _____________________
 <cite>&mdash;Bob Hoffman (<a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a>) quoted by <a href="http://www.bloomberg.com/features/2015-click-fraud/"><em>Bloomberg Business</em></a></cite>
 </blockquote>
 
-My 93-year-old mom called the other day, almost in tears. Her browser had been taken over by popups that re-popped up every time she closed them, even after quitting and relaunching the browser, the slimy site (that she'd clicked a link at RealClearPolitics) and putrid popups persisted. My mother was another victim of modern advertising.
+My 93-year-old mom called the other day, almost in tears. Her browser had been taken over by popups that re-popped up every time she closed them, even after quitting and relaunching the browser, the slimy site (that she'd clicked to from a link at RealClearPolitics) and putrid popups persisted. My mother was another victim of modern advertising.
 
 <h2>Old hotness, new and busted</h2>
 
@@ -22,9 +22,9 @@ Legions of millenials began innovating advertising technologies. They strategica
 
 The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>. It costs money for brands to butt into all those strategically impacted conversations.
 
-<h2>Ad targetting: bullseye or bullshit?</h2>
-
 "Ad tech" is the new automated way we now buy, sell, deliver, and display online advertising. The surcharge for this data-driven automation is the "ad tech tax."
+
+<h2>Ad targetting: bullseye or bullshit?</h2>
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/IAB-Programmatic-CPM.png?raw=true" />  
 <em><a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Anatomy of a Programmatic CPM</a>, Interactive Advertising Bureau</em>
@@ -34,9 +34,7 @@ The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com
 <cite>&mdash;<em>Bloomberg</em> <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">"High-Speed Ad Traders Profit by Arbitraging Your Eyeballs "</a></cite>
 </blockquote>
 
-Say you want to tartget your ad to brogrammers running ad-tech rackets. You simply puchase a steaming pile of Big Data that cross-tabs chronic Disrupt attendees with dailt tweeters with frequent Ferrari web visitors. Instantly half the phones in Palo Alto light up with your product.
 
-It doesn't always work this way, though, and by "not always" I mean "almost never."
 
 <h2>Making a bad impression</h2>
 
@@ -153,12 +151,19 @@ addicted to analytics. Maybe it's CYA, maybe they're bedazzled by spreadsheets. 
 <cite>&mdash;<em>iMore</em> <a href="http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it">"Content blockers, bad ads, and what we're doing about it"</a></cite>
 </blockquote>
 
+
+Say you want to tartget your ad to brogrammers running ad-tech rackets. You simply puchase a steaming pile of Big Data that cross-tabs chronic Disrupt attendees with dailt tweeters with frequent Ferrari web visitors. Instantly half the phones in Palo Alto light up with your product.
+
+It doesn't always work this way, though, and by "not always" I mean "almost never."
+
 <video width="600" height="400" controls>
   <source src="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 [![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/MAS-FT-Business-PrinceOfJihad.jpg)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
+
+
 
 
 <blockquote>
