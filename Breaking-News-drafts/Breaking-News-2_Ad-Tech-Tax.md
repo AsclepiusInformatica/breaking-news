@@ -6,7 +6,7 @@ _____________________
 <h1>Breaking News 2: Ad Tech Tax — Goods Ads Gone Bad</h1>
 
 <blockquote>
-<p>I can think of nothing that has done more harm to the Internet than ad tech. It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires.</p>
+<p>I can think of nothing that has done more harm to the Internet than ad tech. It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires.</p>  
 <cite>&mdash;Bob Hoffman (<a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a>) quoted by <a href="http://www.bloomberg.com/features/2015-click-fraud/"><em>Bloomberg Business</em></a></cite>
 </blockquote>
 
@@ -22,12 +22,12 @@ Legions of millenials began innovating advertising technologies. They strategica
 
 The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>. It costs money for brands to butt into all those strategically impacted conversations.
 
+<h2>Ad targetting: bullseye or bullshit?</h2>
+
 "Ad tech" is the new automated way we now buy, sell, deliver, and display online advertising. The surcharge for this data-driven automation is the "ad tech tax."
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/IAB-Programmatic-CPM.png?raw=true" />  
 <em><a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Anatomy of a Programmatic CPM</a>, Interactive Advertising Bureau</em>
-
-<h2>Ad targetting: bullseye or bullshit?</h2>
 
 <blockquote>
 <p>When you open a web page, information such as age, sex, location and search history are zapped to buyers vying for your attention. Bundled with 999 other people, those eyeballs are offered to the highest bidder, usually ad agencies and their clients, which can range from big public companies such as Apple Inc. to local car dealerships.</p>
