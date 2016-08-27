@@ -1,9 +1,11 @@
 <em>[Draft of article]</em>
 
-<em><strong>Breaking News</strong> is a series on the fractures (mostly self-inflicted) breaking the news business. This second report is on the "ad tech tax" everyone pays, in dollars, time, and readership.</em>
-_____________________
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/Plymouth-1961-ad-turnpikes-shorter.jpg?raw=true" alt="1961 Plymouth car ad: Are they making turnpikes shorter this year?" />  
 
 <h1>Breaking News 2: Ad Tech Tax — Goods Ads Gone Bad</h1>
+
+<em><strong>Breaking News</strong> is a series on the self-inflicted fractures breaking the news business. This second report is on the "ad tech tax" everyone pays, in dollars, time, and readership.</em>
+_____________________
 
 <blockquote>
 I can think of nothing that has done more harm to the Internet than ad tech. It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires.     
@@ -168,6 +170,8 @@ Your browser does not support the video tag.
 [![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/MAS-FT-Business-PrinceOfJihad.jpg)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
 
 <hr />
+
+Plymouth ad: https://books.google.com/books?id=yEUEAAAAMBAJ&pg=PA46&lpg=PA46&dq=are+they+making+turnpikes+shorter+plymouth&source=bl&ots=pviURLWep9&sig=BdR1QzUVMZHIAhHCis7xU2FWaPo&hl=en&sa=X&ved=0ahUKEwjOqbqiguLOAhVEKGMKHSNTA7UQ6AEIIzAB#v=onepage&q=are%20they%20making%20turnpikes%20shorter%20plymouth&f=false
 
 <blockquote>
 Xxx
