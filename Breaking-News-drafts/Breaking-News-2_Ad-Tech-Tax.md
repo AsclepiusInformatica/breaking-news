@@ -6,13 +6,8 @@ _____________________
 <h1>Breaking News 2: Ad Tech Tax — Goods Ads Gone Bad</h1>
 
 <blockquote>
-The other day I mindlessly clicked on some link-bait on my mobile phone. It was an article about "22 Photos that Prove Shaq is a Giant." Yes, I'm embarrassed, but that's not the point. Within that one listicle there were no less than 30 "impressions" of the same Best Foods Mayonnaise banner ad. How embarrassed do you think the brand manager at Best Foods will be when his CMO reads this?
-<div><cite>&mdash;<a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a> <em>Advertising Age</em> </cite></div>
-</blockquote>
-
-<blockquote>
 I can think of nothing that has done more harm to the Internet than ad tech. It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires.     
-<cite>&mdash;Bob Hoffman (<a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a>) quoted by <a href="http://www.bloomberg.com/features/2015-click-fraud/"><em>Bloomberg Business</em></a></cite>
+<div><cite>&mdash;Bob Hoffman (<a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a>) quoted by <a href="http://www.bloomberg.com/features/2015-click-fraud/"><em>Bloomberg Business</em></a></cite></div>
 </blockquote>
 
 My 93-year-old mom called the other day, almost in tears. Her browser had been taken over by popups that re-popped up every time she closed them, even after quitting and relaunching the browser, the slimy site (that she'd clicked to from a link at RealClearPolitics) and putrid popups persisted. My mother was another victim of modern advertising.
@@ -32,16 +27,17 @@ The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com
 <h2>Ad targetting: bullseye or bullshit?</h2>
 
 <blockquote>
-<p>When you open a web page, information such as age, sex, location and search history are zapped to buyers vying for your attention. Bundled with 999 other people, those eyeballs are offered to the highest bidder, usually ad agencies and their clients, which can range from big public companies such as Apple Inc. to local car dealerships.</p>
-<cite>&mdash;<em>Bloomberg</em> <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">"High-Speed Ad Traders Profit by Arbitraging Your Eyeballs"</a></cite>
+When you open a web page, information such as age, sex, location and search history are zapped to buyers vying for your attention. Bundled with 999 other people, those eyeballs are offered to the highest bidder, usually ad agencies and their clients, which can range from big public companies such as Apple Inc. to local car dealerships.
+<div><cite>&mdash;<em>Bloomberg</em> <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">"High-Speed Ad Traders Profit by Arbitraging Your Eyeballs"</a></cite></div>
 </blockquote>
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/IAB-Programmatic-CPM.png?raw=true" />  
 <em><a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Anatomy of a Programmatic CPM</a>, Interactive Advertising Bureau</em>
 
+
 <blockquote>
-<p>A user clicks on a website and suddenly her Internet address and browsing history are packaged and whisked off to an auction site, where software, on behalf of advertisers, scrutinizes her profile (or an anonymized version of it) and determines whether to bid to place an ad next to that article. Ford Motor could pay to put its ads on websites for car buffs, or, with the help of cookies, track car buffs wherever they may be online. Ford might want to target males age 25-40 for pickup-truck ads, or, better yet, anybody in that age group who’s even read about pickups in the past six months.</p>
-<cite>&mdash;<em>Bloomberg Business</em> <a href="http://www.bloomberg.com/features/2015-click-fraud/">"The Fake Traffic Schemes That Are Rotting the Internet"</a></cite>
+A user clicks on a website and suddenly her Internet address and browsing history are packaged and whisked off to an auction site, where software, on behalf of advertisers, scrutinizes her profile (or an anonymized version of it) and determines whether to bid to place an ad next to that article. Ford Motor could pay to put its ads on websites for car buffs, or, with the help of cookies, track car buffs wherever they may be online. Ford might want to target males age 25-40 for pickup-truck ads, or, better yet, anybody in that age group who’s even read about pickups in the past six months.
+<div><cite>&mdash;<em>Bloomberg Business</em> <a href="http://www.bloomberg.com/features/2015-click-fraud/">"The Fake Traffic Schemes That Are Rotting the Internet"</a></cite></div>
 </blockquote>
 
 
@@ -61,13 +57,13 @@ So, 85 percent of paid-for impresssions are fraud, broken, or bot-hits. Reid Tat
 <h2>We know what you bought last summer</h2>
 
 <blockquote>
-<p>My full IP address is being passed around like chips at a Super Bowl party: a total of 291 times.</p>
-<cite>&mdash;Rob Leathern (CEO of <a href="http://optimal.com/">Optimal.com<a>), <a href="https://medium.com/@robleathern/the-mobile-video-ad-lie-938a6de51367#.pplm5xgkz">"The Mobile Video Ad Lie"</a></cite>
+My full IP address is being passed around like chips at a Super Bowl party: a total of 291 times.
+<div><cite>&mdash;Rob Leathern (CEO of <a href="http://optimal.com/">Optimal.com<a>), <a href="https://medium.com/@robleathern/the-mobile-video-ad-lie-938a6de51367#.pplm5xgkz">"The Mobile Video Ad Lie"</a></cite></div>
 </blockquote>
 
 <blockquote>
-<p>Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.</p>
-<cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite>
+Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.
+<div><cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite></div>
 </blockquote>
 
 <h2>When good ads go bad</h2>
@@ -91,7 +87,7 @@ So, 85 percent of paid-for impresssions are fraud, broken, or bot-hits. Reid Tat
 <cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">"End Of The Online Advertising Bubble"</a></cite>
 </blockquote>
 
-<h2>The superstitious belief in big data</h2>
+<h2>Addicted to big data</h2>
 Ad tech companies lose money. The only way they exist and survive is convincing investors that someday their scheme will prove pofitable. 
 Maciej Cegłowski calls this "investor storytime":
 <blockquote>
@@ -170,10 +166,9 @@ Your browser does not support the video tag.
 
 [![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/MAS-FT-Business-PrinceOfJihad.jpg)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
 
-
-
+<hr />
 
 <blockquote>
-<p>QUOTE</p>
-<cite>&mdash;<em>PUBLICATION</em> <a href="">"ARTICLE"</a></cite>
+Xxx
+<div><cite>&mdash;<a href="aaa">Yaa</a> <em>Zzz</em></cite></div>
 </blockquote>
