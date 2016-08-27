@@ -6,7 +6,7 @@ _____________________
 <h1>Breaking News 2: Ad Tech Tax — Goods Ads Gone Bad</h1>
 
 <blockquote>
-<p>I can think of nothing that has done more harm to the Internet than ad tech. It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires.</p>  
+I can think of nothing that has done more harm to the Internet than ad tech. It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires.     
 <cite>&mdash;Bob Hoffman (<a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a>) quoted by <a href="http://www.bloomberg.com/features/2015-click-fraud/"><em>Bloomberg Business</em></a></cite>
 </blockquote>
 
