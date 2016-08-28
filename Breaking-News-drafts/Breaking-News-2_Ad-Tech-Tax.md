@@ -2,7 +2,7 @@
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Plymouth-1961-ad-turnpikes-shorter.jpg?raw=true" alt="1961 Plymouth car ad: Are they making turnpikes shorter this year?" />  
 
-<h1>Breaking News 2: The Ad Tech Tax, When Goods Ads Go Bad</h1>
+<h1>Breaking News 2: The Ad Tech Tax, When Good Ads Go Bad</h1>
 
 <em><strong>Breaking News</strong> is a series on the self-inflicted fractures breaking the news business. This second report is on the "ad tech tax" everyone pays, in dollars, time, and readership.</em>
 _____________________
@@ -12,7 +12,7 @@ I can think of nothing that has done more harm to the Internet than ad tech. It 
 <div><cite>&mdash;Bob Hoffman (<a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a>) quoted by <a href="http://www.bloomberg.com/features/2015-click-fraud/"><em>Bloomberg Business</em></a></cite></div>
 </blockquote>
 
-My 93-year-old mom called the other day, almost in tears. Her browser had been taken over by popups that re-popped up every time she closed them, even after quitting and relaunching the browser, the slimy site (that she'd clicked to from a link at RealClearPolitics) and putrid popups persisted. My mother was another victim of modern advertising.
+My 93-year-old mom called the other day, almost in tears. Her browser had been taken over by popups that re-popped up every time she closed them. The slimy site (that she'd clicked to from RealClearPolitics) and its putrid popups persisted even after quitting and relaunching the browser. My mother was another victim of modern advertising.
 
 <h2>Old hotness, new and busted</h2>
 
