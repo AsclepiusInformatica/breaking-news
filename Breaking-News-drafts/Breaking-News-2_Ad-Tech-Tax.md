@@ -2,7 +2,7 @@
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Plymouth-1961-ad-turnpikes-shorter.jpg?raw=true" alt="1961 Plymouth car ad: Are they making turnpikes shorter this year?" />  
 
-<h1>Breaking News 2: The Ad Tech Tax, When Good Ads Go Bad</h1>
+<h1>Breaking News 2: When Good Ads Go Bad, The Ad Tech Tax</h1>
 
 <em><strong>Breaking News</strong> is a series on the self-inflicted fractures breaking the news business. This second report is on the "ad tech tax" everyone pays, in dollars, time, and readership.</em>
 _____________________
