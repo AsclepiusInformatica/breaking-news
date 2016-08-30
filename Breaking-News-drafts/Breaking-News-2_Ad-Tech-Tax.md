@@ -48,13 +48,13 @@ So, 85 percent of paid-for impresssions are either bogus, broken, or bot-hits. R
 <cite>&mdash;<em>MediaPost</em> <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">"The Definition Of An Ad Impression"</a></cite>
 </blockquote>
 
-Not only can't big-data-driven ads target specific populations, most of the time ad tech can't even find a single person. That's good. Maybe no one will notice big data just blundered into a buy on a jihadi website.
+Not only can't big-data-driven ads target specific populations, most of the time ad tech can't even find a single person. That cn be good, for instance, when big data bladly blunders a buy.
 
-<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiR4uW9t-nOAhUU0WMKHWbJAfMQFggeMAA&url=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Fb06d18c0-1bfb-11e6-8fa5-44094f6d9c46.html&usg=AFQjCNHQ9c1XxyOrZGi_JjmpWfIJR1l3_A&sig2=DRKy3VsUTXevRYsimr50PA">"Jihadi website with beheadings profited from Google ad platform</a> was the Finacial Time headline. Their video explains:
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiR4uW9t-nOAhUU0WMKHWbJAfMQFggeMAA&url=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Fb06d18c0-1bfb-11e6-8fa5-44094f6d9c46.html&usg=AFQjCNHQ9c1XxyOrZGi_JjmpWfIJR1l3_A&sig2=DRKy3VsUTXevRYsimr50PA">"Jihadi website with beheadings profited from Google ad platform"</a> was the Finacial Time headline. Their video explains:
 Financial Times  
 <video width="600" height="400" controls>
   <source src="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4" type="video/mp4">
-<em>Your browser does not support the video tag.</em?]>
+<!-- em>Your browser does not support the video tag.</em -->]>
 </video>
 [![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/MAS-FT-Business-PrinceOfJihad.jpg)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
 
