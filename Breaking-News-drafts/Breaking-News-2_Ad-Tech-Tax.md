@@ -29,18 +29,12 @@ The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com
 <h2>Ad targetting: bullseye or bullshit?</h2>
 
 <blockquote>
-When you open a web page, information such as age, sex, location and search history are zapped to buyers vying for your attention. Bundled with 999 other people, those eyeballs are offered to the highest bidder, usually ad agencies and their clients, which can range from big public companies such as Apple Inc. to local car dealerships.
-<div><cite>&mdash;<em>Bloomberg</em> <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">"High-Speed Ad Traders Profit by Arbitraging Your Eyeballs"</a></cite></div>
+A user clicks on a website and suddenly her Internet address and browsing history are packaged and whisked off to an auction site, where software, on behalf of advertisers, scrutinizes her profile (or an anonymized version of it) and determines whether to bid to place an ad next to that article. Ford Motor could pay to put its ads on websites for car buffs, or, with the help of cookies, track car buffs wherever they may be online. Ford might want to target males age 25-40 for pickup-truck ads, or, better yet, anybody in that age group who’s even read about pickups in the past six months.
+<div><cite>&mdash;<em>Bloomberg Business</em> <a href="http://www.bloomberg.com/features/2015-click-fraud/">"The Fake Traffic Schemes That Are Rotting the Internet"</a></cite></div>
 </blockquote>
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/IAB-Programmatic-CPM.png?raw=true" />  
 <em><a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Anatomy of a Programmatic CPM</a>, Interactive Advertising Bureau</em>
-
-
-<blockquote>
-A user clicks on a website and suddenly her Internet address and browsing history are packaged and whisked off to an auction site, where software, on behalf of advertisers, scrutinizes her profile (or an anonymized version of it) and determines whether to bid to place an ad next to that article. Ford Motor could pay to put its ads on websites for car buffs, or, with the help of cookies, track car buffs wherever they may be online. Ford might want to target males age 25-40 for pickup-truck ads, or, better yet, anybody in that age group who’s even read about pickups in the past six months.
-<div><cite>&mdash;<em>Bloomberg Business</em> <a href="http://www.bloomberg.com/features/2015-click-fraud/">"The Fake Traffic Schemes That Are Rotting the Internet"</a></cite></div>
-</blockquote>
 
 <h2>Making a bad impression</h2>
 
@@ -54,10 +48,17 @@ So, 85 percent of paid-for impresssions are either bogus, broken, or bot-hits. R
 <cite>&mdash;<em>MediaPost</em> <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">"The Definition Of An Ad Impression"</a></cite>
 </blockquote>
 
-<img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
-<em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
+Not only can't big-data-driven ads target specific populations, most of the time ad tech can't even find a single person. That's good. Maybe no one will notice big data just blundered into a buy on a jihadi website.
 
-<h2>We know what you bought last summer</h2>
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiR4uW9t-nOAhUU0WMKHWbJAfMQFggeMAA&url=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Fb06d18c0-1bfb-11e6-8fa5-44094f6d9c46.html&usg=AFQjCNHQ9c1XxyOrZGi_JjmpWfIJR1l3_A&sig2=DRKy3VsUTXevRYsimr50PA">"Jihadi website with beheadings profited from Google ad platform</a> was the Finacial Time headline. Their video explains:
+Financial Times  
+<video width="600" height="400" controls>
+  <source src="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4" type="video/mp4">
+<em>Your browser does not support the video tag.</em?]>
+</video>
+[![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/MAS-FT-Business-PrinceOfJihad.jpg)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
+
+<h2>We know what you did last summer</h2>
 
 <blockquote>
 My full IP address is being passed around like chips at a Super Bowl party: a total of 291 times.
@@ -69,7 +70,12 @@ Not only is ad tech cluttering up people's screens with ads that are designed to
 <div><cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite></div>
 </blockquote>
 
-<h2>When good ads go bad</h2>
+<img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
+<em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
+
+<h2The wrong advertising</h2>
+
+David Ogilvy, the OG of Mad Men:
 <blockquote>
 <p>The wrong advertising can actually reduce the sales of a product. I am told that George Hay Brown, at one time head of marketing research at Ford, inserted advertisements in every other copy of the Reader's Digest. At the end of the year, the people who had not been exposed to the advertising had bought more Fords than those who had.</p>
 
@@ -79,8 +85,10 @@ Not only is ad tech cluttering up people's screens with ads that are designed to
 <cite>&mdash;David Ogilvy, <a href="https://books.google.com/books?id=hVFwAAAAQBAJ&pg=PT12&dq=%22The+wrong+advertising+can+actually+reduce+the+sales+of+a+product%22&hl=en&sa=X&ved=0ahUKEwjx3JL0l8vNAhUJ5IMKHbrWDwMQ6AEIJDAB#v=onepage&q=%22The%20wrong%20advertising%20can%20actually%20reduce%20the%20sales%20of%20a%20product%22&f=false"><em>Ogilvy on Advertising</em></a></cite>
 </blockquote>
 
+Quaint, even antiquainted. 
 
-
+<img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
+<em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
 
  
 <blockquote>
@@ -158,20 +166,22 @@ addicted to analytics. Maybe it's CYA, maybe they're bedazzled by spreadsheets. 
 </blockquote>
 
 
-Say you want to tartget your ad to brogrammers running ad-tech rackets. You simply puchase a steaming pile of Big Data that cross-tabs chronic Disrupt attendees with dailt tweeters with frequent Ferrari web visitors. Instantly half the phones in Palo Alto light up with your product.
+Say you want to target your ad to brogrammers running ad-tech rackets. You simply puchase a steaming pile of Big Data that cross-tabs chronic Disrupt attendees with dailt tweeters with frequent Ferrari web visitors. Instantly half the phones in Palo Alto light up with your product.
 
 It doesn't always work this way, though, and by "not always" I mean "almost never."
 
-<video width="600" height="400" controls>
-  <source src="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
 
-[![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/MAS-FT-Business-PrinceOfJihad.jpg)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
 
 <hr />
 
 Plymouth ad: https://books.google.com/books?id=yEUEAAAAMBAJ&pg=PA46&lpg=PA46&dq=are+they+making+turnpikes+shorter+plymouth&source=bl&ots=pviURLWep9&sig=BdR1QzUVMZHIAhHCis7xU2FWaPo&hl=en&sa=X&ved=0ahUKEwjOqbqiguLOAhVEKGMKHSNTA7UQ6AEIIzAB#v=onepage&q=are%20they%20making%20turnpikes%20shorter%20plymouth&f=false
+
+<blockquote>
+When you open a web page, information such as age, sex, location and search history are zapped to buyers vying for your attention. Bundled with 999 other people, those eyeballs are offered to the highest bidder, usually ad agencies and their clients, which can range from big public companies such as Apple Inc. to local car dealerships.
+<div><cite>&mdash;<em>Bloomberg</em> <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">"High-Speed Ad Traders Profit by Arbitraging Your Eyeballs"</a></cite></div>
+</blockquote>
+
+<a href="https://next.ft.com/content/b06d18c0-1bfb-11e6-8fa5-44094f6d9c46">"Jihadi website with beheadings profited from Google ad platform</a>
 
 <blockquote>
 Xxx
