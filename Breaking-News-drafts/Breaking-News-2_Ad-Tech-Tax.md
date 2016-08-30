@@ -31,10 +31,12 @@ A user clicks on a website and suddenly her Internet address and browsing histor
 <div><cite>&mdash;<em>Bloomberg Business</em> <a href="http://www.bloomberg.com/features/2015-click-fraud/">"The Fake Traffic Schemes That Are Rotting the Internet"</a></cite></div>
 </blockquote>
 
-"Ad tech" is the new automated way we now buy, sell, deliver, and display online advertising. The surcharge for this data-driven automation is the "ad tech tax."
+"Ad tech" is the new automated way we buy, sell, deliver, and display online advertising. The surcharge for this data-driven automation is the "ad tech tax."
+
+You're free to try to figure out how a typical ad buy from this Interactive Advertising Bureau chart of the <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Anatomy of a Programmatic CPM</a> (cost per thousand impressions):
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/IAB-Programmatic-CPM.png?raw=true" />  
-<em><a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Anatomy of a Programmatic CPM</a>, Interactive Advertising Bureau</em>
+
 
 <h2>Making a bad impression</h2>
 
