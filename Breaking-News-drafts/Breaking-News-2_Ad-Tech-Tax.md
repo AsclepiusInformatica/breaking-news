@@ -18,13 +18,11 @@ My 93-year-old mom called the other day, almost in tears. Her browser had been t
 
 <img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ad-plymouth.jpg?raw=true">Once upon a time, an advertiser contracted a media agency to place specific advertisments in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of ad's cost; the publishers pocketed the rest.
 
-This type of advertising built the brands of nearly every major product and service you've ever heard of. So, obviously, the whole process was in need of radical disruption.
+This type of advertising built the brands of nearly every major product and service you've ever heard of. So, obviously, the entire industry process needed radical disruption.
 
-Legions of millenials began innovating advertising technologies. They strategically leveraged social media data. They impacted highly engaged conversations. And they radically raised their rates.
+Legions of brogrammers began innovating advertising technologies, claiming to: "Build, run, measure and optimize retargeting-driven display campaigns." "Deliver cohesive messaging to qualified consumers at scale." "Analyze first-party premium publisher site level data to pinpoint active consumer intent." (All real company slogans, <a href="http://www.urbandictionary.com/define.php?term=YCMTSU">YCMTSU</a>.) Mainly they did, though, was radically raise thir rates.
 
-The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>. It costs money for brands to butt into all those strategically impacted conversations.
-
-"Ad tech" is the new automated way we now buy, sell, deliver, and display online advertising. The surcharge for this data-driven automation is the "ad tech tax."
+The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>.
 
 <h2>Ad targetting: bullseye or bullshit?</h2>
 
@@ -32,6 +30,8 @@ The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com
 A user clicks on a website and suddenly her Internet address and browsing history are packaged and whisked off to an auction site, where software, on behalf of advertisers, scrutinizes her profile (or an anonymized version of it) and determines whether to bid to place an ad next to that article. Ford Motor could pay to put its ads on websites for car buffs, or, with the help of cookies, track car buffs wherever they may be online. Ford might want to target males age 25-40 for pickup-truck ads, or, better yet, anybody in that age group who’s even read about pickups in the past six months.
 <div><cite>&mdash;<em>Bloomberg Business</em> <a href="http://www.bloomberg.com/features/2015-click-fraud/">"The Fake Traffic Schemes That Are Rotting the Internet"</a></cite></div>
 </blockquote>
+
+"Ad tech" is the new automated way we now buy, sell, deliver, and display online advertising. The surcharge for this data-driven automation is the "ad tech tax."
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/IAB-Programmatic-CPM.png?raw=true" />  
 <em><a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Anatomy of a Programmatic CPM</a>, Interactive Advertising Bureau</em>
