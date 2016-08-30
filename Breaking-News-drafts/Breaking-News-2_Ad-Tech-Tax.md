@@ -2,7 +2,7 @@
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Plymouth-1961-ad-turnpikes-shorter.jpg?raw=true" alt="1961 Plymouth car ad: Are they making turnpikes shorter this year?" />  
 
-<h1>Breaking News 2: When Good Ads Go Bad, The Ad Tech Tax</h1>
+<h1>Breaking News 2: When Good Ads Go Bad</h1>
 
 <em><strong>Breaking News</strong> is a series on the self-inflicted fractures breaking the news business. This second report is on the "ad tech tax" everyone pays, in dollars, time, and readership.</em>
 _____________________
@@ -65,6 +65,13 @@ My full IP address is being passed around like chips at a Super Bowl party: a to
 <div><cite>&mdash;Rob Leathern (CEO of <a href="http://optimal.com/">Optimal.com<a>), <a href="https://medium.com/@robleathern/the-mobile-video-ad-lie-938a6de51367#.pplm5xgkz">"The Mobile Video Ad Lie"</a></cite></div>
 </blockquote>
 
+"Traxonomy," that's what my friend <a href="http://code.stonetip.com/">Jon Nehring</a> call this tracking economy. He sent this screenshot:
+
+Tracking
+privacy
+Creepy
+Page-speed
+
 <blockquote>
 Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.
 <div><cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite></div>
@@ -73,7 +80,24 @@ Not only is ad tech cluttering up people's screens with ads that are designed to
 <img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
 <em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
 
-<h2The wrong advertising</h2>
+<h2>Vitaman $ deficiency</h2>
+
+<blockquote>
+<p>As a result, online advertising efficiency has been decreasing for years, and companies have to spend more ad dollars for the same result. The process of ad placement has become ever more automated, obscure and complex, while intermediaries have multiplied, each taking a cut from the client's initial ad budget. Controls and regulations are nonexistent, and a big chunk of ad spending is being stolen, plain and simple.</p>
+
+<p>Websites have been invaded by click ads, display ads, and forced video ad views. Naturally, Internet users have grown sick and tired of this ad pollution, and have started installing ad blocking software. What makes this trend worse is that users who install ad blockers first, tend to be the more sophisticated and the more affluent ones</p>
+<cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">"End Of The Online Advertising Bubble"</a></cite>
+</blockquote>
+
+Ad effciciency
+
+
+Ogilvy
+
+Open source, brave, EFF
+
+
+<h2>The wrong advertising</h2>
 
 David Ogilvy, the OG of Mad Men:
 <blockquote>
@@ -91,12 +115,7 @@ Quaint, even antiquainted.
 <em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
 
  
-<blockquote>
-<p>As a result, online advertising efficiency has been decreasing for years, and companies have to spend more ad dollars for the same result. The process of ad placement has become ever more automated, obscure and complex, while intermediaries have multiplied, each taking a cut from the client's initial ad budget. Controls and regulations are nonexistent, and a big chunk of ad spending is being stolen, plain and simple.</p>
 
-<p>Websites have been invaded by click ads, display ads, and forced video ad views. Naturally, Internet users have grown sick and tired of this ad pollution, and have started installing ad blocking software. What makes this trend worse is that users who install ad blockers first, tend to be the more sophisticated and the more affluent ones</p>
-<cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">"End Of The Online Advertising Bubble"</a></cite>
-</blockquote>
 
 <h2>Addicted to big data</h2>
 Ad tech companies lose money. The only way they exist and survive is convincing investors that someday their scheme will prove pofitable. 
