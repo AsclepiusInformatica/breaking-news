@@ -207,3 +207,7 @@ When you open a web page, information such as age, sex, location and search hist
 Xxx
 <div><cite>&mdash;<a href="aaa">Yaa</a> <em>Zzz</em></cite></div>
 </blockquote>
+
+<details>
+Testing hidden details.
+</details>
