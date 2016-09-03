@@ -24,7 +24,7 @@ Legions of brogrammers began innovating advertising technologies, claiming to: "
 
 The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>.
 
-<h2>Ad targetting: bullseye or bullshit?</h2>
+<h2>The ad tech tax</h2>
 
 <blockquote>
 A user clicks on a website and suddenly her Internet address and browsing history are packaged and whisked off to an auction site, where software, on behalf of advertisers, scrutinizes her profile (or an anonymized version of it) and determines whether to bid to place an ad next to that article. Ford Motor could pay to put its ads on websites for car buffs, or, with the help of cookies, track car buffs wherever they may be online. Ford might want to target males age 25-40 for pickup-truck ads, or, better yet, anybody in that age group who’s even read about pickups in the past six months.
@@ -36,24 +36,6 @@ A user clicks on a website and suddenly her Internet address and browsing histor
 You're free to try to figure out how a typical ad buy from this Interactive Advertising Bureau chart of the <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Anatomy of a Programmatic CPM</a> (cost per thousand impressions):
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/IAB-Programmatic-CPM.png?raw=true" />  
-
-> The efficiency of online advertising has been in decline for years…
-
-> Chart 6:Change in advertising and sales, from 2010 to 2015 (source: SEC 10-K filings)  
-<img src="https://kalkis-research.com/imagecache/532f1ae2393a0502f601a1c4be46036f.png">
-
-> The ecosystem has become obscure, complex, and intermediaries are taking an ever bigger cut
-<https://kalkis-research.com/google-end-of-the-online-advertising-bubble> 
-
-<https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web>  
-> Ad efficiency is declining…
-
-> Chart 5:Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and Ebay (source: SEC 10-K filings 2010 through 2015, Kalkis Research)
-<img src="https://kalkis-research.com/imagecache/8ebb0582bdbaa85c4dc2fcf662bfccde.png">
-
-> Ad tech has focused on automatization and economies of scale, which has enabled them to place low-cost ads on the murkiest of websites, because the cost of placing an ad has become so low. This rush to subprime ad space ended up hurting the high end of the market as well, as Internet users become tired of ads in general. You can only make up for low margins with volume for so long
-
-The only thing online advertising is selling effectively is ad blockers, which Doc Searl calls "the biggest boycott in history."
 
 <h2>Making a bad impression</h2>
 
@@ -85,6 +67,32 @@ My full IP address is being passed around like chips at a Super Bowl party: a to
 
 "Traxonomy," that's what my friend <a href="http://code.stonetip.com/">Jon Nehring</a> call this tracking economy. He sent this screenshot:
 
+<h2>Ad targetting: bullseye or bullshit?</h2>
+> The efficiency of online advertising has been in decline for years…
+
+> Chart 6:Change in advertising and sales, from 2010 to 2015 (source: SEC 10-K filings)  
+<img src="https://kalkis-research.com/imagecache/532f1ae2393a0502f601a1c4be46036f.png">
+
+<blockquote>
+<p>As a result, online advertising efficiency has been decreasing for years, and companies have to spend more ad dollars for the same result. The process of ad placement has become ever more automated, obscure and complex, while intermediaries have multiplied, each taking a cut from the client's initial ad budget. Controls and regulations are nonexistent, and a big chunk of ad spending is being stolen, plain and simple.</p>
+
+<p>Websites have been invaded by click ads, display ads, and forced video ad views. Naturally, Internet users have grown sick and tired of this ad pollution, and have started installing ad blocking software. What makes this trend worse is that users who install ad blockers first, tend to be the more sophisticated and the more affluent ones</p>
+<cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">"End Of The Online Advertising Bubble"</a></cite>
+</blockquote>
+
+> The ecosystem has become obscure, complex, and intermediaries are taking an ever bigger cut
+<https://kalkis-research.com/google-end-of-the-online-advertising-bubble> 
+
+<https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web>  
+> Ad efficiency is declining…
+
+> Chart 5:Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and Ebay (source: SEC 10-K filings 2010 through 2015, Kalkis Research)
+<img src="https://kalkis-research.com/imagecache/8ebb0582bdbaa85c4dc2fcf662bfccde.png">
+
+> Ad tech has focused on automatization and economies of scale, which has enabled them to place low-cost ads on the murkiest of websites, because the cost of placing an ad has become so low. This rush to subprime ad space ended up hurting the high end of the market as well, as Internet users become tired of ads in general. You can only make up for low margins with volume for so long
+
+The only thing online advertising sells well is ad blockers, which Doc Searl calls "the biggest boycott in history."
+
 Tracking
 privacy
 Creepy
@@ -98,14 +106,9 @@ Not only is ad tech cluttering up people's screens with ads that are designed to
 <img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
 <em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
 
-<h2>Vitaman $ deficiency</h2>
 
-<blockquote>
-<p>As a result, online advertising efficiency has been decreasing for years, and companies have to spend more ad dollars for the same result. The process of ad placement has become ever more automated, obscure and complex, while intermediaries have multiplied, each taking a cut from the client's initial ad budget. Controls and regulations are nonexistent, and a big chunk of ad spending is being stolen, plain and simple.</p>
 
-<p>Websites have been invaded by click ads, display ads, and forced video ad views. Naturally, Internet users have grown sick and tired of this ad pollution, and have started installing ad blocking software. What makes this trend worse is that users who install ad blockers first, tend to be the more sophisticated and the more affluent ones</p>
-<cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">"End Of The Online Advertising Bubble"</a></cite>
-</blockquote>
+
 
 Ad effciciency
 
@@ -129,8 +132,6 @@ David Ogilvy, the OG of Mad Men:
 
 Quaint, even antiquainted. 
 
-<img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
-<em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
 
  
 
