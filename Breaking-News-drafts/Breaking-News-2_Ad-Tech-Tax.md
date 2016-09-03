@@ -53,6 +53,7 @@ You're free to try to figure out how a typical ad buy from this Interactive Adve
 
 > Ad tech has focused on automatization and economies of scale, which has enabled them to place low-cost ads on the murkiest of websites, because the cost of placing an ad has become so low. This rush to subprime ad space ended up hurting the high end of the market as well, as Internet users become tired of ads in general. You can only make up for low margins with volume for so long
 
+The only thing online advertising is selling effectively is ad blockers, which Doc Searl calls "the biggest boycott in history."
 
 <h2>Making a bad impression</h2>
 
