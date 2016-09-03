@@ -4,7 +4,7 @@
 
 <h1>Breaking News 2: When Good Ads Go Bad</h1>
 
-<em><strong>Breaking News</strong> is a series on the self-inflicted fractures breaking the news business. This second report is on the "ad tech tax" everyone pays, in dollars, time, and readership.</em>
+<em><strong>Breaking News</strong> is a series on the self-inflicted fractures breaking the news business. This second report is on the "ad tech tax" everyone pays, in dollars, time and readership.</em>
 _____________________
 
 <blockquote>
@@ -31,11 +31,12 @@ A user clicks on a website and suddenly her Internet address and browsing histor
 <div><cite>&mdash;<em>Bloomberg Business</em> <a href="http://www.bloomberg.com/features/2015-click-fraud/">"The Fake Traffic Schemes That Are Rotting the Internet"</a></cite></div>
 </blockquote>
 
-"Ad tech" is the new automated way we buy, sell, deliver, and display online advertising. The surcharge for this data-driven automation is the "ad tech tax."
+"Ad tech" is the new automated way we buy, sell, deliver, and display online advertising. The "ad tech tax" is the cost of this complexity.
 
-You're free to try to figure out how a typical ad buy from this Interactive Advertising Bureau chart of the <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Anatomy of a Programmatic CPM</a> (cost per thousand impressions):
+Good luck following this <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Interactive Advertising Bureau chart</a> of a typical ad buy:  
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/IAB-Programmatic-CPM.png?raw=true" />  
+<a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Anatomy of a Programmatic CPM</a> (cost per thousand impressions; the other acronyms, DSP, SSP and DMP, are Platforms: Demand-side, Sell-side and Data Management):
 
 <h2>Making a bad impression</h2>
 
