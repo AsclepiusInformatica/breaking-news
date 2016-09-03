@@ -66,12 +66,28 @@ My full IP address is being passed around like chips at a Super Bowl party: a to
 <div><cite>&mdash;Rob Leathern (CEO of <a href="http://optimal.com/">Optimal.com<a>), <a href="https://medium.com/@robleathern/the-mobile-video-ad-lie-938a6de51367#.pplm5xgkz">"The Mobile Video Ad Lie"</a></cite></div>
 </blockquote>
 
-Ad tech is ravenous for more data, for your data. It doesn't care how long you wait for a webpage (or how much more you pay your cell provider) as long as it gets its big-data feeding frenzy.
+Ad tech is ravenous for more data, for your data. We sacrifice our privacy, our patience (waiting for webpages) and our pocketbooks (cellphone plans) so that ad tech can gorge on our personal information.
 
+My friend <a href="http://code.stonetip.com/">Jon Nehring</a> calls it "traxonomy," the tracking economy. He sent this screenshot:
 
 also see <a href="http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html">"The Cost of Mobile Ads on 50 News Websites"</a> NY Times).
 
-"Traxonomy," that's what my friend <a href="http://code.stonetip.com/">Jon Nehring</a> call this tracking economy. He sent this screenshot:
+<blockquote>
+<p>Each ad gets its own iframe, so load is asynchronous and, if one fails, it doesn't kill the entire site. Unfortunately, that also means each one fires its own trackers, even if those trackers are identical across ads. It's terribly inefficient</p>
+
+<p>We've tried to find or figure out a way to streamline them, but haven't been able to. They're built into the foundations of all the major networks, ad and social, ostensibly to provide more "relevant" content.</p>
+<cite>&mdash;<a href="http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it">"Content blockers, bad ads, and what we're doing about it,"</a> iMore</cite>
+</blockquote>
+
+The intent was that each web user would remain anonymous. Not only who you are you're giving up your friends' info too.
+
+On the Leakage of Personally Identifiable Information Via Online Social Networks  ☑ 
+http://conferences.sigcomm.org/sigcomm/2009/workshops/wosn/papers/p7.pdf
+Researchers at AT&T Labs and Worcester Polytechnic Institute
+
+
+
+
 
 <h2>Ad targetting: bullseye or bullshit?</h2>
 > The efficiency of online advertising has been in decline for years…
@@ -199,15 +215,7 @@ addicted to analytics. Maybe it's CYA, maybe they're bedazzled by spreadsheets. 
 <cite>&mdash;<em>TechCrunch</em> <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">"Are Bots Hijacking Your Marketing Budget?"</a></cite>
 </blockquote>
 
-<em>iMore</em>, the Apple news site, on "The Black Box":
-<blockquote>
-<p>Each ad gets its own iframe, so load is asynchronous and, if one fails, it doesn't kill the entire site. Unfortunately, that also means each one fires its own trackers, even if those trackers are identical across ads. It's terribly inefficient…</p>
 
-<p>Just as desktop ads pay far less than old-fashioned print ads, mobile ads pay far less than desktop. Because phone displays are smaller than desktop, ads are also far harder to ignore. They're not off to the side or a small strip on a big screen. They're in our faces and in our way…</p>
-
-<p>You'd think the ad industry would be at the forefront of user experience, and that making gorgeous, high performance, highly engaging ads would boost conversion and ultimately income for everyone. Unfortunately, it seems like whatever math they're running shows bad ads perform well enough that making great ads isn't worth the extra effort.</p>
-<cite>&mdash;<em>iMore</em> <a href="http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it">"Content blockers, bad ads, and what we're doing about it"</a></cite>
-</blockquote>
 
 
 Say you want to target your ad to brogrammers running ad-tech rackets. You simply puchase a steaming pile of Big Data that cross-tabs chronic Disrupt attendees with dailt tweeters with frequent Ferrari web visitors. Instantly half the phones in Palo Alto light up with your product.
