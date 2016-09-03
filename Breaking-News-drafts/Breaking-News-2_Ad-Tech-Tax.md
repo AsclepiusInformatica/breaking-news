@@ -36,7 +36,7 @@ A user clicks on a website and suddenly her Internet address and browsing histor
 Good luck following this <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Interactive Advertising Bureau chart</a> of a typical ad buy:  
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/IAB-Programmatic-CPM.png?raw=true" />  
-<a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Anatomy of a Programmatic CPM</a> (cost per thousand impressions; the other acronyms, DSP, SSP and DMP, are Platforms: Demand-side, Sell-side and Data Management):
+<em><a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Anatomy of a Programmatic CPM</a> (CPM = cost per thousand impressions; DSP, SSP and DMP, are Platforms: Demand-side, Sell-side and Data Management)</em>
 
 <h2>Making a bad impression</h2>
 
