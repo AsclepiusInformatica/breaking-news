@@ -37,6 +37,22 @@ You're free to try to figure out how a typical ad buy from this Interactive Adve
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/IAB-Programmatic-CPM.png?raw=true" />  
 
+> The efficiency of online advertising has been in decline for years…
+
+> Chart 6:Change in advertising and sales, from 2010 to 2015 (source: SEC 10-K filings)  
+<img src="https://kalkis-research.com/imagecache/532f1ae2393a0502f601a1c4be46036f.png">
+
+> The ecosystem has become obscure, complex, and intermediaries are taking an ever bigger cut
+<https://kalkis-research.com/google-end-of-the-online-advertising-bubble> 
+
+<https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web>  
+> Ad efficiency is declining…
+
+> Chart 5:Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and Ebay (source: SEC 10-K filings 2010 through 2015, Kalkis Research)
+<img src="https://kalkis-research.com/imagecache/8ebb0582bdbaa85c4dc2fcf662bfccde.png">
+
+> Ad tech has focused on automatization and economies of scale, which has enabled them to place low-cost ads on the murkiest of websites, because the cost of placing an ad has become so low. This rush to subprime ad space ended up hurting the high end of the market as well, as Internet users become tired of ads in general. You can only make up for low margins with volume for so long
+
 
 <h2>Making a bad impression</h2>
 
