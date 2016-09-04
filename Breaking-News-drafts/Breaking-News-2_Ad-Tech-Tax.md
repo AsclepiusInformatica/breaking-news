@@ -160,7 +160,11 @@ The only thing online advertising sells well is ad blockers, which Doc Searl cal
 <hr /><hr /><hr />
 Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for coining "traxonomy" and sending the Ghostery screenshot.
 
-<iframe src="http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ" allowscriptaccess="always" frameborder="0">Iframes not supported.</iframe> 
+<iframe src="http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ" allowscriptaccess="always" frameborder="0">
+Iframes not supported. Video URL:  
+http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ
+</iframe>
+
 
 Ad effciciency
 
