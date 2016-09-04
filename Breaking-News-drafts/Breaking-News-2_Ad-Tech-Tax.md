@@ -83,6 +83,9 @@ Stuffing all these scripts down our browser's throats is choking online news. My
 <cite>&mdash;<a href="http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it">"Content blockers, bad ads, and what we're doing about it,"</a> iMore</cite>
 </blockquote>
 
+<img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
+<em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
+
 Ad tracking pisses people off. Ad stalking creeps people out. Ad tech takes the top spots in user surveys on bad online experience:
 
 <blockquote>
@@ -112,8 +115,6 @@ Not only is ad tech cluttering up people's screens with ads that are designed to
 <div><cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite></div>
 </blockquote>
 
-<img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
-<em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
 
 
 
