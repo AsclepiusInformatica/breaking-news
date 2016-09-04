@@ -83,7 +83,7 @@ Stuffing all these scripts down our browser's throats is choking online news. My
 <cite>&mdash;<a href="http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it">"Content blockers, bad ads, and what we're doing about it,"</a> iMore</cite>
 </blockquote>
 
-Ad tracking pisses people off. Ad stalking creeps people out. Ad tech takes the top places when users are asked what ruins their online experience:
+Ad tracking pisses people off. Ad stalking creeps people out. Ad tech takes the top spots in user surveys on bad online experience:
 
 <blockquote>
 How annoying are each of the following mobile ads?
@@ -107,6 +107,13 @@ What respondents dislike about websites:
 
 Two-thirds of Neustar's respondents checked: "I do not trust websites that take too long to load: 67%" in a list of "Perceptions about trustworthy newssites." (Grammerians, rejoice, #1 was "I do not trust websites that contain errors or mistakes: 91%".)
 
+<blockquote>
+Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.
+<div><cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite></div>
+</blockquote>
+
+<img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
+<em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
 
 
 
@@ -117,9 +124,6 @@ Two-thirds of Neustar's respondents checked: "I do not trust websites that take 
 
 
 
-
-<hr /><hr /><hr />
-Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for coining "traxonomy" and sending the Ghostery screenshot.
 
 <h2>Ad targetting: bullseye or bullshit?</h2>
 > The efficiency of online advertising has been in decline for years…
@@ -147,20 +151,12 @@ Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for coining "traxo
 
 The only thing online advertising sells well is ad blockers, which Doc Searl calls "the biggest boycott in history."
 
-Tracking
-privacy
-Creepy
-Page-speed
-
-<blockquote>
-Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.
-<div><cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite></div>
-</blockquote>
-
-<img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
-<em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
 
 
+
+
+<hr /><hr /><hr />
+Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for coining "traxonomy" and sending the Ghostery screenshot.
 
 
 
