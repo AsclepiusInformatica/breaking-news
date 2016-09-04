@@ -62,12 +62,13 @@ After Google's botched buys for Citigroup, IBM and Microsoft, the Finacial Times
 
 <h2>We know what you did last summer</h2>
 
+<img align="right" width="250" src="https://github.com/hearvox/breaking-news/blob/master/assets/ghostery-verge-285x838.png?raw=true">
 <blockquote>
 My full IP address is being passed around like chips at a Super Bowl party: a total of 291 times.
 <div><cite>&mdash;Rob Leathern (CEO of <a href="http://optimal.com/">Optimal.com<a>), <a href="https://medium.com/@robleathern/the-mobile-video-ad-lie-938a6de51367#.pplm5xgkz">"The Mobile Video Ad Lie"</a></cite></div>
 </blockquote>
 
-<img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ghostery-verge-285x838.png?raw=true">The screenshot at right is a <a href="https://www.ghostery.com/">Ghostery</a> list all the scripts loaded by TheVerge.com, mostly for ads, social sites, and their asscoiated tracking. Ad-blocked the page weight was 938 KB. Unblocked it's 10.3 MB, more than 11-times larger.
+The screenshot at right is a <a href="https://www.ghostery.com/">Ghostery</a> list all the scripts loaded by TheVerge.com, mostly for ads, social sites, and their asscoiated tracking. Ad-blocked the page weight was 938 KB. Unblocked it's 10.3 MB, more than 11-times larger.
 
 Ad tech is ravenous for data, for your data. We sacrifice our patience (waiting for webpages), our privacy and our pocketbooks (cellphone plans) so ad tech can gorge on our private parts. 
 
