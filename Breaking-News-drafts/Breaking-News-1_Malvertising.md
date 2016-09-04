@@ -1,3 +1,6 @@
+Now published:  
+https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising
+
 <em>[Draft of article]</em>
 
 <em><strong>Breaking News</strong> is a series on the fractures breaking the news business (mostly self-inflicted). My <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">Reynolds Journalism Institute research</a> showed how molasses-slow newspaper websites are. The main culprit isn't ads, as many assume, but rather the cruft that comes with ads. This first report is on the malignant effects of ad tech.</em>
