@@ -67,9 +67,20 @@ My full IP address is being passed around like chips at a Super Bowl party: a to
 <div><cite>&mdash;Rob Leathern (CEO of <a href="http://optimal.com/">Optimal.com<a>), <a href="https://medium.com/@robleathern/the-mobile-video-ad-lie-938a6de51367#.pplm5xgkz">"The Mobile Video Ad Lie"</a></cite></div>
 </blockquote>
 
-Ad tech is ravenous for more data, for your data. We sacrifice our privacy, our patience (waiting for webpages) and our pocketbooks (cellphone plans) so that ad tech can gorge on our personal information.
+My friend <a href="http://code.stonetip.com/">Jon Nehring</a> calls this tracking economy of ours the "traxonomy." He sent this screenshot, at right, of Ghostery listing all the scripts loaded by TheVerge.com
 
-My friend <a href="http://code.stonetip.com/">Jon Nehring</a> calls it "traxonomy," the tracking economy. He sent this screenshot:
+Blocked, page load was 938K. Unblocked 10.3 Mb. Over 11X bigger.
+
+<img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ghostery-verge-285x838.png?raw=true">Ad tech is ravenous for more data, for your data. We sacrifice our privacy, our patience (waiting for webpages) and our pocketbooks (cellphone plans) so ad tech can gorge on our personal parts. 
+
+By "personal", I mean, you individually. Ad tech and social site tracking combined can now individually identify who you are, who your firends are, and what you and they do online, and wh friends. Read and weep: <a href="http://conferences.sigcomm.org/sigcomm/2009/workshops/wosn/papers/p7.pdf
+">"On the Leakage of Personally Identifiable Information Via Online Social Networks"</a>, by AT&T Labs and Worcester Polytechnic Institute researchers.
+
+traxonomy
+
+
+
+
 
 also see <a href="http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html">"The Cost of Mobile Ads on 50 News Websites"</a> NY Times).
 
@@ -82,13 +93,10 @@ also see <a href="http://www.nytimes.com/interactive/2015/10/01/business/cost-of
 
 The intent was that each web user would remain anonymous. Not only who you are you're giving up your friends' info too.
 
-On the Leakage of Personally Identifiable Information Via Online Social Networks  ☑ 
-http://conferences.sigcomm.org/sigcomm/2009/workshops/wosn/papers/p7.pdf
-Researchers at AT&T Labs and Worcester Polytechnic Institute
 
 
 
-
+<hr /><hr /><hr />
 
 <h2>Ad targetting: bullseye or bullshit?</h2>
 > The efficiency of online advertising has been in decline for years…
