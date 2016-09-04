@@ -115,24 +115,29 @@ Not only is ad tech cluttering up people's screens with ads that are designed to
 <div><cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite></div>
 </blockquote>
 
-
-
-
-
-
-
-
-
-
-
-
 <h2>Ad targetting: bullseye or bullshit?</h2>
-All this big-data-driven precision-targeted advertising must be resulting in soaring sales figures, right?
+All this advanced advertising technology must be producing some soaring sales figures, right?
 
-Wrong. Just the opposite. The efficiency of online advertising is in a nosedive:
+Wrong. Just the opposite. The efficiency of online advertising is in a nosedive. This chart shows rapid decline in the ratio of dollars of revenue to dollars spent on digital marketing:
 
 <img src="https://kalkis-research.com/imagecache/8ebb0582bdbaa85c4dc2fcf662bfccde.png">
-<em>:Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and Ebay (source: SEC 10-K filings 2010 through 2015, Kalkis Research), <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a></em>
+<div><em>Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and Ebay (source: SEC 10-K filings 2010 through 2015, Kalkis Research), <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a></em></div>
+
+Why does theThis and the previous article list some reasons for the under-performance of overly complicated advertising are legion. But there's more: <a href="http://www.trademob.com/pressrelease/40-percent-of-mobile-ad-clicks-are-fraudulent-or-accidental-according-to-new-study-by-trademob/">near-zero click-through rates</a>, <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">agency kickbacks</a>, <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-freq price pumping</a> and <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">non-human trafficking</a>. <a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a> tells you all about i
+
+big-data-driven precision-targeted
+
+
+
+For the reasons why highly targeted ads don't work consult The Ad Contrarian. But here's a coule case studies:
+
+Sales were flat when Febreze, a Procter & Gamble air freshener product, targeted ads at pet owners and large-family households. Sales rose when the ads went to anyone over 18. 
+
+http://www.wsj.com/articles/p-g-to-scale-back-targeted-facebook-ads-1470760949
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwj9uN6xgPPOAhWI2SYKHTEzB0gQFggrMAA&url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fp-g-to-scale-back-targeted-facebook-ads-1470760949&usg=AFQjCNGR5UH_44n4HUK2V9UNFe-KEG_EBQ&sig2=Own5qVrQZIXbivmg8xxQMw&bvm=bv.131783435,d.eWE
+
+eBay experiemented by turning off search ads in half the U.S. cities. Sales <a href="https://hbr.org/2015/10/the-online-ad-scams-every-marketer-should-watch-out-for">"stayed the same even as eBay’s advertising expenditure dropped."</a> 
 
 
 
