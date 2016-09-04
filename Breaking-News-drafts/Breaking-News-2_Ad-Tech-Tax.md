@@ -67,10 +67,14 @@ My full IP address is being passed around like chips at a Super Bowl party: a to
 <div><cite>&mdash;Rob Leathern (CEO of <a href="http://optimal.com/">Optimal.com<a>), <a href="https://medium.com/@robleathern/the-mobile-video-ad-lie-938a6de51367#.pplm5xgkz">"The Mobile Video Ad Lie"</a></cite></div>
 </blockquote>
 
-<img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ghostery-verge-285x838.png?raw=true">The screenshot at right is a <a href="https://www.ghostery.com/">Ghostery</a> list all the scripts loaded by TheVerge.com, mostly for ads and tracking. Ad-blocked the page weight was 938 KB. Unblocked it's 10.3 MB, more than 11-times larger.
+<img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ghostery-verge-285x838.png?raw=true">The screenshot at right is a <a href="https://www.ghostery.com/">Ghostery</a> list all the scripts loaded by TheVerge.com, mostly for ads, social sites, and their asscoiated tracking. Ad-blocked the page weight was 938 KB. Unblocked it's 10.3 MB, more than 11-times larger.
 
-Trying to stuff all these scripts down our browser's throats is choking online news, especially on mobile devices. My RJI research data on <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">the (poor) performance of U.S. newspaper websites</a> showed XX percent of the files and XX percent of the page-weight was these scripts, most of which are for ads, social sites, and their asscoiated tracking. The New York Times examined 50 news sites and 
-also see <a href="http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html">"Tfound that more than half of all data came from ads and other content filtered by ad blockers."</a>
+Ad tech is ravenous for data, for your data. We sacrifice our patience (waiting for webpages), our privacy and our pocketbooks (cellphone plans) so ad tech can gorge on our private parts. 
+
+Ad-tech and social-site tracking combined can now individually identify who you are, who your friends are, and what you and they do online. Anonymity is antiquated, read and weep: <a href="http://conferences.sigcomm.org/sigcomm/2009/workshops/wosn/papers/p7.pdf
+">"On the Leakage of Personally Identifiable Information Via Online Social Networks"</a>, by AT&T Labs and Worcester Polytechnic Institute researchers.
+
+Stuffing all these scripts down our browser's throats is choking online news, especially on mobile devices. My RJI research data on <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">the (poor) performance of U.S. newspaper websites</a> showed XX percent of the file-requests and XX percent of the page-weight was these scripts. The New York Times examined 50 news sites and <a href="http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html">"found more than half of all data came from ads and other content filtered by ad blockers."</a>
 
 <blockquote>
 <p>Each ad gets its own iframe, so load is asynchronous and, if one fails, it doesn't kill the entire site. Unfortunately, that also means each one fires its own trackers, even if those trackers are identical across ads. It's terribly inefficient</p>
@@ -79,10 +83,7 @@ also see <a href="http://www.nytimes.com/interactive/2015/10/01/business/cost-of
 <cite>&mdash;<a href="http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it">"Content blockers, bad ads, and what we're doing about it,"</a> iMore</cite>
 </blockquote>
 
-Ad tech is ravenous for more data, for your data. We sacrifice our patience (waiting for webpages), our privacy and our pocketbooks (cellphone plans) so ad tech can gorge on our private parts. 
 
-By "private", I mean, ad-tech and social-site tracking combined can now individually identify who you are, who your friends are, and what you and they do online. Read and weep: <a href="http://conferences.sigcomm.org/sigcomm/2009/workshops/wosn/papers/p7.pdf
-">"On the Leakage of Personally Identifiable Information Via Online Social Networks"</a>, by AT&T Labs and Worcester Polytechnic Institute researchers.
 
 
 
