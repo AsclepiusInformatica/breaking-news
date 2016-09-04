@@ -87,17 +87,21 @@ Ad tracking pisses people off. Ad stalking creeps people out. Look at these surv
 
 <blockquote>
 How annoying are each of the following mobile ads?
-1. Ads that popup over my entire screen: 73%
-2. Ads that seem to "follow" me from my computer to my phone: 65%
+<ol>
+<li>Ads that popup over my entire screen: 73%</li>
+<li>Ads that seem to "follow" me from my computer to my phone: 65%</li>
+</ol>
 <div><cite>&mdash;<a href="https://research.hubspot.com/reports/why-people-block-ads-and-what-it-means-for-marketers-and-advertisers
 ">"Why People Block Ads,"</a> <em>HubSpot</em></cite></div>
 </blockquote>
 
 <blockquote>
 What respondents dislike about websites:
-1. Ads that interfere with content: 55%
-2. Ads that redirect me to sites I don’t want to see: 52%
-3. Slow page loads (poor response time): 50%
+<ol>
+<li>Ads that interfere with content: 55%</li>
+<li>Ads that redirect me to sites I don’t want to see: 52%</li>
+<li>Slow page loads (poor response time): 50%</li>
+</ol>
 <div><cite>&mdash;<a href="https://www.neustar.biz/resources/whitepapers/digital-brands-trust-report">"What erodes trust in digital brands?"</a> <em>Neustar</em></cite></div>
 </blockquote>
 
