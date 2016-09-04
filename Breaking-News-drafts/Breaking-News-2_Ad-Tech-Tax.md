@@ -9,7 +9,7 @@ _____________________
 <em><strong>Breaking News</strong> is a series on the self-inflicted fractures breaking the news business. The first was <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">on malvertising</a>. This second report is on the "ad tech tax" everyone pays, in dollars, time and readership.</em>
 
 <blockquote>
-I can think of nothing that has done more harm to the Internet than ad tech. It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires.     
+I can think of nothing that has done more harm to the Internet than ad tech. It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires. 
 <div><cite>&mdash;Bob Hoffman (<a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a>) quoted by <a href="http://www.bloomberg.com/features/2015-click-fraud/"><em>Bloomberg Business</em></a></cite></div>
 </blockquote>
 
@@ -51,7 +51,7 @@ So, 85 percent of paid-for impresssions are either bogus, broken, or bot-hits. R
 <cite>&mdash;<em>MediaPost</em> <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">"The Definition Of An Ad Impression"</a></cite>
 </blockquote>
 
-Not only does ad tech fail to target specific people, usually it can't even find a person. Or it hits the wrong target.
+Ad tech not only fails to target specific people, but also, usually, it fails to find a person, or, worse, finds the wrong people.
 
 After Google's botched buys for Citigroup, IBM and Microsoft, the Finacial Times headline read <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiR4uW9t-nOAhUU0WMKHWbJAfMQFggeMAA&url=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Fb06d18c0-1bfb-11e6-8fa5-44094f6d9c46.html&usg=AFQjCNHQ9c1XxyOrZGi_JjmpWfIJR1l3_A&sig2=DRKy3VsUTXevRYsimr50PA">"Jihadi website with beheadings profited from Google ad platform."</a>. FT's video explains:
 [![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/MAS-FT-Business-PrinceOfJihad.jpg)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
