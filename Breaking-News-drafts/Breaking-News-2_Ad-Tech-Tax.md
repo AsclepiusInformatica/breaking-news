@@ -19,7 +19,7 @@ My 93-year-old mom called the other day, almost in tears. Her browser had been t
 
 <img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ad-plymouth.jpg?raw=true">Once upon a time, an advertiser contracted a media agency to place specific advertisments in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of ad's cost; the publishers pocketed the rest.
 
-This type of advertising built the brands of nearly every major product and service you've ever heard of. So, obviously, the entire industry process needed radical disruption.
+This type of advertising built the brands of nearly every major product you've ever heard of. So, obviously, the entire industry process needed radical disruption.
 
 Legions of brogrammers began innovating advertising technologies, claiming to: "Build, run, measure and optimize retargeting-driven display campaigns." "Deliver cohesive messaging to qualified consumers at scale." "Analyze first-party premium publisher site level data to pinpoint active consumer intent." (All real company slogans, <a href="http://www.urbandictionary.com/define.php?term=YCMTSU">YCMTSU</a>.) Mainly they did, though, was radically raise thir rates.
 
@@ -41,9 +41,9 @@ Good luck following this <a href="http://www.iab.com/wp-content/uploads/2016/03/
 
 <h2>Making a bad impression</h2>
 
-Ad tech bills advertisers by the "impression," a semi-mythical event, hypothesized by the <a href="http://measurementnow.net/press-release-media-rating-council-updates-viewable-ad-impression-measurement-guidelines/#.V5ELiZMrLOZ">Media Rating Council</a> to occur when half an advert's pixels are "in view" for one continuous second (two seconds for video ads).
+Ad tech bills advertisers by the "impression," a semi-mythical event, said to occur (by the <a href="http://measurementnow.net/press-release-media-rating-council-updates-viewable-ad-impression-measurement-guidelines/#.V5ELiZMrLOZ">Media Rating Council</a>) when half an advert's pixels are "in view" for one continuous second — two seconds for video ads.
 
-But <a href="http://www.theatlantic.com/technology/archive/2013/12/welcome-to-the-internet-of-thingies-615-of-web-traffic-is-not-human/282309/">bots (search engines, etc.), not human, "view" half</a> these ads. Another quarter are <a href="http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083">fraud</a>, in its <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">many forms</a>. And 15% broken ads that never display at all. 
+But only <a href="http://www.theatlantic.com/technology/archive/2013/12/welcome-to-the-internet-of-thingies-615-of-web-traffic-is-not-human/282309/">bots "view" half these ads</a> (search engines, etc.; i.e., not humans). Another <a href="http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083">quarter are fraud</a>, in its <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">many forms</a>. And 15% are broken ads that never display at all. 
 
 So, 85 percent of paid-for impresssions are either bogus, broken, or bot-hits. Reid Tatoris, Co-Founder of <a href="http://areyouahuman.com/">Are You a Human?</a>, breaks down the remainder:
 <blockquote>
