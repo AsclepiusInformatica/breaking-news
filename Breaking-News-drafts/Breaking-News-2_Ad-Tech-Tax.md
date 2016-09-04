@@ -83,7 +83,7 @@ Stuffing all these scripts down our browser's throats is choking online news. My
 <cite>&mdash;<a href="http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it">"Content blockers, bad ads, and what we're doing about it,"</a> iMore</cite>
 </blockquote>
 
-Ad tracking pisses people off. Ad stalking creeps people out. Look at these surveys:
+Ad tracking pisses people off. Ad stalking creeps people out. Ad tech takes the top places when users are asked what ruins their online experience:
 
 <blockquote>
 How annoying are each of the following mobile ads?
@@ -105,7 +105,7 @@ What respondents dislike about websites:
 <div><cite>&mdash;<a href="https://www.neustar.biz/resources/whitepapers/digital-brands-trust-report">"What erodes trust in digital brands?"</a> <em>Neustar</em></cite></div>
 </blockquote>
 
-When asked for their "perceptions about trustworthy newssites" two-thirds of Neustar's respondents said: "I do not trust websites that take too long to load: 67%." (Grammerians, rejoice, #1 was "I do not trust websites that contain errors or mistakes: 91%".)
+Two-thirds of Neustar's respondents checked: "I do not trust websites that take too long to load: 67%" in a list of "Perceptions about trustworthy newssites." (Grammerians, rejoice, #1 was "I do not trust websites that contain errors or mistakes: 91%".)
 
 
 
