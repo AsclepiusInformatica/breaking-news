@@ -74,7 +74,7 @@ Ad tech is ravenous for data, for your data. We sacrifice our patience (waiting 
 Ad-tech and social-site tracking combined can now individually identify who you are, who your friends are, and what you and they do online. Anonymity is antiquated, read and weep: <a href="http://conferences.sigcomm.org/sigcomm/2009/workshops/wosn/papers/p7.pdf
 ">"On the Leakage of Personally Identifiable Information Via Online Social Networks"</a>, by AT&T Labs and Worcester Polytechnic Institute researchers.
 
-Stuffing all these scripts down our browser's throats is choking online news, especially on mobile devices. My RJI research data on <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">the (poor) performance of U.S. newspaper websites</a> showed XX percent of the file-requests and XX percent of the page-weight was these scripts. The New York Times examined 50 news sites and <a href="http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html">"found more than half of all data came from ads and other content filtered by ad blockers."</a>
+Stuffing all these scripts down our browser's throats is choking online news. My RJI research data on <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">the (poor) performance of U.S. newspaper websites</a> showed XX percent of the file-requests and XX percent of the page-weight was these scripts. The New York Times examined 50 news sites and <a href="http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html">"found more than half of all data came from ads and other content filtered by ad blockers."</a>
 
 <blockquote>
 <p>Each ad gets its own iframe, so load is asynchronous and, if one fails, it doesn't kill the entire site. Unfortunately, that also means each one fires its own trackers, even if those trackers are identical across ads. It's terribly inefficient</p>
@@ -82,6 +82,32 @@ Stuffing all these scripts down our browser's throats is choking online news, es
 <p>We've tried to find or figure out a way to streamline them, but haven't been able to. They're built into the foundations of all the major networks, ad and social, ostensibly to provide more "relevant" content.</p>
 <cite>&mdash;<a href="http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it">"Content blockers, bad ads, and what we're doing about it,"</a> iMore</cite>
 </blockquote>
+
+Ad tracking pisses people off. Ad stalking creeps people out. Look at these surveys:
+
+<blockquote>
+How annoying are each of the following mobile ads?
+1. Ads that popup over my entire screen: 73%
+2. Ads that seem to "follow" me from my computer to my phone: 65%
+<div><cite>&mdash;<a href="https://research.hubspot.com/reports/why-people-block-ads-and-what-it-means-for-marketers-and-advertisers
+">"Why People Block Ads,"</a> <em>HubSpot</em></cite></div>
+</blockquote>
+
+<blockquote>
+What respondents dislike about websites:
+1. Ads that interfere with content: 55%
+2. Ads that redirect me to sites I don’t want to see: 52%
+3. Slow page loads (poor response time): 50%
+<div><cite>&mdash;<a href="https://www.neustar.biz/resources/whitepapers/digital-brands-trust-report">"What erodes trust in digital brands?"</a> <em>Neustar</em></cite></div>
+</blockquote>
+
+When asked for their "perceptions about trustworthy newssites" two-thirds of Neustar's respondents said: "I do not trust websites that take too long to load: 67%." (Grammerians, rejoice, #1 was "I do not trust websites that contain errors or mistakes: 91%".)
+
+
+
+
+
+
 
 
 
@@ -168,19 +194,13 @@ Maciej Cegłowski calls this "investor storytime":
 
 <p>Both business models involve persuasion. In one of them, you're asking millions of listeners to hand over a little bit of money. In the other, you're persuading one or two listeners to hand over millions of money.</p>
 
-<p>I like to think of the quote from King Lear:  
-	I will do such things,—  
-	What they are, yet I know not: but they shall be  
-	The terrors of the earth</p>
-
 <p>That's the essence of investor storytime. Give us money now, and you won't believe how awesome our ads will be when we finally put them on the site.</p>
-
-<p>King Lear would have killed it in Silicon Valley...</p>
 
 <p>We're addicted to 'big data' not because it's effective now, but because we need it to tell better stories.</p>
 <cite>&mdash;Maciej Cegłowski, <a href="http://idlewords.com/talks/internet_with_a_human_face.htm ">"The Internet With A Human Face"</a></cite>
 </blockquote>
 
+https://www.facebook.com/ads/preferences
 https://www.google.com/settings/u/0/ads/authenticated?hl=en
 East Asian Music, Make-Up & Cosmetics, Hygiene & Toiletries
 "These topics are derived from your activity on Google sites, such as the videos you've watched on YouTube. This does not include Gmail topics, which are used only for ads within Gmail."
