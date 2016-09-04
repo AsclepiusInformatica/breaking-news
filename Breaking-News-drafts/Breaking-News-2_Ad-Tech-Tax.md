@@ -1,11 +1,12 @@
 <em>[Draft of article, part 2 in series (<a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">part 1</a>)]</em>
+_____________________
+
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Plymouth-1961-ad-turnpikes-shorter.jpg?raw=true" alt="1961 Plymouth car ad: Are they making turnpikes shorter this year?" />  
 
 <h1>Breaking News 2: When Good Ads Go Bad</h1>
 
-<em><strong>Breaking News</strong> is a series on the self-inflicted fractures breaking the news business. This second report is on the "ad tech tax" everyone pays, in dollars, time and readership.</em>
-_____________________
+<em><strong>Breaking News</strong> is a series on the self-inflicted fractures breaking the news business. The first was <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">on malvertising</a>. This second report is on the "ad tech tax" everyone pays, in dollars, time and readership.</em>
 
 <blockquote>
 I can think of nothing that has done more harm to the Internet than ad tech. It interferes with everything we try to do on the Web. It has cheapened and debased advertising and spawned criminal empires.     
