@@ -149,9 +149,9 @@ eBay experiemented by turning off search ads in half the U.S. cities. Sales <a h
 </blockquote>
 
 <img src="https://kalkis-research.com/imagecache/532f1ae2393a0502f601a1c4be46036f.png">
-<em>Change in advertising and sales, from 2010 to 2015 (source: SEC 10-K filings), <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">Kalkis Research</a> 
+<em>Change in advertising and sales, from 2010 to 2015 (source: SEC 10-K filings), <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">Kalkis Research</a></em> 
 
-The only thing online advertising sells well is ad blockers, which Doc Searl calls "the biggest boycott in history."
+The only thing online advertising sells well is ad blockers, which Doc Searl calls <a href="http://blogs.harvard.edu/doc/2015/09/28/beyond-ad-blocking-the-biggest-boycott-in-human-history/">"the biggest boycott in history."</a>
 
 
 
