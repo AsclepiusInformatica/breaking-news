@@ -127,28 +127,24 @@ Not only is ad tech cluttering up people's screens with ads that are designed to
 
 
 <h2>Ad targetting: bullseye or bullshit?</h2>
-> The efficiency of online advertising has been in decline for years…
+All this big-data-driven precision-targeted advertising must be resulting in soaring sales figures, right?
 
-> Chart 6:Change in advertising and sales, from 2010 to 2015 (source: SEC 10-K filings)  
-<img src="https://kalkis-research.com/imagecache/532f1ae2393a0502f601a1c4be46036f.png">
+Wrong. Just the opposite. The efficiency of online advertising is in a nosedive:
+
+<img src="https://kalkis-research.com/imagecache/8ebb0582bdbaa85c4dc2fcf662bfccde.png">
+<em>:Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and Ebay (source: SEC 10-K filings 2010 through 2015, Kalkis Research), <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a></em>
+
+
 
 <blockquote>
-<p>As a result, online advertising efficiency has been decreasing for years, and companies have to spend more ad dollars for the same result. The process of ad placement has become ever more automated, obscure and complex, while intermediaries have multiplied, each taking a cut from the client's initial ad budget. Controls and regulations are nonexistent, and a big chunk of ad spending is being stolen, plain and simple.</p>
+<p>Online advertising efficiency has been decreasing for years, and companies have to spend more ad dollars for the same result. The process of ad placement has become ever more automated, obscure and complex, while intermediaries have multiplied, each taking a cut from the client's initial ad budget. Controls and regulations are nonexistent, and a big chunk of ad spending is being stolen, plain and simple.</p>
 
 <p>Websites have been invaded by click ads, display ads, and forced video ad views. Naturally, Internet users have grown sick and tired of this ad pollution, and have started installing ad blocking software. What makes this trend worse is that users who install ad blockers first, tend to be the more sophisticated and the more affluent ones</p>
 <cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">"End Of The Online Advertising Bubble"</a></cite>
 </blockquote>
 
-> The ecosystem has become obscure, complex, and intermediaries are taking an ever bigger cut
-<https://kalkis-research.com/google-end-of-the-online-advertising-bubble> 
-
-<https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web>  
-> Ad efficiency is declining…
-
-> Chart 5:Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and Ebay (source: SEC 10-K filings 2010 through 2015, Kalkis Research)
-<img src="https://kalkis-research.com/imagecache/8ebb0582bdbaa85c4dc2fcf662bfccde.png">
-
-> Ad tech has focused on automatization and economies of scale, which has enabled them to place low-cost ads on the murkiest of websites, because the cost of placing an ad has become so low. This rush to subprime ad space ended up hurting the high end of the market as well, as Internet users become tired of ads in general. You can only make up for low margins with volume for so long
+<img src="https://kalkis-research.com/imagecache/532f1ae2393a0502f601a1c4be46036f.png">
+<em>Change in advertising and sales, from 2010 to 2015 (source: SEC 10-K filings), <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">Kalkis Research</a> 
 
 The only thing online advertising sells well is ad blockers, which Doc Searl calls "the biggest boycott in history."
 
