@@ -58,7 +58,7 @@ So, 85 percent of paid-for impressions are either bogus, broken, or bot-hits. Re
 <cite>&mdash;<em>MediaPost</em> <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">"The Definition Of An Ad Impression"</a></cite>
 </blockquote>
 
-Ad tech fails in targeting specific people. It even fails in finding any person, or, worse, finds the wrong people.
+Ad tech fails in targeting specific people. It fails even in finding any person, or, worse, finds the wrong people.
 
 After a botched buy for Citigroup, IBM and Microsoft, the Financial Times headline read <a href="http://www.ft.com/cms/s/0/b06d18c0-1bfb-11e6-8fa5-44094f6d9c46.html#axzz4JZnDfKE6">"Jihadi website with beheadings profited from Google ad platform."</a> FT's video explains:
 
@@ -77,7 +77,7 @@ My full IP address is being passed around like chips at a Super Bowl party: a to
 <div><cite>&mdash;Rob Leathern (CEO of <a href="http://optimal.com/">Optimal.com<a>), <a href="https://medium.com/@robleathern/the-mobile-video-ad-lie-938a6de51367#.pplm5xgkz">"The Mobile Video Ad Lie"</a></cite></div>
 </blockquote>
 
-<img align="right" width="300" src="https://github.com/hearvox/breaking-news/blob/master/assets/ghostery-verge-285x838.png?raw=true">The screenshot at right is a <a href="https://www.ghostery.com/">Ghostery</a> list all the scripts loaded by TheVerge.com, mostly for ads, social sites, and their associated tracking. Ad-blocked the page weight was 938 KB. Unblocked it's 10.3 MB, more than 11-times larger.
+<img align="right" width="300" src="https://github.com/hearvox/breaking-news/blob/master/assets/ghostery-verge-285x838.png?raw=true">The screenshot at right is a <a href="https://www.ghostery.com/">Ghostery</a> list all the scripts loaded by TheVerge.com, mostly for ads, social sites, and their associated tracking. Ad-blocked the page weighs 938 KB. Unblocked it's 10.3 MB, eleven times larger.
 
 Ad tech is ravenous for data, for your data. We sacrifice our patience (waiting for webpages), our privacy and our pocketbooks (cellphone plans) so ad tech can gorge on our private parts. 
 
@@ -88,10 +88,10 @@ Ad tech is ravenous for data, for your data. We sacrifice our patience (waiting 
 <cite>&mdash;<a href="http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it">"Content blockers, bad ads, and what we're doing about it,"</a> iMore</cite>
 </blockquote>
 
-It gets worse: Ad-tech and social-site tracking combined can now individually identify who you are, who your friends are, and what you and they do online. Anonymity is antiquated, read and weep: <a href="http://conferences.sigcomm.org/sigcomm/2009/workshops/wosn/papers/p7.pdf
+It gets worse: Ad-tech and social-site tracking combined can now individually identify who you are, who your friends are, and what you and they do online. Read and weep: <a href="http://conferences.sigcomm.org/sigcomm/2009/workshops/wosn/papers/p7.pdf
 ">"On the Leakage of Personally Identifiable Information Via Online Social Networks"</a>, by AT&T Labs and Worcester Polytechnic Institute researchers.
 
-Stuffing all these scripts down our browser's throats is choking online news. My RJI research data on <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">the (poor) performance of U.S. newspaper websites</a> showed scripts were 56 percent of the page-weight and 35 percent of the file-requests — the two factors most correlated with page-load times. The New York Times examined 50 news sites and <a href="http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html">"found more than half of all data came from ads and other content filtered by ad blockers."</a>
+Stuffing all these scripts down our browser's throats chokes online news. My RJI research data on <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">the (poor) performance of U.S. newspaper websites</a> showed 56 percent of their page-weight and 35 percent of their file-requests were scripts. The New York Times examined 50 news sites and <a href="http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html">"found more than half of all data came from ads and other content filtered by ad blockers."</a>
 
 Ad tracking pisses people off. Ad stalking creeps people out:
 <blockquote>
@@ -117,12 +117,12 @@ Two-thirds of Neustar's respondents checked: "I do not trust websites that take 
 <h2>Ad targeting: bullseye or bullshit?</h2>
 All these precision-targeted, big-data-driven ads have sales soaring, right? Wrong.
 
-Online advertising efficiency is in a nosedive. This <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a> chart shows the plunging ratio of revenue dollars to dollars spent on digital marketing:
+Online advertising efficiency is in a nosedive. This <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a> chart shows a plunging ratio of dollars of revenue dollars to dollars spent on digital marketing:
 
 <p><img src="https://kalkis-research.com/imagecache/8ebb0582bdbaa85c4dc2fcf662bfccde.png">
 <div><em>Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and eBay (source: SEC 10-K filings 2010 through 2015, <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a>)</em></div></p>
 
-When eBay tested ad tech by turning off search ads in half the U.S. cities, sales <a href="https://hbr.org/2015/10/the-online-ad-scams-every-marketer-should-watch-out-for">"stayed the same even as eBay’s advertising expenditure dropped."</a> When Procter & Gamble <a href="http://www.wsj.com/articles/p-g-to-scale-back-targeted-facebook-ads-1470760949">targeted Fabreze (an air freshener) ads</a> at pet owners and large-family households, sales stayed flat. When, instead, they sent the ads to anyone over 18, sales rose.
+When eBay tested ad tech by turning off search ads in half the U.S. cities, <a href="https://hbr.org/2015/10/the-online-ad-scams-every-marketer-should-watch-out-for">"sales stayed the same even as eBay’s advertising expenditure dropped."</a> When Procter & Gamble <a href="http://www.wsj.com/articles/p-g-to-scale-back-targeted-facebook-ads-1470760949">targeted Fabreze (an air freshener) ads</a> at pet owners and large-family households, sales remained flat. When, instead, they sent the ads to anyone over 18, sales rose.
 
 The only thing online advertising sells well is ad blockers, which Doc Searls calls <a href="http://blogs.harvard.edu/doc/2015/09/28/beyond-ad-blocking-the-biggest-boycott-in-human-history/">"the biggest boycott in history."</a>
 
@@ -150,7 +150,7 @@ http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ
 <a href="http://www.wsj.com/articles/ad-tech-growth-hits-speed-bump-1451936427
 ">Ad tech companies aren't profitable</a> yet they grow like weeds. In 2011 there were 150; now, in 2016, <a href="http://chiefmartec.com/2016/03/marketing-technology-landscape-supergraphic-2016/">there are 3,500</a>. They breed and feed on big data, claiming it will someday, somehow translate into sales.
 
-Maciej Cegłowski, of Pinboard, says their real goal isn't CPM, it's VC — "Investor Storytime":
+Maciej Cegłowski, of <a href="https://pinboard.in/"Pinboard</a>, says their real goal isn't CPM, it's VC and "Investor Storytime":
 <blockquote>
 <p>Investor storytime is not exactly advertising, but it is related to advertising. Think of it as an advertising future, or perhaps the world's most targeted ad.</p>
 
