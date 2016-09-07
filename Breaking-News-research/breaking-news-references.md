@@ -1,6 +1,58 @@
 # Breaking News: references/quotes
 
 https://pinboard.in/u:hearvox
+
+___
+Templates:
+
+<blockquote>
+Xxx
+<div><cite>&mdash;<a href="aaa">Yaa</a> <em>Zzz</em></cite></div>
+</blockquote>
+
+<details>
+Testing hidden details.
+</details>
+
+___
+Unused in Breaking News 2:
+
+https://www.facebook.com/ads/preferences
+https://www.google.com/settings/u/0/ads/authenticated?hl=en
+East Asian Music, Make-Up & Cosmetics, Hygiene & Toiletries
+"These topics are derived from your activity on Google sites, such as the videos you've watched on YouTube. This does not include Gmail topics, which are used only for ads within Gmail."
+
+
+<blockquote>
+Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.
+<div><cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite></div>
+</blockquote>
+<img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
+<em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
+
+
+<iframe src="http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ" allowscriptaccess="always" frameborder="0">
+Iframes not supported. Video URL:  
+http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ
+</iframe>
+The Fake Traffic Schemes That Are Rotting the Internet - Bloomberg Business  
+http://www.bloomberg.com/features/2015-click-fraud/
+
+<blockquote>
+<p>Online advertising is a fraudster’s heaven, and even the savviest advertisers lose millions of dollars each month.</p>
+<cite>&mdash;<em>TechCrunch</em> <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">"Are Bots Hijacking Your Marketing Budget?"</a></cite>
+</blockquote>
+
+Plymouth ad: https://books.google.com/books?id=yEUEAAAAMBAJ&pg=PA46&lpg=PA46&dq=are+they+making+turnpikes+shorter+plymouth&source=bl&ots=pviURLWep9&sig=BdR1QzUVMZHIAhHCis7xU2FWaPo&hl=en&sa=X&ved=0ahUKEwjOqbqiguLOAhVEKGMKHSNTA7UQ6AEIIzAB#v=onepage&q=are%20they%20making%20turnpikes%20shorter%20plymouth&f=false
+
+<blockquote>
+When you open a web page, information such as age, sex, location and search history are zapped to buyers vying for your attention. Bundled with 999 other people, those eyeballs are offered to the highest bidder, usually ad agencies and their clients, which can range from big public companies such as Apple Inc. to local car dealerships.
+<div><cite>&mdash;<em>Bloomberg</em> <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">"High-Speed Ad Traders Profit by Arbitraging Your Eyeballs"</a></cite></div>
+</blockquote>
+
+
+
+
 ___
 ## New- to file:
 
