@@ -55,9 +55,9 @@ Ad tech fails in targeting specific people. It even fails in finding any person,
 
 After a botched buy for Citigroup, IBM and Microsoft, the Financial Times headline read <a href="http://www.ft.com/cms/s/0/b06d18c0-1bfb-11e6-8fa5-44094f6d9c46.html#axzz4JZnDfKE6">"Jihadi website with beheadings profited from Google ad platform."</a> FT's video explains:
 
-<p><code><em>No videos allowed in GitHub markdown, here's the URL: </em></code> 
+<p><em><code>No videos allowed in GitHub markdown, here's the URL: </code> 
 http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4
-</p>
+</em></p>
 [![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/FT-video.png)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
 <video width="600" height="400" controls>
   <source src="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4" type="video/mp4">
@@ -130,14 +130,14 @@ The only thing online advertising sells well is ad blockers, which Doc Searls ca
 <div><em>Change in advertising and sales, from 2010 to 2015 (source: SEC 10-K filings), <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">Kalkis Research</a></em></div>
 
 This Bloomberg vdieo <a href="http://www.bloomberg.com/features/2015-click-fraud/">follows the fake monetizing</a>:
-<iframe src="http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ" allowscriptaccess="always" frameborder="0">
-<em>No vids in GitHub, here's the URL:  
+
+<p><em><code>No vids in GitHub markdown, here's the URL: </code> 
 http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ
-</em>
+</em></p>
+<iframe src="http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ" allowscriptaccess="always" frameborder="0">
 </iframe>
 
 [![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/Bloomberg-video.png)](http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ)
-
 
 <h2>Addicted to big data</h2>
 <a href="http://www.wsj.com/articles/ad-tech-growth-hits-speed-bump-1451936427
