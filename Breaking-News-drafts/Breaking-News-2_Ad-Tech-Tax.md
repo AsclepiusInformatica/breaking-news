@@ -113,15 +113,7 @@ Online advertising effeciency is in a nosedive. This <a href="https://kalkis-res
 <p><img src="https://kalkis-research.com/imagecache/8ebb0582bdbaa85c4dc2fcf662bfccde.png">
 <div><em>Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and Ebay (source: SEC 10-K filings 2010 through 2015, <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a>)</em></div></p>
 
-
-
-
-
-http://www.wsj.com/articles/p-g-to-scale-back-targeted-facebook-ads-1470760949
-
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwj9uN6xgPPOAhWI2SYKHTEzB0gQFggrMAA&url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fp-g-to-scale-back-targeted-facebook-ads-1470760949&usg=AFQjCNGR5UH_44n4HUK2V9UNFe-KEG_EBQ&sig2=Own5qVrQZIXbivmg8xxQMw&bvm=bv.131783435,d.eWE
-
-When eBay experimented by turning off search ads in half the U.S. cities, sales <a href="https://hbr.org/2015/10/the-online-ad-scams-every-marketer-should-watch-out-for">"stayed the same even as eBay’s advertising expenditure dropped."</a> When <a href="http://www.wsj.com/articles/p-g-to-scale-back-targeted-facebook-ads-1470760949">Procter & Gamble targeted Fabreze air freshener ads</a> at pet owners and large-family households, sales were flat. When, instead, they sent the ads to anyone over 18, sales rose.
+When eBay experimented by turning off search ads in half the U.S. cities, sales <a href="https://hbr.org/2015/10/the-online-ad-scams-every-marketer-should-watch-out-for">"stayed the same even as eBay’s advertising expenditure dropped."</a> When Procter & Gamble <a href="http://www.wsj.com/articles/p-g-to-scale-back-targeted-facebook-ads-1470760949">targeted Fabreze air freshener ads at pet owners and large-family households, sales were flat</a>. When, instead, they sent the ads to anyone over 18, sales rose.
 
 The only thing online advertising sells well is ad blockers, which Doc Searl calls <a href="http://blogs.harvard.edu/doc/2015/09/28/beyond-ad-blocking-the-biggest-boycott-in-human-history/">"the biggest boycott in history."</a>
 
@@ -135,16 +127,40 @@ The only thing online advertising sells well is ad blockers, which Doc Searl cal
 <img src="https://kalkis-research.com/imagecache/532f1ae2393a0502f601a1c4be46036f.png">
 <em>Change in advertising and sales, from 2010 to 2015 (source: SEC 10-K filings), <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">Kalkis Research</a></em> 
 
+<h2>Addicted to big data</h2>
+<a href="http://www.wsj.com/articles/ad-tech-growth-hits-speed-bump-1451936427
+">Ad tech companies aren't profitable</a> yet every year there's more of them — <a href="http://chiefmartec.com/2016/03/marketing-technology-landscape-supergraphic-2016/">from 150 in 2011 to 3,500 in 2016</a>. They breed and feed on big data, eternally proclaiming that someday, somehow into translate into sales.
 
+Maciej Cegłowski, of Pinboard, sees their real goal as not CPM but rather VC, what he calls "Investor Storytime":
+<blockquote>
+<p>Investor storytime is not exactly advertising, but it is related to advertising. Think of it as an advertising future, or perhaps the world's most targeted ad.</p>
 
+<p>Both business models involve persuasion. In one of them, you're asking millions of listeners to hand over a little bit of money. In the other, you're persuading one or two listeners to hand over millions of money.</p>
 
+<p>That's the essence of investor storytime. Give us money now, and you won't believe how awesome our ads will be when we finally put them on the site.</p>
 
+<p>We're addicted to 'big data' not because it's effective now, but because we need it to tell better stories.</p>
+<cite>&mdash;Maciej Cegłowski, <a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"The Internet With A Human Face"</a></cite>
+</blockquote>
 
+This article's sordid story must come to an end, with hardly a mention of <a href="http://www.trademob.com/pressrelease/40-percent-of-mobile-ad-clicks-are-fraudulent-or-accidental-according-to-new-study-by-trademob/">near-zero click-through rates</a>, <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">agency kickbacks</a>, <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-freq price pumping</a> and <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">non-human trafficking</a>. Consult <a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a> for the complete how and why of ad-tech failures.
+
+We web publishers could chose to end this madness, by <a href="https://wpostats.com/">prioritizing speed</a> and security on our sites, collaborating on open-source tracking and ad scripts — with opt-ins and data storage expiration dates (read Cegłowski's <a href="http://idlewords.com/talks/haunted_by_data.htm">"Haunted by Data"</a>, and supporting the <a href="https://www.eff.org/issues/privacy">Electronic Frontier Foundation's privacy projects</a>. Our readers would love us for it, and advertisers can't resist loving readers.
+
+For now, though, I'll leave you with this 1983 thought from David Ogilvy, the OG of Mad Men:
+<blockquote>
+<p>The wrong advertising can actually reduce the sales of a product. I am told that George Hay Brown, at one time head of marketing research at Ford, inserted advertisements in every other copy of the Reader's Digest. At the end of the year, the people who had not been exposed to the advertising had bought more Fords than those who had.</p>
+
+<p>In another survey it was found that consumption of a certain brand of beer was lower among people who remembered its advertising than those who did not. The brewer had spent millions of dollars on advertising which un-sold his beer.</p>
+
+<p>I sometimes wonder if there is a tacit conspiracy among clients, media and agencies to avoid putting advertising to such acid tests. Everyone involved has a vested interest in prolonging the myth that all advertising increases sales to some degree. It doesn't.</p>
+<cite>&mdash;David Ogilvy, <a href="https://books.google.com/books?id=hVFwAAAAQBAJ&pg=PT12&dq=%22The+wrong+advertising+can+actually+reduce+the+sales+of+a+product%22&hl=en&sa=X&ved=0ahUKEwjx3JL0l8vNAhUJ5IMKHbrWDwMQ6AEIJDAB#v=onepage&q=%22The%20wrong%20advertising%20can%20actually%20reduce%20the%20sales%20of%20a%20product%22&f=false"><em>Ogilvy on Advertising</em></a></cite>
+</blockquote>
 
 <hr /><hr /><hr />
 Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for coining "traxonomy" and sending the Ghostery screenshot.
 
-But there's more: <a href="http://www.trademob.com/pressrelease/40-percent-of-mobile-ad-clicks-are-fraudulent-or-accidental-according-to-new-study-by-trademob/">near-zero click-through rates</a>, <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">agency kickbacks</a>, <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-freq price pumping</a> and <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">non-human trafficking</a>. Consult <a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a> for the complete why and how of ad-tech failures.
+But there's more: 
 
 <blockquote>
 Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.
@@ -152,6 +168,7 @@ Not only is ad tech cluttering up people's screens with ads that are designed to
 </blockquote>
 <img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
 <em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
+
 
 
 <iframe src="http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ" allowscriptaccess="always" frameborder="0">
@@ -172,15 +189,7 @@ Open source, brave, EFF
 
 <h2>The wrong advertising</h2>
 
-David Ogilvy, the OG of Mad Men:
-<blockquote>
-<p>The wrong advertising can actually reduce the sales of a product. I am told that George Hay Brown, at one time head of marketing research at Ford, inserted advertisements in every other copy of the Reader's Digest. At the end of the year, the people who had not been exposed to the advertising had bought more Fords than those who had.</p>
 
-<p>In another survey it was found that consumption of a certain brand of beer was lower among people who remembered its advertising than those who did not. The brewer had spent millions of dollars on advertising which un-sold his beer.</p>
-
-<p>I sometimes wonder if there is a tacit conspiracy among clients, media and agencies to avoid putting advertising to such acid tests. Everyone involved has a vested interest in prolonging the myth that all advertising increases sales to some degree. It doesn't.</p>
-<cite>&mdash;David Ogilvy, <a href="https://books.google.com/books?id=hVFwAAAAQBAJ&pg=PT12&dq=%22The+wrong+advertising+can+actually+reduce+the+sales+of+a+product%22&hl=en&sa=X&ved=0ahUKEwjx3JL0l8vNAhUJ5IMKHbrWDwMQ6AEIJDAB#v=onepage&q=%22The%20wrong%20advertising%20can%20actually%20reduce%20the%20sales%20of%20a%20product%22&f=false"><em>Ogilvy on Advertising</em></a></cite>
-</blockquote>
 
 Quaint, even antiquainted. 
 
@@ -188,19 +197,7 @@ Quaint, even antiquainted.
  
 
 
-<h2>Addicted to big data</h2>
-Ad tech companies lose money. The only way they exist and survive is convincing investors that someday their scheme will prove pofitable. 
-Maciej Cegłowski calls this "investor storytime":
-<blockquote>
-<p>Investor storytime is not exactly advertising, but it is related to advertising. Think of it as an advertising future, or perhaps the world's most targeted ad.</p>
 
-<p>Both business models involve persuasion. In one of them, you're asking millions of listeners to hand over a little bit of money. In the other, you're persuading one or two listeners to hand over millions of money.</p>
-
-<p>That's the essence of investor storytime. Give us money now, and you won't believe how awesome our ads will be when we finally put them on the site.</p>
-
-<p>We're addicted to 'big data' not because it's effective now, but because we need it to tell better stories.</p>
-<cite>&mdash;Maciej Cegłowski, <a href="http://idlewords.com/talks/internet_with_a_human_face.htm ">"The Internet With A Human Face"</a></cite>
-</blockquote>
 
 https://www.facebook.com/ads/preferences
 https://www.google.com/settings/u/0/ads/authenticated?hl=en
