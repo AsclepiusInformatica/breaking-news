@@ -131,7 +131,7 @@ The only thing online advertising sells well is ad blockers, which Doc Searls ca
 
 This Bloomberg vdieo <a href="http://www.bloomberg.com/features/2015-click-fraud/">follows the fake monetizing</a>:
 
-<p><em><code>No vids in GitHub markdown, here's the URL: </code> 
+<p><em><code>No vids in GitHub markdown, here's the URL:  </code> 
 http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ
 </em></p>
 <iframe src="http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ" allowscriptaccess="always" frameborder="0">
