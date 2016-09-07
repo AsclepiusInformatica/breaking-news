@@ -39,7 +39,7 @@ A user clicks on a website and suddenly her Internet address and browsing histor
 <div><cite>&mdash;<em>Bloomberg Business</em> <a href="http://www.bloomberg.com/features/2015-click-fraud/">"The Fake Traffic Schemes That Are Rotting the Internet"</a></cite></div>
 </blockquote>
 
-"Ad tech" is the new automated way we buy, sell, deliver, and display online advertising. The "ad tech tax" is the cost of this convoluted complexity.
+"Ad tech" is the new automated way we buy, sell, deliver, and display online advertising. The cost for this convoluted complexity is the "ad tech tax."
 
 Good luck following this <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Interactive Advertising Bureau chart</a> of a typical ad buy:  
 
@@ -48,9 +48,9 @@ Good luck following this <a href="http://www.iab.com/wp-content/uploads/2016/03/
 
 <h2>Making a bad impression</h2>
 
-Ad tech bills advertisers by the "impression," a semi-mythical event, said to occur (by the <a href="http://measurementnow.net/press-release-media-rating-council-updates-viewable-ad-impression-measurement-guidelines/#.V5ELiZMrLOZ">Media Rating Council</a>) when half an advert's pixels are "in view" for one continuous second — two seconds for video ads.
+Agencies bill advertisers by the "impression," a semi-mythical event, said to occur (by the <a href="http://measurementnow.net/press-release-media-rating-council-updates-viewable-ad-impression-measurement-guidelines/#.V5ELiZMrLOZ">Media Rating Council</a>) when half an advert's pixels are "in view" for one continuous second — two seconds for video ads.
 
-But only <a href="http://www.theatlantic.com/technology/archive/2013/12/welcome-to-the-internet-of-thingies-615-of-web-traffic-is-not-human/282309/">bots "view" half these ads</a> (search engines, etc.; i.e., not humans). Another <a href="http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083">quarter are fraud</a>, in its <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">many forms</a>. And 15% are broken ads that never display at all. 
+But <a href="http://www.theatlantic.com/technology/archive/2013/12/welcome-to-the-internet-of-thingies-615-of-web-traffic-is-not-human/282309/">bots (search engines, etc.) "view" half these ads</a>, not humans. Another <a href="http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083">quarter are fraud</a>, in its <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">many forms</a>. And 15% are broken ads that never display at all. 
 
 So, 85 percent of paid-for impressions are either bogus, broken, or bot-hits. Reid Tatoris, Co-Founder of <a href="http://areyouahuman.com/">Are You a Human?</a>, breaks down the remainder:
 <blockquote>
