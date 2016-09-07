@@ -160,5 +160,5 @@ For now, though, I'll leave you with this 1983 thought from David Ogilvy, the OG
 <hr />
 <em>Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for coining "traxonomy" and sending the Ghostery screenshot.</em>
 
-BG bio
+BIO: <a href="https://www.rjionline.org/stories/series/storytelling-tools/">RJI Storytelling Tools</a>
 
