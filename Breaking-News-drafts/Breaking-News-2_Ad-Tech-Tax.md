@@ -106,30 +106,24 @@ Ad tracking pisses people off. Ad stalking creeps people out:
 Two-thirds of Neustar's respondents checked: "I do not trust websites that take too long to load: 67%" in a list of "Perceptions about trustworthy newssites." (Grammarians, rejoice, the #1 choice was "I do not trust websites that contain errors or mistakes: 91%".)
 
 <h2>Ad targetting: bullseye or bullshit?</h2>
-All this advanced advertising technology must be producing some soaring sales figures, right?
+But these precision-targeted, big-data-driven ads have got sale soaring, right? Wrong
 
-Wrong. Just the opposite. The efficiency of online advertising is in a nosedive. This chart shows rapid decline in the ratio of dollars of revenue to dollars spent on digital marketing:
+Online advertising effeciency is in a nosedive. This <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a> chart shows the plunging ratio of revenue to digital marketing expenses (both in dollars):
 
-<img src="https://kalkis-research.com/imagecache/8ebb0582bdbaa85c4dc2fcf662bfccde.png">
-<div><em>Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and Ebay (source: SEC 10-K filings 2010 through 2015, Kalkis Research), <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a></em></div>
-
-Why does theThis and the previous article list some reasons for the under-performance of overly complicated advertising are legion. But there's more: <a href="http://www.trademob.com/pressrelease/40-percent-of-mobile-ad-clicks-are-fraudulent-or-accidental-according-to-new-study-by-trademob/">near-zero click-through rates</a>, <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">agency kickbacks</a>, <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-freq price pumping</a> and <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">non-human trafficking</a>. <a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a> tells you all about i
-
-big-data-driven precision-targeted
+<p><img src="https://kalkis-research.com/imagecache/8ebb0582bdbaa85c4dc2fcf662bfccde.png">
+<div><em>Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and Ebay (source: SEC 10-K filings 2010 through 2015, <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a>)</em></div></p>
 
 
 
-For the reasons why highly targeted ads don't work consult The Ad Contrarian. But here's a coule case studies:
 
-Sales were flat when Febreze, a Procter & Gamble air freshener product, targeted ads at pet owners and large-family households. Sales rose when the ads went to anyone over 18. 
 
 http://www.wsj.com/articles/p-g-to-scale-back-targeted-facebook-ads-1470760949
 
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwj9uN6xgPPOAhWI2SYKHTEzB0gQFggrMAA&url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fp-g-to-scale-back-targeted-facebook-ads-1470760949&usg=AFQjCNGR5UH_44n4HUK2V9UNFe-KEG_EBQ&sig2=Own5qVrQZIXbivmg8xxQMw&bvm=bv.131783435,d.eWE
 
-eBay experiemented by turning off search ads in half the U.S. cities. Sales <a href="https://hbr.org/2015/10/the-online-ad-scams-every-marketer-should-watch-out-for">"stayed the same even as eBay’s advertising expenditure dropped."</a> 
+When eBay experimented by turning off search ads in half the U.S. cities, sales <a href="https://hbr.org/2015/10/the-online-ad-scams-every-marketer-should-watch-out-for">"stayed the same even as eBay’s advertising expenditure dropped."</a> When <a href="http://www.wsj.com/articles/p-g-to-scale-back-targeted-facebook-ads-1470760949">Procter & Gamble targeted Fabreze air freshener ads</a> at pet owners and large-family households, sales were flat. When, instead, they sent the ads to anyone over 18, sales rose.
 
-
+The only thing online advertising sells well is ad blockers, which Doc Searl calls <a href="http://blogs.harvard.edu/doc/2015/09/28/beyond-ad-blocking-the-biggest-boycott-in-human-history/">"the biggest boycott in history."</a>
 
 <blockquote>
 <p>Online advertising efficiency has been decreasing for years, and companies have to spend more ad dollars for the same result. The process of ad placement has become ever more automated, obscure and complex, while intermediaries have multiplied, each taking a cut from the client's initial ad budget. Controls and regulations are nonexistent, and a big chunk of ad spending is being stolen, plain and simple.</p>
@@ -141,7 +135,7 @@ eBay experiemented by turning off search ads in half the U.S. cities. Sales <a h
 <img src="https://kalkis-research.com/imagecache/532f1ae2393a0502f601a1c4be46036f.png">
 <em>Change in advertising and sales, from 2010 to 2015 (source: SEC 10-K filings), <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">Kalkis Research</a></em> 
 
-The only thing online advertising sells well is ad blockers, which Doc Searl calls <a href="http://blogs.harvard.edu/doc/2015/09/28/beyond-ad-blocking-the-biggest-boycott-in-human-history/">"the biggest boycott in history."</a>
+
 
 
 
@@ -149,6 +143,8 @@ The only thing online advertising sells well is ad blockers, which Doc Searl cal
 
 <hr /><hr /><hr />
 Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for coining "traxonomy" and sending the Ghostery screenshot.
+
+But there's more: <a href="http://www.trademob.com/pressrelease/40-percent-of-mobile-ad-clicks-are-fraudulent-or-accidental-according-to-new-study-by-trademob/">near-zero click-through rates</a>, <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">agency kickbacks</a>, <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-freq price pumping</a> and <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">non-human trafficking</a>. Consult <a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a> for the complete why and how of ad-tech failures.
 
 <blockquote>
 Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.
