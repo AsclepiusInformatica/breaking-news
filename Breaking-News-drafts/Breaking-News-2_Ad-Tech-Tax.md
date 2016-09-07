@@ -158,7 +158,7 @@ For now, though, I'll leave you with this 1983 thought from David Ogilvy, the OG
 </blockquote>
 
 <hr />
-<em>Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for coining "traxonomy" and sending the Ghostery screenshot.</em>
+<p><em>Notes: You can check and manage your own <a href="https://www.google.com/settings/u/0/ads/authenticated?hl=en">Google ads personalization</a> and <a href="https://www.facebook.com/ads/preferences">Facebook ads preferences</a>. Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for the Ghostery screenshot.</em></p>
 
 BIO: <a href="https://www.rjionline.org/stories/series/storytelling-tools/">RJI Storytelling Tools</a>
 
