@@ -21,7 +21,12 @@ My 93-year-old mom called the other day, almost in tears. Her browser had been t
 
 This type of advertising built the brands of nearly every major product. So, obviously, the entire industry needed radical disruption.
 
-Legions of brogrammers began innovating advertising technologies. Among the things they'd do (all real company slogans, <a href="http://www.urbandictionary.com/define.php?term=YCMTSU">YCMTSU</a>): "Build, run, measure and optimize retargeting-driven display campaigns." "Deliver cohesive messaging to qualified consumers at scale." "Analyze first-party premium publisher site level data to pinpoint active consumer intent."
+Legions of brogrammers began innovating advertising technologies. Among the things they'd do (all real company slogans, <a href="http://www.urbandictionary.com/define.php?term=YCMTSU">YCMTSU</a>):
+<ul>
+<li>"Build, run, measure and optimize retargeting-driven display campaigns."</li>
+<li>"Deliver cohesive messaging to qualified consumers at scale."</li>
+<li>"Analyze first-party premium publisher site level data to pinpoint active consumer intent."</li>
+</ul>
 
 Mainly what they did, though, was radically raise their rates.
 
