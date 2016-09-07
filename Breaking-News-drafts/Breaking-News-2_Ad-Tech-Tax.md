@@ -54,10 +54,11 @@ So, 85 percent of paid-for impresssions are either bogus, broken, or bot-hits. R
 Ad tech not only fails to target specific people, but also, usually, it fails to find a person, or, worse, finds the wrong people.
 
 After Google's botched buys for Citigroup, IBM and Microsoft, the Finacial Times headline read <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiR4uW9t-nOAhUU0WMKHWbJAfMQFggeMAA&url=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Fb06d18c0-1bfb-11e6-8fa5-44094f6d9c46.html&usg=AFQjCNHQ9c1XxyOrZGi_JjmpWfIJR1l3_A&sig2=DRKy3VsUTXevRYsimr50PA">"Jihadi website with beheadings profited from Google ad platform."</a>. FT's video explains:
+
 [![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/MAS-FT-Business-PrinceOfJihad.jpg)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
 <video width="600" height="400" controls>
   <source src="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4" type="video/mp4">
-<em>Your browser does not support the video tag. Use this <a href="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4">video link</a>.</em>]>
+<em>GitHub does not support the video tag. Use this <a href="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4">video link</a>.</em>>
 </video>
 
 <h2>We know what you did last summer</h2>
@@ -71,11 +72,6 @@ My full IP address is being passed around like chips at a Super Bowl party: a to
 
 Ad tech is ravenous for data, for your data. We sacrifice our patience (waiting for webpages), our privacy and our pocketbooks (cellphone plans) so ad tech can gorge on our private parts. 
 
-Ad-tech and social-site tracking combined can now individually identify who you are, who your friends are, and what you and they do online. Anonymity is antiquated, read and weep: <a href="http://conferences.sigcomm.org/sigcomm/2009/workshops/wosn/papers/p7.pdf
-">"On the Leakage of Personally Identifiable Information Via Online Social Networks"</a>, by AT&T Labs and Worcester Polytechnic Institute researchers.
-
-Stuffing all these scripts down our browser's throats is choking online news. My RJI research data on <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">the (poor) performance of U.S. newspaper websites</a> showed XX percent of the file-requests and XX percent of the page-weight was these scripts. The New York Times examined 50 news sites and <a href="http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html">"found more than half of all data came from ads and other content filtered by ad blockers."</a>
-
 <blockquote>
 <p>Each ad gets its own iframe, so load is asynchronous and, if one fails, it doesn't kill the entire site. Unfortunately, that also means each one fires its own trackers, even if those trackers are identical across ads. It's terribly inefficient</p>
 
@@ -83,37 +79,31 @@ Stuffing all these scripts down our browser's throats is choking online news. My
 <cite>&mdash;<a href="http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it">"Content blockers, bad ads, and what we're doing about it,"</a> iMore</cite>
 </blockquote>
 
-<img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
-<em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
+It gets worse: Ad-tech and social-site tracking combined can now individually identify who you are, who your friends are, and what you and they do online. Anonymity is antiquated, read and weep: <a href="http://conferences.sigcomm.org/sigcomm/2009/workshops/wosn/papers/p7.pdf
+">"On the Leakage of Personally Identifiable Information Via Online Social Networks"</a>, by AT&T Labs and Worcester Polytechnic Institute researchers.
 
-Ad tracking pisses people off. Ad stalking creeps people out. Ad tech takes the top spots in user surveys on bad online experience:
+Stuffing all these scripts down our browser's throats is choking online news. My RJI research data on <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">the (poor) performance of U.S. newspaper websites</a> showed scripts were 56 percent of the page-weight and 35 percent of the file-requests — the two factors most correlated with page-load times. The New York Times examined 50 news sites and <a href="http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html">"found more than half of all data came from ads and other content filtered by ad blockers."</a>
 
+Ad tracking pisses people off. Ad stalking creeps people out:
 <blockquote>
-How annoying are each of the following mobile ads?
+<p>How annoying are each of the following mobile ads?
 <ol>
 <li>Ads that popup over my entire screen: 73%</li>
 <li>Ads that seem to "follow" me from my computer to my phone: 65%</li>
 </ol>
 <div><cite>&mdash;<a href="https://research.hubspot.com/reports/why-people-block-ads-and-what-it-means-for-marketers-and-advertisers
-">"Why People Block Ads,"</a> <em>HubSpot</em></cite></div>
-</blockquote>
+">"Why People Block Ads,"</a> <em>HubSpot</em> survey</cite></div></p>
 
-<blockquote>
-What respondents dislike about websites:
+<p>What respondents dislike about websites:
 <ol>
 <li>Ads that interfere with content: 55%</li>
 <li>Ads that redirect me to sites I don’t want to see: 52%</li>
 <li>Slow page loads (poor response time): 50%</li>
 </ol>
-<div><cite>&mdash;<a href="https://www.neustar.biz/resources/whitepapers/digital-brands-trust-report">"What erodes trust in digital brands?"</a> <em>Neustar</em></cite></div>
+<div><cite>&mdash;<a href="https://www.neustar.biz/resources/whitepapers/digital-brands-trust-report">"What erodes trust in digital brands?"</a> <em>Neustar</em> survey</cite></div></p>
 </blockquote>
 
-Two-thirds of Neustar's respondents checked: "I do not trust websites that take too long to load: 67%" in a list of "Perceptions about trustworthy newssites." (Grammerians, rejoice, #1 was "I do not trust websites that contain errors or mistakes: 91%".)
-
-<blockquote>
-Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.
-<div><cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite></div>
-</blockquote>
+Two-thirds of Neustar's respondents checked: "I do not trust websites that take too long to load: 67%" in a list of "Perceptions about trustworthy newssites." (Grammarians, rejoice, the #1 choice was "I do not trust websites that contain errors or mistakes: 91%".)
 
 <h2>Ad targetting: bullseye or bullshit?</h2>
 All this advanced advertising technology must be producing some soaring sales figures, right?
@@ -160,10 +150,20 @@ The only thing online advertising sells well is ad blockers, which Doc Searl cal
 <hr /><hr /><hr />
 Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for coining "traxonomy" and sending the Ghostery screenshot.
 
+<blockquote>
+Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.
+<div><cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite></div>
+</blockquote>
+<img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
+<em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
+
+
 <iframe src="http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ" allowscriptaccess="always" frameborder="0">
 Iframes not supported. Video URL:  
 http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ
 </iframe>
+The Fake Traffic Schemes That Are Rotting the Internet - Bloomberg Business  
+http://www.bloomberg.com/features/2015-click-fraud/
 
 
 Ad effciciency
