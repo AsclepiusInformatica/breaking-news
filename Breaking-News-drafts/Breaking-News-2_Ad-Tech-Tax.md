@@ -13,15 +13,17 @@ I can think of nothing that has done more harm to the Internet than ad tech. It 
 <div><cite>&mdash;Bob Hoffman (<a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a>) quoted by <a href="http://www.bloomberg.com/features/2015-click-fraud/"><em>Bloomberg Business</em></a></cite></div>
 </blockquote>
 
-My 93-year-old mom called the other day, almost in tears. Her browser had been taken over by popups that re-popped up every time she closed them. The slimy site (that she'd clicked to from RealClearPolitics) and its putrid popups persisted even after quitting and relaunching the browser. My mother was another victim of modern advertising.
+My 93-year-old mom called the other day, almost in tears. Her browser had been taken over by popups that re-popped every time she closed them. The slimy site (clicked to from a RealClearPolitics link) and its putrid popups persisted even after quitting and relaunching the browser. My mother was another victim of modern advertising.
 
 <h2>Old hotness, new and busted</h2>
 
-<img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ad-plymouth.jpg?raw=true">Once upon a time, an advertiser contracted a media agency to place specific advertisements in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of ad's cost; the publishers pocketed the rest.
+<img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ad-plymouth.jpg?raw=true">Once upon a time, an advertiser contracted a media agency to place specific advertisements in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of the ad's cost; the publishers pocketed the rest.
 
-This type of advertising built the brands of nearly every major product you've ever heard of. So, obviously, the entire industry needed radical disruption.
+This type of advertising built the brands of nearly every major product. So, obviously, the entire industry needed radical disruption.
 
-Legions of brogrammers began innovating advertising technologies, claiming to: "Build, run, measure and optimize retargeting-driven display campaigns." "Deliver cohesive messaging to qualified consumers at scale." "Analyze first-party premium publisher site level data to pinpoint active consumer intent." (All real company slogans, <a href="http://www.urbandictionary.com/define.php?term=YCMTSU">YCMTSU</a>.) Mainly what they did, though, was radically raise their rates.
+Legions of brogrammers began innovating advertising technologies. Among the things they'd do (all real company slogans, <a href="http://www.urbandictionary.com/define.php?term=YCMTSU">YCMTSU</a>): "Build, run, measure and optimize retargeting-driven display campaigns." "Deliver cohesive messaging to qualified consumers at scale." "Analyze first-party premium publisher site level data to pinpoint active consumer intent."
+
+Mainly what they did, though, was radically raise their rates.
 
 The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>.
 
