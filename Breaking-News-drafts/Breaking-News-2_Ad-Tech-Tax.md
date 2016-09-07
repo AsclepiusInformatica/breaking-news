@@ -39,7 +39,7 @@ A user clicks on a website and suddenly her Internet address and browsing histor
 <div><cite>&mdash;<em>Bloomberg Business</em> <a href="http://www.bloomberg.com/features/2015-click-fraud/">"The Fake Traffic Schemes That Are Rotting the Internet"</a></cite></div>
 </blockquote>
 
-"Ad tech" is the new automated way we buy, sell, deliver, and display online advertising. The cost for this convoluted complexity is the "ad tech tax."
+"Ad tech" is the new automated way we buy, sell, deliver and display online advertising. The cost for this convoluted complexity is the "ad tech tax."
 
 Good luck following this <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Interactive Advertising Bureau chart</a> of a typical ad buy:  
 
@@ -52,7 +52,7 @@ Agencies bill advertisers by the "impression," a semi-mythical event, said to oc
 
 But <a href="http://www.theatlantic.com/technology/archive/2013/12/welcome-to-the-internet-of-thingies-615-of-web-traffic-is-not-human/282309/">bots (search engines, etc.) "view" half these ads</a>, not humans. Another <a href="http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083">quarter are fraud</a>, in its <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">many forms</a>. And 15% are broken ads that never display at all. 
 
-So, 85 percent of paid-for impressions are either bogus, broken, or bot-hits. Reid Tatoris, Co-Founder of <a href="http://areyouahuman.com/">Are You a Human?</a>, breaks down the remainder:
+So, 85 percent of paid-for impressions are either bogus, broken or bot-hits. Reid Tatoris, Co-Founder of <a href="http://areyouahuman.com/">Are You a Human?</a>, breaks down the remainder:
 <blockquote>
 <p>We start with the notion that only 15% of impressions ever have the possibility to be seen by a real person. Then, factor in that <a href="http://www.comscore.com/Insights/Blog/Viewability_Benchmarks_Show_Many_Ads_Are_Not_In-View_but_Rates_Vary_by_Publisher">54% of ads are not viewable</a> (and we already discussed how flawed that metric is), and you’re left with <em>only 8% of impressions that have the opportunity to be seen by a real person</em>. Let me clarify: that does not mean that 8% of impressions are seen. That means only 8% have the chance to be seen. That’s an unbelievable amount of waste in an industry where metrics are a major selling point.</p>
 <cite>&mdash;<em>MediaPost</em> <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">"The Definition Of An Ad Impression"</a></cite>
@@ -77,7 +77,7 @@ My full IP address is being passed around like chips at a Super Bowl party: a to
 <div><cite>&mdash;Rob Leathern (CEO of <a href="http://optimal.com/">Optimal.com<a>), <a href="https://medium.com/@robleathern/the-mobile-video-ad-lie-938a6de51367#.pplm5xgkz">"The Mobile Video Ad Lie"</a></cite></div>
 </blockquote>
 
-<img align="right" width="300" src="https://github.com/hearvox/breaking-news/blob/master/assets/ghostery-verge-285x838.png?raw=true">The screenshot at right is a <a href="https://www.ghostery.com/">Ghostery</a> list all the scripts loaded by TheVerge.com, mostly for ads, social sites, and their associated tracking. Ad-blocked the page weighs 938 KB. Unblocked it's 10.3 MB, eleven times larger.
+<img align="right" width="300" src="https://github.com/hearvox/breaking-news/blob/master/assets/ghostery-verge-285x838.png?raw=true">The screenshot at right is a <a href="https://www.ghostery.com/">Ghostery</a> list all the scripts loaded by TheVerge.com, mostly for ads, social sites and their associated tracking. Ad-blocked the page weighs 938 KB. Unblocked it's 10.3 MB, eleven times larger.
 
 Ad tech is ravenous for data, for your data. We sacrifice our patience (waiting for webpages), our privacy and our pocketbooks (cellphone plans) so ad tech can gorge on our private parts. 
 
@@ -164,7 +164,7 @@ Maciej Cegłowski, of <a href="https://pinboard.in/">Pinboard</a>, says their re
 
 <h2>The wrong advertising</h2>
 
-I've yet to mention <a href="http://www.trademob.com/pressrelease/40-percent-of-mobile-ad-clicks-are-fraudulent-or-accidental-according-to-new-study-by-trademob/">near-zero click-through rates</a>, <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">ad agency kickbacks</a>, <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-frequency price pumping</a>, <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">non-human trafficking</a> and <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">malvertising ransomeware</a>. But I think you've heard enough. (Consult <a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a> for the complete hows and whys of ad-tech failures.)
+I've yet to mention <a href="http://www.trademob.com/pressrelease/40-percent-of-mobile-ad-clicks-are-fraudulent-or-accidental-according-to-new-study-by-trademob/">near-zero click-through rates</a> and <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">ad agency kickbacks</a>, or <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-frequency price pumping</a>, <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">non-human trafficking</a> and <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">malvertising ransomeware</a>. But I think you've heard enough. (Consult <a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a> for the complete hows and whys of ad-tech failures.)
 
 We web publishers could chose to end this madness. We could <a href="https://wpostats.com/">prioritize speed</a> and security on our sites and support the <a href="https://www.eff.org/issues/privacy">privacy projects</a>. We could collaborate on open-source, performant tracking and ad-delivery processes, with opt-ins and data storage expiration dates (read Cegłowski's <a href="http://idlewords.com/talks/haunted_by_data.htm">"Haunted by Data"</a>). Our readers would love us for it, and advertisers can't resist loving readers.
 
