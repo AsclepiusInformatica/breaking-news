@@ -19,9 +19,9 @@ My 93-year-old mom called the other day, almost in tears. Her browser had been t
 
 <img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ad-plymouth.jpg?raw=true">Once upon a time, an advertiser contracted a media agency to place specific advertisements in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of ad's cost; the publishers pocketed the rest.
 
-This type of advertising built the brands of nearly every major product you've ever heard of. So, obviously, the entire industry process needed radical disruption.
+This type of advertising built the brands of nearly every major product you've ever heard of. So, obviously, the entire industry needed radical disruption.
 
-Legions of brogrammers began innovating advertising technologies, claiming to: "Build, run, measure and optimize retargeting-driven display campaigns." "Deliver cohesive messaging to qualified consumers at scale." "Analyze first-party premium publisher site level data to pinpoint active consumer intent." (All real company slogans, <a href="http://www.urbandictionary.com/define.php?term=YCMTSU">YCMTSU</a>.) Mainly they did, though, was radically raise their rates.
+Legions of brogrammers began innovating advertising technologies, claiming to: "Build, run, measure and optimize retargeting-driven display campaigns." "Deliver cohesive messaging to qualified consumers at scale." "Analyze first-party premium publisher site level data to pinpoint active consumer intent." (All real company slogans, <a href="http://www.urbandictionary.com/define.php?term=YCMTSU">YCMTSU</a>.) Mainly what they did, though, was radically raise their rates.
 
 The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>.
 
@@ -51,14 +51,14 @@ So, 85 percent of paid-for impressions are either bogus, broken, or bot-hits. Re
 <cite>&mdash;<em>MediaPost</em> <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">"The Definition Of An Ad Impression"</a></cite>
 </blockquote>
 
-Ad tech not only fails to target specific people, but also it usually fails to find a person, or, worse, finds the wrong people.
+Ad tech fails in targeting specific people. It even fails in finding any person, or, worse, finds the wrong people.
 
 After Google's botched buys for Citigroup, IBM and Microsoft, the Financial Times headline read <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiR4uW9t-nOAhUU0WMKHWbJAfMQFggeMAA&url=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Fb06d18c0-1bfb-11e6-8fa5-44094f6d9c46.html&usg=AFQjCNHQ9c1XxyOrZGi_JjmpWfIJR1l3_A&sig2=DRKy3VsUTXevRYsimr50PA">"Jihadi website with beheadings profited from Google ad platform."</a>. FT's video explains:
 
 [![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/MAS-FT-Business-PrinceOfJihad.jpg)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
 <video width="600" height="400" controls>
   <source src="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4" type="video/mp4">
-<em>GitHub does not support the video tag. Use this <a href="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4">video link</a>.</em>>
+<em>GitHub does not support the video tag. Use this <a href="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4">video link</a>.</em>
 </video>
 
 <h2>We know what you did last summer</h2>
@@ -106,14 +106,14 @@ Ad tracking pisses people off. Ad stalking creeps people out:
 Two-thirds of Neustar's respondents checked: "I do not trust websites that take too long to load: 67%" in a list of "Perceptions about trustworthy newssites." (Grammarians, rejoice, the #1 choice was "I do not trust websites that contain errors or mistakes: 91%".)
 
 <h2>Ad targeting: bullseye or bullshit?</h2>
-But these precision-targeted, big-data-driven ads have got sale soaring, right? Wrong
+All these precision-targeted, big-data-driven ads have sales soaring, right? Wrong.
 
-Online advertising efficiency is in a nosedive. This <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a> chart shows the plunging ratio of revenue to digital marketing expenses (both in dollars):
+Online advertising efficiency is in a nosedive. This <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a> chart shows the plunging ratio of revenue dollars to dollars spent on digital marketing:
 
 <p><img src="https://kalkis-research.com/imagecache/8ebb0582bdbaa85c4dc2fcf662bfccde.png">
 <div><em>Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and eBay (source: SEC 10-K filings 2010 through 2015, <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a>)</em></div></p>
 
-When eBay experimented by turning off search ads in half the U.S. cities, sales <a href="https://hbr.org/2015/10/the-online-ad-scams-every-marketer-should-watch-out-for">"stayed the same even as eBay’s advertising expenditure dropped."</a> When Procter & Gamble <a href="http://www.wsj.com/articles/p-g-to-scale-back-targeted-facebook-ads-1470760949">targeted Fabreze air freshener ads at pet owners and large-family households, sales were flat</a>. When, instead, they sent the ads to anyone over 18, sales rose.
+When eBay tested ad tech by turning off search ads in half the U.S. cities, sales <a href="https://hbr.org/2015/10/the-online-ad-scams-every-marketer-should-watch-out-for">"stayed the same even as eBay’s advertising expenditure dropped."</a> When Procter & Gamble <a href="http://www.wsj.com/articles/p-g-to-scale-back-targeted-facebook-ads-1470760949">targeted Fabreze (an air freshener) ads at pet owners and large-family households, sales stayed flat</a>. When, instead, they sent the ads to anyone over 18, sales rose.
 
 The only thing online advertising sells well is ad blockers, which Doc Searls calls <a href="http://blogs.harvard.edu/doc/2015/09/28/beyond-ad-blocking-the-biggest-boycott-in-human-history/">"the biggest boycott in history."</a>
 
@@ -143,9 +143,11 @@ Maciej Cegłowski, of Pinboard, sees their real goal as not CPM but rather VC, w
 <cite>&mdash;Maciej Cegłowski, <a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"The Internet With A Human Face"</a></cite>
 </blockquote>
 
-This article's sordid story must come to an end, with hardly a mention of <a href="http://www.trademob.com/pressrelease/40-percent-of-mobile-ad-clicks-are-fraudulent-or-accidental-according-to-new-study-by-trademob/">near-zero click-through rates</a>, <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">agency kickbacks</a>, <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-frequency price pumping</a> and <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">non-human trafficking</a>. Consult <a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a> for the complete how and why of ad-tech failures.
+<h2>The wrong advertising</h2>
 
-We web publishers could chose to end this madness, by <a href="https://wpostats.com/">prioritizing speed</a> and security on our sites, supporting the <a href="https://www.eff.org/issues/privacy">Electronic Frontier Foundation's privacy projects</a> and collaborating on open-source tracking and ad scripts — with opt-ins and data storage expiration dates (read Cegłowski's <a href="http://idlewords.com/talks/haunted_by_data.htm">"Haunted by Data"</a>. Our readers would love us for it, and advertisers can't resist loving readers.
+I haven't even mentioned <a href="http://www.trademob.com/pressrelease/40-percent-of-mobile-ad-clicks-are-fraudulent-or-accidental-according-to-new-study-by-trademob/">near-zero click-through rates</a>, <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">ad agency kickbacks</a>, <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-frequency price pumping</a> <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">non-human trafficking</a> and <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">malvertising ransomeware</a>. But I think you've heard enouh. (Consult <a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a> for the complete how and why of ad-tech failures.)
+
+We web publishers could chose to end this madness, by <a href="https://wpostats.com/">prioritizing speed</a> and security on our sites, supporting the <a href="https://www.eff.org/issues/privacy">privacy projects</a> and collaborating on open-source tracking and ad-delivery scripts — with opt-ins and data storage expiration dates (read Cegłowski's <a href="http://idlewords.com/talks/haunted_by_data.htm">"Haunted by Data"</a>). Our readers would love us for it, and advertisers can't resist loving readers.
 
 For now, though, I'll leave you with this 1983 thought from David Ogilvy, the OG of Mad Men:
 <blockquote>
@@ -158,6 +160,6 @@ For now, though, I'll leave you with this 1983 thought from David Ogilvy, the OG
 </blockquote>
 
 <hr />
-<p><em>Notes: You can check and manage your own <a href="https://www.google.com/settings/u/0/ads/authenticated?hl=en">Google ads personalization</a> and <a href="https://www.facebook.com/ads/preferences">Facebook ads preferences</a>. Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for the Ghostery screenshot.</em></p>
+<p><em>Notes: You can check and manage your own <a href="https://www.google.com/settings/u/0/ads/authenticated?hl=en">Google ads personalization</a> and <a href="https://www.facebook.com/ads/preferences">Facebook ad preferences</a>. Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for the Ghostery screenshot.</em></p>
 
 BIO: <a href="https://www.rjionline.org/stories/series/storytelling-tools/">RJI Storytelling Tools</a>
