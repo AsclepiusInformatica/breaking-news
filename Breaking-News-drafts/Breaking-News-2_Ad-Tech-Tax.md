@@ -51,7 +51,7 @@ So, 85 percent of paid-for impresssions are either bogus, broken, or bot-hits. R
 <cite>&mdash;<em>MediaPost</em> <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">"The Definition Of An Ad Impression"</a></cite>
 </blockquote>
 
-Ad tech not only fails to target specific people, but also, usually, it fails to find a person, or, worse, finds the wrong people.
+Ad tech not only fails to target specific people, but also it usually fails to find a person, or, worse, finds the wrong people.
 
 After Google's botched buys for Citigroup, IBM and Microsoft, the Finacial Times headline read <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiR4uW9t-nOAhUU0WMKHWbJAfMQFggeMAA&url=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Fb06d18c0-1bfb-11e6-8fa5-44094f6d9c46.html&usg=AFQjCNHQ9c1XxyOrZGi_JjmpWfIJR1l3_A&sig2=DRKy3VsUTXevRYsimr50PA">"Jihadi website with beheadings profited from Google ad platform."</a>. FT's video explains:
 
@@ -157,110 +157,8 @@ For now, though, I'll leave you with this 1983 thought from David Ogilvy, the OG
 <cite>&mdash;David Ogilvy, <a href="https://books.google.com/books?id=hVFwAAAAQBAJ&pg=PT12&dq=%22The+wrong+advertising+can+actually+reduce+the+sales+of+a+product%22&hl=en&sa=X&ved=0ahUKEwjx3JL0l8vNAhUJ5IMKHbrWDwMQ6AEIJDAB#v=onepage&q=%22The%20wrong%20advertising%20can%20actually%20reduce%20the%20sales%20of%20a%20product%22&f=false"><em>Ogilvy on Advertising</em></a></cite>
 </blockquote>
 
-<hr /><hr /><hr />
-Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for coining "traxonomy" and sending the Ghostery screenshot.
-
-But there's more: 
-
-<blockquote>
-Not only is ad tech cluttering up people's screens with ads that are designed to deliver accidental clicks that are near-impossible to avoid, those ads come with scripts to turn your user behavior into their big data -- and those scripts have significant bandwidth attached. In other words, a very significant chunk of your data plan, battery life and time waiting for sites to load are costs you pay to watch the very same ads that are messing up your customer experience.
-<div><cite>&mdash;<em>Advertising Age</em> <a href="http://adage.com/article/digitalnext/ad-tech-worst-thing-happened-advertising/301992/">"Why Ad Tech Is the Worst Thing That Ever Happened to Advertising"</a></cite></div>
-</blockquote>
-<img src="http://www.bloomberg.com/features/2015-click-fraud/img/bannerdivider1.gif" />
-<em>Image: &copy; 2015 <a href="http://www.bloomberg.com/features/2015-click-fraud/">Bloomberg Business</a></em>
-
-
-
-<iframe src="http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ" allowscriptaccess="always" frameborder="0">
-Iframes not supported. Video URL:  
-http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ
-</iframe>
-The Fake Traffic Schemes That Are Rotting the Internet - Bloomberg Business  
-http://www.bloomberg.com/features/2015-click-fraud/
-
-
-Ad effciciency
-
-
-Ogilvy
-
-Open source, brave, EFF
-
-
-<h2>The wrong advertising</h2>
-
-
-
-Quaint, even antiquainted. 
-
-
- 
-
-
-
-
-https://www.facebook.com/ads/preferences
-https://www.google.com/settings/u/0/ads/authenticated?hl=en
-East Asian Music, Make-Up & Cosmetics, Hygiene & Toiletries
-"These topics are derived from your activity on Google sites, such as the videos you've watched on YouTube. This does not include Gmail topics, which are used only for ads within Gmail."
-
-
-<h2>The Great Ad Wars of 2016</h2>
-<blockquote>
-<p>In early 2016 barbarian hordes of Blockers began knocking down the ad-supports upon which the Fourth Estate was built. The Media Giantsbanished the Blockers, erecting ever higher Walls of Pay&hellip;</p>
-<cite>&mdash;<em>The Book of Face</em></cite>
-</blockquote>
-
-<h2>News funds its own premature funeral</h2>
-
 <hr />
+<em>Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for coining "traxonomy" and sending the Ghostery screenshot.</em>
 
-<hr />
+BG bio
 
-<h2>Follow the monetizing</h2>
-
-<h2>save</h2>
-
-Am I being too harsh? If so, to be nicer to the ad tech folks, I won't even mention <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">their kickbacks</a>, <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-freq price pumping</a>, and  <a href="http://www.bloomberg.com/features/2015-click-fraud/">non-human trafficking</a>.
-
-The fairy tale is that Big Data and high-tech can target ads tospecific groups of people. The reality is they mostly can't even get the ad to a person, any person. All most programmatically targeted ads hits is just another computer program. 
-
-policy of pissing off readers.
-
-addicted to analytics. Maybe it's CYA, maybe they're bedazzled by spreadsheets. But I think at this point it'd be hard to make the case BigData has sold anything -- other than itself -- to anyone. And it'd be easy to show how the side effects of BigData is killing the adverstising and news inductries. 
-
-
-
-<blockquote>
-<p>Online advertising is a fraudster’s heaven, and even the savviest advertisers lose millions of dollars each month.</p>
-<cite>&mdash;<em>TechCrunch</em> <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">"Are Bots Hijacking Your Marketing Budget?"</a></cite>
-</blockquote>
-
-
-
-
-Say you want to target your ad to brogrammers running ad-tech rackets. You simply puchase a steaming pile of Big Data that cross-tabs chronic Disrupt attendees with dailt tweeters with frequent Ferrari web visitors. Instantly half the phones in Palo Alto light up with your product.
-
-It doesn't always work this way, though, and by "not always" I mean "almost never."
-
-
-
-<hr />
-
-Plymouth ad: https://books.google.com/books?id=yEUEAAAAMBAJ&pg=PA46&lpg=PA46&dq=are+they+making+turnpikes+shorter+plymouth&source=bl&ots=pviURLWep9&sig=BdR1QzUVMZHIAhHCis7xU2FWaPo&hl=en&sa=X&ved=0ahUKEwjOqbqiguLOAhVEKGMKHSNTA7UQ6AEIIzAB#v=onepage&q=are%20they%20making%20turnpikes%20shorter%20plymouth&f=false
-
-<blockquote>
-When you open a web page, information such as age, sex, location and search history are zapped to buyers vying for your attention. Bundled with 999 other people, those eyeballs are offered to the highest bidder, usually ad agencies and their clients, which can range from big public companies such as Apple Inc. to local car dealerships.
-<div><cite>&mdash;<em>Bloomberg</em> <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">"High-Speed Ad Traders Profit by Arbitraging Your Eyeballs"</a></cite></div>
-</blockquote>
-
-<a href="https://next.ft.com/content/b06d18c0-1bfb-11e6-8fa5-44094f6d9c46">"Jihadi website with beheadings profited from Google ad platform</a>
-
-<blockquote>
-Xxx
-<div><cite>&mdash;<a href="aaa">Yaa</a> <em>Zzz</em></cite></div>
-</blockquote>
-
-<details>
-Testing hidden details.
-</details>
