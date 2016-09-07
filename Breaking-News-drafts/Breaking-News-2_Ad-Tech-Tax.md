@@ -150,7 +150,7 @@ http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ
 <a href="http://www.wsj.com/articles/ad-tech-growth-hits-speed-bump-1451936427
 ">Ad tech companies aren't profitable</a> yet they grow like weeds. In 2011 there were 150; now, in 2016, <a href="http://chiefmartec.com/2016/03/marketing-technology-landscape-supergraphic-2016/">there are 3,500</a>. They breed and feed on big data, claiming it will someday, somehow translate into sales.
 
-Maciej Cegłowski, of <a href="https://pinboard.in/"Pinboard</a>, says their real goal isn't CPM, it's VC and "Investor Storytime":
+Maciej Cegłowski, of <a href="https://pinboard.in/">Pinboard</a>, says their real goal isn't CPM, it's VC and "Investor Storytime":
 <blockquote>
 <p>Investor storytime is not exactly advertising, but it is related to advertising. Think of it as an advertising future, or perhaps the world's most targeted ad.</p>
 
