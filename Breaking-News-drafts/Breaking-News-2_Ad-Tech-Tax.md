@@ -54,12 +54,14 @@ So, 85 percent of paid-for impressions are either bogus, broken, or bot-hits. Re
 Ad tech fails in targeting specific people. It even fails in finding any person, or, worse, finds the wrong people.
 
 After a botched buy for Citigroup, IBM and Microsoft, the Financial Times headline read <a href="http://www.ft.com/cms/s/0/b06d18c0-1bfb-11e6-8fa5-44094f6d9c46.html#axzz4JZnDfKE6">"Jihadi website with beheadings profited from Google ad platform."</a> FT's video explains:
-
-[![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/FT-video.jpg)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
 <video width="600" height="400" controls>
   <source src="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4" type="video/mp4">
-<em>GitHub doesnit support the video tag. Here's the <a href="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4">video link</a>.</em>
+<em>No videos allowed in GitHub markdown, here's the URL:  
+http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4
+</em>
 </video>
+[![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/FT-video.png)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
+
 
 <h2>We know what you did last summer</h2>
 
@@ -127,12 +129,14 @@ The only thing online advertising sells well is ad blockers, which Doc Searls ca
 <img src="https://kalkis-research.com/imagecache/532f1ae2393a0502f601a1c4be46036f.png">
 <div><em>Change in advertising and sales, from 2010 to 2015 (source: SEC 10-K filings), <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">Kalkis Research</a></em></div>
 
-Bloomberg <a href="http://www.bloomberg.com/features/2015-click-fraud/">followed the fake monetizing</a> in this video:
-[![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/Bloomberg-video.png)](http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ)
+This Bloomberg vdieo <a href="http://www.bloomberg.com/features/2015-click-fraud/">follows the fake monetizing</a>:
 <iframe src="http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ" allowscriptaccess="always" frameborder="0">
-No vids in GitHub, here's the URL:  
+<em>No vids in GitHub, here's the URL:  
 http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ
+</em>
 </iframe>
+
+[![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/Bloomberg-video.png)](http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ)
 
 
 <h2>Addicted to big data</h2>
