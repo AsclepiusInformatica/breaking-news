@@ -125,7 +125,7 @@ The only thing online advertising sells well is ad blockers, which Doc Searl cal
 </blockquote>
 
 <img src="https://kalkis-research.com/imagecache/532f1ae2393a0502f601a1c4be46036f.png">
-<em>Change in advertising and sales, from 2010 to 2015 (source: SEC 10-K filings), <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">Kalkis Research</a></em> 
+<div><em>Change in advertising and sales, from 2010 to 2015 (source: SEC 10-K filings), <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">Kalkis Research</a></em></div>
 
 <h2>Addicted to big data</h2>
 <a href="http://www.wsj.com/articles/ad-tech-growth-hits-speed-bump-1451936427
