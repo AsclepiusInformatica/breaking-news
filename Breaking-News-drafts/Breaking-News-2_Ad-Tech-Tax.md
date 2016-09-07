@@ -17,11 +17,11 @@ My 93-year-old mom called the other day, almost in tears. Her browser had been t
 
 <h2>Old hotness, new and busted</h2>
 
-<img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ad-plymouth.jpg?raw=true">Once upon a time, an advertiser contracted a media agency to place specific advertisments in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of ad's cost; the publishers pocketed the rest.
+<img align="right" width="400" src="https://github.com/hearvox/breaking-news/blob/master/assets/ad-plymouth.jpg?raw=true">Once upon a time, an advertiser contracted a media agency to place specific advertisements in specific publications. Publishers provided "tear sheets" proving the ads had run. The agency got 15% of ad's cost; the publishers pocketed the rest.
 
 This type of advertising built the brands of nearly every major product you've ever heard of. So, obviously, the entire industry process needed radical disruption.
 
-Legions of brogrammers began innovating advertising technologies, claiming to: "Build, run, measure and optimize retargeting-driven display campaigns." "Deliver cohesive messaging to qualified consumers at scale." "Analyze first-party premium publisher site level data to pinpoint active consumer intent." (All real company slogans, <a href="http://www.urbandictionary.com/define.php?term=YCMTSU">YCMTSU</a>.) Mainly they did, though, was radically raise thir rates.
+Legions of brogrammers began innovating advertising technologies, claiming to: "Build, run, measure and optimize retargeting-driven display campaigns." "Deliver cohesive messaging to qualified consumers at scale." "Analyze first-party premium publisher site level data to pinpoint active consumer intent." (All real company slogans, <a href="http://www.urbandictionary.com/define.php?term=YCMTSU">YCMTSU</a>.) Mainly they did, though, was radically raise their rates.
 
 The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">55% in 2014</a>. In 2015, the creeps <a href="http://www.mediapost.com/publications/article/270487/study-finds-only-40-of-digital-buys-going-to-work.html">took 60%</a>.
 
@@ -45,7 +45,7 @@ Ad tech bills advertisers by the "impression," a semi-mythical event, said to oc
 
 But only <a href="http://www.theatlantic.com/technology/archive/2013/12/welcome-to-the-internet-of-thingies-615-of-web-traffic-is-not-human/282309/">bots "view" half these ads</a> (search engines, etc.; i.e., not humans). Another <a href="http://www.adweek.com/news/technology/amount-questionable-online-traffic-will-blow-your-mind-153083">quarter are fraud</a>, in its <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">many forms</a>. And 15% are broken ads that never display at all. 
 
-So, 85 percent of paid-for impresssions are either bogus, broken, or bot-hits. Reid Tatoris, Co-Founder of <a href="http://areyouahuman.com/">Are You a Human?</a>, breaks down the remainder:
+So, 85 percent of paid-for impressions are either bogus, broken, or bot-hits. Reid Tatoris, Co-Founder of <a href="http://areyouahuman.com/">Are You a Human?</a>, breaks down the remainder:
 <blockquote>
 <p>We start with the notion that only 15% of impressions ever have the possibility to be seen by a real person. Then, factor in that <a href="http://www.comscore.com/Insights/Blog/Viewability_Benchmarks_Show_Many_Ads_Are_Not_In-View_but_Rates_Vary_by_Publisher">54% of ads are not viewable</a> (and we already discussed how flawed that metric is), and you’re left with <em>only 8% of impressions that have the opportunity to be seen by a real person</em>. Let me clarify: that does not mean that 8% of impressions are seen. That means only 8% have the chance to be seen. That’s an unbelievable amount of waste in an industry where metrics are a major selling point.</p>
 <cite>&mdash;<em>MediaPost</em> <a href="http://www.mediapost.com/publications/article/219695/the-definition-of-an-ad-impression.html">"The Definition Of An Ad Impression"</a></cite>
@@ -53,7 +53,7 @@ So, 85 percent of paid-for impresssions are either bogus, broken, or bot-hits. R
 
 Ad tech not only fails to target specific people, but also it usually fails to find a person, or, worse, finds the wrong people.
 
-After Google's botched buys for Citigroup, IBM and Microsoft, the Finacial Times headline read <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiR4uW9t-nOAhUU0WMKHWbJAfMQFggeMAA&url=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Fb06d18c0-1bfb-11e6-8fa5-44094f6d9c46.html&usg=AFQjCNHQ9c1XxyOrZGi_JjmpWfIJR1l3_A&sig2=DRKy3VsUTXevRYsimr50PA">"Jihadi website with beheadings profited from Google ad platform."</a>. FT's video explains:
+After Google's botched buys for Citigroup, IBM and Microsoft, the Financial Times headline read <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiR4uW9t-nOAhUU0WMKHWbJAfMQFggeMAA&url=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Fb06d18c0-1bfb-11e6-8fa5-44094f6d9c46.html&usg=AFQjCNHQ9c1XxyOrZGi_JjmpWfIJR1l3_A&sig2=DRKy3VsUTXevRYsimr50PA">"Jihadi website with beheadings profited from Google ad platform."</a>. FT's video explains:
 
 [![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/MAS-FT-Business-PrinceOfJihad.jpg)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
 <video width="600" height="400" controls>
@@ -68,7 +68,7 @@ My full IP address is being passed around like chips at a Super Bowl party: a to
 <div><cite>&mdash;Rob Leathern (CEO of <a href="http://optimal.com/">Optimal.com<a>), <a href="https://medium.com/@robleathern/the-mobile-video-ad-lie-938a6de51367#.pplm5xgkz">"The Mobile Video Ad Lie"</a></cite></div>
 </blockquote>
 
-<img align="right" width="300" src="https://github.com/hearvox/breaking-news/blob/master/assets/ghostery-verge-285x838.png?raw=true">The screenshot at right is a <a href="https://www.ghostery.com/">Ghostery</a> list all the scripts loaded by TheVerge.com, mostly for ads, social sites, and their asscoiated tracking. Ad-blocked the page weight was 938 KB. Unblocked it's 10.3 MB, more than 11-times larger.
+<img align="right" width="300" src="https://github.com/hearvox/breaking-news/blob/master/assets/ghostery-verge-285x838.png?raw=true">The screenshot at right is a <a href="https://www.ghostery.com/">Ghostery</a> list all the scripts loaded by TheVerge.com, mostly for ads, social sites, and their associated tracking. Ad-blocked the page weight was 938 KB. Unblocked it's 10.3 MB, more than 11-times larger.
 
 Ad tech is ravenous for data, for your data. We sacrifice our patience (waiting for webpages), our privacy and our pocketbooks (cellphone plans) so ad tech can gorge on our private parts. 
 
@@ -105,17 +105,17 @@ Ad tracking pisses people off. Ad stalking creeps people out:
 
 Two-thirds of Neustar's respondents checked: "I do not trust websites that take too long to load: 67%" in a list of "Perceptions about trustworthy newssites." (Grammarians, rejoice, the #1 choice was "I do not trust websites that contain errors or mistakes: 91%".)
 
-<h2>Ad targetting: bullseye or bullshit?</h2>
+<h2>Ad targeting: bullseye or bullshit?</h2>
 But these precision-targeted, big-data-driven ads have got sale soaring, right? Wrong
 
-Online advertising effeciency is in a nosedive. This <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a> chart shows the plunging ratio of revenue to digital marketing expenses (both in dollars):
+Online advertising efficiency is in a nosedive. This <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a> chart shows the plunging ratio of revenue to digital marketing expenses (both in dollars):
 
 <p><img src="https://kalkis-research.com/imagecache/8ebb0582bdbaa85c4dc2fcf662bfccde.png">
-<div><em>Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and Ebay (source: SEC 10-K filings 2010 through 2015, <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a>)</em></div></p>
+<div><em>Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and eBay (source: SEC 10-K filings 2010 through 2015, <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a>)</em></div></p>
 
 When eBay experimented by turning off search ads in half the U.S. cities, sales <a href="https://hbr.org/2015/10/the-online-ad-scams-every-marketer-should-watch-out-for">"stayed the same even as eBay’s advertising expenditure dropped."</a> When Procter & Gamble <a href="http://www.wsj.com/articles/p-g-to-scale-back-targeted-facebook-ads-1470760949">targeted Fabreze air freshener ads at pet owners and large-family households, sales were flat</a>. When, instead, they sent the ads to anyone over 18, sales rose.
 
-The only thing online advertising sells well is ad blockers, which Doc Searl calls <a href="http://blogs.harvard.edu/doc/2015/09/28/beyond-ad-blocking-the-biggest-boycott-in-human-history/">"the biggest boycott in history."</a>
+The only thing online advertising sells well is ad blockers, which Doc Searls calls <a href="http://blogs.harvard.edu/doc/2015/09/28/beyond-ad-blocking-the-biggest-boycott-in-human-history/">"the biggest boycott in history."</a>
 
 <blockquote>
 <p>Online advertising efficiency has been decreasing for years, and companies have to spend more ad dollars for the same result. The process of ad placement has become ever more automated, obscure and complex, while intermediaries have multiplied, each taking a cut from the client's initial ad budget. Controls and regulations are nonexistent, and a big chunk of ad spending is being stolen, plain and simple.</p>
@@ -143,7 +143,7 @@ Maciej Cegłowski, of Pinboard, sees their real goal as not CPM but rather VC, w
 <cite>&mdash;Maciej Cegłowski, <a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"The Internet With A Human Face"</a></cite>
 </blockquote>
 
-This article's sordid story must come to an end, with hardly a mention of <a href="http://www.trademob.com/pressrelease/40-percent-of-mobile-ad-clicks-are-fraudulent-or-accidental-according-to-new-study-by-trademob/">near-zero click-through rates</a>, <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">agency kickbacks</a>, <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-freq price pumping</a> and <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">non-human trafficking</a>. Consult <a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a> for the complete how and why of ad-tech failures.
+This article's sordid story must come to an end, with hardly a mention of <a href="http://www.trademob.com/pressrelease/40-percent-of-mobile-ad-clicks-are-fraudulent-or-accidental-according-to-new-study-by-trademob/">near-zero click-through rates</a>, <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">agency kickbacks</a>, <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-frequency price pumping</a> and <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">non-human trafficking</a>. Consult <a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a> for the complete how and why of ad-tech failures.
 
 We web publishers could chose to end this madness, by <a href="https://wpostats.com/">prioritizing speed</a> and security on our sites, supporting the <a href="https://www.eff.org/issues/privacy">Electronic Frontier Foundation's privacy projects</a> and collaborating on open-source tracking and ad scripts — with opt-ins and data storage expiration dates (read Cegłowski's <a href="http://idlewords.com/talks/haunted_by_data.htm">"Haunted by Data"</a>. Our readers would love us for it, and advertisers can't resist loving readers.
 
@@ -161,4 +161,3 @@ For now, though, I'll leave you with this 1983 thought from David Ogilvy, the OG
 <p><em>Notes: You can check and manage your own <a href="https://www.google.com/settings/u/0/ads/authenticated?hl=en">Google ads personalization</a> and <a href="https://www.facebook.com/ads/preferences">Facebook ads preferences</a>. Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for the Ghostery screenshot.</em></p>
 
 BIO: <a href="https://www.rjionline.org/stories/series/storytelling-tools/">RJI Storytelling Tools</a>
-
