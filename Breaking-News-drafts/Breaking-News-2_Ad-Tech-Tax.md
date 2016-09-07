@@ -2,7 +2,7 @@
 _____________________
 
 
-<img src="https://github.com/hearvox/breaking-news/blob/master/assets/Plymouth-1961-ad-turnpikes-shorter.jpg?raw=true" alt="1961 Plymouth car ad: Are they making turnpikes shorter this year?" />  
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/Ford-1965-Mustang-ad-Miss-Tiffany-1251x455.jpg?raw=true" alt="1965 Ford Mustang ad with Miss Tiffany" />  
 
 <h1>Breaking News 2: When Good Ads Go Bad</h1>
 
