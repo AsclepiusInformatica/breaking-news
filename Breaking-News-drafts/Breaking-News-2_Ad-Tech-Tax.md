@@ -55,9 +55,9 @@ Ad tech fails in targeting specific people. It even fails in finding any person,
 
 After a botched buy for Citigroup, IBM and Microsoft, the Financial Times headline read <a href="http://www.ft.com/cms/s/0/b06d18c0-1bfb-11e6-8fa5-44094f6d9c46.html#axzz4JZnDfKE6">"Jihadi website with beheadings profited from Google ad platform."</a> FT's video explains:
 
-<p><em>No videos allowed in GitHub markdown, here's the URL:  
+<p><code><em>No videos allowed in GitHub markdown, here's the URL:  
 http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4
-</em></p>
+</em><code></p>
 [![ScreenShot](https://raw.githubusercontent.com/hearvox/breaking-news/master/assets/FT-video.png)](http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4)
 <video width="600" height="400" controls>
   <source src="http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4" type="video/mp4">
