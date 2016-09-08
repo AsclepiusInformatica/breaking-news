@@ -146,11 +146,10 @@ http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ
 <iframe src="http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ" allowscriptaccess="always" frameborder="0">
 </iframe>
 
-<h2>Addicted to big data</h2>
-<a href="http://www.wsj.com/articles/ad-tech-growth-hits-speed-bump-1451936427
-">Ad tech companies aren't profitable</a> yet they grow like weeds. In 2011 there were 150; now, in 2016, <a href="http://chiefmartec.com/2016/03/marketing-technology-landscape-supergraphic-2016/">there are 3,500</a>. They breed and feed on big data, claiming it will someday, somehow translate into sales.
-
 <h2>The wrong advertising</h2>
+
+<a href="http://www.wsj.com/articles/ad-tech-growth-hits-speed-bump-1451936427
+">Ad tech companies aren't profitable</a> yet they grow like weeds. In 2011 there were 150; now, in 2016, <a href="http://chiefmartec.com/2016/03/marketing-technology-landscape-supergraphic-2016/">there are 3,500</a>.
 
 I've yet to mention <a href="http://www.trademob.com/pressrelease/40-percent-of-mobile-ad-clicks-are-fraudulent-or-accidental-according-to-new-study-by-trademob/">near-zero click-through rates</a> and <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">ad agency kickbacks</a>, or <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-frequency price pumping</a>, <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">non-human trafficking</a> and <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">malvertising ransomeware</a>. But I think you've heard enough. (Consult <a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a> for the complete hows and whys of ad-tech failures.)
 
