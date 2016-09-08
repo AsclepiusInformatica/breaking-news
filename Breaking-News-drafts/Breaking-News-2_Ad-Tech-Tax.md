@@ -34,7 +34,7 @@ The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com
 
 <h2>The ad tech tax</h2>
 
-Ad tech is the new automated way we buy, sell, deliver and display online advertising. The cost for this convoluted complexity is known as the ad tech tax.
+'Ad tech' is the new automated way we buy, sell, deliver and display online advertising. The cost for this convoluted complexity is 'the ad tech tax.'
 
 <blockquote>
 A user clicks on a website and suddenly her Internet address and browsing history are packaged and whisked off to an auction site, where software, on behalf of advertisers, scrutinizes her profile (or an anonymized version of it) and determines whether to bid to place an ad next to that article. Ford Motor could pay to put its ads on websites for car buffs, or, with the help of cookies, track car buffs wherever they may be online. Ford might want to target males age 25-40 for pickup-truck ads, or, better yet, anybody in that age group who’s even read about pickups in the past six months.
@@ -79,7 +79,7 @@ My full IP address is being passed around like chips at a Super Bowl party: a to
 
 <img align="right" width="300" src="https://github.com/hearvox/breaking-news/blob/master/assets/ghostery-verge-285x838.png?raw=true">Ad tech is ravenous for data, for our data. We sacrifice our patience (waiting for webpages), our privacy and our pocketbooks (cellphone plans) so ad tech can gorge on our private parts. 
 
-For example, the image at right is from a visit to TheVerge.com. It a <a href="https://www.ghostery.com/">Ghostery</a> list of all the page's scripts — mostly for ads, social sites and user-tracking. This page weights 10.3 MB. But when ad-blocking the scripts, it's only 938 KB, eleven times smaller (so loads that much faster).
+For example, the image at right is from TheVerge.com. It's a <a href="https://www.ghostery.com/">Ghostery</a> list of all the page's scripts — mostly for ads, social sites and user-tracking. This page weights 10.3 MB. But by ad-blocking the scripts, it's only 938 KB, eleven times smaller (so loads that much faster).
 
 <blockquote>
 <p>Each ad gets its own iframe, so load is asynchronous and, if one fails, it doesn't kill the entire site. Unfortunately, that also means each one fires its own trackers, even if those trackers are identical across ads. It's terribly inefficient</p>
@@ -150,23 +150,11 @@ http://www.bloomberg.com/api/embed/iframe?id=hlJUf6vFR1y_7nqJkazlpQ
 <a href="http://www.wsj.com/articles/ad-tech-growth-hits-speed-bump-1451936427
 ">Ad tech companies aren't profitable</a> yet they grow like weeds. In 2011 there were 150; now, in 2016, <a href="http://chiefmartec.com/2016/03/marketing-technology-landscape-supergraphic-2016/">there are 3,500</a>. They breed and feed on big data, claiming it will someday, somehow translate into sales.
 
-Maciej Cegłowski, of <a href="https://pinboard.in/">Pinboard</a>, says their real goal isn't CPM, it's VC and "Investor Storytime":
-<blockquote>
-<p>Investor storytime is not exactly advertising, but it is related to advertising. Think of it as an advertising future, or perhaps the world's most targeted ad.</p>
-
-<p>Both business models involve persuasion. In one of them, you're asking millions of listeners to hand over a little bit of money. In the other, you're persuading one or two listeners to hand over millions of money.</p>
-
-<p>That's the essence of investor storytime. Give us money now, and you won't believe how awesome our ads will be when we finally put them on the site.</p>
-
-<p>We're addicted to 'big data' not because it's effective now, but because we need it to tell better stories.</p>
-<cite>&mdash;Maciej Cegłowski, <a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"The Internet With A Human Face"</a></cite>
-</blockquote>
-
 <h2>The wrong advertising</h2>
 
 I've yet to mention <a href="http://www.trademob.com/pressrelease/40-percent-of-mobile-ad-clicks-are-fraudulent-or-accidental-according-to-new-study-by-trademob/">near-zero click-through rates</a> and <a href="http://adage.com/article/agency-news/media-agency-kickbacks-real/297707/">ad agency kickbacks</a>, or <a href="http://www.bloomberg.com/news/articles/2014-11-07/high-speed-ad-traders-profit-by-arbitraging-your-eyeballs">high-frequency price pumping</a>, <a href="https://techcrunch.com/2014/10/03/are-bots-hijacking-your-marketing-budget/">non-human trafficking</a> and <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">malvertising ransomeware</a>. But I think you've heard enough. (Consult <a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a> for the complete hows and whys of ad-tech failures.)
 
-We web publishers could chose to end this madness. We could <a href="https://wpostats.com/">prioritize speed</a> and security on our sites and support the <a href="https://www.eff.org/issues/privacy">privacy projects</a>. We could collaborate on open-source, performant tracking and ad-delivery processes, with opt-ins and data storage expiration dates (read Cegłowski's <a href="http://idlewords.com/talks/haunted_by_data.htm">"Haunted by Data"</a>). Our readers would love us for it, and advertisers can't resist loving readers.
+We web publishers could choose to end this madness. We could <a href="https://wpostats.com/">prioritize speed</a> and security on our sites and support the <a href="https://www.eff.org/issues/privacy">privacy projects</a>. We could collaborate on open-source, performant tracking and ad-delivery processes, with opt-ins and data storage expiration dates (read Cegłowski's <a href="http://idlewords.com/talks/haunted_by_data.htm">"Haunted by Data"</a>). Our readers would love us for it, and advertisers can't resist loving readers.
 
 For now, though, I'll leave you with this 1983 thought from David Ogilvy, the OG of Mad Men:
 <blockquote>
