@@ -13,7 +13,7 @@ I can think of nothing that has done more harm to the Internet than ad tech. It 
 <div><cite>&mdash;Bob Hoffman (<a href="http://adcontrarian.blogspot.com/">The Ad Contrarian</a>) quoted by <a href="http://www.bloomberg.com/features/2015-click-fraud/"><em>Bloomberg Business</em></a></cite></div>
 </blockquote>
 
-My 93-year-old mom called the other day, almost in tears. Her browser had been taken over by popups that re-popped every time she closed them. The slimy site (clicked to from a RealClearPolitics link) and its putrid popups persisted even after quitting and relaunching the browser. My mother was another victim of modern advertising.
+My 93-year-old mom called the other day, almost in tears. After clicking a legitimate looking link at RealClearPolitics, her browser had been taken over by popups that re-popped every time she closed them, even after quitting and relaunching the browser. My mother was another victim of modern advertising.
 
 <h2>Old hotness, new and busted</h2>
 
@@ -34,14 +34,14 @@ The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com
 
 <h2>The ad tech tax</h2>
 
+Ad tech is the new automated way we buy, sell, deliver and display online advertising. The cost for this convoluted complexity is the ad tech tax.
+
 <blockquote>
 A user clicks on a website and suddenly her Internet address and browsing history are packaged and whisked off to an auction site, where software, on behalf of advertisers, scrutinizes her profile (or an anonymized version of it) and determines whether to bid to place an ad next to that article. Ford Motor could pay to put its ads on websites for car buffs, or, with the help of cookies, track car buffs wherever they may be online. Ford might want to target males age 25-40 for pickup-truck ads, or, better yet, anybody in that age group who’s even read about pickups in the past six months.
 <div><cite>&mdash;<em>Bloomberg Business</em> <a href="http://www.bloomberg.com/features/2015-click-fraud/">"The Fake Traffic Schemes That Are Rotting the Internet"</a></cite></div>
 </blockquote>
 
-"Ad tech" is the new automated way we buy, sell, deliver and display online advertising. The cost for this convoluted complexity is the "ad tech tax."
-
-Good luck following this <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Interactive Advertising Bureau chart</a> of a typical ad buy:  
+Good luck following this <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Interactive Advertising Bureau chart</a> of a now-typical ad buy:  
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/IAB-Programmatic-CPM.png?raw=true" />  
 <em><a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Anatomy of a Programmatic CPM</a> (CPM = cost per thousand impressions; DSP, SSP and DMP = platforms: demand-side, sell-side and data management)</em>
