@@ -34,14 +34,14 @@ The old 15% cut for media agencies has creeped up to <a href="http://www.iab.com
 
 <h2>The ad tech tax</h2>
 
-Ad tech is the new automated way we buy, sell, deliver and display online advertising. The cost for this convoluted complexity is the ad tech tax.
+Ad tech is the new automated way we buy, sell, deliver and display online advertising. The cost for this convoluted complexity is known as the ad tech tax.
 
 <blockquote>
 A user clicks on a website and suddenly her Internet address and browsing history are packaged and whisked off to an auction site, where software, on behalf of advertisers, scrutinizes her profile (or an anonymized version of it) and determines whether to bid to place an ad next to that article. Ford Motor could pay to put its ads on websites for car buffs, or, with the help of cookies, track car buffs wherever they may be online. Ford might want to target males age 25-40 for pickup-truck ads, or, better yet, anybody in that age group who’s even read about pickups in the past six months.
 <div><cite>&mdash;<em>Bloomberg Business</em> <a href="http://www.bloomberg.com/features/2015-click-fraud/">"The Fake Traffic Schemes That Are Rotting the Internet"</a></cite></div>
 </blockquote>
 
-Good luck following this <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Interactive Advertising Bureau chart</a> of a now-typical ad buy:  
+Good luck following this <a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Interactive Advertising Bureau chart</a> of a typical ad buy:  
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/IAB-Programmatic-CPM.png?raw=true" />  
 <em><a href="http://www.iab.com/wp-content/uploads/2016/03/Programmatic-Value-Layers-March-2016-FINALv2.pdf">Anatomy of a Programmatic CPM</a> (CPM = cost per thousand impressions; DSP, SSP and DMP = platforms: demand-side, sell-side and data management)</em>
@@ -60,7 +60,7 @@ So, 85 percent of paid-for impressions are either bogus, broken or bot-hits. Rei
 
 Ad tech fails in targeting specific people. It fails even in finding any person, or, worse, finds the wrong people.
 
-After a botched buy for Citigroup, IBM and Microsoft, the Financial Times headline read <a href="http://www.ft.com/cms/s/0/b06d18c0-1bfb-11e6-8fa5-44094f6d9c46.html#axzz4JZnDfKE6">"Jihadi website with beheadings profited from Google ad platform."</a> FT's video explains:
+The online advertising system has proved easy to scam. A convicted terrorist duped Google into buying ads on his site for Citigroup, IBM and Microsoft. The Financial Times headline read <a href="http://www.ft.com/cms/s/0/b06d18c0-1bfb-11e6-8fa5-44094f6d9c46.html#axzz4JZnDfKE6">"Jihadi website with beheadings profited from Google ad platform."</a> FT's video explains:
 
 <p><em><code>No videos allowed in GitHub markdown, here's the URL: </code> 
 http://uds.ak.o.brightcove.com/47628783001/47628783001_4897782975001_4897450793001.mp4
