@@ -902,6 +902,36 @@ Internet trends report | Mary Meeker, KPCB | Code Conference 2016
 
 <http://www.emarketer.com/Chart/Average-Time-Spent-per-Day-with-Major-Media-by-US-Adults-2012-2018-hrsmins/188929
 
+<hr />
+
+## Ad tech co slogans
+
+All real company slogans (<a href="http://www.urbandictionary.com/define.php?term=YCMTSU">YCMTSU</a>):
+
+"Build, run, measure and optimize retargeting-driven display campaigns." "Deliver cohesive messaging to qualified consumers at scale." "Analyze first-party premium publisher site level data to pinpoint active consumer intent."
+
+Drive media campaigns with intelligence and finesses to reach your targeted media objectives.
+
+Build, run, measure and optimize retargeting-driven display campaigns from a single platform. 
+
+The retargeting and prospecting platform of choice.
+
+The Growth Marketing Platform for Commerce brands.
+
+Where state-of-the-art machine learning means more discovery.
+
+Deliver cohesive messaging to qualified consumers at scale.
+
+Optimizes your ad spend with highly targeted, real time digital advertising solutions and the best account management in the industry.
+
+Metaverse Mod Squad, TubeMogul, Yippy, OrangeSoda
+
+powerful algorithms and revolutionary technology deliver the highest possible probability that devices are related. The results: deeper engagement, a more enriched experience and better returns.
+
+Combining intent data with a cross-device platform enables marketers to connect the dots between in market consumers and their devices to achieve advertising objectives. Deliver cohesive messaging to qualified consumers at scale while measuring the impact to your bottom line all in one platform. That's the power of new Qualia.
+
+<hr />
+
 <blockquote>
 <p>QUOTE</p>
 <cite>&mdash;<em>PUBLICATION</em> <a href="">"ARTICLE"</a></cite>
