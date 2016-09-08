@@ -77,9 +77,9 @@ My full IP address is being passed around like chips at a Super Bowl party: a to
 <div><cite>&mdash;Rob Leathern (CEO of <a href="http://optimal.com/">Optimal.com<a>), <a href="https://medium.com/@robleathern/the-mobile-video-ad-lie-938a6de51367#.pplm5xgkz">"The Mobile Video Ad Lie"</a></cite></div>
 </blockquote>
 
-<img align="right" width="300" src="https://github.com/hearvox/breaking-news/blob/master/assets/ghostery-verge-285x838.png?raw=true">The screenshot at right is a <a href="https://www.ghostery.com/">Ghostery</a> list all the scripts loaded by TheVerge.com, mostly for ads, social sites and their associated tracking. Ad-blocked the page weighs 938 KB. Unblocked it's 10.3 MB, eleven times larger.
+<img align="right" width="300" src="https://github.com/hearvox/breaking-news/blob/master/assets/ghostery-verge-285x838.png?raw=true">Ad tech is ravenous for data, for our data. We sacrifice our patience (waiting for webpages), our privacy and our pocketbooks (cellphone plans) so ad tech can gorge on our private parts. 
 
-Ad tech is ravenous for data, for your data. We sacrifice our patience (waiting for webpages), our privacy and our pocketbooks (cellphone plans) so ad tech can gorge on our private parts. 
+For example, the image at right is from a visit to TheVerge.com. It a <a href="https://www.ghostery.com/">Ghostery</a> list of all the page's scripts — mostly for ads, social sites and user-tracking. This page weights 10.3 MB. But when ad-blocking the scripts, it's only 938 KB, eleven times smaller (so loads that much faster).
 
 <blockquote>
 <p>Each ad gets its own iframe, so load is asynchronous and, if one fails, it doesn't kill the entire site. Unfortunately, that also means each one fires its own trackers, even if those trackers are identical across ads. It's terribly inefficient</p>
@@ -117,7 +117,7 @@ Two-thirds of Neustar's respondents checked: "I do not trust websites that take 
 <h2>Ad targeting: bullseye or bullshit?</h2>
 All these precision-targeted, big-data-driven ads have sales soaring, right? Wrong.
 
-Online advertising efficiency is in a nosedive. This <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a> chart shows a plunging ratio of dollars of revenue dollars to dollars spent on digital marketing:
+Online advertising efficiency is in a nosedive. This <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a> chart shows a plunging ratio of revenue dollars to dollars spent on digital marketing:
 
 <p><img src="https://kalkis-research.com/imagecache/8ebb0582bdbaa85c4dc2fcf662bfccde.png">
 <div><em>Dollars of revenue for every dollar spent on digital marketing, average for Amazon, Priceline, Booking.com, Expedia and eBay (source: SEC 10-K filings 2010 through 2015, <a href="https://kalkis-research.com/clickbait-and-traffic-laundering-how-ad-tech-is-destroying-the-web">Kalkis Research</a>)</em></div></p>
@@ -129,7 +129,7 @@ The only thing online advertising sells well is ad blockers, which Doc Searls ca
 <blockquote>
 <p>Online advertising efficiency has been decreasing for years, and companies have to spend more ad dollars for the same result. The process of ad placement has become ever more automated, obscure and complex, while intermediaries have multiplied, each taking a cut from the client's initial ad budget. Controls and regulations are nonexistent, and a big chunk of ad spending is being stolen, plain and simple.</p>
 
-<p>Websites have been invaded by click ads, display ads, and forced video ad views. Naturally, Internet users have grown sick and tired of this ad pollution, and have started installing ad blocking software. What makes this trend worse is that users who install ad blockers first, tend to be the more sophisticated and the more affluent ones</p>
+<p>Websites have been invaded by click ads, display ads, and forced video ad views. Naturally, Internet users have grown sick and tired of this ad pollution, and have started installing ad blocking software. What makes this trend worse is that users who install ad blockers first, tend to be the more sophisticated and the more affluent ones.</p>
 <cite>&mdash;<em>Kalkis Research</em> <a href="https://kalkis-research.com/google-end-of-the-online-advertising-bubble">"End Of The Online Advertising Bubble"</a></cite>
 </blockquote>
 
