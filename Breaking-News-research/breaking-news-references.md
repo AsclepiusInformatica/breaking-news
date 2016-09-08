@@ -17,6 +17,18 @@ Testing hidden details.
 ___
 Unused in Breaking News 2:
 
+Maciej Cegłowski, of <a href="https://pinboard.in/">Pinboard</a>, says their real goal isn't CPM, it's VC and "Investor Storytime":
+<blockquote>
+<p>Investor storytime is not exactly advertising, but it is related to advertising. Think of it as an advertising future, or perhaps the world's most targeted ad.</p>
+
+<p>Both business models involve persuasion. In one of them, you're asking millions of listeners to hand over a little bit of money. In the other, you're persuading one or two listeners to hand over millions of money.</p>
+
+<p>That's the essence of investor storytime. Give us money now, and you won't believe how awesome our ads will be when we finally put them on the site.</p>
+
+<p>We're addicted to 'big data' not because it's effective now, but because we need it to tell better stories.</p>
+<cite>&mdash;Maciej Cegłowski, <a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"The Internet With A Human Face"</a></cite>
+</blockquote>
+
 https://www.facebook.com/ads/preferences
 https://www.google.com/settings/u/0/ads/authenticated?hl=en
 East Asian Music, Make-Up & Cosmetics, Hygiene & Toiletries
