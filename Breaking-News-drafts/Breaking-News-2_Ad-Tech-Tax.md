@@ -165,6 +165,8 @@ For now, though, I'll leave you with this 1983 thought from David Ogilvy, the OG
 <cite>&mdash;David Ogilvy, <a href="https://books.google.com/books?id=hVFwAAAAQBAJ&pg=PT12&dq=%22The+wrong+advertising+can+actually+reduce+the+sales+of+a+product%22&hl=en&sa=X&ved=0ahUKEwjx3JL0l8vNAhUJ5IMKHbrWDwMQ6AEIJDAB#v=onepage&q=%22The%20wrong%20advertising%20can%20actually%20reduce%20the%20sales%20of%20a%20product%22&f=false"><em>Ogilvy on Advertising</em></a></cite>
 </blockquote>
 
+<p>Next up in the Breaking News series we scrutinize some New Media Myths.</p>
+
 <hr />
 <p><em>Notes: You can check and manage your own <a href="https://www.google.com/settings/u/0/ads/authenticated?hl=en">Google ads personalization</a> and <a href="https://www.facebook.com/ads/preferences">Facebook ad preferences</a>. Thanks to <a href="http://code.stonetip.com/">Jon Nehring</a> for the Ghostery screenshot.</em></p>
 
