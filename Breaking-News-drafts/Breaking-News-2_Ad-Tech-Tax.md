@@ -1,3 +1,7 @@
+
+Now published:  
+https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad
+
 <em>[Draft of article, part 2 in series (<a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">part 1</a>)]</em>
 _____________________
 
