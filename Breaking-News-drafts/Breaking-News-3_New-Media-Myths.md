@@ -1,3 +1,6 @@
+<h1>Breaking News 3: New Media Myths</h1>
+
+
 <h2>Myth: People won't pay for content</h2>
 
 <h2>Myth: The internet is killing newspapers</h2>
