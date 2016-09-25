@@ -1,4 +1,4 @@
- <em>[Draft of article, part 2 in series (<a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">part 1</a> | <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>part 2</a>)]</em>
+ <em>[Draft of article, part 2 in series (<a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">part 3</a> | <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>part 2</a>)]</em>
 _____________________
 
 <h1>Breaking News 3: New Media Myths</h1>
