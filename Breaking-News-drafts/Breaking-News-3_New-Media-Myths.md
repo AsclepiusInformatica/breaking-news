@@ -49,4 +49,10 @@ These social-site service on vampiric practices. They suck the content of newspa
 
 Should you'd hire an investigative reporter or a social media strategist? A trick question, because that choice has already been made, over and over, by most newspapers. They haven't add more reporters -- i.e., the source of all their readership. No, they've picked social media as their new focus, in essence, contributing money to their competitors.
 
+Journalism Product Design  
+widgets, digits, sales?  
+data brain drain  
+The Great Ad Wars of 2016  
+"traxonomy" - the tracking economy.
+
 
