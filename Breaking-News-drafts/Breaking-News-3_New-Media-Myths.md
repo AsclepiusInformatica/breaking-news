@@ -5,11 +5,21 @@ _____________________
 
 <em><strong>Breaking News</strong> is about the self-inflicted fractures breaking the news business. Previous posts were on <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">on malvertising</a> and the <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>ad tech tax</a>.</em>
 
+We can become what we believe. In the news industry we have come to believe a lot of bunk, and, as a result, made bad business decisions. Below is the math that explodes these myths.
+
 <h2>Myth: People won't pay for content</h2>
 
-The good news: Online newspaper ads make money, a lot of money.
+The good news: Online ads on newspaper sites make money, a lot of money.
 
-The bad news: The money isn't going to newspaper. It's goes to the cell phone carriers.
+The bad news: Newspapers don't get that money, mobile phone carriers do, in data plan fees.
+
+To download the average newspaper webpage a U.S. reader pays $0.30 to cell providers ($0.46 for those with prepaid plans). Compare that to the news publishers who, on a really good day, get maybe $0.08 in ad revenue for that same reader-page.
+
+Math: Enter an URL at <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a> to calculates "how much it costs for someone to use your site on mobile networks around the world."  
+
+overestimating ad income and underestimating revenue to cell providers.
+
+
 
 <h2>Myth: The internet is killing newspapers</h2>
 
