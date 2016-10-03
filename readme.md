@@ -22,4 +22,4 @@ https://github.com/hearvox/breaking-news/blob/master/Breaking-News-drafts/Breaki
 ## References and quotes
 https://github.com/hearvox/breaking-news/blob/master/Breaking-News-research/breaking-news-references.md
 
-https://pinboard.in/u:hearvox
+https://pinboard.in/u:hearvox/bundle:news-biz/
