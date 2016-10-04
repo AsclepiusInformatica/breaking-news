@@ -21,7 +21,11 @@ For the same page-view, telcos often rake in many times more in data fees than p
 
 <h2>Myth: The internet is killing newspapers</h2>
 
-The decline in both the <a href="http://www.journalism.org/numbers/number-of-u-s-daily-newspapers-5-year-increments/">number of newspapers</a> and in <a href="http://media-cmi.com/downloads/Sixty_Years_Daily_Newspaper_Circulation_Trends_050611.pdf">paid circulation</a> started in the 1950s.  Since their lows in 2009, newspapers have had upticks in both their <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">circulation</a> and <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#economics">advertising revenue</a>. So don't blame social media mania or the interwebs for ailments in the news biz.
+The decline in both the <a href="http://www.journalism.org/numbers/number-of-u-s-daily-newspapers-5-year-increments/">number of newspapers</a> and in <a href="http://media-cmi.com/downloads/Sixty_Years_Daily_Newspaper_Circulation_Trends_050611.pdf">paid circulation</a> started in the 1950s.
+
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/circulation-1950‐2010.png?raw=true" alt="Chart: Newspaper circulation 1950-2010" />  
+
+Since their lows in 2009, newspapers have had upticks in both their <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">circulation</a> and <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#economics">advertising revenue</a>. So don't blame social media mania or the interwebs for ailments in the news biz.
 
 New medium often augment but rarely replace the old. The century-old media of radio and movies still flourish and live theatre has lasted for millenia.
 
