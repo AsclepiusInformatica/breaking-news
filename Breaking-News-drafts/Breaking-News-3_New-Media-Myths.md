@@ -5,21 +5,19 @@ _____________________
 
 <em><strong>Breaking News</strong> is about the self-inflicted fractures breaking the news business. Previous posts were on <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">on malvertising</a> and the <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>ad tech tax</a>.</em>
 
-We often become what we believe. In the news industry we have come to believe a lot of bunk, and, as a result, made bad business decisions. Below is the math that explodes these myths.
+We often become what we believe. In the news industry we have come to believe a lot of bunk. Below is the math that explodes these myths.
 
 <h2>Myth: People won't pay for content</h2>
 
 The good news: Online ads on newspaper sites make money, a lot of money.
 
-The bad news: Newspapers don't get that money, mobile phone carriers do, in data plan fees.
+The bad news: Mobile phone carriers pocket most of that money, not news publishers.
 
-To download the average newspaper webpage a U.S. reader pays $0.30 to cell providers ($0.46 for those with prepaid plans). Compare that to the news publishers who, on a really good day, get maybe $0.08 in ad revenue for that same reader-page.
+A U.S. cell provider $0.30 in data plan fees to download the average newspaper webpage -- $0.46 if she has a prepaid plan. On a good day, a news site might get $0.03 for every ad that reader sees.   
 
-Math: Enter an URL at <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a> to calculates "how much it costs for someone to use your site on mobile networks around the world."  
+The math comes from the <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a> calculator. Enter a URL "to find out how much it costs for someone to use your site on mobile networks around the world." The greater the page-weight the greater the cost. Newpaper webpages average 4.7 MB, more than double the average page, making it expensive for readers to download.
 
-overestimating ad income and underestimating revenue to cell providers.
-
-
+For the same page-view, telcos can rake in many times more in data fees than the publisher make in ads. Plus, publishers funnel billions in ad dollars to social and search sites, with questionable ROI. News content makes plenty in profit, just not for news sites. 
 
 <h2>Myth: The internet is killing newspapers</h2>
 
@@ -50,6 +48,10 @@ https://www.buzzfeed.com/matthewzeitlin/the-digital-media-bloodbath-hundreds-of-
 Net Income looks like a crime scene: red everywhere
 
 <h2>Myth: We need to disrupt ourselves</h2>
+
+boat garbage Manila harbor
+
+https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx
 
 user-hostile
 
