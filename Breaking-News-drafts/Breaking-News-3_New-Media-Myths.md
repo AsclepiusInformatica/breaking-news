@@ -11,7 +11,7 @@ We often become what we believe. In the news industry we have come to believe a 
 
 The good news: Online ads on newspaper sites make money, a lot of money.
 
-The bad news: Mobile phone carriers pocket most of that money, not news publishers.
+The bad news: Mobile phone carriers, not news publishers, pocket most of that money.
 
 A U.S. reader pays a cell provider $0.30 in data plan fees to download the average newspaper webpage -- $0.46 if she has a prepaid plan. A news site, on a good day, might get $0.03 for every ad that reader sees.   
 
