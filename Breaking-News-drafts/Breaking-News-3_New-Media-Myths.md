@@ -15,25 +15,17 @@ The bad news: Mobile phone carriers pocket most of that money, not news publishe
 
 A U.S. cell provider $0.30 in data plan fees to download the average newspaper webpage -- $0.46 if she has a prepaid plan. On a good day, a news site might get $0.03 for every ad that reader sees.   
 
-The math comes from the <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a> calculator. Enter a URL "to find out how much it costs for someone to use your site on mobile networks around the world." The greater the page-weight the greater the cost. Newpaper webpages average 4.7 MB, more than double the average page, making it expensive for readers to download.
+The math comes from the <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a> calculator. Enter a URL "to find out how much it costs for someone to use your site on mobile networks around the world." The greater the page-weight the greater the cost. Newpaper webpages average <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">a staggering heavy 4.7 MB</a>, more than double the web-average, making it expensive for readers to download.
 
-For the same page-view, telcos can rake in many times more in data fees than the publisher make in ads. Plus, publishers funnel billions in ad dollars to social and search sites, with questionable ROI. News content makes plenty in profit, just not for news sites. 
+For the same page-view, telcos often rake in many times more in data fees than publishers do in ads. Plus, publishers funnel billions in ad dollars to social and search sites, with questionable ROI. News content makes plenty in profit, just not for news sites. 
 
 <h2>Myth: The internet is killing newspapers</h2>
 
-Paid circulation has been steadily declining since the 1950s. Newsroom staff cuts started in the late 80s. Both began well before "online news "existed. So accounting for these declines with "online/web/social-media" explanations is, at best, incomplete (esp. since circulation is up since 2009 -- aka, during the social-media age).
-http://media-cmi.com/downloads/Sixty_Years_Daily_Newspaper_Circulation_Trends_050611.pdf
-http://www.journalism.org/2016/06/15/newspapers-fact-sheet/
+The decline in both the <a href="http://www.journalism.org/numbers/number-of-u-s-daily-newspapers-5-year-increments/">number of newspapers</a> and in <a href="http://media-cmi.com/downloads/Sixty_Years_Daily_Newspaper_Circulation_Trends_050611.pdf">paid circulation</a> started in the 1950s.  Since their lows in 2009, newspapers have had upticks in both their <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">circulation</a> and <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#economics">advertising revenue</a>. So don't blame social media mania or the interwebs for ailments in the news biz.
 
-The repost of traditional-media's death are greatly exaggerated:
-"51% of those who consume a newspaper read it exclusively in print"
-http://www.journalism.org/2015/04/29/newspapers-fact-sheet-2015/pj_2015-04-29_sotnm_newspaper-audience-platform_01/
+New medium often augment but rarely replace the old. The century-old media of radio and movies still flourish and live theatre has lasted for millenia.
 
-"TV accounts for 95 percent of average video consumption"
-http://www.adweek.com/news/television/time-warner-cable-media-pushes-back-after-youtubes-bold-claim-about-audience-reach-171330
-
-"Americans still spend more time watching TV than all other leisure activities combined."
-http://fivethirtyeight.com/datalab/heres-how-americans-spend-their-working-relaxing-and-parenting-time/
+Legacy media ain't dead yet: <a href="http://fivethirtyeight.com/datalab/heres-how-americans-spend-their-working-relaxing-and-parenting-time/">"Americans still spend more time watching TV than all other leisure activities combined"</a>. Half the people <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">"who consume a newspaper read it exclusively in print"</a> (just five percent read it desktop or mobile only; seven percent on both mobile and desktop), And <a href="http://www.wan-ifra.org/press-releases/2015/06/01/world-press-trends-newspaper-revenues-shift-to-new-sources">"globally, more than 93 per cent of all newspaper revenues still come from print."</a>
 
 <h2>Myth: New media makes money</h2>
 
