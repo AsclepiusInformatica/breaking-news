@@ -5,7 +5,7 @@ _____________________
 
 <em><strong>Breaking News</strong> is about the self-inflicted fractures breaking the news business. Previous posts were on <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">on malvertising</a> and the <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>ad tech tax</a>.</em>
 
-We often become what we believe. In the news industry we have come to believe a lot of bunk. Below is the math that explodes these myths.
+Below is the math that explodes the myths that we in the news industry believe and base bad decisions on.
 
 <h2>Myth: People won't pay for content</h2>
 
