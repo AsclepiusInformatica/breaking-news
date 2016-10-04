@@ -15,7 +15,7 @@ The bad news: Mobile phone carriers, not news publishers, pocket most of that mo
 
 A U.S. reader pays a cell provider $0.30 in data plan fees to download the average newspaper webpage -- $0.46 if she has a prepaid plan. A news site, on a good day, might get $0.03 for every ad that reader sees.   
 
-The math comes from the <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a> calculator. Enter a URL "to find out how much it costs for someone to use your site on mobile networks around the world." The greater the page-weight the greater the cost. Newpaper webpages average <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">a staggering heavy 4.7 MB</a>, more than double the web-average, making it expensive for readers to download.
+The math comes from the <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a> calculator. Enter a URL "to find out how much it costs for someone to use your site on mobile networks around the world." The greater that URL's page-weight the greater the cost. Newpaper webpages average <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">an obese 4.7 MB</a>, more than double the web-average, making it expensive for readers to download.
 
 For the same page-view, telcos often rake in many times more in data fees than publishers do in ads. Plus, publishers funnel billions in ad dollars to social and search sites, with questionable ROI. News content makes plenty in profit, just not for news sites. 
 
