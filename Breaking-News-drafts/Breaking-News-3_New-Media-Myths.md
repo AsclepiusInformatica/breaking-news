@@ -1,23 +1,23 @@
- <em>[Draft of article, part 2 in series (<a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">part 3</a> | <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>part 2</a>)]</em>
+ <em>[Draft of article, part 3 in series (parts: <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">1</a> | <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">2</a>)]</em>
 _____________________
 
 <h1>Breaking News 3: New Media Myths</h1>
 
 <em><strong>Breaking News</strong> is about the self-inflicted fractures breaking the news business. Previous posts were on <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">on malvertising</a> and the <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>ad tech tax</a>.</em>
 
-Below is the math that explodes the myths that we in the news industry believe and base bad decisions on.
+Below is the math that explodes the myths that we in the news industry believe, and base bad decisions on.
 
 <h2>Myth: People won't pay for content</h2>
 
 The good news: Online ads on newspaper sites make money, a lot of money.
 
-The bad news: Mobile phone carriers, not news publishers, pocket most of that money.
+The bad news: News publishers don't get most of that money, cell phone carriers and ad-tech agnecies do.
 
-A U.S. reader pays a cell provider $0.30 in data plan fees to download the average newspaper webpage -- $0.46 if she has a prepaid plan. A news site, on a good day, might get $0.03 for every ad that reader sees.   
+Using the <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a> calculator, to view the average newspaper webpage, <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">which weighs an obese 4.7 MB</a>, a U.S. reader pays $0.30 in data plan fees -- $0.46 for prepaid plans.
 
-The math comes from the <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a> calculator. Enter a URL "to find out how much it costs for someone to use your site on mobile networks around the world." The greater that URL's page-weight the greater the cost. Newpaper webpages average <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">an obese 4.7 MB</a>, more than double the web-average, making it expensive for readers to download.
+Meanwhile, for every ad the reader views on that page, the newspaper, at best, gets $0.03, while the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">ad-tech agencies can pocket $0.05</a>.
 
-For the same page-view, telcos often rake in many times more in data fees than publishers do in ads. Plus, publishers funnel billions in ad dollars to social and search sites, with questionable ROI. News content makes plenty in profit, just not for news sites. 
+Search and social site also rake in profits from newspaper articles. Online news content generates plenty of revenue, just not for news sites. 
 
 <h2>Myth: The internet is killing newspapers</h2>
 
