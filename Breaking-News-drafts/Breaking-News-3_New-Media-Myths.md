@@ -17,7 +17,7 @@ Using the <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a> 
 
 Meanwhile, for every ad the reader views on that page, the newspaper, at best, gets $0.03, while the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">ad-tech agencies can pocket $0.05</a>.
 
-Google and Facebook also rake in profits from newspaper articles. Online news content generates plenty of revenue, just not for news sites. 
+Google and Facebook also rake in profits from excerpting newspaper articles. Online news content generates plenty of revenue, just not for news sites. 
 
 <h2>Myth: The internet is killing newspapers</h2>
 
@@ -25,12 +25,32 @@ The decline in both the <a href="http://www.journalism.org/numbers/number-of-u-s
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/circulation-1950‐2010.png?raw=true" alt="Chart: Newspaper circulation 1950-2010" />  
 
-Since their lows in 2009, newspapers have had upticks in both their <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">circulation</a> and <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#economics">advertising revenue</a>. So don't blame social media mania or the interwebs for ailments in the news biz.
+Since their lows in 2009, newspapers have had upticks in both their <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">circulation</a> and <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#economics">advertising revenue</a>. So don't blame the interwebs or social media ailments in the news biz.
 
-New medium often augment but rarely replace the old. The century-old media of radio and movies still flourish and live theatre has lasted for millenia.
+New medium rarely replace the old. Television didn't kill movies. Despite movies and TV, we still go to live theatre, a two-millennia old media. Think theatre is dead? Try gettting tickets to this weekend "Hamilton" performance.
 
-Legacy media ain't dead yet: <a href="http://fivethirtyeight.com/datalab/heres-how-americans-spend-their-working-relaxing-and-parenting-time/">"Americans still spend more time watching TV than all other leisure activities combined"</a>. Half the people <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">"who consume a newspaper read it exclusively in print"</a> (just five percent read it desktop or mobile only; seven percent on both mobile and desktop), And <a href="http://www.wan-ifra.org/press-releases/2015/06/01/world-press-trends-newspaper-revenues-shift-to-new-sources">"globally, more than 93 per cent of all newspaper revenues still come from print."</a>
+Legacy media is doing fine: <a href="http://fivethirtyeight.com/datalab/heres-how-americans-spend-their-working-relaxing-and-parenting-time/">quoting FiveThirtyEight</a>, "Americans still spend more time watching TV than all other leisure activities combined". The <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">Pew Research Center found</a> more than half the people "who consume a newspaper read it exclusively in print" (just 12 percent are online-only news readers). In a <a href="http://www.rasmussenreports.com/public_content/lifestyle/general_lifestyle/april_2012/66_prefer_reading_print_newspaper_to_online_version">Rasmussen Reports survey</a>, "Sixty-six percent (66%) of American Adults say they prefer reading a printed version of the newspaper." And the <a href="http://www.wan-ifra.org/press-releases/2015/06/01/world-press-trends-newspaper-revenues-shift-to-new-sources">World Association of Newspapers and News Publishers calculates</a>, "globally, more than 93 per cent of all newspaper revenues still come from print."
 
+<blockquote>
+Results indicated that the (supposedly dying) print product still reaches far more readers than the (supposedly promising) digital product in these newspapers’ home markets, and this holds true across all age groups.
+<div><cite>&mdash;Author, <a href="http://www.tandfonline.com/doi/full/10.1080/17512786.2016.1208056">"Reality Check; Multiplatform newspaper readership in the United States, 2007–2015,"</a> Journalism Practice</cite></div>
+</blockquote>
+
+
+
+ 
+
+<hr />
+<em>Notes:</em>
+
+<blockquote>
+Blockquote text 
+<div><cite>&mdash;Author, <a href="">"Title,"</a> Publication</cite></div>
+</blockquote>
+
+http://www.politico.com/magazine/story/2016/10/newspapers-digital-first-214363
+http://www.politico.com/magazine/story/2016/09/newspapers-print-news-online-journalism-214238
+ 
 <h2>Myth: New media makes money</h2>
 
 'Sides Facebook, the sites you list all lose money, many millions annually. 
