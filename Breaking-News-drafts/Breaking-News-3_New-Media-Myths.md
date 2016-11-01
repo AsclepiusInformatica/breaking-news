@@ -1,6 +1,8 @@
  <em>[Draft of article, part 3 in series (parts: <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">1</a> | <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">2</a>)]</em>
 _____________________
 
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/mechanical-televisor-invention-900.jpg?raw=true" alt="Science and Invention magazine, November 1928 issue, headline: How to Build the S and I Televison Receiver" />  
+
 <h1>Breaking News 3: New Media Myths</h1>
 
 <em><strong>Breaking News</strong> is about the self-inflicted fractures breaking the news business. Previous posts were on <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">on malvertising</a> and the <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>ad tech tax</a>.</em>
