@@ -11,13 +11,13 @@ Below is the math that explodes the myths that we in the news industry believe, 
 
 The good news: Online ads on newspaper sites make money, a lot of money.
 
-The bad news: News publishers don't get most of that money, cell phone carriers and ad-tech agnecies do.
+The bad news: News publishers don't get most of that money. Cell phone carriers, ad-tech agnecies, search and social sites do.
 
 Using the <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a> calculator, to view the average newspaper webpage, <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">which weighs an obese 4.7 MB</a>, a U.S. reader pays $0.30 in data plan fees -- $0.46 for prepaid plans.
 
 Meanwhile, for every ad the reader views on that page, the newspaper, at best, gets $0.03, while the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">ad-tech agencies can pocket $0.05</a>.
 
-Search and social site also rake in profits from newspaper articles. Online news content generates plenty of revenue, just not for news sites. 
+Google and Facebook also rake in profits from newspaper articles. Online news content generates plenty of revenue, just not for news sites. 
 
 <h2>Myth: The internet is killing newspapers</h2>
 
