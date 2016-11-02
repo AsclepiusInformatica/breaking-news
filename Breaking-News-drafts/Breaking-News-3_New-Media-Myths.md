@@ -40,15 +40,19 @@ Since their lows in 2009, newspapers have had upticks in both their <a href="htt
 
 New media rarely replace the old. Television didn't kill movies. Movies didn't kill live theatre, a two-millennia old media. Think theatre is dead? Try gettting tickets to this weekend's "Hamilton" show.
 
-Legacy media is doing fine: <a href="http://fivethirtyeight.com/datalab/heres-how-americans-spend-their-working-relaxing-and-parenting-time/">quoting FiveThirtyEight</a>, "Americans still spend more time watching TV than all other leisure activities combined". The <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#js-chart-55574">Pew Research Center reports</a> more than half the people "who consume a newspaper read it exclusively in print" (just 12 percent are online-only news readers). In a <a href="http://www.rasmussenreports.com/public_content/lifestyle/general_lifestyle/april_2012/66_prefer_reading_print_newspaper_to_online_version">Rasmussen Reports survey</a>, "Sixty-six percent (66%) of American Adults say they prefer reading a printed version of the newspaper." And the <a href="http://www.wan-ifra.org/press-releases/2015/06/01/world-press-trends-newspaper-revenues-shift-to-new-sources">World Association of Newspapers and News Publishers calculates</a>, "globally, more than 93 per cent of all newspaper revenues still come from print."
+Legacy media is doing fine: <a href="http://fivethirtyeight.com/datalab/heres-how-americans-spend-their-working-relaxing-and-parenting-time/">quoting FiveThirtyEight</a>, "Americans still spend more time watching TV than all other leisure activities combined." The <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#js-chart-55574">Pew Research Center reports</a> more than half the people "who consume a newspaper read it exclusively in print" (just 12 percent are online-only news readers). In a <a href="http://www.rasmussenreports.com/public_content/lifestyle/general_lifestyle/april_2012/66_prefer_reading_print_newspaper_to_online_version">Rasmussen Reports survey</a>, "Sixty-six percent (66%) of American Adults say they prefer reading a printed version of the newspaper." And the <a href="http://www.wan-ifra.org/press-releases/2015/06/01/world-press-trends-newspaper-revenues-shift-to-new-sources">World Association of Newspapers and News Publishers calculates</a>, "globally, more than 93 per cent of all newspaper revenues still come from print."
 
 <blockquote>
 Results indicated that the (supposedly dying) print product still reaches far more readers than the (supposedly promising) digital product in these newspapers’ home markets, and this holds true across all age groups.
 <div><cite>&mdash;<a href="http://www.tandfonline.com/doi/full/10.1080/17512786.2016.1208056">"Reality Check; Multiplatform newspaper readership in the United States, 2007–2015,"</a> Journalism Practice</cite></div>
 </blockquote>
 
+<h2>Myth: New media makes money</h2>
 
- 
+Most newspapers are profitable. Most of online-only news and social sites bleed money. Their net income lines looks like crime scenes, splattered with pools of red.
+
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/Net-income-Twitter-Salon-MarketWatch.png?raw=true" alt="Net Income losses for Twitter and Salon Media Group, from MarketWatch financials" />  
+
 
 <hr />
 <em>Notes:</em>
@@ -61,7 +65,7 @@ Blockquote text
 http://www.politico.com/magazine/story/2016/10/newspapers-digital-first-214363
 http://www.politico.com/magazine/story/2016/09/newspapers-print-news-online-journalism-214238
  
-<h2>Myth: New media makes money</h2>
+
 
 'Sides Facebook, the sites you list all lose money, many millions annually. 
 http://www.marketwatch.com/investing/stock/twtr/financials
