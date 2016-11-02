@@ -49,9 +49,19 @@ Results indicated that the (supposedly dying) print product still reaches far mo
 
 <h2>Myth: New media makes money</h2>
 
-Most newspapers are profitable. Most of online-only news and social sites bleed money. Their net income lines looks like crime scenes, splattered with pools of red.
+Most newspapers are profitable. Most social and online-only news sites bleed money. Their net income lines looks like crime scenes, pools of red everywhere.
 
-<img src="https://github.com/hearvox/breaking-news/blob/master/assets/Net-income-Twitter-Salon-MarketWatch.png?raw=true" alt="Net Income losses for Twitter and Salon Media Group, from MarketWatch financials" />  
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/Net-income-Twitter-Salon-MarketWatch.png?raw=true" alt="Net Income losses for Twitter and Salon Media Group, from MarketWatch financials" />
+
+HuffPo is a <a href="http://nypost.com/2015/05/05/huffington-post-turns-10-but-its-profits-are-still-a-mystery/">"a decade-old outfit with a knack for not making money."</a> Buzzfeed <a href="http://nypost.com/2015/05/05/huffington-post-turns-10-but-its-profits-are-still-a-mystery/">"slashed its revenue projections."</a> 
+
+<a href="http://gawker.com/snapchat-lost-a-ton-of-money-last-year-1706957414">"Snapchat lost a ton of money last year."</a>
+
+<blockquote>
+Digital media companies -- which have a fraction of old media's revenue and even less of their profits -- are awash in investor cash.
+<div><cite>&mdash;Author, <a href="http://adage.com/article/media/private-equity-plowing-money-buzzfeed-vox/297034/">"Sizing Up VC-Backed Publishers' Prospects,"</a> Advertising Age</cite></div>
+</blockquote>
+
 
 
 <hr />
