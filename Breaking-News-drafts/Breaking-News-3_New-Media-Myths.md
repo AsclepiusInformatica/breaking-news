@@ -49,18 +49,26 @@ Results indicated that the (supposedly dying) print product still reaches far mo
 
 <h2>Myth: New media makes money</h2>
 
-Most newspapers are profitable. Most social and online-only news sites bleed money. Their net income lines looks like crime scenes, pools of red everywhere.
+Most newspapers are profitable. But except for Facebook, almost all social and online-only news sites bleed money. Their net income lines looks like crime scenes, puddles of red everywhere.
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Net-income-Twitter-Salon-MarketWatch.png?raw=true" alt="Net Income losses for Twitter and Salon Media Group, from MarketWatch financials" />
 
-HuffPo is a <a href="http://nypost.com/2015/05/05/huffington-post-turns-10-but-its-profits-are-still-a-mystery/">"a decade-old outfit with a knack for not making money."</a> Buzzfeed <a href="http://nypost.com/2015/05/05/huffington-post-turns-10-but-its-profits-are-still-a-mystery/">"slashed its revenue projections."</a> 
-
-<a href="http://gawker.com/snapchat-lost-a-ton-of-money-last-year-1706957414">"Snapchat lost a ton of money last year."</a>
+These headlines tell the story:
+<ul>
+<li><a href="http://nypost.com/2015/05/05/huffington-post-turns-10-but-its-profits-are-still-a-mystery/">"Huffington Post turns 10 — but its profits are still a mystery"</a></li>
+<li><a href="http://gawker.com/snapchat-lost-a-ton-of-money-last-year-1706957414">"Snapchat Lost a Ton of Money Last Year"</a></li>
+<li><a href="https://techcrunch.com/2016/02/01/whatsapp-hits-one-billion-users-remains-in-search-of-revenue/">"WhatsApp Hits One Billion Users, Remains In Search Of Revenue"</a></li>
+<li><a href="http://nypost.com/2015/05/05/huffington-post-turns-10-but-its-profits-are-still-a-mystery/">"BuzzFeed Slashes Revenue Forecast: Is This the Beginning of the End of the Millennial Media Bubble?"</a></li>
+</ul>
 
 <blockquote>
 Digital media companies -- which have a fraction of old media's revenue and even less of their profits -- are awash in investor cash.
 <div><cite>&mdash;Author, <a href="http://adage.com/article/media/private-equity-plowing-money-buzzfeed-vox/297034/">"Sizing Up VC-Backed Publishers' Prospects,"</a> Advertising Age</cite></div>
 </blockquote>
+
+Newspapers, which make money, are competing against companies that lose money. Yet we urge papers to follow the lead of these losers: be more engaged, more agile, more millenial.
+
+USA Today
 
 
 
