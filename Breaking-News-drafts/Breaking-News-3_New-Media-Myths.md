@@ -7,24 +7,34 @@ _____________________
 
 <em><strong>Breaking News</strong> is about the self-inflicted fractures breaking the news business. Previous posts were on <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">on malvertising</a> and the <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>ad tech tax</a>.</em>
 
-Below is the math that explodes the myths that we in the news industry believe, and base bad decisions on.
+Below is the fiscal math that explodes the myths we in the news industry believe.
 
 <h2>Myth: People won't pay for content</h2>
 
-The good news: Online ads on newspaper sites make money, a lot of money.
+The good news: Newspaper websites makes money, lots of money.
 
-The bad news: News publishers don't get most of that money. Cell phone carriers, ad-tech agnecies, search and social sites do.
+The bad news: News publishers don't get most of that money. It goes to cell phone carriers, ad-tech agencies, search and social sites.
 
-Using the <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a> calculator, to view the average newspaper webpage, <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">which weighs an obese 4.7 MB</a>, a U.S. reader pays $0.30 in data plan fees -- $0.46 for prepaid plans.
+Slow webpages are expensive for mobile users. Newspaper webpages are annoyingly slow, <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">averaging 17-second page-loads and 4.7 MB page-weights</a>. Based on the <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a> calculator, a U.S. reader $0.30 in data plan fees -- $0.46 for prepaid plans -- to look at the average news page.
 
-Meanwhile, for every ad the reader views on that page, the newspaper, at best, gets $0.03, while the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">ad-tech agencies can pocket $0.05</a>.
+That page has ads, for which the publisher gets a few pennies. But the most of the ad dollars go to the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">ad-tech tax</a>.
 
-Google and Facebook also rake in profits from excerpting newspaper articles. Online news content generates plenty of revenue, just not for news sites.
+Hamish Nicklin, chief revenue officer of <a href="http://mediatel.co.uk/newsline/2016/10/04/where-did-the-money-go-guardian-buys-its-own-ad-inventory">The Guardian, found</a> "a host of adtech businesses are extracting up to 70% of advertisers' money without being able to quantify the value they provide to the brand.
+
+"There are so many different players taking a little cut here, a little cut there -- and sometimes a very big cut. A lot of the money that [advertisers] think they are giving to premium publishers is not actually getting to us."
+
+Another hand reaching into newpaper's pockets are the digital duopoly of Google and Facebook, whose business depends on excerpting news articles, raked in <a href="https://www.bloomberg.com/news/articles/2016-04-22/google-and-facebook-lead-digital-ad-industry-to-revenue-record">64 percent of 2015's $60 billion in online ad revenue</a>.
+
+Newspapers, magazines and other publishers are <a href="https://www.theguardian.com/media/2016/apr/29/publishers-facebook-bloomberg-media-justin-smith-ads">"feeding on [Facebook's] scraps,"</a> says Bloomberg Media's Justin Smith. "They keep the $16bn to $18bn they get in the news feed, and the news feed, with personal sharing down, is effectively just an aggregation of premium publishers' content." 
 
 <blockquote>
 Online publishers have a dumbass business model and do not get any part of this revenue.
 <div><cite>&mdash;<a href="http://adcontrarian.blogspot.com/2015/10/the-whining-of-online-ad-industry.html">"The Whining Of The Online Ad Industry,"</a> The Ad Contrarian</cite></div>
 </blockquote>
+
+
+
+up to 70% of advertisers' money
 
 <h2>Myth: The internet is killing newspapers</h2>
 
