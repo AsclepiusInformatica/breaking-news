@@ -36,7 +36,7 @@ The decline in both the <a href="http://www.journalism.org/numbers/number-of-u-s
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/circulation-1950‐2010.png?raw=true" alt="Chart: Newspaper circulation 1950-2010" />  
 
-Since their lows in 2009, newspapers have had upticks in both their <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">circulation</a> and <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#economics">advertising revenue</a>. So don't blame the interwebs or social media ailments in the news biz.
+Newspapers hit <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">circulation</a> and <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#economics">advertising revenue</a> lows in 2009, but have upticked since then, simultaneous with the growth of social sites. So don't blame the interwebs or social media for ailments in the news biz.
 
 New media rarely replace the old. Television didn't kill movies. Movies didn't kill live theatre, a two-millennia old media. Think theatre is dead? Try gettting tickets to this weekend's "Hamilton" show.
 
