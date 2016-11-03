@@ -23,7 +23,7 @@ That page has ads, for which the publisher gets a few pennies. But the most of t
 
 Another hand reaching into newpaper's pockets is the digital duopoly of Google and Facebook, whose success depends on excerpting news articles. They raked in <a href="https://www.bloomberg.com/news/articles/2016-04-22/google-and-facebook-lead-digital-ad-industry-to-revenue-record">64 percent of 2015's $60 billion in online ad revenue</a>.
 
-Newspapers, magazines and other publishers are <a href="https://www.theguardian.com/media/2016/apr/29/publishers-facebook-bloomberg-media-justin-smith-ads">"feeding on [Facebook's] scraps,"</a> says Bloomberg Media's Justin Smith. "They keep the $16bn to $18bn they get in the news feed, and the news feed, with personal sharing down, is effectively just an aggregation of premium publishers' content." 
+Newspapers, magazines and other publishers are <a href="https://www.theguardian.com/media/2016/apr/29/publishers-facebook-bloomberg-media-justin-smith-ads">"feeding on [Facebook's] scraps,"</a> says Bloomberg Media's Justin Smith. "They keep the $16bn to $18bn they get in the news feed, and the news feed, with personal sharing down, is effectively just an aggregation of premium publishers' content."
 
 <blockquote>
 Online publishers have a dumbass business model and do not get any part of this revenue.
@@ -49,7 +49,7 @@ Results indicated that the (supposedly dying) print product still reaches far mo
 
 <h2>Myth: New media makes money</h2>
 
-Most newspapers are profitable. But except for Facebook, almost all social and online-only news sites bleed money. Their net income lines looks like crime scenes, puddles of red everywhere.
+Most <a href="http://www.poynter.org/2015/a-hidden-success-story-for-newspaper-circulation-costs-are-down-and-revenues-are-up/362687/">newspapers are profitable</a>. But, except for Facebook, almost all social and online-only news sites bleed money. Their net income lines looks like crime scenes, puddles of red everywhere.
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Net-income-Twitter-Salon-MarketWatch.png?raw=true" alt="Net Income losses for Twitter and Salon Media Group, from MarketWatch financials" />
 
@@ -67,13 +67,37 @@ Digital media companies -- which have a fraction of old media's revenue and even
 <div><cite>&mdash;Author, <a href="http://adage.com/article/media/private-equity-plowing-money-buzzfeed-vox/297034/">"Sizing Up VC-Backed Publishers' Prospects,"</a> Advertising Age</cite></div>
 </blockquote>
 
-Newspapers are not-only competing against money losers but also being told to imittate their unprofitable practices: be more engaged, more millenial, more [insert buzzword-du-jour here].
+New media companies don't make a profit, they make pitchdecks. Their cash from comes convincing investors in some fairy-tale future where income will finally exceed expenses. Pinboard CEO, Maciej Cegłowski, calls it <a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"Investor Storytime"</a>
+
+<blockquote>
+Investor storytime is not exactly advertising, but it is related to advertising. Think of it as an advertising future, or perhaps the world's most targeted ad.
+
+Both business models involve persuasion. In one of them, you're asking millions of listeners to hand over a little bit of money. In the other, you're persuading one or two listeners to hand over millions of money.
+<div><cite>&mdash;<a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"The Internet With A Human Face,"</a> Idle Words</cite></div>
+</blockquote>
+
+Newspapers compete against money losers, while media pundits tell papers to follow these losers' leads: be more engaged, more millenial, more [insert buzzword-du-jour here].
 
 This also is a pre-web phenomenon. In the early 80s, USA Today sent fear into publishers' hearts. Newspapers were urged to copy their color, their layout, their brevity, even though, I can't find any evidence of USA Today ever having a profitable year. (In 1987 the boasted of <a href="http://www.nytimes.com/1987/06/17/business/company-news-usa-today-posts-its-first-profit.html">one month in the black</a>, but before or since then: crickets.)
 
-
+<h2>Myth: We need to disrupt ourselves</h2>
 <hr />
 <em>Notes:</em>
+
+<a href="http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine">"Disruptive innovation" is a discredited hypothesis</a> that doesn't explain or predict anything.
+
+<blockquote>
+The prediction of the theory would be that Apple won't succeed with the iPhone. It's not [truly] disruptive. History speaks pretty loudly on that.
+<div><cite>&mdash;<a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice">"Clayton Christensen's Innovation Brain,"</a> Bloomberg </cite></div>
+</blockquote>
+
+Yet journalsists and educators cling to the term. Want to see true disruption? This is what it looks like, scavengers on a trash fire in a landfill (photo by <a href="https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx">Adam Cohn</a>):
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/Trash-scavengers-fire-Manila-Adam-Cohn-1000.jpg?raw=true" alt="Trash Scavengers and Fire, Tondo Landfill, Manila, Philippines," />
+
+When I look at the newspaper industry, all I see is diruption...
+
+<hr />
+
 
 <blockquote>
 Blockquote text 
@@ -85,21 +109,10 @@ http://www.politico.com/magazine/story/2016/09/newspapers-print-news-online-jour
  
 
 
-'Sides Facebook, the sites you list all lose money, many millions annually. 
-http://www.marketwatch.com/investing/stock/twtr/financials
-http://www.marketwatch.com/investing/stock/sina/financials
-http://www.marketwatch.com/investing/stock/renn/financials
 
-make investor stories
-https://www.buzzfeed.com/matthewzeitlin/the-digital-media-bloodbath-hundreds-of-jobs-lost
 
-Net Income looks like a crime scene: red everywhere
 
-<h2>Myth: We need to disrupt ourselves</h2>
 
-boat garbage Manila harbor
-
-https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx
 
 user-hostile
 
