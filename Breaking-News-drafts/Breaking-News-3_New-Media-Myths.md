@@ -59,6 +59,7 @@ These headlines tell the story:
 <li><a href="http://gawker.com/snapchat-lost-a-ton-of-money-last-year-1706957414">"Snapchat Lost a Ton of Money Last Year"</a></li>
 <li><a href="https://techcrunch.com/2016/02/01/whatsapp-hits-one-billion-users-remains-in-search-of-revenue/">"WhatsApp Hits One Billion Users, Remains In Search Of Revenue"</a></li>
 <li><a href="http://nypost.com/2015/05/05/huffington-post-turns-10-but-its-profits-are-still-a-mystery/">"BuzzFeed Slashes Revenue Forecast: Is This the Beginning of the End of the Millennial Media Bubble?"</a></li>
+<li><a href="https://www.buzzfeed.com/matthewzeitlin/the-digital-media-bloodbath-hundreds-of-jobs-lost">The Digital Media Bloodbath: Hundreds Of Jobs Lost"></a></li>
 </ul>
 
 <blockquote>
@@ -66,10 +67,9 @@ Digital media companies -- which have a fraction of old media's revenue and even
 <div><cite>&mdash;Author, <a href="http://adage.com/article/media/private-equity-plowing-money-buzzfeed-vox/297034/">"Sizing Up VC-Backed Publishers' Prospects,"</a> Advertising Age</cite></div>
 </blockquote>
 
-Newspapers are not-only competing against money losers but also being urged to imittate their unprofitable practices: be more engaged, more millenial, more [insert buzzword here].
+Newspapers are not-only competing against money losers but also being told to imittate their unprofitable practices: be more engaged, more millenial, more [insert buzzword-du-jour here].
 
-USA Today
-
+This also is a pre-web phenomenon. In the early 80s, USA Today sent fear into publishers' hearts. Newspapers were urged to copy their color, their layout, their brevity, even though, I can't find any evidence of USA Today ever having a profitable year. (In 1987 the boasted of <a href="http://www.nytimes.com/1987/06/17/business/company-news-usa-today-posts-its-first-profit.html">one month in the black</a>, but before or since then: crickets.)
 
 
 <hr />
