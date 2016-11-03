@@ -66,7 +66,7 @@ Digital media companies -- which have a fraction of old media's revenue and even
 <div><cite>&mdash;Author, <a href="http://adage.com/article/media/private-equity-plowing-money-buzzfeed-vox/297034/">"Sizing Up VC-Backed Publishers' Prospects,"</a> Advertising Age</cite></div>
 </blockquote>
 
-Newspapers, which make money, are competing against companies that lose money. Yet we urge papers to follow the lead of these losers: be more engaged, more agile, more millenial.
+Newspapers are not-only competing against money losers but also being urged to imittate their unprofitable practices: be more engaged, more millenial, more [insert buzzword here].
 
 USA Today
 
