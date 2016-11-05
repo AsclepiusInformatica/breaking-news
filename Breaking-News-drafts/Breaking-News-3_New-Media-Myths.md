@@ -95,7 +95,14 @@ Want to see true disruption? It looks like this, chold scavengers on a trash fir
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Trash-scavengers-fire-Manila-Adam-Cohn-1000.jpg?raw=true" alt="Trash Scavengers and Fire, Tondo Landfill, Manila, Philippines," />
 
-That's what I see when I look at the newspaper industry, there's disruption everywhere...
+All is see in the newspaper industry is disruption everywhere:
+<ul>
+<li>A disrupted reader experience, which continual interrupts and diverts the reader path.</li>
+<li>A disrupted news delivery system, with painfully slow page-loads, bloated by widgets that increasingly expose readers to malware.</li>
+<li>A disrupted business model, which throws money made from content at everyone except the content creators.</li>
+<li>A disrupted mission, which chases fads instead of checks facts, which prioritizes Facebook likes over informing the public.</li>
+</ul>
+
 
 
 http://www.politico.com/magazine/story/2016/10/newspapers-digital-first-214363
