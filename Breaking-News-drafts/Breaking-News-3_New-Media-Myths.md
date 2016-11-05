@@ -81,21 +81,18 @@ Newspapers compete against companies that lose money losers, while media pundits
 This also is a pre-web phenomenon. In the early 80s, USA Today put fear into publishers' hearts. Newspapers were urged to copy their color, their layout, their brevity, even though, I can't find any evidence of USA Today ever having a profitable year. (In 1987 they boasted of <a href="http://www.nytimes.com/1987/06/17/business/company-news-usa-today-posts-its-first-profit.html">one month in the black</a>, but before or since then: crickets.)
 
 <h2>Myth: We need to disrupt ourselves</h2>
-<hr />
-<em>Notes:</em>
 
-Journalists cling to the notion on "disruptive innovation," even though <a href="http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine">it's a discredited hypothesis</a> that doesn't explain or predict anything.
+Journalists cling to term "disruptive innovation," even though <a href="http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine">it's a discredited hypothesis</a> that doesn't explain or predict anything.
 
 <blockquote>
 The prediction of the theory would be that Apple won't succeed with the iPhone. It's not [truly] disruptive. History speaks pretty loudly on that.
-<div><cite>&mdash;<a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice">"Clayton Christensen's Innovation Brain,"</a> Bloomberg </cite></div>
+<div><cite>&mdash;<a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice">Clay Christensen</a> 2007, Bloomberg News</cite></div>
 </blockquote>
-
-True disruption looks like this, children scavenging though a landfill on fire (photo by <a href="https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx">Adam Cohn</a>):
+Here's an image of true disruption, children scavenging though a landfill on fire (photo by <a href="https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx">Adam Cohn</a>):
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Trash-scavengers-fire-Manila-Adam-Cohn-1000.jpg?raw=true" alt="Trash Scavengers and Fire, Tondo Landfill, Manila, Philippines," />
 
-All is see in the newspaper industry is disruption:
+When I look at the newspaper industry, disturption is all I see:
 <ul>
 <li>A disrupted reader experience, which continual interrupts and diverts the reader path.</li>
 <li>A disrupted news delivery system, with painfully slow page-loads, bloated by widgets that increasingly expose readers to malware.</li>
