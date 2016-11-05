@@ -105,6 +105,17 @@ When I look at the online news industry, all I see is disruption:
 </ul>
 
 <blockquote>
+<p>We’re still stuck in some very naive thinking, with the idea that people consuming media means that’s what they want — it’s like, well, we put junk food in front of them and they ate that, so that must be what they want.</p>
+
+If you look at feedback loops like likes and retweets, they’ve been very carefully crafted to maximise certain types of behaviours. But if we reward people based on a measurement system where there’s literally no difference between a one-second page view or reading something that brought them value or changed their mind, it’s like — your job is feeding people, but all you’re measuring is maximising calorie delivery. So what you’d learn is that junk food is more efficient than healthy, nourishing food.
+<div><cite>&mdash;Ev Williams (founder, Medium and Twitter), <a href="https://www.theguardian.com/media/2016/apr/10/twitter-ev-williams-medium-content-fast-food">"We put junk food in front of them and they eat it,"</a> The Guardian</cite></div>
+</blockquote>
+
+<em>[Video goes here: https://www.youtube.com/watch?v=e512_OxFWyM ]</em>
+<a href="https://www.youtube.com/watch?v=e512_OxFWyM"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/Newspaperswork-screenshot.png?raw=true" alt="Video screenshot" />  </a>
+
+
+<blockquote>
 <p>What if, in the mad dash two decades ago to repurpose and extend editorial content onto the Web, editors and publishers made a colossal business blunder that wasted hundreds of millions of dollars? What if the industry should have stuck with its strengths—the print editions where the vast majority of their readers still reside and where the overwhelming majority of advertising and subscription revenue come from—instead of chasing the online chimera?</p>
 
 Conventional newspapers, for all their shortcomings, remain the best source of information about the workings of our government, of industry, and of the major institutions that dominate our lives. They still publish a disproportionate amount of the accountability journalism available, a function that’s not being fully replaced by online newcomers or the nonprofit entities that have popped up. If we give up the print newspaper for dead, accepting its demise without a fight, we stand to lose one of the vital bulwarks that protect and sustain our culture.
@@ -122,7 +133,7 @@ Blockquote text
 <div><cite>&mdash;Author, <a href="">"Title,"</a> Publication</cite></div>
 </blockquote>
 
-https://www.youtube.com/watch?v=e512_OxFWyM
+
 
 Newspaperswork, the marketing platform for all Belgian newspaper publishers,
 the power of newspapers
