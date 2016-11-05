@@ -82,21 +82,22 @@ This also is a pre-web phenomenon. In the early 80s, USA Today put fear into pub
 
 <h2>Myth: We need to disrupt ourselves</h2>
 
-Journalists cling to term "disruptive innovation," even though <a href="http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine">it's a discredited hypothesis</a> that doesn't explain or predict anything.
+Journalists cling to term "disruptive innovation," even though <a href="http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine">it's a discredited hypothesis</a> that doesn't <a href="http://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/">explain or predict anything</a>.
 
 <blockquote>
 The prediction of the theory would be that Apple won't succeed with the iPhone. It's not [truly] disruptive. History speaks pretty loudly on that.
 <div><cite>&mdash;<a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice">Clay Christensen</a> 2007, Bloomberg News</cite></div>
 </blockquote>
-Here's an image of true disruption, children scavenging though a landfill on fire (photo by <a href="https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx">Adam Cohn</a>):
+
+Here's an example of true disruption, children scavenging though a landfill on fire (photo by <a href="https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx">Adam Cohn</a>):
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Trash-scavengers-fire-Manila-Adam-Cohn-1000.jpg?raw=true" alt="Trash Scavengers and Fire, Tondo Landfill, Manila, Philippines," />
 
-When I look at the newspaper industry, disturption is all I see:
+That's what I see when I look at the newspaper industry, disurptioneverywhere:
 <ul>
-<li>A disrupted reader experience, which continual interrupts and diverts the reader path.</li>
+<li>A disrupted reader experience, continually interrupting and diverting the reading path.</li>
 <li>A disrupted news delivery system, with painfully slow page-loads, bloated by widgets that increasingly expose readers to malware.</li>
-<li>A disrupted business model, which throws money made from content at everyone except the content creators.</li>
+<li>A disrupted business model, which makes money from content for everyone but the content creators.</li>
 <li>A disrupted mission, which chases fads instead of checks facts, which prioritizes Facebook likes over informing the public.</li>
 </ul>
 
@@ -139,3 +140,14 @@ The Great Ad Wars of 2016
 
 Science and Invention, November 1928
 https://commons.wikimedia.org/wiki/S%26I_Television_Receiver#/media/File:Science_and_Invention_Nov_1928_pg618.png
+
+* How Useful Is the Theory of Disruptive Innovation?
+http://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/
+
+I do wish the journalism industry would stop chanting "disruption" and "innovation" b/c neither are really how the technologies progress
+
+* Innovation is overvalued, maintenance often matters more
+https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more
+
+* Stop Saying Innovation – Here’s Why
+http://scottberkun.com/2008/stop-saying-innovation-heres-why/
