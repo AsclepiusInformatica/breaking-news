@@ -49,7 +49,7 @@ Results indicated that the (supposedly dying) print product still reaches far mo
 
 <h2>Myth: New media makes money</h2>
 
-Most <a href="http://www.poynter.org/2015/a-hidden-success-story-for-newspaper-circulation-costs-are-down-and-revenues-are-up/362687/">newspapers are profitable</a>. But, except for Facebook, almost all social and online-only news sites bleed money. Their net income lines looks like crime scenes, puddles of red everywhere.
+Most <a href="http://www.poynter.org/2015/a-hidden-success-story-for-newspaper-circulation-costs-are-down-and-revenues-are-up/362687/">newspapers are profitable</a>. But, except for Facebook, almost all social and online-only news sites bleed money. Their net income lines looks like crime scenes, covered in red.
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Net-income-Twitter-Salon-MarketWatch.png?raw=true" alt="Net Income losses for Twitter and Salon Media Group, from MarketWatch financials" />
 
@@ -84,18 +84,18 @@ This also is a pre-web phenomenon. In the early 80s, USA Today sent fear into pu
 <hr />
 <em>Notes:</em>
 
-Journalists and educators cling to the term, "disruptive innovation," even though <a href="http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine">it's a discredited hypothesis</a> that doesn't explain or predict anything.
+Journalists cling to the notion on "disruptive innovation," even though <a href="http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine">it's a discredited hypothesis</a> that doesn't explain or predict anything.
 
 <blockquote>
 The prediction of the theory would be that Apple won't succeed with the iPhone. It's not [truly] disruptive. History speaks pretty loudly on that.
 <div><cite>&mdash;<a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice">"Clayton Christensen's Innovation Brain,"</a> Bloomberg </cite></div>
 </blockquote>
 
-Want to see true disruption? It looks like this, child scavenging on a landfill on fire (photo by <a href="https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx">Adam Cohn</a>):
+True disruption looks like this, children scavenging though a landfill on fire (photo by <a href="https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx">Adam Cohn</a>):
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Trash-scavengers-fire-Manila-Adam-Cohn-1000.jpg?raw=true" alt="Trash Scavengers and Fire, Tondo Landfill, Manila, Philippines," />
 
-All is see in the newspaper industry is disruption everywhere:
+All is see in the newspaper industry is disruption:
 <ul>
 <li>A disrupted reader experience, which continual interrupts and diverts the reader path.</li>
 <li>A disrupted news delivery system, with painfully slow page-loads, bloated by widgets that increasingly expose readers to malware.</li>
