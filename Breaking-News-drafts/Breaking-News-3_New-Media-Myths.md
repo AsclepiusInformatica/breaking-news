@@ -141,16 +141,6 @@ the power of newspapers
 <iframe width="853" height="480" src="https://www.youtube.com/embed/e512_OxFWyM?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-
-
- 
-
-
-
-
-
-
-
 user-hostile
 
 snake oil , venomous snakes
@@ -167,30 +157,4 @@ The Great Ad Wars of 2016
 
 Science and Invention, November 1928
 https://commons.wikimedia.org/wiki/S%26I_Television_Receiver#/media/File:Science_and_Invention_Nov_1928_pg618.png
-
-* How Useful Is the Theory of Disruptive Innovation?
-http://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/
-
-I do wish the journalism industry would stop chanting "disruption" and "innovation" b/c neither are really how the technologies progress
-
-* Innovation is overvalued, maintenance often matters more
-
-
-* Stop Saying Innovation – Here’s Why
-http://scottberkun.com/2008/stop-saying-innovation-heres-why/
-
-=There’s nothing rapid about this transition at all. It’s been happening in the background for fifteen years. So let me rephrase it in ways that I understand. Shock revelation! A new set of technologies has started to displace older technologies and will continue to do so at a fairly slow rate over the next ten to thirty years!…
-
-My sense of these media organisations that use this argument of incredibly rapid technology change is that they’re screaming that they’re being pursued by a snail and yet they cannot get away! "The snail! The snail!", they cry. "How can we possibly escape!?"
-* Is the pace of change really such a shock?
-http://plasticbag.org/archives/2006/04/is_the_pace_of_change_really_such_a_shock
-Tom Coates, former BBC technologist
-
-We’re still stuck in some very naive thinking, with the idea that people consuming media means that’s what they want — it’s like, well, we put junk food in front of them and they ate that, so that must be what they want.
-
-If you look at feedback loops like likes and retweets, they’ve been very carefully crafted to maximise certain types of behaviours. But if we reward people based on a measurement system where there’s literally no difference between a one-second page view or reading something that brought them value or changed their mind, it’s like — your job is feeding people, but all you’re measuring is maximising calorie delivery. So what you’d learn is that junk food is more efficient than healthy, nourishing food.
-
-https://www.theguardian.com/media/2016/apr/10/twitter-ev-williams-medium-content-fast-food
-Medium and Twitter founder: ‘We put junk food in front of them and they eat it’
-ev-williams
 
