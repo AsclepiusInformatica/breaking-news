@@ -111,8 +111,7 @@ We’re still stuck in some very naive thinking, with the idea that people consu
 <div><cite>&mdash;Ev Williams (founder, Medium and Twitter), <a href="https://www.theguardian.com/media/2016/apr/10/twitter-ev-williams-medium-content-fast-food">"We put junk food in front of them and they eat it,"</a> The Guardian</cite></div>
 </blockquote>
 
-<em>[Video goes here: https://www.youtube.com/watch?v=e512_OxFWyM ]</em>
-<a href="https://www.youtube.com/watch?v=e512_OxFWyM"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/Newspaperswork-screenshot-1.png?raw=true" alt="Video screenshot" />  </a>
+To quickly burn a bunch of investor cash, using clickbait to artifically inflating social shares and page views works well. But if you goal is a publication's long-term sustainabilty, then solid reporting, good writing and experienced editing has historically proven a safe bet. Give the people what they want, but also what they need.
 
 
 <blockquote>
@@ -122,6 +121,8 @@ Conventional newspapers, for all their shortcomings, remain the best source of i
 <div><cite>&mdash;<a href="http://www.politico.com/magazine/story/2016/10/newspapers-digital-first-214363">"What If the Newspaper Industry Made a Colossal Mistake?,"</a> Politico</cite></div>
 </blockquote>
 
+<em>[Video goes here: https://www.youtube.com/watch?v=e512_OxFWyM ]</em>
+<a href="https://www.youtube.com/watch?v=e512_OxFWyM"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/Newspaperswork-screenshot-1.png?raw=true" alt="Video screenshot" />  </a>
 
 <hr />
 <hr />
