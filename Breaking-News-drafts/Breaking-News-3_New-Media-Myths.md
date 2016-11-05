@@ -67,7 +67,7 @@ Digital media companies -- which have a fraction of old media's revenue and even
 <div><cite>&mdash;Author, <a href="http://adage.com/article/media/private-equity-plowing-money-buzzfeed-vox/297034/">"Sizing Up VC-Backed Publishers' Prospects,"</a> Advertising Age</cite></div>
 </blockquote>
 
-New media companies dont make profit, they make pitchdecks. Their cash from comes convincing investors in fairy-tale futures -- <a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"Investor Storytime"</a> in the words of Pinboard CEO Maciej Cegłowski:
+New media companies dont make profit, they make pitchdecks. Their cash from comes convincing investors in fairy-tale futures -- <a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"Investor Storytime,"</a> in the words of Pinboard CEO Maciej Cegłowski:
 
 <blockquote>
 Investor storytime is not exactly advertising, but it is related to advertising. Think of it as an advertising future, or perhaps the world's most targeted ad.
