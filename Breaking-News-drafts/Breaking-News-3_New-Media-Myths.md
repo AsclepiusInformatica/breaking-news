@@ -112,7 +112,7 @@ If you look at feedback loops like likes and retweets, they’ve been very caref
 </blockquote>
 
 <em>[Video goes here: https://www.youtube.com/watch?v=e512_OxFWyM ]</em>
-<a href="https://www.youtube.com/watch?v=e512_OxFWyM"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/Newspaperswork-screenshot.png?raw=true" alt="Video screenshot" />  </a>
+<a href="https://www.youtube.com/watch?v=e512_OxFWyM"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/Newspaperswork-screenshot-1.png?raw=true" alt="Video screenshot" />  </a>
 
 
 <blockquote>
