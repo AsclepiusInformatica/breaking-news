@@ -67,7 +67,7 @@ Digital media companies -- which have a fraction of old media's revenue and even
 <div><cite>&mdash;Author, <a href="http://adage.com/article/media/private-equity-plowing-money-buzzfeed-vox/297034/">"Sizing Up VC-Backed Publishers' Prospects,"</a> Advertising Age</cite></div>
 </blockquote>
 
-New media companies don't make a profit, they make pitchdecks. Their cash from comes convincing investors in some fairy-tale future where income will finally exceed expenses. Pinboard CEO, Maciej Cegłowski, calls it <a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"Investor Storytime"</a>
+New media companies dont make profit, they make pitchdecks. Their cash from comes convincing investors in fairy-tale futures -- <a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"Investor Storytime"</a> in the words of Pinboard CEO Maciej Cegłowski:
 
 <blockquote>
 Investor storytime is not exactly advertising, but it is related to advertising. Think of it as an advertising future, or perhaps the world's most targeted ad.
@@ -76,9 +76,9 @@ Both business models involve persuasion. In one of them, you're asking millions 
 <div><cite>&mdash;<a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"The Internet With A Human Face,"</a> Idle Words</cite></div>
 </blockquote>
 
-Newspapers compete against money losers, while media pundits tell papers to follow these losers' leads: be more engaged, more millenial, more [insert buzzword-du-jour here].
+Newspapers compete against companies that lose money losers, while media pundits insist papers must follow these losers' leads: be more engaged, more millenial, more [insert buzzword-du-jour here].
 
-This also is a pre-web phenomenon. In the early 80s, USA Today sent fear into publishers' hearts. Newspapers were urged to copy their color, their layout, their brevity, even though, I can't find any evidence of USA Today ever having a profitable year. (In 1987 the boasted of <a href="http://www.nytimes.com/1987/06/17/business/company-news-usa-today-posts-its-first-profit.html">one month in the black</a>, but before or since then: crickets.)
+This also is a pre-web phenomenon. In the early 80s, USA Today put fear into publishers' hearts. Newspapers were urged to copy their color, their layout, their brevity, even though, I can't find any evidence of USA Today ever having a profitable year. (In 1987 they boasted of <a href="http://www.nytimes.com/1987/06/17/business/company-news-usa-today-posts-its-first-profit.html">one month in the black</a>, but before or since then: crickets.)
 
 <h2>Myth: We need to disrupt ourselves</h2>
 <hr />
