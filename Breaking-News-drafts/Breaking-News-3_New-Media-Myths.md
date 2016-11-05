@@ -76,13 +76,14 @@ Both business models involve persuasion. In one of them, you're asking millions 
 <div><cite>&mdash;<a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"The Internet With A Human Face,"</a> Idle Words</cite></div>
 </blockquote>
 
-Newspapers are competing against companies that lose money, while media pundits insist papers should mimic their money-losing practices: be more engaged, more millenial, more [insert buzzword-du-jour here]. (Show me the <abbr title="Return on investment">ROI</abbr>.)
+Newspapers are competing against companies that lose money, while media pundits tell the papers to mimic these money-losers.
 
-This is also a pre-web phenomenon. In the early 80s, USA Today struck fear into the hearts of publishers. Newspapers were told to copy their color, their layout, their brevity, even though, I can't find any evidence of USA Today ever having a profitable year. (In 1987 they boasted of <a href="http://www.nytimes.com/1987/06/17/business/company-news-usa-today-posts-its-first-profit.html">one month in the black</a>, but before or since then: crickets.)
+This is also a pre-web phenomenon. In the early 80s, USA Today premiered a paper with more color and articles with less words. Publishers panicked. Surely doom would befall any who didn't adopt the upstart's approach. Turned out to be a false alarm, though: <a href="http://www.encyclopedia.com/topic/Gannett_Co._Inc.aspx">USA Today never had profitable year<a/>. 
 
-If all this 
+When someone insists news needs to be more social, more millenial, more [insert buzzword-du-jour here], I say: Show me the <abbr title="Return on investment">ROI</abbr>.
 
 <h2>Myth: We need to disrupt ourselves</h2>
+I do wish the journalism industry would <a href="http://scottberkun.com/2008/stop-saying-innovation-heres-why/">stop chanting</a> "disruption" and "innovation" because neither are really <a href="https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more">how technologies progress</a>.
 
 "Disruptive innovation" <a href="http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine">is a discredited hypothesis</a> that doesn't <a href="http://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/">explain or predict anything</a>.
 
@@ -91,26 +92,30 @@ The prediction of the theory would be that Apple won't succeed with the iPhone. 
 <div><cite>&mdash;<a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice">Clay Christensen</a> 2007, Bloomberg News</cite></div>
 </blockquote>
 
-Yet journalists cling to notion that we have to disrupt ourselves. Here's what true disruption looks like, children scavenging though a landfill on fire (photo by <a href="https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx">Adam Cohn</a>):
+True disruption has disasterous results, from climate change and species extinction to these children scavenging in a landfill on fire (photo by <a href="https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx">Adam Cohn</a>):
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Trash-scavengers-fire-Manila-Adam-Cohn-1000.jpg?raw=true" alt="Trash Scavengers and Fire, Tondo Landfill, Manila, Philippines," />
 
-Disruption is all I see in the online news industry:
+When I look at the online news industry, all I see is disruption:
 <ul>
-<li>A disrupted reader experience, which interrupts, obstructs, and diverts the <a href="https://www.rjionline.org/stories/how-to-make-online-news-brain-friendly">reading path</a>.</li>
-<li>A disrupted news delivery system, with painfully slow page-loads, bloated by widgets and often <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">loaded with malware</a>.</li>
-<li>A disrupted business model, which profits social sites, cell phone providers and ad agnecies far more than publishers.</li>
-<li>A disrupted mission, which chases fads and Facebook likes instead of fact-checking and informing the public.</li>
+<li>A disrupted reader experience, interrupting, obstructing and diverting the <a href="https://www.rjionline.org/stories/how-to-make-online-news-brain-friendly">reading path</a>.</li>
+<li>A disrupted news delivery system, with painfully slow page-loads, bloated by widgets, often <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">loaded with malware</a>.</li>
+<li>A disrupted business model, which lets social sites, cell phone providers and ad agencies siphon its revenue.</li>
+<li>A disrupted mission, chasing fads and Facebook likes instead of checking facts and informing the public.</li>
 </ul>
 
+<blockquote>
+What if, in the mad dash two decades ago to repurpose and extend editorial content onto the Web, editors and publishers made a colossal business blunder that wasted hundreds of millions of dollars? What if the industry should have stuck with its strengths—the print editions where the vast majority of their readers still reside and where the overwhelming majority of advertising and subscription revenue come from—instead of chasing the online chimera?
 
-
+Conventional newspapers, for all their shortcomings, remain the best source of information about the workings of our government, of industry, and of the major institutions that dominate our lives. They still publish a disproportionate amount of the accountability journalism available, a function that’s not being fully replaced by online newcomers or the nonprofit entities that have popped up. If we give up the print newspaper for dead, accepting its demise without a fight, we stand to lose one of the vital bulwarks that protect and sustain our culture.
+<div><cite>&mdash;<a href="http://www.politico.com/magazine/story/2016/10/newspapers-digital-first-214363">"What If the Newspaper Industry Made a Colossal Mistake?,"</a> Politico</cite></div>
+</blockquote>
 
 
 <hr />
 <hr />
 <hr />
-<em>Noteds:</em>
+<em>Notes:</em>
 
 <blockquote>
 Blockquote text 
@@ -124,14 +129,6 @@ the power of newspapers
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/e512_OxFWyM?rel=0" frameborder="0" allowfullscreen></iframe>
 
-
-What if, in the mad dash two decades ago to repurpose and extend editorial content onto the Web, editors and publishers made a colossal business blunder that wasted hundreds of millions of dollars? What if the industry should have stuck with its strengths—the print editions where the vast majority of their readers still reside and where the overwhelming majority of advertising and subscription revenue come from—instead of chasing the online chimera?…
-
-These findings matter because conventional newspapers, for all their shortcomings, remain the best source of information about the workings of our government, of industry, and of the major institutions that dominate our lives. They still publish a disproportionate amount of the accountability journalism available, a function that’s not being fully replaced by online newcomers or the nonprofit entities that have popped up. If we give up the print newspaper for dead, accepting its demise without a fight, we stand to lose one of the vital bulwarks that protect and sustain our culture.
-What If the Newspaper Industry Made a Colossal Mistake?
-http://www.politico.com/magazine/story/2016/10/newspapers-digital-first-214363
-
-http://www.politico.com/magazine/story/2016/09/newspapers-print-news-online-journalism-214238
 
 
 
@@ -166,7 +163,7 @@ http://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innova
 I do wish the journalism industry would stop chanting "disruption" and "innovation" b/c neither are really how the technologies progress
 
 * Innovation is overvalued, maintenance often matters more
-https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more
+
 
 * Stop Saying Innovation – Here’s Why
 http://scottberkun.com/2008/stop-saying-innovation-heres-why/
