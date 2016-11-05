@@ -105,7 +105,7 @@ When I look at the online news industry, all I see is disruption:
 </ul>
 
 <blockquote>
-What if, in the mad dash two decades ago to repurpose and extend editorial content onto the Web, editors and publishers made a colossal business blunder that wasted hundreds of millions of dollars? What if the industry should have stuck with its strengths—the print editions where the vast majority of their readers still reside and where the overwhelming majority of advertising and subscription revenue come from—instead of chasing the online chimera?
+<p>What if, in the mad dash two decades ago to repurpose and extend editorial content onto the Web, editors and publishers made a colossal business blunder that wasted hundreds of millions of dollars? What if the industry should have stuck with its strengths—the print editions where the vast majority of their readers still reside and where the overwhelming majority of advertising and subscription revenue come from—instead of chasing the online chimera?</p>
 
 Conventional newspapers, for all their shortcomings, remain the best source of information about the workings of our government, of industry, and of the major institutions that dominate our lives. They still publish a disproportionate amount of the accountability journalism available, a function that’s not being fully replaced by online newcomers or the nonprofit entities that have popped up. If we give up the print newspaper for dead, accepting its demise without a fight, we stand to lose one of the vital bulwarks that protect and sustain our culture.
 <div><cite>&mdash;<a href="http://www.politico.com/magazine/story/2016/10/newspapers-digital-first-214363">"What If the Newspaper Industry Made a Colossal Mistake?,"</a> Politico</cite></div>
