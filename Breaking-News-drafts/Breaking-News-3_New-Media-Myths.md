@@ -122,6 +122,7 @@ Conventional newspapers, for all their shortcomings, remain the best source of i
 </blockquote>
 
 <em>[Video goes here: https://www.youtube.com/watch?v=e512_OxFWyM ]</em>
+6 things you can miss while reading a newspaper  
 <a href="https://www.youtube.com/watch?v=e512_OxFWyM"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/Newspaperswork-screenshot-1.png?raw=true" alt="Video screenshot" />  </a>
 
 <hr />
