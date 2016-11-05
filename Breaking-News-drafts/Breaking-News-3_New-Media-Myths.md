@@ -121,7 +121,7 @@ Conventional newspapers, for all their shortcomings, remain the best source of i
 <div><cite>&mdash;<a href="http://www.politico.com/magazine/story/2016/10/newspapers-digital-first-214363">"What If the Newspaper Industry Made a Colossal Mistake?,"</a> Politico</cite></div>
 </blockquote>
 
-<em>[Video goes here: https://www.youtube.com/watch?v=e512_OxFWyM ]</em>
+<em>[Video goes here: https://www.youtube.com/watch?v=e512_OxFWyM ]</em>  
 6 things you can miss while reading a newspaper  
 <a href="https://www.youtube.com/watch?v=e512_OxFWyM"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/Newspaperswork-screenshot-1.png?raw=true" alt="Video screenshot" />  </a>
 
