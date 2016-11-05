@@ -76,9 +76,11 @@ Both business models involve persuasion. In one of them, you're asking millions 
 <div><cite>&mdash;<a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"The Internet With A Human Face,"</a> Idle Words</cite></div>
 </blockquote>
 
-Newspapers compete against companies that lose money losers, while media pundits insist papers must follow these losers' leads: be more engaged, more millenial, more [insert buzzword-du-jour here].
+Newspapers are competing against companies that lose money, while media pundits insist papers should mimic their money-losing practices: be more engaged, more millenial, more [insert buzzword-du-jour here]. (Show me the <abbr title="Return on investment">ROI</abbr>.)
 
-This also is a pre-web phenomenon. In the early 80s, USA Today put fear into publishers' hearts. Newspapers were urged to copy their color, their layout, their brevity, even though, I can't find any evidence of USA Today ever having a profitable year. (In 1987 they boasted of <a href="http://www.nytimes.com/1987/06/17/business/company-news-usa-today-posts-its-first-profit.html">one month in the black</a>, but before or since then: crickets.)
+This is also a pre-web phenomenon. In the early 80s, USA Today struck fear into the hearts of publishers. Newspapers were told to copy their color, their layout, their brevity, even though, I can't find any evidence of USA Today ever having a profitable year. (In 1987 they boasted of <a href="http://www.nytimes.com/1987/06/17/business/company-news-usa-today-posts-its-first-profit.html">one month in the black</a>, but before or since then: crickets.)
+
+If all this 
 
 <h2>Myth: We need to disrupt ourselves</h2>
 
@@ -95,10 +97,10 @@ Yet journalists cling to notion that we have to disrupt ourselves. Here's what t
 
 Disruption is all I see in the online news industry:
 <ul>
-<li>A disrupted reader experience, continually interrupting and diverting the reading path.</li>
-<li>A disrupted news delivery system, with painfully slow page-loads, bloated by widgets and, increasingly, loaded with malware.</li>
-<li>A disrupted business model, which pays everyone but the content creators.</li>
-<li>A disrupted mission, chasing fads and Facebook likes instead of fact-checksing and informing the public.</li>
+<li>A disrupted reader experience, which interrupts, obstructs, and diverts the <a href="https://www.rjionline.org/stories/how-to-make-online-news-brain-friendly">reading path</a>.</li>
+<li>A disrupted news delivery system, with painfully slow page-loads, bloated by widgets and often <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">loaded with malware</a>.</li>
+<li>A disrupted business model, which profits social sites, cell phone providers and ad agnecies far more than publishers.</li>
+<li>A disrupted mission, which chases fads and Facebook likes instead of fact-checking and informing the public.</li>
 </ul>
 
 
@@ -152,9 +154,9 @@ https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more
 * Stop Saying Innovation – Here’s Why
 http://scottberkun.com/2008/stop-saying-innovation-heres-why/
 
-"There’s nothing rapid about this transition at all. It’s been happening in the background for fifteen years. So let me rephrase it in ways that I understand. Shock revelation! A new set of technologies has started to displace older technologies and will continue to do so at a fairly slow rate over the next ten to thirty years!…
+=There’s nothing rapid about this transition at all. It’s been happening in the background for fifteen years. So let me rephrase it in ways that I understand. Shock revelation! A new set of technologies has started to displace older technologies and will continue to do so at a fairly slow rate over the next ten to thirty years!…
 
-My sense of these media organisations that use this argument of incredibly rapid technology change is that they’re screaming that they’re being pursued by a snail and yet they cannot get away! ‘The snail! The snail!’, they cry. ‘How can we possibly escape!?"
+My sense of these media organisations that use this argument of incredibly rapid technology change is that they’re screaming that they’re being pursued by a snail and yet they cannot get away! "The snail! The snail!", they cry. "How can we possibly escape!?"
 * Is the pace of change really such a shock?
 http://plasticbag.org/archives/2006/04/is_the_pace_of_change_really_such_a_shock
 Tom Coates, former BBC technologist
