@@ -123,7 +123,8 @@ Conventional newspapers, for all their shortcomings, remain the best source of i
 
 <em>[Video goes here: https://www.youtube.com/watch?v=e512_OxFWyM ]</em>  
 6 things you can miss while reading a newspaper  
-<a href="https://www.youtube.com/watch?v=e512_OxFWyM"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/Newspaperswork-screenshot-1.png?raw=true" alt="Video screenshot" />  </a>
+<a href="https://www.youtube.com/watch?v=e512_OxFWyM"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/Newspaperswork-screenshot-1.png?raw=true" alt="Video screenshot" /></a>
+"The Power of Newspapers" <a href="http://www.duvalguillaume.com/work/newspapers-work">video by Newspaperswork</a>, the marketing platform for Belgian newspapers
 
 <hr />
 <hr />
@@ -135,10 +136,6 @@ Blockquote text
 <div><cite>&mdash;Author, <a href="">"Title,"</a> Publication</cite></div>
 </blockquote>
 
-
-
-Newspaperswork, the marketing platform for all Belgian newspaper publishers,
-the power of newspapers
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/e512_OxFWyM?rel=0" frameborder="0" allowfullscreen></iframe>
 
