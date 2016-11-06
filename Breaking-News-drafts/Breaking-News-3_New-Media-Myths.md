@@ -108,7 +108,7 @@ That's what I see when I look at the online news industry, disruption everywhere
 <blockquote>
 <p>If you look at feedback loops like likes and retweets, they’ve been very carefully crafted to maximise certain types of behaviours. But if we reward people based on a measurement system where there’s literally no difference between a one-second page view or reading something that brought them value or changed their mind, it’s like — your job is feeding people, but all you’re measuring is maximising calorie delivery.</p>
 
-We’re still stuck in some very naive thinking, with the idea that people consuming media means that’s what they want — it’s like, well, we put junk food in front of them and they ate that, so that must be what they want.
+We’re still stuck in some very naive thinking — it’s like, well, we put junk food in front of them and they ate that, so that must be what they want.
 <div><cite>&mdash;Ev Williams (founder, Medium and Twitter), <a href="https://www.theguardian.com/media/2016/apr/10/twitter-ev-williams-medium-content-fast-food">"We put junk food in front of them and they eat it,"</a> The Guardian</cite></div>
 </blockquote>
 
