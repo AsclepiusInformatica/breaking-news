@@ -58,8 +58,8 @@ These headlines tell the story:
 <li><a href="http://nypost.com/2015/05/05/huffington-post-turns-10-but-its-profits-are-still-a-mystery/">"Huffington Post turns 10 — but its profits are still a mystery"</a></li>
 <li><a href="http://gawker.com/snapchat-lost-a-ton-of-money-last-year-1706957414">"Snapchat Lost a Ton of Money Last Year"</a></li>
 <li><a href="https://techcrunch.com/2016/02/01/whatsapp-hits-one-billion-users-remains-in-search-of-revenue/">"WhatsApp Hits One Billion Users, Remains In Search Of Revenue"</a></li>
+<li><a href="https://www.buzzfeed.com/matthewzeitlin/the-digital-media-bloodbath-hundreds-of-jobs-lost">The Digital Media Bloodbath: Hundreds Of Jobs Lost"</a></li>
 <li><a href="http://nypost.com/2015/05/05/huffington-post-turns-10-but-its-profits-are-still-a-mystery/">"BuzzFeed Slashes Revenue Forecast: Is This the Beginning of the End of the Millennial Media Bubble?"</a></li>
-<li><a href="https://www.buzzfeed.com/matthewzeitlin/the-digital-media-bloodbath-hundreds-of-jobs-lost">The Digital Media Bloodbath: Hundreds Of Jobs Lost"></a></li>
 </ul>
 
 <blockquote>
