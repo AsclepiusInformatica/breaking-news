@@ -7,7 +7,7 @@ _____________________
 
 <em><strong>Breaking News</strong> is about the self-inflicted fractures breaking the news business. Previous posts were on <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">on malvertising</a> and the <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>ad tech tax</a>.</em>
 
-Below is the fiscal math that explodes the myths we in the news industry believe.
+Below is the fiscal math that explodes the myths we in journalism believe.
 
 <h2>Myth: People won't pay for content</h2>
 
@@ -15,13 +15,13 @@ The good news: Newspaper websites makes money, lots of money.
 
 The bad news: News publishers don't get most of that money. It goes to cell phone carriers, ad-tech agencies, search and social sites.
 
-Slow webpages are expensive for mobile users. Newspaper webpages are annoyingly slow, <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">averaging 17-second page-loads and 4.7 MB page-weights</a>. Based on the <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a> calculator, a U.S. reader $0.30 in data plan fees -- $0.46 for prepaid plans -- to look at the average news page.
+Slow webpages are expensive for mobile users. Newspaper webpages are annoyingly slow, <a href="https://www.rjionline.org/stories/need-for-speed-1-newspaper-load-times-give-slow-news-day-new-meaning">averaging 17-second page-loads and 4.7 MB page-weights</a>. Based on the <a href="https://whatdoesmysitecost.com/">What Does My Site Cost?</a> calculator, a U.S. reader pays $0.30 in data plan fees -- $0.46 for prepaid plans -- to look at the average news page.
 
-That page has ads, for which the publisher gets a few pennies. But the most of the ad dollars go to the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">ad-tech tax</a>. Hamish Nicklin, chief revenue officer of <a href="http://mediatel.co.uk/newsline/2016/10/04/where-did-the-money-go-guardian-buys-its-own-ad-inventory">The Guardian, found</a> "a host of adtech businesses are extracting up to 70% of advertisers' money without being able to quantify the value they provide to the brand.
+That page has ads, for which the publisher gets a few pennies. But the most of the ad dollars go to the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">ad-tech tax</a>. "A host of adtech businesses are extracting up to 70% of advertisers' money without being able to quantify the value they provide to the brand," says Hamish Nicklin, chief revenue officer of <a href="http://mediatel.co.uk/newsline/2016/10/04/where-did-the-money-go-guardian-buys-its-own-ad-inventory">The Guardian</a>.
 
 "There are so many different players taking a little cut here, a little cut there -- and sometimes a very big cut. A lot of the money that [advertisers] think they are giving to premium publishers is not actually getting to us."
 
-Another hand reaching into newpaper's pockets is the digital duopoly of Google and Facebook, whose success depends on excerpting news articles. They raked in <a href="https://www.bloomberg.com/news/articles/2016-04-22/google-and-facebook-lead-digital-ad-industry-to-revenue-record">64 percent of 2015's $60 billion in online ad revenue</a>.
+Google and Facebook also have their hands deep in newpapers' pocket. Thier success depends on excerpting news articles. In 2015, this digital duopoly raked in <a href="https://www.bloomberg.com/news/articles/2016-04-22/google-and-facebook-lead-digital-ad-industry-to-revenue-record">64 percent of 2015's $60 billion in online ad revenue</a>. 
 
 Newspapers, magazines and other publishers are <a href="https://www.theguardian.com/media/2016/apr/29/publishers-facebook-bloomberg-media-justin-smith-ads">"feeding on [Facebook's] scraps,"</a> says Bloomberg Media's Justin Smith. "They keep the $16bn to $18bn they get in the news feed, and the news feed, with personal sharing down, is effectively just an aggregation of premium publishers' content."
 
@@ -36,11 +36,11 @@ The decline in both the <a href="http://www.journalism.org/numbers/number-of-u-s
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/circulation-1950‐2010.png?raw=true" alt="Chart: Newspaper circulation 1950-2010" />  
 
-Newspapers hit <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">circulation</a> and <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#economics">advertising revenue</a> lows in 2009, but have upticked since then, simultaneous with the growth of social sites. So don't blame the interwebs or social media for ailments in the news biz.
+<a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">Circulation</a> and <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#economics">advertising revenue</a> bottomed out in 2009, but have upticked since then, simultaneous with the growth of social sites. So don't blame the interwebs or social media for ailments in the news biz.
 
 New media rarely replace the old. Television didn't kill movies. Movies didn't kill live theatre. (Think theatre is dead? Try gettting tickets to this weekend's "Hamilton".)
 
-Legacy media is doing fine: <a href="http://fivethirtyeight.com/datalab/heres-how-americans-spend-their-working-relaxing-and-parenting-time/">quoting FiveThirtyEight</a>, "Americans still spend more time watching TV than all other leisure activities combined." The <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#js-chart-55574">Pew Research Center reports</a> more than half the people "who consume a newspaper read it exclusively in print" (just 12 percent are online-only news readers). In a <a href="http://www.rasmussenreports.com/public_content/lifestyle/general_lifestyle/april_2012/66_prefer_reading_print_newspaper_to_online_version">Rasmussen Reports survey</a>, "Sixty-six percent (66%) of American Adults say they prefer reading a printed version of the newspaper." And the <a href="http://www.wan-ifra.org/press-releases/2015/06/01/world-press-trends-newspaper-revenues-shift-to-new-sources">World Association of Newspapers and News Publishers calculates</a>, "globally, more than 93 per cent of all newspaper revenues still come from print."
+Legacy media is doing fine. <a href="http://fivethirtyeight.com/datalab/heres-how-americans-spend-their-working-relaxing-and-parenting-time/">quoting FiveThirtyEight</a>: "Americans still spend more time watching TV than all other leisure activities combined." <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#js-chart-55574">Pew Research Center</a>: "51 percent of those who consume a newspaper read it exclusively in print". <a href="http://www.rasmussenreports.com/public_content/lifestyle/general_lifestyle/april_2012/66_prefer_reading_print_newspaper_to_online_version">Rasmussen Reports </a>: "Sixty-six percent (66%) of American Adults say they prefer reading a printed version of the newspaper." The <a href="http://www.wan-ifra.org/press-releases/2015/06/01/world-press-trends-newspaper-revenues-shift-to-new-sources">World Association of Newspapers and News Publishers calculates</a>: "Globally, more than 93 per cent of all newspaper revenues still come from print."
 
 <blockquote>
 Results indicated that the (supposedly dying) print product still reaches far more readers than the (supposedly promising) digital product in these newspapers’ home markets, and this holds true across all age groups.
