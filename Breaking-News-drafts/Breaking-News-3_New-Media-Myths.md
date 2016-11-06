@@ -128,7 +128,7 @@ Conventional newspapers, for all their shortcomings, remain the best source of i
 
 <hr />
 
-<em><a href="http://www.montana.edu/english/faculty/verbanac-josef.html">Josef Verbanec</a> of Montana State University contributed to this report. Top image from the magezine, <a href="https://commons.wikimedia.org/wiki/S%26I_Television_Receiver#/media/File:Science_and_Invention_Nov_1928_pg618.png">Science and Invention, November 1928</a>.</em>
+<a href="http://www.montana.edu/english/faculty/verbanac-josef.html">Josef Verbanec</a> of Montana State University contributed to this report. Top image from the magezine, <a href="https://commons.wikimedia.org/wiki/S%26I_Television_Receiver#/media/File:Science_and_Invention_Nov_1928_pg618.png">Science and Invention, November 1928</a>.
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/e512_OxFWyM?rel=0" frameborder="0" allowfullscreen></iframe>
 
