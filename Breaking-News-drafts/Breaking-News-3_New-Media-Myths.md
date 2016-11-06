@@ -34,7 +34,8 @@ Online publishers have a dumbass business model and do not get any part of this 
 
 The decline in both the <a href="http://www.journalism.org/numbers/number-of-u-s-daily-newspapers-5-year-increments/">number of newspapers</a> and in <a href="http://media-cmi.com/downloads/Sixty_Years_Daily_Newspaper_Circulation_Trends_050611.pdf">paid circulation</a> started in the 1950s, well before the internet.
 
-<img src="https://github.com/hearvox/breaking-news/blob/master/assets/circulation-1950‐2010.png?raw=true" alt="Chart: Newspaper circulation 1950-2010" />  
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/circulation-1950‐2010.png?raw=true" alt="Chart: Newspaper circulation 1950-2010" />
+<em>Source: <a href="http://media-cmi.com/downloads/Sixty_Years_Daily_Newspaper_Circulation_Trends_050611.pdf">"Sixty Years of Daily Newspaper Circulation Trends"</a> (PDF), Communications Management Inc.</em> 
 
 <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">Circulation</a> and <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#economics">advertising revenue</a> bottomed out in 2009, but have upticked since then, coincident with the growth of social sites. So don't blame the interwebs or social media for ailments in the news biz.
 
@@ -52,6 +53,7 @@ Results indicated that the (supposedly dying) print product still reaches far mo
 Most <a href="http://www.poynter.org/2015/a-hidden-success-story-for-newspaper-circulation-costs-are-down-and-revenues-are-up/362687/">newspapers are profitable</a>. But almost all online-only news and social sites bleed money. Their net income lines looks like crime scenes, covered in red.
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Net-income-Twitter-Salon-MarketWatch.png?raw=true" alt="Net Income losses for Twitter and Salon Media Group, from MarketWatch financials" />
+<em>MarketWatch financials for <a href="http://www.marketwatch.com/investing/stock/twtr/financials">Twitter</a> and <a href="http://www.marketwatch.com/investing/stock/SLNM/financials">Salon</a></em>
 
 These headlines tell the story:
 <ul>
@@ -92,9 +94,10 @@ The prediction of the theory would be that Apple won't succeed with the iPhone. 
 <div><cite>&mdash;<a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice">Clayton Christensen, 2007, Bloomberg News</a></cite></div>
 </blockquote>
 
-Want to see true disruption? Look at climate change or species extinction or these children scavenging in a landfill on fire (photo by <a href="https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx">Adam Cohn</a>):
+Want to see true disruption? Look at climate change or species extinction or these children scavenging in a landfill on fire:
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Trash-scavengers-fire-Manila-Adam-Cohn-1000.jpg?raw=true" alt="Trash Scavengers and Fire, Tondo Landfill, Manila, Philippines," />
+<em>Photo by <a href="https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx">Adam Cohn</a></em>
 
 When I look at the online news industry, all I see is disruption:
 <ul>
