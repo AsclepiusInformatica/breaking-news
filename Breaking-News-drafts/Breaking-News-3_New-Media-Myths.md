@@ -78,16 +78,14 @@ Let me be clear: Anything that removes dollars from of the pockets of venture ca
 <div><cite>&mdash;<a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"The Internet With A Human Face,"</a> Idle Words</cite></div>
 </blockquote>
 
-Newspapers are competing against companies that lose money. Yet media pundits urge papers to do what the money-losers do.
+Newspapers are competing against companies that lose money. Yet media pundits urge papers to do what these money-losers do.
 
 This is also a pre-web phenomenon. USA Today premiered in the early 80s with bolder colors and breifer articles. Publishers panicked. Surely doom would befall those who didn't mimic this approach. Turned out to be a false alarm: <a href="http://www.encyclopedia.com/topic/Gannett_Co._Inc.aspx">USA Today never had profitable year<a/>. 
 
 When someone insists news needs to be more social, more millenial, more [insert buzzword-du-jour here], I say: Show me the <abbr title="Return on investment">ROI</abbr>.
 
 <h2>Myth: We need to disrupt ourselves</h2>
-The journalism industry has been <a href="http://scottberkun.com/2008/stop-saying-innovation-heres-why/">chanting "innovation"</a> and "disruption" for decades. But neither incantation really <a href="https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more">helps a technology progress</a>.
-
-"Disruptive innovation" <a href="http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine">is a discredited hypothesis</a> that doesn't <a href="http://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/">explain or predict anything</a>.
+The journalism industry has been <a href="http://scottberkun.com/2008/stop-saying-innovation-heres-why/">chanting "innovation" and "disruption"</a> for decades. But neither incantation really <a href="https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more">helps a technology progress</a>. "Disruptive innovation" <a href="http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine">is a discredited hypothesis</a> that doesn't <a href="http://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/">explain or predict anything</a>.
 
 <blockquote>
 The prediction of the theory would be that Apple won't succeed with the iPhone. It's not [truly] disruptive. History speaks pretty loudly on that.
