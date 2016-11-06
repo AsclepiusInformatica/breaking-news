@@ -49,7 +49,7 @@ Results indicated that the (supposedly dying) print product still reaches far mo
 
 <h2>Myth: New media makes money</h2>
 
-Most <a href="http://www.poynter.org/2015/a-hidden-success-story-for-newspaper-circulation-costs-are-down-and-revenues-are-up/362687/">newspapers are profitable</a>. But almost all online-only news and social sites (except for Facebook) bleed money. Their net income lines looks like crime scenes, covered in red.
+Most <a href="http://www.poynter.org/2015/a-hidden-success-story-for-newspaper-circulation-costs-are-down-and-revenues-are-up/362687/">newspapers are profitable</a>. But almost all online-only news and social sites bleed money. Their net income lines looks like crime scenes, covered in red.
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Net-income-Twitter-Salon-MarketWatch.png?raw=true" alt="Net Income losses for Twitter and Salon Media Group, from MarketWatch financials" />
 
