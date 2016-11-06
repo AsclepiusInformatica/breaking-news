@@ -76,14 +76,14 @@ Let me be clear: Anything that removes dollars from of the pockets of venture ca
 <div><cite>&mdash;<a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"The Internet With A Human Face,"</a> Idle Words</cite></div>
 </blockquote>
 
-Newspapers are competing against companies that lose money, while media pundits tell the papers to mimic these money-losers.
+Newspapers are competing against companies that lose money. Yet media pundits urge papers to do what the money-losers do.
 
-This is also a pre-web phenomenon. In the early 80s, USA Today premiered a paper with more color and articles with less words. Publishers panicked. Surely doom would befall any who didn't adopt the upstart's approach. Turned out to be a false alarm, though: <a href="http://www.encyclopedia.com/topic/Gannett_Co._Inc.aspx">USA Today never had profitable year<a/>. 
+This is also a pre-web phenomenon. USA Today premiered in the early 80s with bolder colors and breifer articles. Publishers panicked. Surely doom would befall those who didn't mimic this approach. Turned out to be a false alarm: <a href="http://www.encyclopedia.com/topic/Gannett_Co._Inc.aspx">USA Today never had profitable year<a/>. 
 
 When someone insists news needs to be more social, more millenial, more [insert buzzword-du-jour here], I say: Show me the <abbr title="Return on investment">ROI</abbr>.
 
 <h2>Myth: We need to disrupt ourselves</h2>
-I do wish the journalism industry would <a href="http://scottberkun.com/2008/stop-saying-innovation-heres-why/">stop chanting</a> "disruption" and "innovation" because neither are really <a href="https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more">how technologies progress</a>.
+The journalism industry has been <a href="http://scottberkun.com/2008/stop-saying-innovation-heres-why/">chanting "innovation"</a> and "disruption" for decades. But neither incantation really <a href="https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more">helps a technology progress</a>.
 
 "Disruptive innovation" <a href="http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine">is a discredited hypothesis</a> that doesn't <a href="http://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/">explain or predict anything</a>.
 
@@ -92,7 +92,7 @@ The prediction of the theory would be that Apple won't succeed with the iPhone. 
 <div><cite>&mdash;<a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice">Clayton Christensen, 2007, Bloomberg News</a></cite></div>
 </blockquote>
 
-True disruption has disasterous results, from climate change and species extinction to these children scavenging in a landfill on fire (photo by <a href="https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx">Adam Cohn</a>):
+Want to see true disruption? Look at climate change or species extinction or these children scavenging in a landfill on fire (photo by <a href="https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx">Adam Cohn</a>):
 
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Trash-scavengers-fire-Manila-Adam-Cohn-1000.jpg?raw=true" alt="Trash Scavengers and Fire, Tondo Landfill, Manila, Philippines," />
 
