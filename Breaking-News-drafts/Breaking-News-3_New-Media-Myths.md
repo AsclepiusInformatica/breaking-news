@@ -97,11 +97,11 @@ Want to see true disruption? Look at climate change or species extinction or the
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Trash-scavengers-fire-Manila-Adam-Cohn-1000.jpg?raw=true" alt="Trash Scavengers and Fire, Tondo Landfill, Manila, Philippines," />
 <em>Photo by <a href="https://www.flickr.com/photos/adamcohn/24901541891/in/photolist-DUhdHY-E5HeoP-9Ytvwz-DCBuvq-E3pxaj-D8194b-E5GLce-D8jpvr-DWtYAc-DUhDcs-DWsURa-4MLTT1-E3otQW-D8kRCV-DCBNEm-DUi9vs-DCB6qN-E3o7uj-E3pALs-E5HwLV-DwfjhB-Dwe5V8-DweH4a-D7ZD2J-DCAjwj-DUiJAw-E3oWyf-DCBj4J-DCAfNN-4MGH1e-D8k2D8-D8jbte-ppMcqj-paj26T-paj2dM-paj1Xg-nsQHE-5gM31S-pakfWz-pajmvf-vv5m4B-6N15SY-zwtcC-jnZom-paj1T8-yTzzhA-yVncpZ-yVn68v-cq5TLh-aQtVEx">Adam Cohn</a></em>
 
-When I look at the online news industry, all I see is disruption:
+That's what I see when I look at the online news industry, disruption everywhere:
 <ul>
-<li>A disrupted reader experience, interrupting, obstructing and diverting the <a href="https://www.rjionline.org/stories/how-to-make-online-news-brain-friendly">reading path</a>.</li>
-<li>A disrupted news delivery system, with painfully slow page-loads, bloated by widgets, often <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">loaded with malware</a>.</li>
-<li>A disrupted business model, which lets social sites, cell phone providers and ad agencies siphon its revenue.</li>
+<li>A disrupted reader experience, obstructing and diverting the <a href="https://www.rjionline.org/stories/how-to-make-online-news-brain-friendly">reading path</a>.</li>
+<li>A disrupted news delivery system, with painfully slow page-loads and bloated, <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">malware-prone widgets</a>.</li>
+<li>A disrupted business model, letting social sites, cell phone providers and ad agencies siphon its revenue.</li>
 <li>A disrupted mission, chasing fads and Facebook likes instead of checking facts and informing the public.</li>
 </ul>
 
@@ -112,8 +112,7 @@ We’re still stuck in some very naive thinking, with the idea that people consu
 <div><cite>&mdash;Ev Williams (founder, Medium and Twitter), <a href="https://www.theguardian.com/media/2016/apr/10/twitter-ev-williams-medium-content-fast-food">"We put junk food in front of them and they eat it,"</a> The Guardian</cite></div>
 </blockquote>
 
-To quickly burn a bunch of investor cash, using clickbait to artifically inflating social shares and page views works well. But if you goal is a publication's long-term sustainabilty, then solid reporting, good writing and experienced editing has historically proven a safe bet. Give the people what they want, but also what they need.
-
+Clickbaiting your want into artifically inflated audience metrics is a great way to burn a bunch of investor cas. But if your goal is a sustainabile publication, then solid reporting, good writing and experienced editing has historically proven a safe bet. Give the people what they want, but also what they need.
 
 <blockquote>
 <p>What if, in the mad dash two decades ago to repurpose and extend editorial content onto the Web, editors and publishers made a colossal business blunder that wasted hundreds of millions of dollars? What if the industry should have stuck with its strengths—the print editions where the vast majority of their readers still reside and where the overwhelming majority of advertising and subscription revenue come from—instead of chasing the online chimera?</p>
