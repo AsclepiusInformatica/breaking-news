@@ -123,37 +123,17 @@ Conventional newspapers, for all their shortcomings, remain the best source of i
 
 <em>[Video goes here: https://www.youtube.com/watch?v=e512_OxFWyM ]</em>  
 6 things you can miss while reading a newspaper  
-<a href="https://www.youtube.com/watch?v=e512_OxFWyM"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/Newspaperswork-screenshot-1.png?raw=true" alt="Video screenshot" /></a>
-"The Power of Newspapers" <a href="http://www.duvalguillaume.com/work/newspapers-work">video by Newspaperswork</a>, the marketing platform for Belgian newspapers
+<a href="https://www.youtube.com/watch?v=e512_OxFWyM"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/Newspaperswork-screenshot-1.png?raw=true" alt="Video screenshot" /></a>  
+<div><em>"The Power of Newspapers" <a href="http://www.duvalguillaume.com/work/newspapers-work">video by Newspaperswork</a>, the marketing platform for Belgian newspapers</em>
 
 <hr />
-<hr />
-<hr />
-<em>Notes:</em>
 
-<blockquote>
-Blockquote text 
-<div><cite>&mdash;Author, <a href="">"Title,"</a> Publication</cite></div>
-</blockquote>
-
+<em><a href="http://www.montana.edu/english/faculty/verbanac-josef.html">Josef Verbanec</a> of Montana State University contributed to this report. Top image from the magezine, <a href="https://commons.wikimedia.org/wiki/S%26I_Television_Receiver#/media/File:Science_and_Invention_Nov_1928_pg618.png">Science and Invention, November 1928</a>.</em>
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/e512_OxFWyM?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-user-hostile
 
-snake oil , venomous snakes
 
-These social-site service on vampiric practices. They suck the content of newspapers and musicians, drool back a little traffic, but feed on all the ad revenue.
 
-Should you'd hire an investigative reporter or a social media strategist? A trick question, because that choice has already been made, over and over, by most newspapers. They haven't add more reporters -- i.e., the source of all their readership. No, they've picked social media as their new focus, in essence, contributing money to their competitors.
-
-Journalism Product Design  
-widgets, digits, sales?  
-data brain drain  
-The Great Ad Wars of 2016  
-"traxonomy" - the tracking economy.
-
-Science and Invention, November 1928
-https://commons.wikimedia.org/wiki/S%26I_Television_Receiver#/media/File:Science_and_Invention_Nov_1928_pg618.png
 
