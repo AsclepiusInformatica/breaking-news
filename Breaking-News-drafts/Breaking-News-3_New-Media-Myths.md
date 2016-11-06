@@ -58,7 +58,7 @@ These headlines tell the story:
 <li><a href="http://nypost.com/2015/05/05/huffington-post-turns-10-but-its-profits-are-still-a-mystery/">"Huffington Post turns 10 — but its profits are still a mystery"</a></li>
 <li><a href="http://gawker.com/snapchat-lost-a-ton-of-money-last-year-1706957414">"Snapchat Lost a Ton of Money Last Year"</a></li>
 <li><a href="https://techcrunch.com/2016/02/01/whatsapp-hits-one-billion-users-remains-in-search-of-revenue/">"WhatsApp Hits One Billion Users, Remains In Search Of Revenue"</a></li>
-<li><a href="https://www.buzzfeed.com/matthewzeitlin/the-digital-media-bloodbath-hundreds-of-jobs-lost">The Digital Media Bloodbath: Hundreds Of Jobs Lost"</a></li>
+<li><a href="https://www.buzzfeed.com/matthewzeitlin/the-digital-media-bloodbath-hundreds-of-jobs-lost">"The Digital Media Bloodbath: Hundreds Of Jobs Lost"</a></li>
 <li><a href="http://nypost.com/2015/05/05/huffington-post-turns-10-but-its-profits-are-still-a-mystery/">"BuzzFeed Slashes Revenue Forecast: Is This the Beginning of the End of the Millennial Media Bubble?"</a></li>
 </ul>
 
@@ -67,12 +67,12 @@ Digital media companies -- which have a fraction of old media's revenue and even
 <div><cite>&mdash;Author, <a href="http://adage.com/article/media/private-equity-plowing-money-buzzfeed-vox/297034/">"Sizing Up VC-Backed Publishers' Prospects,"</a> Advertising Age</cite></div>
 </blockquote>
 
-New media companies dont make profit, they make pitchdecks. Their cash from comes convincing investors in fairy-tale futures -- <a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"Investor Storytime,"</a> in the words of Pinboard CEO Maciej Cegłowski:
+New media companies dont make profit, they make pitch decks. Their cash from comes convincing investors in fairy-tale futures, <a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"Investor Storytime,"</a> in the words of Pinboard CEO Maciej Cegłowski:
 
 <blockquote>
-Investor storytime is not exactly advertising, but it is related to advertising. Think of it as an advertising future, or perhaps the world's most targeted ad.
+<p>Investor storytime is when someone pays you to tell them how rich they'll get when you finally put ads on your site. [It's] is not exactly advertising, but it is related to advertising. Think of it as an advertising future, or perhaps the world's most targeted ad. Both business models involve persuasion. In one of them, you're asking millions of listeners to hand over a little bit of money. In the other, you're persuading one or two listeners to hand over millions of money.</p>
 
-Both business models involve persuasion. In one of them, you're asking millions of listeners to hand over a little bit of money. In the other, you're persuading one or two listeners to hand over millions of money.
+Let me be clear: Anything that removes dollars from of the pockets of venture capitalists is something I favor. But investor storytime is a cancer on our industry. Because to make it work, to keep the edifice of promises from tumbling down, companies have to constantly find ways to make advertising more invasive and ubiquitous.
 <div><cite>&mdash;<a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"The Internet With A Human Face,"</a> Idle Words</cite></div>
 </blockquote>
 
