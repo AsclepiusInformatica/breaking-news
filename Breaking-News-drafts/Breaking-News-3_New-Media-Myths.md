@@ -46,7 +46,7 @@ Legacy media is doing fine. <a href="http://fivethirtyeight.com/datalab/heres-ho
 Results indicated that the (supposedly dying) print product still reaches far more readers than the (supposedly promising) digital product in these newspapers’ home markets, and this holds true across all age groups.
 <div><cite>&mdash;<a href="http://www.tandfonline.com/doi/full/10.1080/17512786.2016.1208056">"Reality Check; Multiplatform newspaper readership in the United States, 2007–2015,"</a> Journalism Practice</cite></div>
 </blockquote>
-
+test
 <h2>Myth: New media makes money</h2>
 
 Most <a href="http://www.poynter.org/2015/a-hidden-success-story-for-newspaper-circulation-costs-are-down-and-revenues-are-up/362687/">newspapers are profitable</a>. But, except for Facebook, almost all social and online-only news sites bleed money. Their net income lines looks like crime scenes, covered in red.
