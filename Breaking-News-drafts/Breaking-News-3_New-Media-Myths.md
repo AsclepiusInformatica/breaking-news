@@ -21,7 +21,7 @@ That page has ads, for which the publisher gets a few pennies. But most of the a
 
 "There are so many different players taking a little cut here, a little cut there -- and sometimes a very big cut. A lot of the money that [advertisers] think they are giving to premium publishers is not actually getting to us."
 
-Google and Facebook also have their hands deep in the newspapers' pocket. Their success depends on excerpting news articles. In 2015, this digital duopoly raked in <a href="https://www.bloomberg.com/news/articles/2016-04-22/google-and-facebook-lead-digital-ad-industry-to-revenue-record">64 percent of $60 billion in online ad revenue</a>. 
+Google and Facebook also have their hands deep in the newspapers' pockets. Their success depends on excerpting news articles. In 2015, this digital duopoly raked in <a href="https://www.bloomberg.com/news/articles/2016-04-22/google-and-facebook-lead-digital-ad-industry-to-revenue-record">64 percent of $60 billion in online ad revenue</a>. 
 
 Newspapers, magazines and other publishers are <a href="https://www.theguardian.com/media/2016/apr/29/publishers-facebook-bloomberg-media-justin-smith-ads">"feeding on [Facebook's] scraps,"</a> says Bloomberg Media's Justin Smith. "They keep the $16bn to $18bn they get in the news feed, and the news feed, with personal sharing down, is effectively just an aggregation of premium publishers' content."
 
@@ -89,7 +89,7 @@ The journalism industry has been <a href="http://scottberkun.com/2008/stop-sayin
 
 <blockquote>
 The prediction of the theory would be that Apple won't succeed with the iPhone. It's not [truly] disruptive. History speaks pretty loudly on that.
-<div><cite>&mdash;<a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice">Clayton Christensen, 2007, Bloomberg News</a></cite></div>
+<div><cite>&mdash;<a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice">"Clayton Christensen's Innovation Brain," (2007)</a> Bloomberg</cite></div>
 </blockquote>
 
 Want to see true disruption? Look at climate change or species extinction or these children scavenging in a landfill on fire:
@@ -102,7 +102,7 @@ That's what I see when I look at the online news industry, disruption everywhere
 <li>A disrupted reader experience, obstructing and diverting the <a href="https://www.rjionline.org/stories/how-to-make-online-news-brain-friendly">reading path</a>.</li>
 <li>A disrupted news delivery system, with painfully slow page-loads and bloated, <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">malware-prone widgets</a>.</li>
 <li>A disrupted business model, letting social sites, cell phone providers and <a href="http://adcontrarian.blogspot.com/2016/10/agencies-profiting-from-online-ad-fraud.html">ad networks siphon their revenue</a>.</li>
-<li>A disrupted mission, chasing fads and Facebook likes instead of <a href="https://firstdraftnews.com/category/verification/">checking facts and informing the public</a>.</li>
+<li>A disrupted mission, chasing fads and Facebook likes instead of <a href="https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis?utm_term=.ipaQmQ5lG#.nypQdQxkw">checking facts and informing the public</a>.</li>
 </ul>
 
 <blockquote>
