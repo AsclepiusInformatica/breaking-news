@@ -39,7 +39,7 @@ The decline in both the <a href="http://www.journalism.org/numbers/number-of-u-s
 
 <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">Circulation</a> and <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#economics">advertising revenue</a> bottomed out in 2009, and have upticked since then, concurrent with the growth of social sites. So don't blame the interwebs or social media for the ailments in the news biz.
 
-New media rarely replaces the old. Television didn't kill movies. Movies didn't kill live theatre. (Think theatre is dead? Try getting tickets to this weekend's "Hamilton".)
+New media rarely replaces the old. Television didn't kill movies. Movies didn't kill live theatre. (Think theatre is dead? Try getting tickets to "Hamilton" this weekend.)
 
 Legacy media is doing fine. <a href="http://fivethirtyeight.com/datalab/heres-how-americans-spend-their-working-relaxing-and-parenting-time/">FiveThirtyEight</a>: "Americans still spend more time watching TV than all other leisure activities combined." <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#js-chart-55574">Pew Research Center</a>: "51 percent of those who consume a newspaper read it exclusively in print." <a href="http://www.rasmussenreports.com/public_content/lifestyle/general_lifestyle/april_2012/66_prefer_reading_print_newspaper_to_online_version">Rasmussen Reports</a>: "Sixty-six percent (66%) of American Adults say they prefer reading a printed version of the newspaper." <a href="http://www.wan-ifra.org/press-releases/2015/06/01/world-press-trends-newspaper-revenues-shift-to-new-sources">World Association of Newspapers and News Publishers</a>: "Globally, more than 93 per cent of all newspaper revenues still come from print."
 
@@ -69,7 +69,7 @@ Digital media companies -- which have a fraction of old media's revenue and even
 <div><cite>&mdash;<a href="http://adage.com/article/media/private-equity-plowing-money-buzzfeed-vox/297034/">"Sizing Up VC-Backed Publishers' Prospects,"</a> Advertising Age</cite></div>
 </blockquote>
 
-New media companies don't make profit; they make pitch decks. Their cash from comes convincing investors in fairy-tale futures, <a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"Investor Storytime,"</a> in the words of Pinboard CEO Maciej Cegłowski:
+New media companies don't make profits; they make pitch decks. Their cash from comes convincing investors of fairy-tale futures, <a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"Investor Storytime,"</a> in the words of Pinboard CEO Maciej Cegłowski:
 
 <blockquote>
 <p>Investor storytime is when someone pays you to tell them how rich they'll get when you finally put ads on your site. [It's] is not exactly advertising, but it is related to advertising. Think of it as an advertising future, or perhaps the world's most targeted ad. Both business models involve persuasion. In one of them, you're asking millions of listeners to hand over a little bit of money. In the other, you're persuading one or two listeners to hand over millions of money.</p>
@@ -78,9 +78,9 @@ Let me be clear: Anything that removes dollars from of the pockets of venture ca
 <div><cite>&mdash;<a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"The Internet With A Human Face,"</a> Idle Words</cite></div>
 </blockquote>
 
-Newspapers are competing against companies that lose money. Yet everyone urges papers to do what these money-losers do.
+Newspapers are competing against companies that lose money. Yet everybody urges papers to do what these money-losers do.
 
-This is a pre-web phenomenon. When USA Today premiered in the early 80s, publishers panicked. Surely doom would befall those who didn't mimic their bolder colors and briefer articles. This turned out to be a false alarm: <a href="http://www.encyclopedia.com/topic/Gannett_Co._Inc.aspx">USA Today never had profitable year<a/>. 
+This is a pre-web phenomenon. When USA Today premiered in the early 80s, publishers panicked. Surely doom would befall those who didn't mimic their bolder colors and briefer articles. It turned out to be a false alarm: <a href="http://www.encyclopedia.com/topic/Gannett_Co._Inc.aspx">USA Today never had profitable year<a/>. 
 
 If someone insists news needs to be more social, more millennial, more [insert buzzword-du-jour here], say: Show me the <abbr title="Return on investment">ROI</abbr>.
 
@@ -89,7 +89,7 @@ The journalism industry has been <a href="http://scottberkun.com/2008/stop-sayin
 
 <blockquote>
 The prediction of the theory would be that Apple won't succeed with the iPhone. It's not [truly] disruptive. History speaks pretty loudly on that.
-<div><cite>&mdash;<a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice">"Clayton Christensen's Innovation Brain," (2007)</a> Bloomberg</cite></div>
+<div><cite>&mdash;<a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice">"Clayton Christensen's Innovation Brain,"</a> (2007) Bloomberg</cite></div>
 </blockquote>
 
 Want to see true disruption? Look at climate change or species extinction or these children scavenging in a landfill on fire:
@@ -99,9 +99,9 @@ Want to see true disruption? Look at climate change or species extinction or the
 
 That's what I see when I look at the online news industry, disruption everywhere:
 <ul>
-<li>A disrupted reader experience, obstructing and diverting the <a href="https://www.rjionline.org/stories/how-to-make-online-news-brain-friendly">reading path</a>.</li>
-<li>A disrupted news delivery system, with painfully slow page-loads and bloated, <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">malware-prone widgets</a>.</li>
-<li>A disrupted business model, letting social sites, cell phone providers and <a href="http://adcontrarian.blogspot.com/2016/10/agencies-profiting-from-online-ad-fraud.html">ad networks siphon their revenue</a>.</li>
+<li>A disrupted reader experience, obstructing and <a href="https://www.rjionline.org/stories/how-to-make-online-news-brain-friendly">diverting the reading path</a>.</li>
+<li>A disrupted news delivery system, with painfully slow page-loads and <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">bloated, malware-prone widgets</a>.</li>
+<li>A disrupted business model, letting social sites, cell phone providers and <a href="http://adcontrarian.blogspot.com/2016/10/agencies-profiting-from-online-ad-fraud.html">ad networks siphon away revenue</a>.</li>
 <li>A disrupted mission, chasing fads and Facebook likes instead of <a href="https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis?utm_term=.ipaQmQ5lG#.nypQdQxkw">checking facts and informing the public</a>.</li>
 </ul>
 
@@ -109,7 +109,7 @@ That's what I see when I look at the online news industry, disruption everywhere
 <p>If you look at feedback loops like likes and retweets, they’ve been very carefully crafted to maximise certain types of behaviours. But if we reward people based on a measurement system where there’s literally no difference between a one-second page view or reading something that brought them value or changed their mind, it’s like — your job is feeding people, but all you’re measuring is maximising calorie delivery.</p>
 
 We’re still stuck in some very naive thinking — it’s like, well, we put junk food in front of them and they ate that, so that must be what they want.
-<div><cite>&mdash;Ev Williams (founder, Medium and Twitter), <a href="https://www.theguardian.com/media/2016/apr/10/twitter-ev-williams-medium-content-fast-food">"We put junk food in front of them and they eat it,"</a> The Guardian</cite></div>
+<div><cite>&mdash;<a href="https://www.theguardian.com/media/2016/apr/10/twitter-ev-williams-medium-content-fast-food">"Medium and Twitter founder: 'We put junk food in front of them and they eat it',"</a> The Guardian</cite></div>
 </blockquote>
 
 Clickbaiting your way into artifically inflated audience metrics is a great way to burn a bunch of investor cash. If your goal is a sustainabile publication, though, then solid reporting, good writing and experienced editing has historically proven a safe bet. Give the people what they want, but also what they need.
