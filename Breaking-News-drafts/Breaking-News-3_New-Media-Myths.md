@@ -11,7 +11,7 @@ Below is the fiscal math that explodes the myths we in journalism believe.
 
 <h2>Myth: People won't pay for content</h2>
 
-The good news: Newspaper websites makes money, lots of money.
+The good news: Newspaper websites make money, lots of money.
 
 The bad news: News publishers don't get most of that money. It goes to cell phone carriers, ad-tech agencies, search and social sites.
 
@@ -21,7 +21,7 @@ That page has ads, for which the publisher gets a few pennies. But most of the a
 
 "There are so many different players taking a little cut here, a little cut there -- and sometimes a very big cut. A lot of the money that [advertisers] think they are giving to premium publishers is not actually getting to us."
 
-Google and Facebook also have their hands deep in newspapers' pocket. Their success depends on excerpting news articles. In 2015, this digital duopoly raked in <a href="https://www.bloomberg.com/news/articles/2016-04-22/google-and-facebook-lead-digital-ad-industry-to-revenue-record">64 percent $60 billion in online ad revenue</a>. 
+Google and Facebook also have their hands deep in the newspapers' pocket. Their success depends on excerpting news articles. In 2015, this digital duopoly raked in <a href="https://www.bloomberg.com/news/articles/2016-04-22/google-and-facebook-lead-digital-ad-industry-to-revenue-record">64 percent of $60 billion in online ad revenue</a>. 
 
 Newspapers, magazines and other publishers are <a href="https://www.theguardian.com/media/2016/apr/29/publishers-facebook-bloomberg-media-justin-smith-ads">"feeding on [Facebook's] scraps,"</a> says Bloomberg Media's Justin Smith. "They keep the $16bn to $18bn they get in the news feed, and the news feed, with personal sharing down, is effectively just an aggregation of premium publishers' content."
 
@@ -37,11 +37,11 @@ The decline in both the <a href="http://www.journalism.org/numbers/number-of-u-s
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/circulation-1950‐2010.png?raw=true" alt="Chart: Newspaper circulation 1950-2010" />
 <em>Source: <a href="http://media-cmi.com/downloads/Sixty_Years_Daily_Newspaper_Circulation_Trends_050611.pdf">"Sixty Years of Daily Newspaper Circulation Trends"</a> (PDF), Communications Management Inc.</em> 
 
-<a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">Circulation</a> and <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#economics">advertising revenue</a> bottomed out in 2009, and have upticked since then, coincident with the growth of social sites. So don't blame the interwebs or social media for ailments in the news biz.
+<a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#audience">Circulation</a> and <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#economics">advertising revenue</a> bottomed out in 2009, and have upticked since then, concurrent with the growth of social sites. So don't blame the interwebs or social media for the ailments in the news biz.
 
 New media rarely replaces the old. Television didn't kill movies. Movies didn't kill live theatre. (Think theatre is dead? Try getting tickets to this weekend's "Hamilton".)
 
-Legacy media is doing fine. <a href="http://fivethirtyeight.com/datalab/heres-how-americans-spend-their-working-relaxing-and-parenting-time/">FiveThirtyEight</a>: "Americans still spend more time watching TV than all other leisure activities combined." <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#js-chart-55574">Pew Research Center</a>: "51 percent of those who consume a newspaper read it exclusively in print". <a href="http://www.rasmussenreports.com/public_content/lifestyle/general_lifestyle/april_2012/66_prefer_reading_print_newspaper_to_online_version">Rasmussen Reports</a>: "Sixty-six percent (66%) of American Adults say they prefer reading a printed version of the newspaper." <a href="http://www.wan-ifra.org/press-releases/2015/06/01/world-press-trends-newspaper-revenues-shift-to-new-sources">World Association of Newspapers and News Publishers</a>: "Globally, more than 93 per cent of all newspaper revenues still come from print."
+Legacy media is doing fine. <a href="http://fivethirtyeight.com/datalab/heres-how-americans-spend-their-working-relaxing-and-parenting-time/">FiveThirtyEight</a>: "Americans still spend more time watching TV than all other leisure activities combined." <a href="http://www.journalism.org/2016/06/15/newspapers-fact-sheet/#js-chart-55574">Pew Research Center</a>: "51 percent of those who consume a newspaper read it exclusively in print." <a href="http://www.rasmussenreports.com/public_content/lifestyle/general_lifestyle/april_2012/66_prefer_reading_print_newspaper_to_online_version">Rasmussen Reports</a>: "Sixty-six percent (66%) of American Adults say they prefer reading a printed version of the newspaper." <a href="http://www.wan-ifra.org/press-releases/2015/06/01/world-press-trends-newspaper-revenues-shift-to-new-sources">World Association of Newspapers and News Publishers</a>: "Globally, more than 93 per cent of all newspaper revenues still come from print."
 
 <blockquote>
 Results indicated that the (supposedly dying) print product still reaches far more readers than the (supposedly promising) digital product in these newspapers’ home markets, and this holds true across all age groups.
@@ -66,7 +66,7 @@ These headlines tell the story:
 
 <blockquote>
 Digital media companies -- which have a fraction of old media's revenue and even less of their profits -- are awash in investor cash.
-<div><cite>&mdash;Author, <a href="http://adage.com/article/media/private-equity-plowing-money-buzzfeed-vox/297034/">"Sizing Up VC-Backed Publishers' Prospects,"</a> Advertising Age</cite></div>
+<div><cite>&mdash;<a href="http://adage.com/article/media/private-equity-plowing-money-buzzfeed-vox/297034/">"Sizing Up VC-Backed Publishers' Prospects,"</a> Advertising Age</cite></div>
 </blockquote>
 
 New media companies don't make profit; they make pitch decks. Their cash from comes convincing investors in fairy-tale futures, <a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"Investor Storytime,"</a> in the words of Pinboard CEO Maciej Cegłowski:
@@ -78,9 +78,9 @@ Let me be clear: Anything that removes dollars from of the pockets of venture ca
 <div><cite>&mdash;<a href="http://idlewords.com/talks/internet_with_a_human_face.htm">"The Internet With A Human Face,"</a> Idle Words</cite></div>
 </blockquote>
 
-Newspapers are competing against companies that lose money. Yet media pundits urge papers to do what these money-losers do.
+Newspapers are competing against companies that lose money. Yet everyone urges papers to do what these money-losers do.
 
-This is a pre-web phenomenon. When USA Today premiered in the early 80s, publishers panicked. Surely doom would befall those who didn't mimic their bolder colors and briefer articles. Turned out to be a false alarm: <a href="http://www.encyclopedia.com/topic/Gannett_Co._Inc.aspx">USA Today never had profitable year<a/>. 
+This is a pre-web phenomenon. When USA Today premiered in the early 80s, publishers panicked. Surely doom would befall those who didn't mimic their bolder colors and briefer articles. This turned out to be a false alarm: <a href="http://www.encyclopedia.com/topic/Gannett_Co._Inc.aspx">USA Today never had profitable year<a/>. 
 
 If someone insists news needs to be more social, more millennial, more [insert buzzword-du-jour here], say: Show me the <abbr title="Return on investment">ROI</abbr>.
 
@@ -101,8 +101,8 @@ That's what I see when I look at the online news industry, disruption everywhere
 <ul>
 <li>A disrupted reader experience, obstructing and diverting the <a href="https://www.rjionline.org/stories/how-to-make-online-news-brain-friendly">reading path</a>.</li>
 <li>A disrupted news delivery system, with painfully slow page-loads and bloated, <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">malware-prone widgets</a>.</li>
-<li>A disrupted business model, letting social sites, cell phone providers and ad agencies siphon its revenue.</li>
-<li>A disrupted mission, chasing fads and Facebook likes instead of checking facts and informing the public.</li>
+<li>A disrupted business model, letting social sites, cell phone providers and <a href="http://adcontrarian.blogspot.com/2016/10/agencies-profiting-from-online-ad-fraud.html">ad networks siphon their revenue</a>.</li>
+<li>A disrupted mission, chasing fads and Facebook likes instead of <a href="https://firstdraftnews.com/category/verification/">checking facts and informing the public</a>.</li>
 </ul>
 
 <blockquote>
@@ -112,7 +112,7 @@ We’re still stuck in some very naive thinking — it’s like, well, we put ju
 <div><cite>&mdash;Ev Williams (founder, Medium and Twitter), <a href="https://www.theguardian.com/media/2016/apr/10/twitter-ev-williams-medium-content-fast-food">"We put junk food in front of them and they eat it,"</a> The Guardian</cite></div>
 </blockquote>
 
-Clickbaiting your way into artifically inflated audience metrics is a great way to burn a bunch of investor cash. If your goal is a sustainabile publication, thouhg, then solid reporting, good writing and experienced editing has historically proven a safe bet. Give the people what they want, but also what they need.
+Clickbaiting your way into artifically inflated audience metrics is a great way to burn a bunch of investor cash. If your goal is a sustainabile publication, though, then solid reporting, good writing and experienced editing has historically proven a safe bet. Give the people what they want, but also what they need.
 
 <blockquote>
 <p>What if, in the mad dash two decades ago to repurpose and extend editorial content onto the Web, editors and publishers made a colossal business blunder that wasted hundreds of millions of dollars? What if the industry should have stuck with its strengths—the print editions where the vast majority of their readers still reside and where the overwhelming majority of advertising and subscription revenue come from—instead of chasing the online chimera?</p>
