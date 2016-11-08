@@ -112,7 +112,7 @@ We’re still stuck in some very naive thinking — it’s like, well, we put ju
 <div><cite>&mdash;<a href="https://www.theguardian.com/media/2016/apr/10/twitter-ev-williams-medium-content-fast-food">"Medium and Twitter founder: 'We put junk food in front of them and they eat it',"</a> The Guardian</cite></div>
 </blockquote>
 
-Clickbaiting your way into artifically inflated audience metrics is a great way to burn a bunch of investor cash. If your goal is a sustainabile publication, though, then solid reporting, good writing and experienced editing has historically proven a safe bet. Give the people what they want, but also what they need.
+Clickbaiting your way into artificially inflated audience metrics is a great way to burn a bunch of investor cash. If your goal is a sustainable publication, though, then solid reporting, good writing and experienced editing has historically proven a safe bet. Give the people what they want, but also what they need.
 
 <blockquote>
 <p>What if, in the mad dash two decades ago to repurpose and extend editorial content onto the Web, editors and publishers made a colossal business blunder that wasted hundreds of millions of dollars? What if the industry should have stuck with its strengths—the print editions where the vast majority of their readers still reside and where the overwhelming majority of advertising and subscription revenue come from—instead of chasing the online chimera?</p>
