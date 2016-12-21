@@ -41,7 +41,7 @@ Things to ask yourself before you share a claim
 * Could this be something else?
 —Alex Murray, Social News and UGC Hub, BBC News
 
-Don’t get tricked: Checks on fake news that anyone can do
+Don’t get tricked: Checks on fake news that anyone can do  
 https://firstdraftnews.com/dont-get-tricked-this-election-checks-on-fake-news-that-anyone-can-do/
 * Reverse image search
 * Fake news sites
@@ -64,6 +64,6 @@ https://www.buzzfeed.com/craigsilverman/fake-news-checkllist-2
 * The story has links, but they don’t go to credible sources you’re familiar with, or they take you to homepages rather than specific articles.
 * There are no other stories about this same story/claim in Google News.
 * The URL pretends to be a real news site, like ABCNews.com.co.
-* You Google the URL and get a result from Snopes.com that was false.
+* You Google the URL and get a result from Snopes.com that was false.  
 —Craig Silverman, BuzzFeed News Media Editor  
 https://www.buzzfeed.com/craigsilverman?language=en
