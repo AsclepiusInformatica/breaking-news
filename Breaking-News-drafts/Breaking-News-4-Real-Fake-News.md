@@ -1,12 +1,12 @@
 7 ways to spot fake news stories (2016-11-15)
 http://college.usatoday.com/2016/11/15/7-ways-to-spot-fake-news-stories/
-* CHECK THE DATE
-* CHECK THE SOURCE AGAINST ITSELF
-* LOOK CLOSELY AT THE WEBSITE
-* VERIFY WITH FACT-CHECKING SITES
-* CHECK THE SOURCE AGAINST OTHER SOURCES
-* USE REVERSE IMAGE SEARCH
-* BEWARE OF EXTRAVAGANCE  
+* 1. CHECK THE DATE
+* 2. CHECK THE SOURCE AGAINST ITSELF
+* 3. LOOK CLOSELY AT THE WEBSITE
+* 4. VERIFY WITH FACT-CHECKING SITES
+* 5. CHECK THE SOURCE AGAINST OTHER SOURCES
+* 6. USE REVERSE IMAGE SEARCH
+* 7. BEWARE OF EXTRAVAGANCE  
 —Jillian Vandiveer is a Brooklyn College student and a USA TODAY College digital producer.
 
 Fake Or Real? How To Self-Check The News And Get The Facts (2016-12-05)
@@ -65,5 +65,17 @@ https://www.buzzfeed.com/craigsilverman/fake-news-checkllist-2
 * There are no other stories about this same story/claim in Google News.
 * The URL pretends to be a real news site, like ABCNews.com.co.
 * You Google the URL and get a result from Snopes.com that was false.  
+—Craig Silverman, BuzzFeed News Media Editor  
+https://www.buzzfeed.com/craigsilverman?language=en
+
+6 Easy AF Steps To Detect Fake News Like A Pro   
+https://www.buzzfeed.com/craigsilverman/detect-fake-news-like-a-pro-1  
+https://www.buzzfeed.com/craigsilverman/detect-fake-news-like-a-pro-2
+* 1. Check the URL. Where is this story from?
+* 2. Read the About page. Are they clear about who is running the site, and do they say anything about it being satirical or full of fake news?
+* 3. If the story has a quote from someone prominent, or from an official such as a police officer, copy and paste it into a search engine.
+* 4. Click on links in the story, and beware of a lack of links or recognizable sources.
+* 5. Do a reverse image search on photos or other art in the story.
+* 6. If the story seems too perfect, too good to be true, or gives you a strong emotional reaction, slow down for a moment.  
 —Craig Silverman, BuzzFeed News Media Editor  
 https://www.buzzfeed.com/craigsilverman?language=en
