@@ -28,11 +28,11 @@ http://www.theverge.com/2016/12/6/13850230/fake-news-sites-google-search-faceboo
 * REPETITION  
 —Melissa Zimdars, professor of communications at Merrimack College
 
-How to spot a fake US election claim (2016-11-02)
-http://www.bbc.com/news/world-us-canada-37848350
-How to report fake news to social media (2016-11-22)
-http://www.bbc.com/news/38053324?ocid=socialflow_facebook&ns_mchannel=social&ns_campaign=bbcnews&ns_source=facebook
-Things to ask yourself before you share a claim
+How to spot a fake US election claim (2016-11-02)  
+http://www.bbc.com/news/world-us-canada-37848350  
+How to report fake news to social media (2016-11-22)  
+http://www.bbc.com/news/38053324?ocid=socialflow_facebook&ns_mchannel=social&ns_campaign=bbcnews&ns_source=facebook  
+Things to ask yourself before you share a claim  
 * Have I heard of the publisher before?
 * Is this the source I think it is, or does it sound a bit like them?
 * Can I point to where this happened on a map?
@@ -52,7 +52,7 @@ https://firstdraftnews.com/articulate/obsc/story.html
 Flash???
 
 
-Use This Checklist To Find Out If You’re Looking At Fake News
+Use This Checklist To Find Out If You’re Looking At Fake News  
 https://www.buzzfeed.com/craigsilverman/fake-news-checkllist-1  
 https://www.buzzfeed.com/craigsilverman/fake-news-checkllist-2  
 * The headline uses ALL CAPS
@@ -65,5 +65,5 @@ https://www.buzzfeed.com/craigsilverman/fake-news-checkllist-2
 * There are no other stories about this same story/claim in Google News.
 * The URL pretends to be a real news site, like ABCNews.com.co.
 * You Google the URL and get a result from Snopes.com that was false.
-—Craig Silverman, BuzzFeed News Media Editor 
+—Craig Silverman, BuzzFeed News Media Editor  
 https://www.buzzfeed.com/craigsilverman?language=en
