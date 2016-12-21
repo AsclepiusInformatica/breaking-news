@@ -40,3 +40,12 @@ Things to ask yourself before you share a claim
 * Is there more than one piece of evidence for this claim?
 * Could this be something else?
 —Alex Murray, Social News and UGC Hub, BBC News
+
+Don’t get tricked: Checks on fake news that anyone can do
+https://firstdraftnews.com/dont-get-tricked-this-election-checks-on-fake-news-that-anyone-can-do/
+* Reverse image search
+* Fake news sites
+* Search for people and names
+https://firstdraftnews.com/resources/category/verification/
+https://firstdraftnews.com/articulate/obsc/story.html
+Flash???
