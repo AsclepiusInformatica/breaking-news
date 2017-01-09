@@ -73,10 +73,3 @@ https://github.com/hearvox/breaking-news/blob/master/Breaking-News-research/news
 Quote
 <div><cite>&mdash;<a href="">"Author,"</a> Pub (YYYY)</cite></div>
 </blockquote>
-
-Americans Believe Media Is the Most Unethical Industry
-http://www.vanityfair.com/news/photos/2016/11/americans-believe-media-is-the-most-unethical-industry
-
-<img src="https://github.com/hearvox/breaking-news/blob/master/assets/Gallup-trust-mass-media-crop.png?raw=true" alt="Gallup 2016 chart:  32% of Americans trust in mass media" />
-<em>Source: <a href="http://www.gallup.com/poll/195542/americans-trust-mass-media-sinks-new-low.aspx">"Americans' Trust in Mass Media Sinks to New Low"</a> Gallup</em> 
-
