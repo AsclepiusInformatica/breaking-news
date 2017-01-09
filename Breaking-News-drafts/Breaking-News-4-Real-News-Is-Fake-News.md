@@ -16,8 +16,6 @@ Real news in several ways is often the same as fake news. For both:
 	<li>Publishers profit from criminal ad-tech schemes. </li>
 </ul>
 
-Advice to mainstream media: To fight fake news, stop being like fake news. Stop funding and promoting it. Stop looking like it and stop reading like it.
-
 <blockquote>
 The man who never looks into a newspaper is better informed than he who reads them; inasmuch as he who knows nothing is nearer to truth than he whose mind is filled with falsehoods &amp; errors.
 <div><cite>&mdash;<a href="http://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html">Thomas Jefferson</a> (2007)</cite></div>
@@ -33,7 +31,7 @@ People once trusted the media. In Gallup surveys, "Americans' trust and confiden
 
 A <a href="http://www.cbsnews.com/news/60-minutes-vanity-fair-poll-modern-workplace/">60 Minutes/Vanity Fair poll</a> asked: "Which industry is the most unethical?" People's "top choice" was Media (37 percent), beating out such paragons of virtue as Big Pharma (30 percent) and bankers (19 percent).
 
-Maybe Americans don't trust the mainstream media (MSM) because it's not trustworthy.   
+Maybe Americans don't trust mainstream media because it's not trustworthy.   
 
 <blockquote>
 More than 60% of local news and news feature stories in a cross-section of American daily newspapers were found in error by news sources, an inaccuracy rate among the highest reported in nearly seventy years of research, and empirical evidence corroborating the public's impression that mistakes pervade the press. In about every other article, sources identified "hard" objective errors.
@@ -47,9 +45,9 @@ News errors rarely are corrected. In a study I did of factual errors reported to
 <div><cite>&mdash;Scott R. Maier, <a href="http://niemanreports.org/articles/confessing-errors-in-a-digital-age/">"Confessing Errors in a Digital Age"</a> (2009)</cite></div>
 </blockquote>
 
+Her's the main piece of advice this artcile has to offer mainstream media: To fight fake news, stop being like fake news. Stop funding and promoting it. Stop looking like it and stop reading like it.
 
-
-
+<h2>Real news funds fake news</h2>
 
 
 
@@ -57,7 +55,7 @@ News errors rarely are corrected. In a study I did of factual errors reported to
 <hr />
 *Notes:*
 
-The Media Insights project also reports many "digital news consumers believe it is vital ads not interfere" with the stories. Yet	63%
+The above-mentioned Media Insights project also reports many "digital news consumers believe it is vital ads not interfere" with the stories. Yet	63%
 
 RJI color: #006a84
 
