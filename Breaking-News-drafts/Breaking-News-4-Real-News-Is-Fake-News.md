@@ -26,7 +26,7 @@ The man who never looks into a newspaper is better informed than he who reads th
 <figcaption><em>Source: <a href="http://www.gallup.com/poll/195542/americans-trust-mass-media-sinks-new-low.aspx">"Americans' Trust in Mass Media Sinks to New Low"</a> Gallup (2016)</em></figcaption>
 </figure>
 
-People once trusted the media, In Gallup survayes, "Americans' trust and confidence hit its highest point in 1976, at 72 percent, in the wake of widely lauded examples of investigative journalism regarding Vietnam and the Watergate scandal." But our faith in the media "to report the news fully, accurately and fairly" has been plummeting for decades. 
+People once trusted the media. In Gallup surveys, "Americans' trust and confidence hit its highest point in 1976, at 72 percent, in the wake of widely lauded examples of investigative journalism regarding Vietnam and the Watergate scandal." But our faith in the media "to report the news fully, accurately and fairly" has been plummeting for decades. 
 
 A <a href="http://www.cbsnews.com/news/60-minutes-vanity-fair-poll-modern-workplace/">60 Minutes/Vanity Fair poll</a> asked: "Which industry is the most unethical?" People's "top choice" was Media (37 percent), beating out such paragons of virtue as Big Pharma (30 percent) and bankers (19 percent).
 
@@ -41,7 +41,7 @@ People told the <a href="https://www.americanpressinstitute.org/publications/rep
 
 <blockquote>
 News errors rarely are corrected. In a study I did of factual errors reported to 10 daily newspapers, I found that nearly all -- 97 percent -- went uncorrected. Nevertheless, survey research indicates the majority of U.S. newspaper editors and reporters believe that a correction "always" follows a detected error. This level of faith is not widely shared by newspaper readers.
-<div><cite>&mdash;Scott R. Maier, <a href="http://niemanreports.org/articles/confessing-errors-in-a-digital-age/">"onfessing Errors in a Digital Age"</a> (2009)</cite></div>
+<div><cite>&mdash;Scott R. Maier, <a href="http://niemanreports.org/articles/confessing-errors-in-a-digital-age/">"Confessing Errors in a Digital Age"</a> (2009)</cite></div>
 </blockquote>
 
 
