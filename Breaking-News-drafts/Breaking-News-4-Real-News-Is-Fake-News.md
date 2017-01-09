@@ -21,10 +21,27 @@ The man who never looks into a newspaper is better informed than he who reads th
 <div><cite>&mdash;<a href="http://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html">Thomas Jefferson</a> (2007)</cite></div>
 </blockquote>
 
-Maybe Americans don't trust the media because it's not trustworthy.
-___
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/Gallup-trust-mass-media-crop.png?raw=true" alt="Gallup 2016 chart:  32% of Americans trust in mass media" />
+<em>Source: <a href="http://www.gallup.com/poll/195542/americans-trust-mass-media-sinks-new-low.aspx">"Americans' Trust in Mass Media Sinks to New Low"</a> Gallup</em>
+
+Americans once trusted the media. Gallup asks peopple about this annually: &ldquo;Americans' trust and confidence hit its highest point in 1976, at 72%, in the wake of widely lauded examples of investigative journalism regarding Vietnam and the Watergate scandal.&rdquo;
+
+which of these industries engage in the greatest amount of unethical behavior
+
+Are certain industries more corrupt than others in today8s economyD When asked on average which one of four industries engaged in the greatest among of unethical behavior, 37% pick the media "the top choice" over such paragons of virtue like Big Pharma (30 percent) and bankers (19 percent).
+Which industry is the most unethical,
+
+60 Minutes/Vanity Fair poll
+
+http://www.cbsnews.com/news/60-minutes-vanity-fair-poll-modern-workplace/
+
+Maybe Americans don't trust the media because it's not trustworthy. 
+
+CBS News by SSRS of Media
+<hr />
 *Notes:*
 
+RJI color: #006a84
 
 https://github.com/hearvox/breaking-news/blob/master/Breaking-News-research/news-verification-checklists.md
 
@@ -33,6 +50,9 @@ Quote
 <div><cite>&mdash;<a href="">"Author,"</a> Pub (YYYY)</cite></div>
 </blockquote>
 
-<img src="https://github.com/hearvox/breaking-news/blob/master/assets/circulation-1950‐2010.png?raw=true" alt="Alttext" />
-<em>Source: <a href="http://media-cmi.com/downloads/Sixty_Years_Daily_Newspaper_Circulation_Trends_050611.pdf">"Title"</a> (PDF), Org</em> 
+Americans Believe Media Is the Most Unethical Industry
+http://www.vanityfair.com/news/photos/2016/11/americans-believe-media-is-the-most-unethical-industry
+
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/Gallup-trust-mass-media-crop.png?raw=true" alt="Gallup 2016 chart:  32% of Americans trust in mass media" />
+<em>Source: <a href="http://www.gallup.com/poll/195542/americans-trust-mass-media-sinks-new-low.aspx">"Americans' Trust in Mass Media Sinks to New Low"</a> Gallup</em> 
 
