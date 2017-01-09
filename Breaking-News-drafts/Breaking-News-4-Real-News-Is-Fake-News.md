@@ -27,6 +27,7 @@ The man who never looks into a newspaper is better informed than he who reads th
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Gallup-trust-mass-media-crop.png?raw=true" alt="Gallup 2016 chart:  32% of Americans trust in mass media" />
 <figcaption><em>Source: <a href="http://www.gallup.com/poll/195542/americans-trust-mass-media-sinks-new-low.aspx">"Americans' Trust in Mass Media Sinks to New Low"</a> Gallup (2016)</em></figcaption>
 </figure>
+<p>&nbsp;</p>
 
 People once trusted the media. In Gallup surveys, "Americans' trust and confidence hit its highest point in 1976, at 72 percent, in the wake of widely lauded examples of investigative journalism regarding Vietnam and the Watergate scandal." But our faith in the media "to report the news fully, accurately and fairly" has been plummeting for decades. 
 
