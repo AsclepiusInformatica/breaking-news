@@ -21,8 +21,10 @@ The man who never looks into a newspaper is better informed than he who reads th
 <div><cite>&mdash;<a href="http://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html">Thomas Jefferson</a> (2007)</cite></div>
 </blockquote>
 
+<figure style="text-align: center; width: 600px;">
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/Gallup-trust-mass-media-crop.png?raw=true" alt="Gallup 2016 chart:  32% of Americans trust in mass media" />
-<em>Source: <a href="http://www.gallup.com/poll/195542/americans-trust-mass-media-sinks-new-low.aspx">"Americans' Trust in Mass Media Sinks to New Low"</a> Gallup</em>
+<figcaption><em>Source: <a href="http://www.gallup.com/poll/195542/americans-trust-mass-media-sinks-new-low.aspx">"Americans' Trust in Mass Media Sinks to New Low"</a> Gallup</em></figcaption>
+</figure>
 
 Americans once trusted the media. Gallup asks peopple about this annually: &ldquo;Americans' trust and confidence hit its highest point in 1976, at 72%, in the wake of widely lauded examples of investigative journalism regarding Vietnam and the Watergate scandal.&rdquo;
 
