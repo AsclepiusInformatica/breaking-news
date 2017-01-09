@@ -48,12 +48,20 @@ News errors rarely are corrected. In a study I did of factual errors reported to
 Her's the main piece of advice this artcile has to offer mainstream media: To fight fake news, stop being like fake news. Stop funding and promoting it. Stop looking like it and stop reading like it.
 
 <h2>Real news funds fake news</h2>
+Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>, which depends on legitimate news sites being revenue-desparate enough to ignore <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">ad-tech's often-illegitimate practices</a> -- practices on track to become <a href="http://adcontrarian.blogspot.com/2016/12/huge-video-ad-fraud-uncovered.html">the second most-profitable criminal enterprise</a>.
 
-
+<figure style="margin: auto; width: 600px;">
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/HP-business-of-hacking-crop.png?raw=true" alt="Gallup 2016 chart:  32% of Americans trust in mass media" />
+<figcaption><em>Source: <a href="http://www8.hp.com/us/en/software-solutions/hacking-report/">"The Business of Hacking"</a> Hewlett Packard (2016)</em></figcaption>
+</figure>
+<p>&nbsp;</p>
 
 
 <hr />
 *Notes:*
+
+http://www8.hp.com/us/en/software-solutions/hacking-report/
+
 
 The above-mentioned Media Insights project also reports many "digital news consumers believe it is vital ads not interfere" with the stories. Yet	63%
 
