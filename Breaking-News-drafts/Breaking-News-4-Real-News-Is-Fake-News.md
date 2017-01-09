@@ -30,40 +30,32 @@ People once trusted the media, In Gallup survayes, "Americans' trust and confide
 
 A <a href="http://www.cbsnews.com/news/60-minutes-vanity-fair-poll-modern-workplace/">60 Minutes/Vanity Fair poll</a> asked: "Which industry is the most unethical?" People's "top choice" was Media (37 percent), beating out such paragons of virtue as Big Pharma (30 percent) and bankers (19 percent).
 
-Maybe Americans don't trust the mainstream media (MSM) because it's not trustworthy. 
+Maybe Americans don't trust the mainstream media (MSM) because it's not trustworthy.   
 
 <blockquote>
 More than 60% of local news and news feature stories in a cross-section of American daily newspapers were found in error by news sources, an inaccuracy rate among the highest reported in nearly seventy years of research, and empirical evidence corroborating the public's impression that mistakes pervade the press. In about every other article, sources identified "hard" objective errors.
-<div><cite>&mdash;Scott R. Maier, <a href="https://www.researchgate.net/publication/241655705_Accuracy_Matters_A_Cross-Market_Assessment_of_Newspaper_Error_and_Credibility">"Accuracy Matters: A Cross-Market Assessment of Newspaper Error and Credibility,"</a> (PDF, 2005)</cite></div>
+<div><cite>&mdash;Scott R. Maier, <a href="https://www.researchgate.net/publication/241655705_Accuracy_Matters_A_Cross-Market_Assessment_of_Newspaper_Error_and_Credibility">"Accuracy Matters: A Cross-Market Assessment of Newspaper Error and Credibility"</a> (PDF, 2005)</cite></div>
 </blockquote>
 
-And when readers report these arrors, th
+People told the <a href="https://www.americanpressinstitute.org/publications/reports/survey-research/trust-news/">Media Insight Project</a> "accuracy is a critical reason they trust a news source." But <a href="https://www.poynter.org/2012/new-study-shows-how-newspaper-inaccuracies-transcend-journalism-cultures-national-borders/176273/">studies by Scott Maier</a>, of the University of Oregon (Go, Ducks!), show accuracy is not the media's strong suite. And when readers report these errors, editors stuck to their inaccurate stories.
 
-Scott Maier, of the University of Oregon (Go, Ducks!),  is the m news accuracy studies also  
-
+<blockquote>
 News errors rarely are corrected. In a study I did of factual errors reported to 10 daily newspapers, I found that nearly all -- 97 percent -- went uncorrected. Nevertheless, survey research indicates the majority of U.S. newspaper editors and reporters believe that a correction "always" follows a detected error. This level of faith is not widely shared by newspaper readers.
-http://niemanreports.org/articles/confessing-errors-in-a-digital-age/
-
-https://www.researchgate.net/profile/Scott_Maier/publication/232939261_SETTING_THE_RECORD_STRAIGHT/links/004635350035412928000000.pdf
-
-
-https://www.poynter.org/2012/new-study-shows-how-newspaper-inaccuracies-transcend-journalism-cultures-national-borders/176273/
-
-News Accuracy in Switzerland and Italy
-http://openaccess.city.ac.uk/3490/
-
-https://www.americanpressinstitute.org/publications/reports/survey-research/trust-news/
-
-A new understanding: What makes people trust and rely on news, Media Insight Project — a
-Adults who say accuracy is a critical reason they trust a news source	85%
+<div><cite>&mdash;Scott R. Maier, <a href="http://niemanreports.org/articles/confessing-errors-in-a-digital-age/">"onfessing Errors in a Digital Age"</a> (2009)</cite></div>
+</blockquote>
 
 
-Digital news consumers who believe it is vital ads not interfere	63%
+
+
+
+
 
 Advice to mainstream media: To fight fake news, stop being like fake news. Stop funding it. Stop promoting it. Stop looking like it. Stop reading like it.
 
 <hr />
 *Notes:*
+
+The Media Insights project also reports many "digital news consumers believe it is vital ads not interfere" with the stories. Yet	63%
 
 RJI color: #006a84
 
