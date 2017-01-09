@@ -16,6 +16,8 @@ Real news in several ways is often the same as fake news. For both:
 	<li>Publishers profit from criminal ad-tech schemes. </li>
 </ul>
 
+Advice to mainstream media: To fight fake news, stop being like fake news. Stop funding and promoting it. Stop looking like it and stop reading like it.
+
 <blockquote>
 The man who never looks into a newspaper is better informed than he who reads them; inasmuch as he who knows nothing is nearer to truth than he whose mind is filled with falsehoods &amp; errors.
 <div><cite>&mdash;<a href="http://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html">Thomas Jefferson</a> (2007)</cite></div>
@@ -50,7 +52,6 @@ News errors rarely are corrected. In a study I did of factual errors reported to
 
 
 
-Advice to mainstream media: To fight fake news, stop being like fake news. Stop funding it. Stop promoting it. Stop looking like it. Stop reading like it.
 
 <hr />
 *Notes:*
