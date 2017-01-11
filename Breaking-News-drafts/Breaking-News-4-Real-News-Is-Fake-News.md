@@ -64,7 +64,7 @@ Fake new is now big business. Its business model depends on the <a href="https:/
 </figure>
 <br />
 
-News sites are complicit in creating the most-corrupt, <a href="http://adcontrarian.blogspot.com/2017/01/display-ads-my-3-worth.html">least-effective advertising</a> in history, spawning numerous malignancies, including a thriving fake news business.
+News sites are complicit in creating the most-corrupt, <a href="http://adcontrarian.blogspot.com/2017/01/display-ads-my-3-worth.html">least-effective advertising</a> in history, spawning numerous online malignancies, including a thriving fake news business.
 
 <h2>Real news promotes fake news</h2>
 
