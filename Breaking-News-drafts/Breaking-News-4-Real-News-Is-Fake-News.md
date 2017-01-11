@@ -1,21 +1,19 @@
 <em>[Draft of article, part 3 in series (parts: <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">1</a> | <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">2</a>) | <a href=" https://www.rjionline.org/stories/breaking-news-3-new-media-myths">3</a>)]</em>
 _____________________
 
-<h1>Breaking News 4: Real News is Fake News</h1>
-
 <h1>Breaking News 4: When Real News is Fake</h1>
 
-<em><strong>Breaking News</strong> is about the self-inflicted fractures breaking the news business. Previous posts were on <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">on malvertising</a> and the <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>ad tech tax</a>.</em>
+<em><strong>Breaking News</strong> is about the self-inflicted wounds crippling the news business. Previous posts were on <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">on malvertising</a>, the <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>ad tech tax</a> and <a href=" https://www.rjionline.org/stories/breaking-news-3-new-media-myths">new media myths</a>.</em>
 
-Real news in several ways is often the same as fake news. For both:
+Here are in several ways real news and fake news are the same. In both:
 <ul>
+	<li>Most people do not trust the publication.</li>
 	<li>No one formally fact-checks the articles.</li>
 	<li>The articles are full of errors.</li>
 	<li>Reported errors rarely get corrected.</li>
-	<li>Most people do not trust the publication.</li>
-	<li>Bogus information surrounds their stories (in comments and chumboxes).</li>
 	<li>Distracting, annoying ads cover their pages.</li>
-	<li>Publishers profit from criminal ad-tech schemes. </li>
+	<li>Bogus information surrounds their stories (in comments and chumboxes).</li>
+	<li>Publishers profit from criminal ad-tech schemes.</li>
 </ul>
 
 <blockquote>
