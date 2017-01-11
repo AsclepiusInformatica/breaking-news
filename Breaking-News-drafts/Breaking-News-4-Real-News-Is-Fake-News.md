@@ -48,14 +48,14 @@ More than 60% of local news and news feature stories in a cross-section of Ameri
 People told the <a href="https://www.americanpressinstitute.org/publications/reports/survey-research/trust-news/">Media Insight Project</a> "accuracy is a critical reason they trust a news source." But <a href="https://www.poynter.org/2012/new-study-shows-how-newspaper-inaccuracies-transcend-journalism-cultures-national-borders/176273/">studies by Scott Maier</a>, of the University of Oregon (Go, Ducks!), show accuracy is not the media's strong suite. And when readers report these errors, editors stuck to their inaccurate stories.
 
 <blockquote>
-News errors rarely are corrected. In a study I did of factual errors reported to 10 daily newspapers, I found that nearly all -- 97 percent -- went uncorrected. Nevertheless, survey research indicates the majority of U.S. newspaper editors and reporters believe that a correction "always" follows a detected error. This level of faith is not widely shared by newspaper readers.
+News errors rarely are corrected. In a study I did of factual errors reported to 10 daily newspapers, I found that nearly all &mdash; 97 percent &mdash; went uncorrected. Nevertheless, survey research indicates the majority of U.S. newspaper editors and reporters believe that a correction "always" follows a detected error. This level of faith is not widely shared by newspaper readers.
 <div><cite>&mdash;Scott R. Maier, <a href="http://niemanreports.org/articles/confessing-errors-in-a-digital-age/">"Confessing Errors in a Digital Age"</a> (2009)</cite></div>
 </blockquote>
 
 This article's main advice to MSM: To fight fake news, stop being like fake news. Stop looking like it. Stop reading like it. Stop promoting it. Stop funding it.
 
 <h2>Real news funds fake news</h2>
-Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>, which depends on legitimate news sites being revenue-desparate enough to ignore <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">ad-tech's often-illegitimate practices</a> -- practices which the (<a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Feeration of Advertisers</a> (PDF) says could become "second only to cocaine and opiate markets as a form of organised crime."
+Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>, which depends on legitimate news sites being revenue-desparate enough to ignore <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">ad-tech's often-illegitimate practices</a> &mdash; practices which the (<a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Federation of Advertisers</a> (PDF) says could become "second only to cocaine and opiate markets as a form of organized crime."
 
 <br />
 <figure style="margin: auto; width: 600px;">
