@@ -55,7 +55,7 @@ News errors rarely are corrected. In a study I did of factual errors reported to
 This article's main advice to MSM: To fight fake news, stop being like fake news. Stop looking like it. Stop reading like it. Stop promoting it. Stop funding it.
 
 <h2>Real news funds fake news</h2>
-Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>, which depends on legitimate news sites being revenue-desparate enough to ignore <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">ad-tech's often-illegitimate practices</a> &mdash; practices which the (<a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Federation of Advertisers</a> (PDF) says could become "second only to cocaine and opiate markets as a form of organized crime."
+Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>. Ad tech depends on legitimate news sites ignoring <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">often-illegitimate practices</a> &mdash; practices the <a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Federation of Advertisers</a> (PDF) says could become "second only to cocaine and opiate markets as a form of organized crime."
 
 <br />
 <figure style="margin: auto; width: 600px;">
@@ -64,7 +64,7 @@ Fake new is now big business. Its business model depends on the <a href="https:/
 </figure>
 <br />
 
-Mass media is complicit in turning ad tech into then most-corrupt, <a href="http://adcontrarian.blogspot.com/2017/01/display-ads-my-3-worth.html">least-effective advertising</a> in history, spawning many malignant byproducts, like a thriving fake news business.
+News sites are complicit in creating the most-corrupt, <a href="http://adcontrarian.blogspot.com/2017/01/display-ads-my-3-worth.html">least-effective advertising</a> in history, spawning numerous malignancies, including a thriving fake news business.
 
 <h2>Real news promotes fake news</h2>
 
