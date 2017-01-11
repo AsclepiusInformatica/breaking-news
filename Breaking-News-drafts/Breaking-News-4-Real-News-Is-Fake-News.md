@@ -3,7 +3,7 @@ _____________________
 
 <h1>Breaking News 4: When Real News is Fake</h1>
 
-<em><strong>Breaking News</strong> is about the self-inflicted wounds crippling the news business. Previous posts were on <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">on malvertising</a>, the <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>ad tech tax</a> and <a href=" https://www.rjionline.org/stories/breaking-news-3-new-media-myths">new media myths</a>.</em>
+<em><strong>Breaking News</strong> is about the self-inflicted wounds crippling the news business. Previous posts were on <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">on malvertising</a>, the <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>ad tech tax</a> and <a href="https://www.rjionline.org/stories/breaking-news-3-new-media-myths">new media myths</a>.</em>
 
 Here are in several ways real news and fake news are the same. In both:
 <ul>
