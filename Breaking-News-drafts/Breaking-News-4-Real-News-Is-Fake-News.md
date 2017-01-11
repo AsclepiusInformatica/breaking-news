@@ -31,7 +31,12 @@ People once trusted the media. In Gallup surveys, "Americans' trust and confiden
 
 A <a href="http://www.cbsnews.com/news/60-minutes-vanity-fair-poll-modern-workplace/">60 Minutes/Vanity Fair poll</a> asked: "Which industry is the most unethical?" People's "top choice" was Media (37 percent), beating out such paragons of virtue as Big Pharma (30 percent) and bankers (19 percent).
 
-Maybe Americans don't trust mainstream media because it's not trustworthy.   
+<figure style="margin: auto; width: 600px;">
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/Daily-Mail-corrections-crop.png?raw=true" alt="Daily Mail corrections spoof, by William Dilkes b3ta.com/board/10611738" />
+</figure>
+<p>&nbsp;</p>
+
+Why don't Americans don't trust mainstream media (MSM)? Maybe because it's not trustworthy.   
 
 <blockquote>
 More than 60% of local news and news feature stories in a cross-section of American daily newspapers were found in error by news sources, an inaccuracy rate among the highest reported in nearly seventy years of research, and empirical evidence corroborating the public's impression that mistakes pervade the press. In about every other article, sources identified "hard" objective errors.
@@ -45,10 +50,10 @@ News errors rarely are corrected. In a study I did of factual errors reported to
 <div><cite>&mdash;Scott R. Maier, <a href="http://niemanreports.org/articles/confessing-errors-in-a-digital-age/">"Confessing Errors in a Digital Age"</a> (2009)</cite></div>
 </blockquote>
 
-Her's the main piece of advice this artcile has to offer mainstream media: To fight fake news, stop being like fake news. Stop funding and promoting it. Stop looking like it and stop reading like it.
+This artcile's main advice for MSM: To fight fake news, stop being like fake news. Stop looking like it. Stop reading like it. Stop promoting it. Stop funding it.
 
 <h2>Real news funds fake news</h2>
-Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>, which depends on legitimate news sites being revenue-desparate enough to ignore <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">ad-tech's often-illegitimate practices</a> -- practices on track to become <a href="http://adcontrarian.blogspot.com/2016/12/huge-video-ad-fraud-uncovered.html">the second most-profitable criminal enterprise</a>.
+Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>, which depends on legitimate news sites being revenue-desparate enough to ignore <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">ad-tech's often-illegitimate practices</a> -- practices which the (<a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Feeration of Advertisers</a> (PDF) says could become "second only to cocaine and opiate markets as a form of organised crime."
 
 <figure style="margin: auto; width: 600px;">
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/HP-business-of-hacking-crop.png?raw=true" alt="Gallup 2016 chart:  32% of Americans trust in mass media" />
@@ -56,6 +61,9 @@ Fake new is now big business. Its business model depends on the <a href="https:/
 </figure>
 <p>&nbsp;</p>
 
+Mass media is complicit in turning ad tech into then most-corrupt, <a href="http://adcontrarian.blogspot.com/2017/01/display-ads-my-3-worth.html">least-effective advertising</a> in history, spawning many malignant byproducts, like a thriving fake news business.
+
+<h2>Real news promotes fake news</h2>
 
 <hr />
 *Notes:*
