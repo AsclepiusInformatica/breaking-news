@@ -28,7 +28,7 @@ The man who never looks into a newspaper is better informed than he who reads th
 </figure>
 <br />
 
-People once trusted the media. In Gallup surveys, "Americans' trust and confidence hit its highest point in 1976, at 72 percent, in the wake of widely lauded examples of investigative journalism regarding Vietnam and the Watergate scandal." But our faith in the mainstream media (MSM) "to report the news fully, accurately and fairly" has been plummeting for decades. 
+People once believed in the media. In Gallup surveys, "Americans' trust and confidence hit its highest point in 1976, at 72 percent, in the wake of widely lauded examples of investigative journalism regarding Vietnam and the Watergate scandal." But our faith in mainstream media (MSM) "to report the news fully, accurately and fairly" has been plummeting for decades. 
 
 A <a href="http://www.cbsnews.com/news/60-minutes-vanity-fair-poll-modern-workplace/">60 Minutes/Vanity Fair poll</a> asked: "Which industry is the most unethical?" People's "top choice" was Media (37 percent), beating out such paragons of virtue as Big Pharma (30 percent) and bankers (19 percent).
 
