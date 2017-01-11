@@ -71,16 +71,13 @@ News sites are complicit in creating the most-corrupt, <a href="http://adcontrar
 <hr />
 *Notes:*
 
-http://www8.hp.com/us/en/software-solutions/hacking-report/
-
-
-The above-mentioned Media Insights project also reports many "digital news consumers believe it is vital ads not interfere" with the stories. Yet	63%
-
-RJI color: #006a84
-
 https://github.com/hearvox/breaking-news/blob/master/Breaking-News-research/news-verification-checklists.md
 
 <blockquote>
 Quote
 <div><cite>&mdash;<a href="">"Author,"</a> Pub (YYYY)</cite></div>
 </blockquote>
+
+RJI color: #006a84
+
+The above-mentioned Media Insights project also reports many "digital news consumers believe it is vital ads not interfere" with the stories. Yet	63%
