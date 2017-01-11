@@ -28,7 +28,7 @@ The man who never looks into a newspaper is better informed than he who reads th
 </figure>
 <br />
 
-People once trusted the media. In Gallup surveys, "Americans' trust and confidence hit its highest point in 1976, at 72 percent, in the wake of widely lauded examples of investigative journalism regarding Vietnam and the Watergate scandal." But our faith in the media "to report the news fully, accurately and fairly" has been plummeting for decades. 
+People once trusted the media. In Gallup surveys, "Americans' trust and confidence hit its highest point in 1976, at 72 percent, in the wake of widely lauded examples of investigative journalism regarding Vietnam and the Watergate scandal." But our faith in the mainstream media (MSM) "to report the news fully, accurately and fairly" has been plummeting for decades. 
 
 A <a href="http://www.cbsnews.com/news/60-minutes-vanity-fair-poll-modern-workplace/">60 Minutes/Vanity Fair poll</a> asked: "Which industry is the most unethical?" People's "top choice" was Media (37 percent), beating out such paragons of virtue as Big Pharma (30 percent) and bankers (19 percent).
 
@@ -38,7 +38,7 @@ A <a href="http://www.cbsnews.com/news/60-minutes-vanity-fair-poll-modern-workpl
 </figure>
 <br />
 
-Why don't Americans don't trust mainstream media (MSM)? Maybe because it's not trustworthy.   
+Why don't Americans don't trust the media? Maybe because it's not trustworthy.   
 
 <blockquote>
 More than 60% of local news and news feature stories in a cross-section of American daily newspapers were found in error by news sources, an inaccuracy rate among the highest reported in nearly seventy years of research, and empirical evidence corroborating the public's impression that mistakes pervade the press. In about every other article, sources identified "hard" objective errors.
@@ -52,7 +52,7 @@ News errors rarely are corrected. In a study I did of factual errors reported to
 <div><cite>&mdash;Scott R. Maier, <a href="http://niemanreports.org/articles/confessing-errors-in-a-digital-age/">"Confessing Errors in a Digital Age"</a> (2009)</cite></div>
 </blockquote>
 
-This artcile's main advice for MSM: To fight fake news, stop being like fake news. Stop looking like it. Stop reading like it. Stop promoting it. Stop funding it.
+This article's main advice to MSM: To fight fake news, stop being like fake news. Stop looking like it. Stop reading like it. Stop promoting it. Stop funding it.
 
 <h2>Real news funds fake news</h2>
 Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>, which depends on legitimate news sites being revenue-desparate enough to ignore <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">ad-tech's often-illegitimate practices</a> -- practices which the (<a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Feeration of Advertisers</a> (PDF) says could become "second only to cocaine and opiate markets as a form of organised crime."
