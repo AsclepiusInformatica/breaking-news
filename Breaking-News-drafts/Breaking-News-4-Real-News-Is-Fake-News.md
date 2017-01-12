@@ -67,6 +67,11 @@ News sites are complicit in creating the most-corrupt, <a href="http://adcontrar
 
 <h2>Real news promotes fake news</h2>
 
+ "only 46% went to what appeared to be legitimate advertisers, 30% linked to clikcbait and fake-news sites.
+ 
+ ChangeAdvertising.org
+ 
+ http://changeadvertising.org/the-clickbait-report/
 <hr />
 *Notes:*
 
