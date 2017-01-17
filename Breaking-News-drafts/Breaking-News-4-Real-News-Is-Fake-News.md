@@ -71,7 +71,7 @@ Next to most news stories are <a href="https://theawl.com/a-complete-taxonomy-of
 
 Then below all that bait sits the steaming pile of partisan bickering labeled Comments. For a dim view of humanity, read the comments under <a href="https://www.washingtonpost.com/news/education/wp/2017/01/06/i-hope-ive-made-you-proud-first-lady-michelle-obama-chokes-up-during-speech-to-educators/">this First Lady's speech</a>. 
 
-Why would readers believe an article is news and nonpartison when it's surrounded by news-like headlines linked to fake and hyperpartisan sites in the chumbox and by false, inflammatory information in the comments?
+Why would readers believe an publication is true and nonpartison when false, inflammatory information (in the comments) surround each aND news-like headlines link to fake and hyperpartisan sites (in the chumbox)?
 
 <br />
 <figure style="margin: auto; width: 600px;">
