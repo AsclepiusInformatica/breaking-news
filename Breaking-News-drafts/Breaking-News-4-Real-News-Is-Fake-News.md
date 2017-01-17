@@ -67,11 +67,14 @@ News sites are complicit in creating the most-corrupt, <a href="http://adcontrar
 
 <h2>Real news promotes fake news</h2>
 
- "only 46% went to what appeared to be legitimate advertisers, 30% linked to clikcbait and fake-news sites.
- 
- ChangeAdvertising.org
- 
- http://changeadvertising.org/the-clickbait-report/
+Next to most news stories are <a href="https://theawl.com/a-complete-taxonomy-of-internet-chum-de0b7a070a2d#.2e7umo5mn">the chumboxes</a>, those lists of sponsored links, "recommended" by robots. <a href=" http://changeadvertising.org/the-clickbait-report/">ChangeAdvertising.org</a> estimated "only 46 percent went to what appeared to be legitimate advertisers," while 30 percent linked to clickbait and fake-news sites.
+
+Then below all that bait sits a steaming pile of partisan bickering labeled Comments. This section is filled false and inflammatory information. Even our best news institutions directly under a artcile they hope readers will think true and nonpartisan  theyIn this section  publish some of the most inflammatory, false and divisive information, directly under an article they hope is viewed as . For a dim view of humanity, read the comments about a First Lady's speech.
+
+If the news media want readers to be believe as true and nonpartisan, why do surround their articles with false information and clinckbair/fake-ne new-like headline links.
+
+news-like linked headlines 
+
 <hr />
 *Notes:*
 
@@ -85,3 +88,5 @@ Quote
 RJI color: #006a84
 
 The above-mentioned Media Insights project also reports many "digital news consumers believe it is vital ads not interfere" with the stories. Yet	63%
+
+Readers can't be expected to whether or not a site is legit when real news looks like, reads like, and recommends links to fake and hyper-partisan sites. Publishers, heal thyself.
