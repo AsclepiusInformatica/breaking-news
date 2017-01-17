@@ -69,11 +69,9 @@ News sites are complicit in creating the most-corrupt, <a href="http://adcontrar
 
 Next to most news stories are <a href="https://theawl.com/a-complete-taxonomy-of-internet-chum-de0b7a070a2d#.2e7umo5mn">the chumboxes</a>, those lists of sponsored links, "recommended" by robots. <a href=" http://changeadvertising.org/the-clickbait-report/">ChangeAdvertising.org</a> estimated "only 46 percent went to what appeared to be legitimate advertisers," while 30 percent linked to clickbait and fake-news sites.
 
-Then below all that bait sits a steaming pile of partisan bickering labeled Comments. This section is filled false and inflammatory information. Even our best news institutions directly under a artcile they hope readers will think true and nonpartisan  theyIn this section  publish some of the most inflammatory, false and divisive information, directly under an article they hope is viewed as . For a dim view of humanity, read the comments about a First Lady's speech.
+Then below all that bait sits a steaming pile of partisan bickering labeled Comments. For a dim view of humanity, read the comments under <a href="https://www.washingtonpost.com/news/education/wp/2017/01/06/i-hope-ive-made-you-proud-first-lady-michelle-obama-chokes-up-during-speech-to-educators/">this First Lady's speech</a>. 
 
-If the news media want readers to be believe as true and nonpartisan, why do surround their articles with false information and clinckbair/fake-ne new-like headline links.
-
-news-like linked headlines 
+How can publishers expect readers to believe their news is true and nonpartison when they surrounded their articles with false and inflammatory information (in the comments) and news-like headlines linked to fake and hyperpartisan sites (in the chumbox)?
 
 <hr />
 *Notes:*
