@@ -80,6 +80,8 @@ Why would readers believe an publication is true and nonpartison when false, inf
 </figure>
 <br />
 
+<h2>Real news looks like fake news</h2>
+
 <hr />
 *Notes:*
 
