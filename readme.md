@@ -2,10 +2,13 @@
 # Breaking News
 Breaking News is a series of investigations into factors affecting online news sites, from performance to profits. 
 
+## Breaking News 4: When Real News is Fake
+Part 4 tries to tell the differnece between real and fake news:  
+Draft: https://github.com/hearvox/breaking-news/blob/master/Breaking-News-drafts/Breaking-News-4-Real-News-Is-Fake-News.md
+
 ## Breaking News 3: New Media Myths
 Part 3 uses math to explode myths in the media biz:  
 Draft: https://github.com/hearvox/breaking-news/blob/master/Breaking-News-drafts/Breaking-News-3_New-Media-Myths.md
-
 
 ## Breaking News 2: Ad Tech — When Goods Ads Go Bad
 Part 2 of the series is about the ad tech tax:  
