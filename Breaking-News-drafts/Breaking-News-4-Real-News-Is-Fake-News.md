@@ -65,6 +65,10 @@ Fake new is now big business. Its business model depends on the <a href="https:/
 
 News sites are complicit in creating the most-corrupt, <a href="http://adcontrarian.blogspot.com/2017/01/display-ads-my-3-worth.html">least-effective advertising</a> in history, spawning numerous online malignancies, including a thriving fake news business.
 
+
+
+Image URL (for hotlinking/embedding): 
+
 <h2>Real news promotes fake news</h2>
 
 Next to most news stories are <a href="https://theawl.com/a-complete-taxonomy-of-internet-chum-de0b7a070a2d#.2e7umo5mn">the chumboxes</a>, those lists of sponsored links, "recommended" by robots. <a href=" http://changeadvertising.org/the-clickbait-report/">ChangeAdvertising.org</a> estimated "only 46 percent went to what appeared to be legitimate advertisers," while 30 percent linked to clickbait and fake-news sites.
@@ -72,6 +76,13 @@ Next to most news stories are <a href="https://theawl.com/a-complete-taxonomy-of
 Then below all that bait sits the steaming pile of partisan bickering labeled Comments. For a dim view of humanity, read the comments under <a href="https://www.washingtonpost.com/news/education/wp/2017/01/06/i-hope-ive-made-you-proud-first-lady-michelle-obama-chokes-up-during-speech-to-educators/">this First Lady's speech</a>. 
 
 Why would readers believe an article is news and nonpartison when it's surrounded by news-like headlines linked to fake and hyperpartisan sites in the chumbox and by false, inflammatory information in the comments?
+
+<br />
+<figure style="margin: auto; width: 600px;">
+<a href="http://xkcd.com/1511/"><img src="http://imgs.xkcd.com/comics/spice_girl.png" alt="Which Spice Girl are you?" /></a>
+<figcaption><em>Source: <a href="http://xkcd.com/1511/">xkcd</a></em></figcaption>
+</figure>
+<br />
 
 <hr />
 *Notes:*
