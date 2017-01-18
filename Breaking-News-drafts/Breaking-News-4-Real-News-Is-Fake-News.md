@@ -88,8 +88,29 @@ Why would readers believe a publication prints true, nonpartison stories when fa
 </figure>
 <br />
 
-Which of the above sites have real news and which fake?   
+Which of the above are real news and which fake (<a href="#answers">answers below</a>? Similar design and similar ads make it hard to tell the difference.
 
+There are differences, tho: MSM load slower, are less secure and more invasive of people's privacy.
+<br />
+<figure style="margin: auto; width: 600px;">
+<a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/"><img src="https://www.mezzobit.com/wp-content/uploads/2016/12/mezzobit_MSM_ON_summary_hires.png" alt="Statistics on use of technology usey by mainstream and opinionated sites" /></a>
+<figcaption><div><em>Source: <a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/">Mezzobit</a> (2016)</em></div></figcaption>
+</figure>
+<br />
+
+<h2>Real news looks like fake news</h2>
+
+<blockquote>
+Newsweek spokesman Andrew Kirk: "We, like other news organisations today, rely on our writers to submit factually accurate material." 
+<div><cite>&mdash;<a href="https://www.poynter.org/2012/the-story-of-when-newsweek-ditched-its-fact-checkers-then-made-a-major-error/185899/">"Newsweek ditched its fact-checkers in 1996, then made a major error,"</a> Poynter (2012)</cite></div>
+</blockquote>
+
+When <a href="http://krugman.blogs.nytimes.com/2012/08/19/unethical-commentary-newsweek-edition/">Paul krugman said</a>, "I guess they don’t do fact-checking" at Newsweek he was right. What he neglected to mention was neither does his paper:
+
+<blockquote>
+<strong>Fact Checking.</strong> Writers at The Times are their own principal fact checkers and often their only ones.
+<div><cite>&mdash;<a href="https://publiceditor.blogs.nytimes.com/2007/05/04/the-guidelines-on-our-integrity-from-1999-are-worth-a-look/?_r=0">"Guidelines on Our Integrity,"</a> The New York Times (1999)</cite></div>
+</blockquote>
 
 
 <hr />
