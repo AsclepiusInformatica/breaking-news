@@ -1,7 +1,7 @@
 <em>[Draft of article, part 4 in series (parts: <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">1</a> | <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">2</a>) | <a href="https://www.rjionline.org/stories/breaking-news-3-new-media-myths">3</a>)]</em>
 _____________________
 
-<h1>Breaking News 4: When Real News is Fake</h1>
+<h1>Breaking News 4: When real news is fake</h1>
 
 <em><strong>Breaking News</strong> is about the self-inflicted wounds crippling the news business. Previous posts were on <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">on malvertising</a>, the <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>ad tech tax</a> and <a href="https://www.rjionline.org/stories/breaking-news-3-new-media-myths">new media myths</a>.</em>
 
