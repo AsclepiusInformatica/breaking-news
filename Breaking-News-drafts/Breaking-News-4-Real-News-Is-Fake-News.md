@@ -107,16 +107,32 @@ MSM must seek salvation elsewhere. And a good start would be to make the differe
 
 After <a href="https://www.poynter.org/2012/the-story-of-when-newsweek-ditched-its-fact-checkers-then-made-a-major-error/185899/">major errors surfaced</a> in a Newsweek article, spokesman Andrew Kirk offered this defence: "We, like other news organisations today, rely on our writers to submit factually accurate material." 
 
-So <a href="http://krugman.blogs.nytimes.com/2012/08/19/unethical-commentary-newsweek-edition/">Paul krugman was right when he said</a>, "I guess they don’t do fact-checking." What he neglected to mention was neither does his paper:
+So <a href="http://krugman.blogs.nytimes.com/2012/08/19/unethical-commentary-newsweek-edition/">Paul Krugman was right</a> when he said, "I guess they don’t do fact-checking." What he neglected to mention was neither does his paper:
 
 <blockquote>
 <strong>Fact Checking.</strong> Writers at The Times are their own principal fact checkers and often their only ones.
 <div><cite>&mdash;<a href="https://publiceditor.blogs.nytimes.com/2007/05/04/the-guidelines-on-our-integrity-from-1999-are-worth-a-look/?_r=0">"Guidelines on Our Integrity,"</a> The New York Times (1999)</cite></div>
 </blockquote>
 
+Formal fact-checking...
+
 
 <hr />
 *Notes:*
+
+GenForward December 2016 Toplines  
+The first of its kind monthly survey of racially and ethnically diverse young adults  
+Q39. In general, how much trust and confidence do you have in the mass media – such as newspapers, TV and radio – when it comes to reporting the news fully, accurately and fairly?  
+Not very much 43 percent  
+None at all 28 percent    
+http://genforwardsurvey.com/assets/uploads/2017/01/GenForward-December-2016-Toplines-_-Final.pdf
+
+5 takeaways from the Rolling Stone defamation verdict  
+http://www.cjr.org/analysis/rolling_stone_verdict_defamation_case.php
+
+Fact-checking at The New Yorker  
+http://www.cjr.org/critical_eye/fact-checking_at_the_new_yorker.php  
+Peter Canby 2012
 
 https://github.com/hearvox/breaking-news/blob/master/Breaking-News-research/news-verification-checklists.md
 
