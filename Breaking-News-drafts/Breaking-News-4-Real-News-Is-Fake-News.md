@@ -84,14 +84,13 @@ Why would readers believe a publication prints true, nonpartison stories when fa
 
 <br />
 <figure style="margin: auto; width: 600px;">
-<img src="https://github.com/hearvox/breaking-news/blob/master/assets/ads-news.jpg?raw=true" alt="Screenshots of real and fake news articles" /></a>
-<figcaption><div><em>Source: <a href="http://xkcd.com/1511/">xkcd</a></em></div></figcaption>
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/news-ads-700x663.jpg?raw=true" alt="Screenshots of real and fake news articles" />
 </figure>
 <br />
 
-Can you tell which of the above articles are are real news and which fake?  
+Which of the above sites have real news and which fake?   
 
-I can tell you one difference: the two real news sites started videos without my ever hitting play. The two fake news sites weren't that inconsiderate
+
 
 <hr />
 *Notes:*
