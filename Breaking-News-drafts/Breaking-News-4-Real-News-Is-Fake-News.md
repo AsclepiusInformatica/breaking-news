@@ -98,7 +98,11 @@ There are differences, tho: MSM load slower, are less secure and more invasive o
 </figure>
 <br />
 
-<h2>Real news looks like fake news</h2>
+Fabricated and hyperpartison stories <a href="https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis">propagate faster and farther</a> than real news, making lots of money along the way. Among the beneficiaries are Google and Facebook, who lately proclaim fake news is on their chopping block. But don't be surprised if they end up not killing this cash cow.
+
+MSM must seek salvation elsewhere. And a good start would be to make the differences between real and fake news immediately obvious, visually and factually.
+
+<h2>Real news reads like fake news</h2>
 
 <blockquote>
 Newsweek spokesman Andrew Kirk: "We, like other news organisations today, rely on our writers to submit factually accurate material." 
