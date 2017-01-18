@@ -104,8 +104,8 @@ MSM must seek salvation elsewhere. And a good start would be to make the differe
 
 <h2>Real news reads like fake news</h2>
 
-<blockquote>
-After publishing an article with <a href="https://www.poynter.org/2012/the-story-of-when-newsweek-ditched-its-fact-checkers-then-made-a-major-error/185899/">major errors</a>, Newsweek spokesman Andrew Kirk offered this defence: "We, like other news organisations today, rely on our writers to submit factually accurate material." 
+
+After <a href="https://www.poynter.org/2012/the-story-of-when-newsweek-ditched-its-fact-checkers-then-made-a-major-error/185899/">major errors surfaced</a> in a Newsweek article, spokesman Andrew Kirk offered this defence: "We, like other news organisations today, rely on our writers to submit factually accurate material." 
 
 So <a href="http://krugman.blogs.nytimes.com/2012/08/19/unethical-commentary-newsweek-edition/">Paul krugman was right when he said</a>, "I guess they don’t do fact-checking." What he neglected to mention was neither does his paper:
 
