@@ -105,11 +105,9 @@ MSM must seek salvation elsewhere. And a good start would be to make the differe
 <h2>Real news reads like fake news</h2>
 
 <blockquote>
-Newsweek spokesman Andrew Kirk: "We, like other news organisations today, rely on our writers to submit factually accurate material." 
-<div><cite>&mdash;<a href="https://www.poynter.org/2012/the-story-of-when-newsweek-ditched-its-fact-checkers-then-made-a-major-error/185899/">"Newsweek ditched its fact-checkers in 1996, then made a major error,"</a> Poynter (2012)</cite></div>
-</blockquote>
+After publishing an article with <a href="https://www.poynter.org/2012/the-story-of-when-newsweek-ditched-its-fact-checkers-then-made-a-major-error/185899/">major errors</a>, Newsweek spokesman Andrew Kirk offered this defence: "We, like other news organisations today, rely on our writers to submit factually accurate material." 
 
-When <a href="http://krugman.blogs.nytimes.com/2012/08/19/unethical-commentary-newsweek-edition/">Paul krugman said</a>, "I guess they don’t do fact-checking" at Newsweek he was right. What he neglected to mention was neither does his paper:
+So <a href="http://krugman.blogs.nytimes.com/2012/08/19/unethical-commentary-newsweek-edition/">Paul krugman was right when he said</a>, "I guess they don’t do fact-checking." What he neglected to mention was neither does his paper:
 
 <blockquote>
 <strong>Fact Checking.</strong> Writers at The Times are their own principal fact checkers and often their only ones.
