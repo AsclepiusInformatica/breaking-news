@@ -67,11 +67,7 @@ News sites are complicit in creating the most-corrupt, <a href="http://adcontrar
 
 <h2>Real news promotes fake news</h2>
 
-Next to most news stories are <a href="https://theawl.com/a-complete-taxonomy-of-internet-chum-de0b7a070a2d#.2e7umo5mn">the chumboxes</a>, those lists of sponsored links, "recommended" by robots. <a href=" http://changeadvertising.org/the-clickbait-report/">ChangeAdvertising.org</a> estimated "only 46 percent went to what appeared to be legitimate advertisers," while 30 percent linked to clickbait and fake-news sites.
-
-Then below all that bait sits the steaming pile of partisan bickering labeled Comments. For a dim view of humanity, read the comments under <a href="https://www.washingtonpost.com/news/education/wp/2017/01/06/i-hope-ive-made-you-proud-first-lady-michelle-obama-chokes-up-during-speech-to-educators/">this First Lady's speech</a>. 
-
-Why would readers believe an publication is true and nonpartison when false, inflammatory information (in the comments) surround each aND news-like headlines link to fake and hyperpartisan sites (in the chumbox)?
+Next to most news stories are <a href="https://theawl.com/a-complete-taxonomy-of-internet-chum-de0b7a070a2d#.2e7umo5mn">the chumboxes</a>, those news-like headlines for sponsored links, "recommended" by robots. <a href=" http://changeadvertising.org/the-clickbait-report/">ChangeAdvertising.org</a> estimated "only 46 percent went to what appeared to be legitimate advertisers," while 30 percent linked to clickbait and fake-news sites.
 
 <br />
 <figure style="margin: auto; width: 600px;">
@@ -80,7 +76,22 @@ Why would readers believe an publication is true and nonpartison when false, inf
 </figure>
 <br />
 
+Then below all that bait sits the steaming pile of partisan bickering labeled Comments. For a dim view of humanity, read the comments under <a href="https://www.washingtonpost.com/news/education/wp/2017/01/06/i-hope-ive-made-you-proud-first-lady-michelle-obama-chokes-up-during-speech-to-educators/">this First Lady's speech</a>. 
+
+Why would readers believe a publication prints true, nonpartison stories when false, inflammatory information follow each article (in the comments) along with links to fake and hyperpartisan sites (in the chumbox)?
+
 <h2>Real news looks like fake news</h2>
+
+<br />
+<figure style="margin: auto; width: 600px;">
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/ads-news.jpg?raw=true" alt="Screenshots of real and fake news articles" /></a>
+<figcaption><div><em>Source: <a href="http://xkcd.com/1511/">xkcd</a></em></div></figcaption>
+</figure>
+<br />
+
+Can you tell which of the above articles are are real news and which fake?  
+
+I can tell you one difference: the two real news sites started videos without my ever hitting play. The two fake news sites weren't that inconsiderate
 
 <hr />
 *Notes:*
@@ -93,7 +104,5 @@ Quote
 </blockquote>
 
 RJI color: #006a84
-
-The above-mentioned Media Insights project also reports many "digital news consumers believe it is vital ads not interfere" with the stories. Yet	63%
 
 Readers can't be expected to whether or not a site is legit when real news looks like, reads like, and recommends links to fake and hyper-partisan sites. Publishers, heal thyself.
