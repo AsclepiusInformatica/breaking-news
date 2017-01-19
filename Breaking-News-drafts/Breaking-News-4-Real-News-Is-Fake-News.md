@@ -168,9 +168,15 @@ Hemingway in Cuba - 65.08
 http://www.theatlantic.com/past/docs/issues/65aug/6508manning.htm  
 Every man should have a built-in automatic crap detector operating inside him.
 
+EVALUATING INFORMATION: THE CORNERSTONE OF CIVIC ONLINE REASONING  
+https://sheg.stanford.edu/upload/V3LessonPlans/Executive%20Summary%2011.21.16.pdf 
+Many assume that because young people are fluent in social media they are equally savvy about what they find there. Our work shows the opposite… When it comes to evaluating information that flows through social media channels, they are easily duped.
 
+Fact-Checking Won’t Save Us From Fake News | FiveThirtyEight  
+https://fivethirtyeight.com/features/fact-checking-wont-save-us-from-fake-news/
 
-
+That debunk of a viral fake news story might help the hoaxers: Here's how to stop it - First Draft News  
+https://firstdraftnews.com/debunk-viral-fake-news-story-help-the-hoaxers-stop-it-facebook-megyn-kelly/
 
 
 
