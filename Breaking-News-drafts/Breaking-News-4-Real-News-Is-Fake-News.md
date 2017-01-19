@@ -158,7 +158,8 @@ Report: Online media are more a part of the problem of misinformation ‘than th
 http://www.poynter.org/2015/report-online-media-are-more-a-part-of-the-problem-of-misinformation-than-they-are-the-solution/318921/  
 Too often news organizations play a major role in propagating hoaxes, false claims, questionable rumors, and dubious viral content, thereby polluting the digital information stream. Indeed some so-called viral content doesn’t become truly viral until news websites choose to highlight it. In jumping on unverified information and publishing it alongside hedging language, such as “reportedly” or “claiming,” news organizations provide falsities significant exposure while also imbuing the content with credibility. This is at odds with journalism’s essence as “a discipline of verification” and its role as a trusted provider of information to society.  
 http://towcenter.org/research/lies-damn-lies-and-viral-content/  
-http://towcenter.org/wp-content/uploads/2015/02/LiesDamnLies_Silverman_TowCenter.pdf
+http://towcenter.org/wp-content/uploads/2015/02/LiesDamnLies_Silverman_TowCenter.pdf  
+Craig Silverman, Lies, Damn Lies, and Viral Content Tow Center (2015)
 
 I Am Ira Glass, creator of This American Life, AMA  
 https://www.reddit.com/r/IAmA/comments/1197d7/iam_ira_glass_creator_of_this_american_life_ama/  
