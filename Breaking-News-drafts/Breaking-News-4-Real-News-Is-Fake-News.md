@@ -183,9 +183,24 @@ Some day the people of this country will demand as much protection against adult
 http://chroniclingamerica.loc.gov/lccn/sn83045487/1915-09-01/ed-1/seq-21/   
 "Fake News" Chicago Day Book (1915)
 
+https://www.theatlantic.com/technology/archive/2017/01/the-fake-news-crisis-120-years-ago/513710/
 
+— Murtaza Hussain (@MazMHussain) December 5, 2016
+http://web.archive.org/web/20161206080304/https:/twitter.com/mazmhussain/status/805895624696721413
+https://twitter.com/MazMHussain/status/805895624696721413
 
+Teri Hayt, Executive Director American Society of News Editors http://www.asne.org:  
+No, ASNE doesn't have any info on who is fact-checking.  I can only surmise that few can do it day-to-day.  I believe that the big investigative pieces are given this treatment but not necessarily the chicken dinner news which is the life-blood of a small organization.
 
+Here are my thoughts on fact-checking in new organizations and maybe this is the avenue you want to explore????: 
+
+As the industry contracted those journalists that worked in the news libraries were laid off, copy desks were been laid off.  Those two groups of journalist - especially at smaller and mid-sized organizations were a wealth of knowledge and reporters would often ask them to double check a fact.  HOW MANY TIMES HAS A COPY DESK EDITOR SAVED A REPORTER FROM A MISTAKE? More times than they care to admit.  This was the value of those two departments.  
+
+The layoffs initially protected "content producers" that is why these groups were the first to feel the pain, they did not actually produce stories, video, graphics, photographs, etc. It became clear to all that laying off these folks, who had extraordinary local knowledge, was going to impact their reporting.  Anecdotaly, errors went up - maybe small ones - the accident was at 200 West Speedway Ave, not East Speedway, or the governor was in office for two terms not three, etc. Again, I am not clear on any actually studies on reporting errors in the age of copy desk free news.
+
+Reporting team leaders are working with their teams to initiate reporting, they edit for clarity and grammar - some can fact check but few can do that  because their teams have grown as more layoffs happen across the news organizations.  I believe that the big investigative pieces do go through a rigorous fact check before publication but not the everyday - chicken dinner news - the reporting on the superintendents or city council meetings, etc. Its that chicken dinner, basic reporting on community news that is so important to readers.
+
+So, I agree with the Slate article. Few are able to fact-check and reporters are responsible for the accuracy of their content.  Reporters have always been responsible but now there is no safety net.
 
 
 
