@@ -179,6 +179,10 @@ https://fivethirtyeight.com/features/fact-checking-wont-save-us-from-fake-news/
 That debunk of a viral fake news story might help the hoaxers: Here's how to stop it - First Draft News  
 https://firstdraftnews.com/debunk-viral-fake-news-story-help-the-hoaxers-stop-it-facebook-megyn-kelly/
 
+Some day the people of this country will demand as much protection against adulterated news as they now get against adulterated food for the stomach. What goes into the mind is quite as important as what goes into the stomach.  
+http://chroniclingamerica.loc.gov/lccn/sn83045487/1915-09-01/ed-1/seq-21/   
+"Fake News" Chicago Day Book (1915)
+
 
 
 
