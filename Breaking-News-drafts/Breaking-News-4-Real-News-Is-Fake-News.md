@@ -202,10 +202,13 @@ Reporting team leaders are working with their teams to initiate reporting, they 
 
 So, I agree with the Slate article. Few are able to fact-check and reporters are responsible for the accuracy of their content.  Reporters have always been responsible but now there is no safety net.
 
+Social Media and Fake News in the 2016 Election (January 2017)
+https://web.stanford.edu/~gentzkow/research/fakenews.pdf
+We define “fake news” as news stories that have no factual basis but are presented as facts. By “news stories,” we mean stories that originated in social media or the news media; this excludes false statements originated by political candidates or major political figures. By “presented as facts,” we exclude websites that are well-known to be satire, such as the Onion.
 
 
 
-https://github.com/hearvox/breaking-news/blob/master/Breaking-News-research/news-verification-checklists.md
+<hr>
 
 <blockquote>
 Quote
@@ -215,3 +218,6 @@ Quote
 RJI color: #006a84
 
 Readers can't be expected to whether or not a site is legit when real news looks like, reads like, and recommends links to fake and hyper-partisan sites. Publishers, heal thyself.
+
+
+https://github.com/hearvox/breaking-news/blob/master/Breaking-News-research/news-verification-checklists.md
