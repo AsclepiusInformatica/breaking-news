@@ -189,6 +189,7 @@ https://www.theatlantic.com/technology/archive/2017/01/the-fake-news-crisis-120-
 http://web.archive.org/web/20161206080304/https:/twitter.com/mazmhussain/status/805895624696721413
 https://twitter.com/MazMHussain/status/805895624696721413
 
+### ASNE ###
 Teri Hayt, Executive Director American Society of News Editors http://www.asne.org:  
 No, ASNE doesn't have any info on who is fact-checking.  I can only surmise that few can do it day-to-day.  I believe that the big investigative pieces are given this treatment but not necessarily the chicken dinner news which is the life-blood of a small organization.
 
@@ -206,7 +207,23 @@ Social Media and Fake News in the 2016 Election (January 2017)
 https://web.stanford.edu/~gentzkow/research/fakenews.pdf
 We define “fake news” as news stories that have no factual basis but are presented as facts. By “news stories,” we mean stories that originated in social media or the news media; this excludes false statements originated by political candidates or major political figures. By “presented as facts,” we exclude websites that are well-known to be satire, such as the Onion.
 
+### Backfire ###
+When Corrections Fail: The Persistence of Political Misperceptions | SpringerLink  
+http://link.springer.com/article/10.1007%2Fs11109-010-9112-2  
+An extensive literature addresses citizen ignorance, but very little research focuses on misperceptions. Can these false or unsubstantiated beliefs about politics be corrected? Previous studies have not tested the efficacy of corrections in a realistic format. We conducted four experiments in which subjects read mock news articles that included either a misleading claim from a politician, or a misleading claim and a correction. Results indicate that corrections frequently fail to reduce misperceptions among the targeted ideological group. We also document several instances of a “backfire effect” in which corrections actually increase misperceptions among the group in question.
 
+Fact checking - Wikipedia  
+https://en.wikipedia.org/wiki/Fact_checking  
+A 2016 study found little evidence for the "backfire effect" (correcting false information may make partisan individuals cling more strongly to their views): "By and large, citizens heed factual information, even when such information challenges their partisan and ideological commitments." 
+
+A study of Trump supporters during the 2016 race similarly found little evidence for the backfire effect: "When respondents read a news article about Mr. Trump’s speech that included F.B.I. statistics indicating that crime had “fallen dramatically and consistently over time,” their misperceptions about crime declined compared with those who saw a version of the article that omitted corrective information (though misperceptions persisted among a sizable minority)."
+
+The Backfire Effect - Columbia Journalism Review  
+http://www.cjr.org/behind_the_news/the_backfire_effect.php  
+
+The Elusive Backfire Effect: Mass Attitudes' Steadfast Factual Adherence by Thomas Wood, Ethan Porter :: SSRN  
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073  
+Evidence of factual backfire is far more tenuous than prior research suggests. By and large, citizens heed factual information, even when such information challenges their partisan and ideological commitments.
 
 <hr>
 
