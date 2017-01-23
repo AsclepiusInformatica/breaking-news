@@ -151,7 +151,7 @@ https://www.nytimes.com/2016/11/06/upshot/fact-checking-can-change-views-we-rate
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073
 
-We're so very sorry — Upworthy's big bucket of accountability.  ☑ 
+We're so very sorry — Upworthy's big bucket of accountability  
 http://www.upworthy.com/corrections
 
 Report: Online media are more a part of the problem of misinformation ‘than they are the solution’ – Poynter  
