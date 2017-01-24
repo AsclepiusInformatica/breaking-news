@@ -72,9 +72,9 @@ Too often news organizations play a major role in propagating hoaxes, false clai
 <div><cite>&mdash;Craig Silverman, <a href="http://towcenter.org/research/lies-damn-lies-and-viral-content/">"Lies, Damn Lies, and Viral Content,"</a> Tow Center for Digital Journalism (2015)</cite></div>
 </blockquote>
 
-Writing about fake news can boost that the fake story's social shares, search engine rank and ad dollars (especially when linking without "nofollow": see the First Draft News <a href="https://firstdraftnews.com/debunk-viral-fake-news-story-help-the-hoaxers-stop-it-facebook-megyn-kelly/">"That debunk of a viral fake news story might help the hoaxers: Here's how to stop it."</a>
+Writing about fake news can boost the phony story's social shares, search engine rank and ad dollars. Linking does the same (especially without "nofollow" -- see First Draft News: <a href="https://firstdraftnews.com/debunk-viral-fake-news-story-help-the-hoaxers-stop-it-facebook-megyn-kelly/">"That debunk of a viral fake news story might help the hoaxers: Here's how to stop it."</a>)
 
-MSM helps the fakers in other ways too. Next to most news stories are <a href="https://theawl.com/a-complete-taxonomy-of-internet-chum-de0b7a070a2d#.2e7umo5mn">the chumboxes</a>, those news-like headlines for sponsored links, "recommended" by robots. <a href=" http://changeadvertising.org/the-clickbait-report/">ChangeAdvertising.org</a> estimated "only 46 percent went to what appeared to be legitimate advertisers," while 30 percent linked to clickbait and fake-news sites.
+Next to most news stories are <a href="https://theawl.com/a-complete-taxonomy-of-internet-chum-de0b7a070a2d#.2e7umo5mn">the chumboxes</a>, those news-like headlines for sponsored links, "recommended" by robots. <a href=" http://changeadvertising.org/the-clickbait-report/">ChangeAdvertising.org</a> estimated "only 46 percent went to what appeared to be legitimate advertisers," while 30 percent linked to clickbait and fake-news sites.
 
 <br />
 <figure style="margin: auto; width: 600px;">
