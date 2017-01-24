@@ -67,7 +67,14 @@ News sites are complicit in creating the most-corrupt, <a href="http://adcontrar
 
 <h2>Real news promotes fake news</h2>
 
-Next to most news stories are <a href="https://theawl.com/a-complete-taxonomy-of-internet-chum-de0b7a070a2d#.2e7umo5mn">the chumboxes</a>, those news-like headlines for sponsored links, "recommended" by robots. <a href=" http://changeadvertising.org/the-clickbait-report/">ChangeAdvertising.org</a> estimated "only 46 percent went to what appeared to be legitimate advertisers," while 30 percent linked to clickbait and fake-news sites.
+<blockquote>
+Too often news organizations play a major role in propagating hoaxes, false claims, questionable rumors, and dubious viral content, thereby polluting the digital information stream. Indeed some so-called viral content doesn’t become truly viral until news websites choose to highlight it.
+<div><cite>&mdash;Craig Silverman, <a href="http://towcenter.org/research/lies-damn-lies-and-viral-content/">"Lies, Damn Lies, and Viral Content,"</a> Tow Center for Digital Journalism (2015)</cite></div>
+</blockquote>
+
+Writing about fake news can boost that the fake story's social shares, search engine rank and ad dollars (especially when linking without "nofollow": see the First Draft News <a href="https://firstdraftnews.com/debunk-viral-fake-news-story-help-the-hoaxers-stop-it-facebook-megyn-kelly/">"That debunk of a viral fake news story might help the hoaxers: Here's how to stop it."</a>
+
+MSM helps the fakers in other ways too. Next to most news stories are <a href="https://theawl.com/a-complete-taxonomy-of-internet-chum-de0b7a070a2d#.2e7umo5mn">the chumboxes</a>, those news-like headlines for sponsored links, "recommended" by robots. <a href=" http://changeadvertising.org/the-clickbait-report/">ChangeAdvertising.org</a> estimated "only 46 percent went to what appeared to be legitimate advertisers," while 30 percent linked to clickbait and fake-news sites.
 
 <br />
 <figure style="margin: auto; width: 600px;">
@@ -154,13 +161,6 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073
 We're so very sorry — Upworthy's big bucket of accountability  
 http://www.upworthy.com/corrections
 
-Report: Online media are more a part of the problem of misinformation ‘than they are the solution’ – Poynter  
-http://www.poynter.org/2015/report-online-media-are-more-a-part-of-the-problem-of-misinformation-than-they-are-the-solution/318921/  
-Too often news organizations play a major role in propagating hoaxes, false claims, questionable rumors, and dubious viral content, thereby polluting the digital information stream. Indeed some so-called viral content doesn’t become truly viral until news websites choose to highlight it. In jumping on unverified information and publishing it alongside hedging language, such as “reportedly” or “claiming,” news organizations provide falsities significant exposure while also imbuing the content with credibility. This is at odds with journalism’s essence as “a discipline of verification” and its role as a trusted provider of information to society.  
-http://towcenter.org/research/lies-damn-lies-and-viral-content/  
-http://towcenter.org/wp-content/uploads/2015/02/LiesDamnLies_Silverman_TowCenter.pdf  
-Craig Silverman, Lies, Damn Lies, and Viral Content Tow Center (2015)
-
 I Am Ira Glass, creator of This American Life, AMA  
 https://www.reddit.com/r/IAmA/comments/1197d7/iam_ira_glass_creator_of_this_american_life_ama/  
 We used to fact check the way they do on the daily NPR news shows (where I worked before doing this show): editors and reporters consult about questionable facts, rundown stuff in an ad hoc way. Now we have professional fact checkers for everything, including the personal essays.
@@ -175,9 +175,6 @@ Many assume that because young people are fluent in social media they are equall
 
 Fact-Checking Won’t Save Us From Fake News | FiveThirtyEight  
 https://fivethirtyeight.com/features/fact-checking-wont-save-us-from-fake-news/
-
-That debunk of a viral fake news story might help the hoaxers: Here's how to stop it - First Draft News  
-https://firstdraftnews.com/debunk-viral-fake-news-story-help-the-hoaxers-stop-it-facebook-megyn-kelly/
 
 Some day the people of this country will demand as much protection against adulterated news as they now get against adulterated food for the stomach. What goes into the mind is quite as important as what goes into the stomach.  
 http://chroniclingamerica.loc.gov/lccn/sn83045487/1915-09-01/ed-1/seq-21/   
@@ -229,7 +226,7 @@ Evidence of factual backfire is far more tenuous than prior research suggests. B
 
 <blockquote>
 Quote
-<div><cite>&mdash;<a href="">"Author,"</a> Pub (YYYY)</cite></div>
+<div><cite>&mdash;<a href="">"Title,"</a> Pub (YYYY)</cite></div>
 </blockquote>
 
 RJI color: #006a84
