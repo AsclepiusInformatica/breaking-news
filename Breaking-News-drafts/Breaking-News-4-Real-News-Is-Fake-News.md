@@ -99,8 +99,8 @@ Which of the above are real news and which fake (<a href="#answers">answers belo
 
 There are differences, tho: MSM load slower, are less secure and more invasive of people's privacy.
 <br />
-<figure style="float: right; margin: auto; width: 285px;">
-<a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/"><img src="https://www.mezzobit.com/wp-content/uploads/2016/12/mezzobit_MSM_ON_summary_hires.png" alt="Statistics on use of technology usey by mainstream and opinionated sites" width="285" /></a>
+<figure align="right" style="float: right; margin: auto; width: 285px;">
+<a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/"><img src="https://www.mezzobit.com/wp-content/uploads/2016/12/mezzobit_MSM_ON_summary_hires.png" alt="Statistics on use of technology usey by mainstream and opinionated sites" width="285" align="right" /></a>
 <figcaption><div><em>Source: <a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/">Mezzobit</a> (2016)</em></div></figcaption>
 </figure>
 <br />
