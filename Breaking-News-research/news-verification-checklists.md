@@ -1,5 +1,6 @@
 
 ## Notes and quotes for BN4 ##
+
 https://github.com/hearvox/breaking-news/blob/master/Breaking-News-drafts/Breaking-News-4-Real-News-Is-Fake-News.md
 
 GenForward December 2016 Toplines  
