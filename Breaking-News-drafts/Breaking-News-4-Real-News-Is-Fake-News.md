@@ -94,11 +94,11 @@ Why would readers believe a publication prints true, nonpartison stories when fa
 
 Which of these sites above are real news and which fake? 
 
-Similar design and similar ads make it hard to tell the difference  (<a href="#answers">answers below</a>). There are differences, tho: <a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/">MSM sites load slower, are less secure and more invasive of people's privacy</a>.
+Similar design and similar ads make it hard to tell the difference  (<a href="#answers">answers below</a>). There are differences, tho: MSM sites load slower, are less secure and <a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/">more invasive of people's privacy</a>.
 
 Fabricated and hyperpartison stories <a href="https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis">propagate faster and farther</a> than real news, making lots of money along the way. Among the beneficiaries are Google and Facebook, who lately proclaim fake news is on their chopping block. But don't be surprised if they end up not killing this cash cow.
 
-MSM must seek salvation elsewhere. And a good start would be to make the differences between real and fake news immediately obvious, visually and factually.
+MSM must seek salvation elsewhere. A good start would be to make it immediately obvious to readers how real news sites are better, visually and factually.
 
 <br />
 <figure align="center">
