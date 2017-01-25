@@ -134,12 +134,6 @@ Answers: Which of the above are real news and which fake?
 <a href="http://www.montana.edu/english/faculty/verbanac-josef.html">Josef Verbanac</a> of Montana State University contributed to this report. Top image <em>(more coming...)</em>
 
 <hr />
-<a href="https://www.rjionline.org/account/profile/618" class="pull-right"><img src="https://www.rjionline.org//images/avatars/uploads/avatar_618.jpg" align="right"></a>
-<small><a href="https://www.rjionline.org/account/profile/618"></a><a href="https://www.rjionline.org/account/profile/618"><strong>Barrett Golding</strong></a>
-<div>Residential fellow</div>
-<div>Barrett Golding, web developer and leader of Hearing Voices from NPR, will create a suite of open-source WordPress plugins designed to make journalists’ everyday tasks faster and easier.</div>
-<hr />
-
 
 *Notes:*
 
@@ -200,45 +194,7 @@ https://www.theatlantic.com/technology/archive/2017/01/the-fake-news-crisis-120-
 
 — Murtaza Hussain (@MazMHussain) December 5, 2016
 http://web.archive.org/web/20161206080304/https:/twitter.com/mazmhussain/status/805895624696721413
-https://twitter.com/MazMHussain/status/805895624696721413
 
-### ASNE ###
-Teri Hayt, Executive Director American Society of News Editors http://www.asne.org:  
-No, ASNE doesn't have any info on who is fact-checking.  I can only surmise that few can do it day-to-day.  I believe that the big investigative pieces are given this treatment but not necessarily the chicken dinner news which is the life-blood of a small organization.
-
-Here are my thoughts on fact-checking in new organizations and maybe this is the avenue you want to explore????: 
-
-As the industry contracted those journalists that worked in the news libraries were laid off, copy desks were been laid off.  Those two groups of journalist - especially at smaller and mid-sized organizations were a wealth of knowledge and reporters would often ask them to double check a fact.  HOW MANY TIMES HAS A COPY DESK EDITOR SAVED A REPORTER FROM A MISTAKE? More times than they care to admit.  This was the value of those two departments.  
-
-The layoffs initially protected "content producers" that is why these groups were the first to feel the pain, they did not actually produce stories, video, graphics, photographs, etc. It became clear to all that laying off these folks, who had extraordinary local knowledge, was going to impact their reporting.  Anecdotaly, errors went up - maybe small ones - the accident was at 200 West Speedway Ave, not East Speedway, or the governor was in office for two terms not three, etc. Again, I am not clear on any actually studies on reporting errors in the age of copy desk free news.
-
-Reporting team leaders are working with their teams to initiate reporting, they edit for clarity and grammar - some can fact check but few can do that  because their teams have grown as more layoffs happen across the news organizations.  I believe that the big investigative pieces do go through a rigorous fact check before publication but not the everyday - chicken dinner news - the reporting on the superintendents or city council meetings, etc. Its that chicken dinner, basic reporting on community news that is so important to readers.
-
-So, I agree with the Slate article. Few are able to fact-check and reporters are responsible for the accuracy of their content.  Reporters have always been responsible but now there is no safety net.
-
-Social Media and Fake News in the 2016 Election (January 2017)
-https://web.stanford.edu/~gentzkow/research/fakenews.pdf
-We define “fake news” as news stories that have no factual basis but are presented as facts. By “news stories,” we mean stories that originated in social media or the news media; this excludes false statements originated by political candidates or major political figures. By “presented as facts,” we exclude websites that are well-known to be satire, such as the Onion.
-
-### Backfire ###
-When Corrections Fail: The Persistence of Political Misperceptions | SpringerLink  
-http://link.springer.com/article/10.1007%2Fs11109-010-9112-2  
-An extensive literature addresses citizen ignorance, but very little research focuses on misperceptions. Can these false or unsubstantiated beliefs about politics be corrected? Previous studies have not tested the efficacy of corrections in a realistic format. We conducted four experiments in which subjects read mock news articles that included either a misleading claim from a politician, or a misleading claim and a correction. Results indicate that corrections frequently fail to reduce misperceptions among the targeted ideological group. We also document several instances of a “backfire effect” in which corrections actually increase misperceptions among the group in question.
-
-Fact checking - Wikipedia  
-https://en.wikipedia.org/wiki/Fact_checking  
-A 2016 study found little evidence for the "backfire effect" (correcting false information may make partisan individuals cling more strongly to their views): "By and large, citizens heed factual information, even when such information challenges their partisan and ideological commitments." 
-
-A study of Trump supporters during the 2016 race similarly found little evidence for the backfire effect: "When respondents read a news article about Mr. Trump’s speech that included F.B.I. statistics indicating that crime had “fallen dramatically and consistently over time,” their misperceptions about crime declined compared with those who saw a version of the article that omitted corrective information (though misperceptions persisted among a sizable minority)."
-
-The Backfire Effect - Columbia Journalism Review  
-http://www.cjr.org/behind_the_news/the_backfire_effect.php  
-
-The Elusive Backfire Effect: Mass Attitudes' Steadfast Factual Adherence by Thomas Wood, Ethan Porter :: SSRN  
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073  
-Evidence of factual backfire is far more tenuous than prior research suggests. By and large, citizens heed factual information, even when such information challenges their partisan and ideological commitments.
-
-<hr>
 
 <blockquote>
 Quote
