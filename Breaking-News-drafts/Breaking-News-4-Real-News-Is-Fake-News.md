@@ -135,75 +135,15 @@ Answers: Which of the above are real news and which fake?
 
 <hr />
 
-*Notes:*
+*Notes and HTML:*
 
-GenForward December 2016 Toplines  
-The first of its kind monthly survey of racially and ethnically diverse young adults  
-Q39. In general, how much trust and confidence do you have in the mass media – such as newspapers, TV and radio – when it comes to reporting the news fully, accurately and fairly?  
-Not very much 43 percent  
-None at all 28 percent    
-http://genforwardsurvey.com/assets/uploads/2017/01/GenForward-December-2016-Toplines-_-Final.pdf
-
-5 takeaways from the Rolling Stone defamation verdict  
-http://www.cjr.org/analysis/rolling_stone_verdict_defamation_case.php
-
-Fact-checking at The New Yorker  
-http://www.cjr.org/critical_eye/fact-checking_at_the_new_yorker.php  
-Peter Canby 2012
-
-7 steps to better fact-checking | PolitiFact  
-http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/
-
-The Disconnect on Anonymous Sources - The New York Times  
-http://www.nytimes.com/2013/10/13/opinion/sunday/the-public-editor-the-disconnect-on-anonymous-sources.html
-ERIC Schmitt remembers being surprised when, as a member of a Times newsroom committee on reporting practices, he was given information about what bothered readers of The Times most. It wasn’t political bias, or factual errors, or delivery problems. 
-
-“The No. 1 complaint, far and away, was anonymous sources,” Mr. Schmitt, a longtime and well-respected national security reporter in the Washington bureau, told me last week. “It goes to the heart of our credibility.” 
-
-Measuring and improving accuracy in journalism | Jonathan Stray  
-http://jonathanstray.com/measuring-and-increasing-accuracy-in-journalism
-
-Fact-Checking Can Change Views? We Rate That as Mostly True  
-https://www.nytimes.com/2016/11/06/upshot/fact-checking-can-change-views-we-rate-that-as-mostly-true.html
-
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073
-
-We're so very sorry — Upworthy's big bucket of accountability  
-http://www.upworthy.com/corrections
-
-I Am Ira Glass, creator of This American Life, AMA  
-https://www.reddit.com/r/IAmA/comments/1197d7/iam_ira_glass_creator_of_this_american_life_ama/  
-We used to fact check the way they do on the daily NPR news shows (where I worked before doing this show): editors and reporters consult about questionable facts, rundown stuff in an ad hoc way. Now we have professional fact checkers for everything, including the personal essays.
-
-Hemingway in Cuba - 65.08  
-http://www.theatlantic.com/past/docs/issues/65aug/6508manning.htm  
-Every man should have a built-in automatic crap detector operating inside him.
-
-EVALUATING INFORMATION: THE CORNERSTONE OF CIVIC ONLINE REASONING  
-https://sheg.stanford.edu/upload/V3LessonPlans/Executive%20Summary%2011.21.16.pdf 
-Many assume that because young people are fluent in social media they are equally savvy about what they find there. Our work shows the opposite… When it comes to evaluating information that flows through social media channels, they are easily duped.
-
-Fact-Checking Won’t Save Us From Fake News | FiveThirtyEight  
-https://fivethirtyeight.com/features/fact-checking-wont-save-us-from-fake-news/
-
-Some day the people of this country will demand as much protection against adulterated news as they now get against adulterated food for the stomach. What goes into the mind is quite as important as what goes into the stomach.  
-http://chroniclingamerica.loc.gov/lccn/sn83045487/1915-09-01/ed-1/seq-21/   
-"Fake News" Chicago Day Book (1915)
-
-https://www.theatlantic.com/technology/archive/2017/01/the-fake-news-crisis-120-years-ago/513710/
-
-— Murtaza Hussain (@MazMHussain) December 5, 2016
-http://web.archive.org/web/20161206080304/https:/twitter.com/mazmhussain/status/805895624696721413
+Notes for final section above:  
+https://github.com/hearvox/breaking-news/blob/master/Breaking-News-research/news-verification-checklists.md
 
 
 <blockquote>
-Quote
+Blockquote
 <div><cite>&mdash;<a href="">"Title,"</a> Pub (YYYY)</cite></div>
 </blockquote>
 
 RJI color: #006a84
-
-Readers can't be expected to whether or not a site is legit when real news looks like, reads like, and recommends links to fake and hyper-partisan sites. Publishers, heal thyself.
-
-
-https://github.com/hearvox/breaking-news/blob/master/Breaking-News-research/news-verification-checklists.md
