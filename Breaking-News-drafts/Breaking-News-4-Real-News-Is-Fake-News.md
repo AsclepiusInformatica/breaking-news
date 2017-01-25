@@ -5,7 +5,7 @@ _____________________
 
 <em><strong>Breaking News</strong> is about the self-inflicted wounds crippling the news business. Previous posts were on <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">on malvertising</a>, the <a href=https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad>ad tech tax</a> and <a href="https://www.rjionline.org/stories/breaking-news-3-new-media-myths">new media myths</a>.</em>
 
-Here are in several ways real news and fake news are the same. In both:
+Here are in several ways real and fake news are the same. In both:
 <ul>
 	<li>Most people do not trust the publication.</li>
 	<li>No one formally fact-checks the articles.</li>
@@ -54,7 +54,7 @@ News errors rarely are corrected. In a study I did of factual errors reported to
 This article's prime advice to MSM: To fight fake news, stop being like fake news. Stop looking like it. Stop reading like it. Stop promoting it. Stop funding it.
 
 <h2>Real news funds fake news</h2>
-Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>. Ad tech depends on legitimate news sites ignoring <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">often-illegitimate practices</a>  &mdash; "second only to cocaine and opiate markets as a form of organized crime," says the <a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Federation of Advertisers</a> (PDF).
+Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>. Ad tech depends on legitimate news sites ignoring <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">often-illegitimate practices</a>  &mdash; pojected to become "second only to cocaine and opiate markets as a form of organized crime," says the <a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Federation of Advertisers</a> (PDF).
 <br />
 <figure style="margin: auto; width: 600px;">
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/HP-business-of-hacking-crop.png?raw=true" alt="Gallup 2016 chart:  32% of Americans trust in mass media" />
