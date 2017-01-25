@@ -54,12 +54,12 @@ News errors rarely are corrected. In a study I did of factual errors reported to
 This article's prime advice to MSM: To fight fake news, stop being like fake news. Stop looking like it. Stop reading like it. Stop promoting it. Stop funding it.
 
 <h2>Real news funds fake news</h2>
-<div style="float: right; margin: auto; width: 285px;">
+<br />
 <figure>
-<img src="https://github.com/hearvox/breaking-news/blob/master/assets/HP-business-of-hacking-crop.png?raw=true" alt="Gallup 2016 chart:  32% of Americans trust in mass media" width="285" />
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/HP-business-of-hacking-crop.png?raw=true" alt="Gallup 2016 chart:  32% of Americans trust in mass media" />
 <figcaption><em>Source: <a href="http://www8.hp.com/us/en/software-solutions/hacking-report/">"The Business of Hacking"</a> Hewlett Packard (2016)</em></figcaption>
 </figure>
-</div>
+<br />
 
 Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>. Ad tech depends on legitimate news sites ignoring <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">often-illegitimate practices</a>  &mdash; pojected to become "second only to cocaine and opiate markets as a form of organized crime," says the <a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Federation of Advertisers</a> (PDF).
 
@@ -77,7 +77,7 @@ Writing about a fake news story can boost that story's social shares, search eng
 Next to most news stories are the sponsored links, those news-like headlines, "recommended" by robots, and <a href="https://theawl.com/a-complete-taxonomy-of-internet-chum-de0b7a070a2d#.2e7umo5mn">known as chumboxes</a>. <a href=" http://changeadvertising.org/the-clickbait-report/">ChangeAdvertising.org</a> estimated "only 46 percent went to what appeared to be legitimate advertisers," while 30 percent linked to clickbait and fake-news sites.
 
 <br />
-<figure style="margin: auto; width: 600px;">
+<figure align="center">
 <a href="http://xkcd.com/1511/"><img src="http://imgs.xkcd.com/comics/spice_girl.png" alt="Which Spice Girl are you?" /></a>
 <figcaption><div><em>Source: <a href="http://xkcd.com/1511/">xkcd</a></em></div></figcaption>
 </figure>
@@ -99,11 +99,13 @@ Which of the above are real news and which fake (<a href="#answers">answers belo
 
 There are differences, tho: MSM load slower, are less secure and more invasive of people's privacy.
 <br />
-<figure align="right" style="float: right; margin: auto; width: 285px;">
-<a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/"><img src="https://www.mezzobit.com/wp-content/uploads/2016/12/mezzobit_MSM_ON_summary_hires.png" alt="Statistics on use of technology usey by mainstream and opinionated sites" width="285" align="right" /></a>
+<figure align="center">
+<a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/mezzobit-MSM-ON-ad-tech-excerpt-750.png" alt="Statistics on use of technology usey by mainstream and opinionated sites" /></a>
 <figcaption><div><em>Source: <a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/">Mezzobit</a> (2016)</em></div></figcaption>
 </figure>
 <br />
+
+mezzobit-MSM-ON-ad-tech-excerpt-750.png
 
 Fabricated and hyperpartison stories <a href="https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis">propagate faster and farther</a> than real news, making lots of money along the way. Among the beneficiaries are Google and Facebook, who lately proclaim fake news is on their chopping block. But don't be surprised if they end up not killing this cash cow.
 
