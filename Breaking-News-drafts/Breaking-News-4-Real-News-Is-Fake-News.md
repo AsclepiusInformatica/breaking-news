@@ -63,7 +63,7 @@ This article's prime advice to MSM: To fight fake news, stop being like fake new
 
 Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>. Ad tech depends on legitimate news sites ignoring <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">often-illegitimate practices</a>, projected by the <a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Federation of Advertisers</a> (PDF) to become "second only to cocaine and opiate markets as a form of organized crime."
 
-News sites are complicit in creating the most-corrupt, <a href="http://adcontrarian.blogspot.com/2017/01/display-ads-my-3-worth.html">least-effective advertising</a> in history. Among the numerous online malignancies it has spawned is the thriving fake news business.
+News sites are complicit in creating the most corrupt, <a href="http://adcontrarian.blogspot.com/2017/01/display-ads-my-3-worth.html">least-effective advertising</a> in history. Among the numerous online malignancies it has spawned is the thriving fake news business.
 
 <h2>Real news promotes fake news</h2>
 
@@ -85,7 +85,7 @@ Next to most news stories are the sponsored links, those news-like headlines, "r
 
 Below the chumbox sits the steaming pile of partisan bickering labeled Comments. For a dim view of humanity, read the ones under <a href="https://www.washingtonpost.com/news/education/wp/2017/01/06/i-hope-ive-made-you-proud-first-lady-michelle-obama-chokes-up-during-speech-to-educators/">this First Lady's speech</a>. 
 
-Why would readers believe a publication prints true, nonpartison stories when false, inflammatory information (in the comments) and links to fraudulent and hyperpartisan sites (in the chumbox) follow each article?
+Why would readers believe a publication prints true, nonpartisan stories when false, inflammatory information (in the comments) and links to fraudulent and hyperpartisan sites (in the chumbox) follow each article?
 
 <h2>Real news looks like fake news</h2>
 
@@ -94,9 +94,9 @@ Why would readers believe a publication prints true, nonpartison stories when fa
 
 Which of these sites above are real news and which fake? 
 
-Similar design and similar ads make it hard to tell the difference  (<a href="#answers">answers below</a>). There are differences, tho: MSM sites load slower, are less secure and <a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/">more invasive of people's privacy</a>.
+Similar design and similar ads make it hard to tell the difference  (<a href="#answers">answers below</a>). There are differences, though: MSM sites load slower, are less secure and <a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/">more invasive of people's privacy</a>.
 
-Fabricated and hyperpartison stories <a href="https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis">propagate faster and farther</a> than real news, making lots of money along the way. Among the beneficiaries are Google and Facebook, who lately proclaim fake news is on their chopping block. But don't be surprised if they end up not killing this cash cow.
+Fabricated and hyperpartisan stories <a href="https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis">propagate faster and farther</a> than real news, making lots of money along the way. Among the beneficiaries are Google and Facebook, who lately proclaim fake news is on their chopping block. But don't be surprised if they end up not killing this cash cow.
 
 MSM must seek salvation elsewhere. A good start would be to make it immediately obvious to readers how real news sites are better, visually and factually.
 
@@ -109,7 +109,7 @@ MSM must seek salvation elsewhere. A good start would be to make it immediately 
 
 <h2>Real news reads like fake news</h2>
 
-After <a href="https://www.poynter.org/2012/the-story-of-when-newsweek-ditched-its-fact-checkers-then-made-a-major-error/185899/">major errors surfaced</a> in a Newsweek article, spokesman Andrew Kirk offered this defence: "We, like other news organisations today, rely on our writers to submit factually accurate material." 
+After <a href="https://www.poynter.org/2012/the-story-of-when-newsweek-ditched-its-fact-checkers-then-made-a-major-error/185899/">major errors surfaced</a> in a Newsweek article, spokesman Andrew Kirk offered this defense: "We, like other news organizations today, rely on our writers to submit factually accurate material." 
 
 So <a href="http://krugman.blogs.nytimes.com/2012/08/19/unethical-commentary-newsweek-edition/">Paul Krugman was right</a> when he said, "I guess they don’t do fact-checking." What he neglected to mention was neither does his paper:
 
@@ -128,7 +128,7 @@ Answers: Which sites are real news and which fake?
 <ol>
 <li>Top-left, real: Time (real)</li>
 <li>Top-right: Breitbart (hyperpartisan-to-fake)</li>
-<li>Bottom-left: San Fransciso Chronicle (real)</li>
+<li>Bottom-left: San Francisco Chronicle (real)</li>
 <li>Bottom-right: Now the End Begins (fake)</li>
 </ol>
 
