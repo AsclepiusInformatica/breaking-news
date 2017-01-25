@@ -90,22 +90,17 @@ Why would readers believe a publication prints true, nonpartison stories when fa
 <h2>Real news looks like fake news</h2>
 
 <br />
-<figure style="margin: auto; width: 600px;">
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/news-ads-700x663.jpg?raw=true" alt="Screenshots of real and fake news articles" />
-</figure>
-<br />
 
-Which of the above are real news and which fake (<a href="#answers">answers below</a>? Similar design and similar ads make it hard to tell the difference.
+Which of the above are real news and which fake? 
 
-There are differences, tho: MSM load slower, are less secure and more invasive of people's privacy.
+Similar design and similar ads make it hard to tell the difference  (<a href="#answers">answers below</a>). There are differences, tho: MSM load slower, are less secure and more invasive of people's privacy.
 <br />
 <figure align="center">
 <a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/mezzobit-MSM-ON-ad-tech-excerpt-750.png" alt="Statistics on use of technology usey by mainstream and opinionated sites" /></a>
 <figcaption><div><em>Source: <a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/">Mezzobit</a> (2016)</em></div></figcaption>
 </figure>
 <br />
-
-mezzobit-MSM-ON-ad-tech-excerpt-750.png
 
 Fabricated and hyperpartison stories <a href="https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis">propagate faster and farther</a> than real news, making lots of money along the way. Among the beneficiaries are Google and Facebook, who lately proclaim fake news is on their chopping block. But don't be surprised if they end up not killing this cash cow.
 
@@ -126,7 +121,19 @@ So <a href="http://krugman.blogs.nytimes.com/2012/08/19/unethical-commentary-new
 Formal fact-checking...
 
 
+<hr id="answers" />
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/news-ads-labels-350x332.jpg" alt="Statistics on use of technology usey by mainstream and opinionated sites" align="right" />
+Answers: Which of the above are real news and which fake?
+<ol>
+<li>Top-left, real: Time (real)</li>
+<li>Top-right: Breitbart (hyperpartisan-to-fake)</li>
+<li>Bottom-left: San Fransciso Chronicle (real)</li>
+<li>Bottom-right: Now the End Begins (fake)</li>
+</ol>
+
 <hr />
+
+
 *Notes:*
 
 GenForward December 2016 Toplines  
