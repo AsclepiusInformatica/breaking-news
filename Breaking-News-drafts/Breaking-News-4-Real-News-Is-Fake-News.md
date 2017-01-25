@@ -1,6 +1,6 @@
 <em>[Draft of article, part 4 in series (parts: <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">1</a> | <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">2</a>) | <a href="https://www.rjionline.org/stories/breaking-news-3-new-media-myths">3</a>)]</em>
 
-G-Doc vers: https://docs.google.com/document/d/16tI5lwY7g9yq8s9dR15__l6sRub2-GEoNmeXwY223Sw/edit#
+<em>G-Doc vers: https://docs.google.com/document/d/16tI5lwY7g9yq8s9dR15__l6sRub2-GEoNmeXwY223Sw/edit#</em>
 
 <hr />
 
