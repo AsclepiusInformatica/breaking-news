@@ -61,7 +61,7 @@ This article's prime advice to MSM: To fight fake news, stop being like fake new
 </figure>
 <br />
 
-Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>. Ad tech depends on legitimate news sites ignoring <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">often-illegitimate practices</a>  &mdash; pojected to become "second only to cocaine and opiate markets as a form of organized crime," says the <a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Federation of Advertisers</a> (PDF).
+Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>. Ad tech depends on legitimate news sites ignoring <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">often-illegitimate practices</a>, projected by the <a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Federation of Advertisers</a> (PDF) to become "second only to cocaine and opiate markets as a form of organized crime."
 
 News sites are complicit in creating the most-corrupt, <a href="http://adcontrarian.blogspot.com/2017/01/display-ads-my-3-worth.html">least-effective advertising</a> in history. Among the numerous online malignancies it has spawned is the thriving fake news business.
 
@@ -92,19 +92,20 @@ Why would readers believe a publication prints true, nonpartison stories when fa
 <br />
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/news-ads-700x663.jpg?raw=true" alt="Screenshots of real and fake news articles" />
 
-Which of the above are real news and which fake? 
+Which of these sites above are real news and which fake? 
 
-Similar design and similar ads make it hard to tell the difference  (<a href="#answers">answers below</a>). There are differences, tho: MSM load slower, are less secure and more invasive of people's privacy.
+Similar design and similar ads make it hard to tell the difference  (<a href="#answers">answers below</a>). There are differences, tho: <a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/">MSM sites load slower, are less secure and more invasive of people's privacy</a>.
+
+Fabricated and hyperpartison stories <a href="https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis">propagate faster and farther</a> than real news, making lots of money along the way. Among the beneficiaries are Google and Facebook, who lately proclaim fake news is on their chopping block. But don't be surprised if they end up not killing this cash cow.
+
+MSM must seek salvation elsewhere. And a good start would be to make the differences between real and fake news immediately obvious, visually and factually.
+
 <br />
 <figure align="center">
 <a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/mezzobit-MSM-ON-ad-tech-excerpt-750.png" alt="Statistics on use of technology usey by mainstream and opinionated sites" /></a>
 <figcaption><div><em>Source: <a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/">Mezzobit</a> (2016)</em></div></figcaption>
 </figure>
 <br />
-
-Fabricated and hyperpartison stories <a href="https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis">propagate faster and farther</a> than real news, making lots of money along the way. Among the beneficiaries are Google and Facebook, who lately proclaim fake news is on their chopping block. But don't be surprised if they end up not killing this cash cow.
-
-MSM must seek salvation elsewhere. And a good start would be to make the differences between real and fake news immediately obvious, visually and factually.
 
 <h2>Real news reads like fake news</h2>
 
@@ -121,8 +122,6 @@ So <a href="http://krugman.blogs.nytimes.com/2012/08/19/unethical-commentary-new
 Formal fact-checking <em>(more coming...)</em>
 
 <a href="http://web.archive.org/web/20161206080304/https:/twitter.com/mazmhussain/status/805895624696721413"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/Iraq-wmd-fake-news-tweet-Murtaza-Hussain.png" alt="2003: Rifle-toting Americans barge into Iraq after reading viral Fake News story about weapons of mass destruction." /></a>
-
-alt="2003: Rifle-toting Americans barge into Iraq after reading viral Fake News story about weapons of mass destruction."
 
 <hr id="answers" />
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/news-ads-labels-350x332.jpg" alt="Statistics on use of technology usey by mainstream and opinionated sites" align="right" />
