@@ -54,8 +54,7 @@ News errors rarely are corrected. In a study I did of factual errors reported to
 This article's prime advice to MSM: To fight fake news, stop being like fake news. Stop looking like it. Stop reading like it. Stop promoting it. Stop funding it.
 
 <h2>Real news funds fake news</h2>
-Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>. Ad tech depends on legitimate news sites ignoring <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">often-illegitimate practices</a> &mdash; practices the <a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Federation of Advertisers</a> (PDF) says could become "second only to cocaine and opiate markets as a form of organized crime."
-
+Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>. Ad tech depends on legitimate news sites ignoring <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">often-illegitimate practices</a>  &mdash; "second only to cocaine and opiate markets as a form of organized crime," says the <a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Federation of Advertisers</a> (PDF).
 <br />
 <figure style="margin: auto; width: 600px;">
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/HP-business-of-hacking-crop.png?raw=true" alt="Gallup 2016 chart:  32% of Americans trust in mass media" />
@@ -63,7 +62,7 @@ Fake new is now big business. Its business model depends on the <a href="https:/
 </figure>
 <br />
 
-News sites are complicit in creating the most-corrupt, <a href="http://adcontrarian.blogspot.com/2017/01/display-ads-my-3-worth.html">least-effective advertising</a> in history, spawning numerous online malignancies, including a thriving fake news business.
+News sites are complicit in creating the most-corrupt, <a href="http://adcontrarian.blogspot.com/2017/01/display-ads-my-3-worth.html">least-effective advertising</a> in history, which has spawned numerous online malignancies, including the thriving fake news business.
 
 <h2>Real news promotes fake news</h2>
 
@@ -72,7 +71,7 @@ Too often news organizations play a major role in propagating hoaxes, false clai
 <div><cite>&mdash;Craig Silverman, <a href="http://towcenter.org/research/lies-damn-lies-and-viral-content/">"Lies, Damn Lies, and Viral Content,"</a> Tow Center for Digital Journalism (2015)</cite></div>
 </blockquote>
 
-Writing about fake news can boost the phony story's social shares, search engine rank and ad dollars. Linking does the same (especially without "nofollow" -- see First Draft News: <a href="https://firstdraftnews.com/debunk-viral-fake-news-story-help-the-hoaxers-stop-it-facebook-megyn-kelly/">"That debunk of a viral fake news story might help the hoaxers: Here's how to stop it."</a>)
+Writing about a fake news story can boost that story's social shares, search engine rank and ad dollars. Linking does the same (especially without a "nofollow" -- see First Draft News: <a href="https://firstdraftnews.com/debunk-viral-fake-news-story-help-the-hoaxers-stop-it-facebook-megyn-kelly/">"That debunk of a viral fake news story might help the hoaxers: Here's how to stop it."</a>)
 
 Next to most news stories are <a href="https://theawl.com/a-complete-taxonomy-of-internet-chum-de0b7a070a2d#.2e7umo5mn">the chumboxes</a>, those news-like headlines for sponsored links, "recommended" by robots. <a href=" http://changeadvertising.org/the-clickbait-report/">ChangeAdvertising.org</a> estimated "only 46 percent went to what appeared to be legitimate advertisers," while 30 percent linked to clickbait and fake-news sites.
 
