@@ -109,7 +109,6 @@ MSM must seek salvation elsewhere. A good start would be to make it immediately 
 
 <h2>Real news reads like fake news</h2>
 
-
 After <a href="https://www.poynter.org/2012/the-story-of-when-newsweek-ditched-its-fact-checkers-then-made-a-major-error/185899/">major errors surfaced</a> in a Newsweek article, spokesman Andrew Kirk offered this defence: "We, like other news organisations today, rely on our writers to submit factually accurate material." 
 
 So <a href="http://krugman.blogs.nytimes.com/2012/08/19/unethical-commentary-newsweek-edition/">Paul Krugman was right</a> when he said, "I guess they don’t do fact-checking." What he neglected to mention was neither does his paper:
@@ -125,7 +124,7 @@ Formal fact-checking <em>(more coming...)</em>
 
 <hr id="answers" />
 <img src="https://github.com/hearvox/breaking-news/blob/master/assets/news-ads-labels-350x332.jpg" alt="Statistics on use of technology usey by mainstream and opinionated sites" align="right" />
-Answers: Which of the above are real news and which fake?
+Answers: Which sites are real news and which fake?
 <ol>
 <li>Top-left, real: Time (real)</li>
 <li>Top-right: Breitbart (hyperpartisan-to-fake)</li>
@@ -139,9 +138,8 @@ Answers: Which of the above are real news and which fake?
 
 *Notes and HTML:*
 
-Notes for final section above:  
+Quotes for use in final "read like" section above:  
 https://github.com/hearvox/breaking-news/blob/master/Breaking-News-research/news-verification-checklists.md
-
 
 <blockquote>
 Blockquote
