@@ -54,13 +54,12 @@ News errors rarely are corrected. In a study I did of factual errors reported to
 This article's prime advice to MSM: To fight fake news, stop being like fake news. Stop looking like it. Stop reading like it. Stop promoting it. Stop funding it.
 
 <h2>Real news funds fake news</h2>
-Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>. Ad tech depends on legitimate news sites ignoring <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">often-illegitimate practices</a>  &mdash; pojected to become "second only to cocaine and opiate markets as a form of organized crime," says the <a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Federation of Advertisers</a> (PDF).
-<br />
-<figure style="margin: auto; width: 600px;">
-<img src="https://github.com/hearvox/breaking-news/blob/master/assets/HP-business-of-hacking-crop.png?raw=true" alt="Gallup 2016 chart:  32% of Americans trust in mass media" />
+<figure style="float: right; margin: auto; width: 285px;">
+<img src="https://github.com/hearvox/breaking-news/blob/master/assets/HP-business-of-hacking-crop.png?raw=true" alt="Gallup 2016 chart:  32% of Americans trust in mass media" width="285" />
 <figcaption><em>Source: <a href="http://www8.hp.com/us/en/software-solutions/hacking-report/">"The Business of Hacking"</a> Hewlett Packard (2016)</em></figcaption>
 </figure>
-<br />
+
+Fake new is now big business. Its business model depends on the <a href="https://www.rjionline.org/stories/breaking-news-2-when-good-ads-go-bad">fraud-infested ad-tech industry</a>. Ad tech depends on legitimate news sites ignoring <a href="https://www.rjionline.org/stories/breaking-news-1-how-monetizing-became-malvertising">often-illegitimate practices</a>  &mdash; pojected to become "second only to cocaine and opiate markets as a form of organized crime," says the <a href="http://www.wfanet.org/pdf/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf">World Federation of Advertisers</a> (PDF).
 
 News sites are complicit in creating the most-corrupt, <a href="http://adcontrarian.blogspot.com/2017/01/display-ads-my-3-worth.html">least-effective advertising</a> in history. Among the numerous online malignancies it has spawned is the thriving fake news business.
 
@@ -98,8 +97,8 @@ Which of the above are real news and which fake (<a href="#answers">answers belo
 
 There are differences, tho: MSM load slower, are less secure and more invasive of people's privacy.
 <br />
-<figure style="margin: auto; width: 600px;">
-<a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/"><img src="https://www.mezzobit.com/wp-content/uploads/2016/12/mezzobit_MSM_ON_summary_hires.png" alt="Statistics on use of technology usey by mainstream and opinionated sites" /></a>
+<figure style="float: right; margin: auto; width: 285px;">
+<a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/"><img src="https://www.mezzobit.com/wp-content/uploads/2016/12/mezzobit_MSM_ON_summary_hires.png" alt="Statistics on use of technology usey by mainstream and opinionated sites" width="285" /></a>
 <figcaption><div><em>Source: <a href="https://www.mezzobit.com/mainstream-opinionated-news-sites-technology-use/">Mezzobit</a> (2016)</em></div></figcaption>
 </figure>
 <br />
