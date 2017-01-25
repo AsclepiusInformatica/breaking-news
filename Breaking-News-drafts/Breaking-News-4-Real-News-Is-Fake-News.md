@@ -118,7 +118,7 @@ So <a href="http://krugman.blogs.nytimes.com/2012/08/19/unethical-commentary-new
 <div><cite>&mdash;<a href="https://publiceditor.blogs.nytimes.com/2007/05/04/the-guidelines-on-our-integrity-from-1999-are-worth-a-look/?_r=0">"Guidelines on Our Integrity,"</a> The New York Times (1999)</cite></div>
 </blockquote>
 
-Formal fact-checking...
+Formal fact-checking <em>(more coming...)</em>
 
 
 <hr id="answers" />
@@ -131,6 +131,13 @@ Answers: Which of the above are real news and which fake?
 <li>Bottom-right: Now the End Begins (fake)</li>
 </ol>
 
+<a href="http://www.montana.edu/english/faculty/verbanac-josef.html">Josef Verbanac</a> of Montana State University contributed to this report. Top image <em>(more coming...)</em>
+
+<hr />
+<a href="https://www.rjionline.org/account/profile/618" class="pull-right"><img src="https://www.rjionline.org//images/avatars/uploads/avatar_618.jpg" align="right"></a>
+<small><a href="https://www.rjionline.org/account/profile/618"></a><a href="https://www.rjionline.org/account/profile/618"><strong>Barrett Golding</strong></a>
+<div>Residential fellow</div>
+<div>Barrett Golding, web developer and leader of Hearing Voices from NPR, will create a suite of open-source WordPress plugins designed to make journalists’ everyday tasks faster and easier.</div>
 <hr />
 
 
