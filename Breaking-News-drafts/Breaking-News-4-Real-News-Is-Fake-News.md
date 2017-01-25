@@ -120,7 +120,7 @@ So <a href="http://krugman.blogs.nytimes.com/2012/08/19/unethical-commentary-new
 
 Formal fact-checking <em>(more coming...)</em>
 
-<a href="http://web.archive.org/web/20161206080304/https:/twitter.com/mazmhussain/status/805895624696721413"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/Iraq-fake-news-tweet-Murtaza-Hussain.png" alt="2003: Rifle-toting Americans barge into Iraq after reading viral Fake News story about weapons of mass destruction." /></a>
+<a href="http://web.archive.org/web/20161206080304/https:/twitter.com/mazmhussain/status/805895624696721413"><img src="https://github.com/hearvox/breaking-news/blob/master/assets/Iraq-wmd-fake-news-tweet-Murtaza-Hussain.png" alt="2003: Rifle-toting Americans barge into Iraq after reading viral Fake News story about weapons of mass destruction." /></a>
 
 alt="2003: Rifle-toting Americans barge into Iraq after reading viral Fake News story about weapons of mass destruction."
 
