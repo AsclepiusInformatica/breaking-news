@@ -62,7 +62,7 @@ Fake new is now big business. Its business model depends on the <a href="https:/
 </figure>
 <br />
 
-News sites are complicit in creating the most-corrupt, <a href="http://adcontrarian.blogspot.com/2017/01/display-ads-my-3-worth.html">least-effective advertising</a> in history, which has spawned numerous online malignancies, including the thriving fake news business.
+News sites are complicit in creating the most-corrupt, <a href="http://adcontrarian.blogspot.com/2017/01/display-ads-my-3-worth.html">least-effective advertising</a> in history. Among the numerous online malignancies it has spawned is the thriving fake news business.
 
 <h2>Real news promotes fake news</h2>
 
@@ -71,7 +71,7 @@ Too often news organizations play a major role in propagating hoaxes, false clai
 <div><cite>&mdash;Craig Silverman, <a href="http://towcenter.org/research/lies-damn-lies-and-viral-content/">"Lies, Damn Lies, and Viral Content,"</a> Tow Center for Digital Journalism (2015)</cite></div>
 </blockquote>
 
-Writing about a fake news story can boost that story's social shares, search engine rank and ad dollars. Linking does the same (especially without a "nofollow" -- see First Draft News: <a href="https://firstdraftnews.com/debunk-viral-fake-news-story-help-the-hoaxers-stop-it-facebook-megyn-kelly/">"That debunk of a viral fake news story might help the hoaxers: Here's how to stop it."</a>)
+Writing about a fake news story can boost that story's social shares, search engine rank and ad dollars. Linking does the same. (See First Draft News: <a href="https://firstdraftnews.com/debunk-viral-fake-news-story-help-the-hoaxers-stop-it-facebook-megyn-kelly/">"That debunk of a viral fake news story might help the hoaxers: Here's how to stop it."</a>)
 
 Next to most news stories are <a href="https://theawl.com/a-complete-taxonomy-of-internet-chum-de0b7a070a2d#.2e7umo5mn">the chumboxes</a>, those news-like headlines for sponsored links, "recommended" by robots. <a href=" http://changeadvertising.org/the-clickbait-report/">ChangeAdvertising.org</a> estimated "only 46 percent went to what appeared to be legitimate advertisers," while 30 percent linked to clickbait and fake-news sites.
 
