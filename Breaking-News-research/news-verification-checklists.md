@@ -30,7 +30,7 @@ http://www.upworthy.com/corrections
 Measuring and improving accuracy in journalism | Jonathan Stray  
 http://jonathanstray.com/measuring-and-increasing-accuracy-in-journalism
 
-## Fake news history ## 
+## Fake news history ##
 "Fake News" Chicago Day Book (1915)  
 http://chroniclingamerica.loc.gov/lccn/sn83045487/1915-09-01/ed-1/seq-21/  
 Some day the people of this country will demand as much protection against adulterated news as they now get against adulterated food for the stomach. What goes into the mind is quite as important as what goes into the stomach.
