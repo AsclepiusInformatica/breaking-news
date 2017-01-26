@@ -1,8 +1,10 @@
 
-## Notes and quotes for BN4 ##
-
+# Notes and quotes for BN4: Fact-checking #
+Draft:  
 https://github.com/hearvox/breaking-news/blob/master/Breaking-News-drafts/Breaking-News-4-Real-News-Is-Fake-News.md
 
+
+### Young people ###
 GenForward December 2016 Toplines  
 The first of its kind monthly survey of racially and ethnically diverse young adults  
 Q39. In general, how much trust and confidence do you have in the mass media – such as newspapers, TV and radio – when it comes to reporting the news fully, accurately and fairly?  
@@ -10,55 +12,40 @@ Not very much 43 percent
 None at all 28 percent    
 http://genforwardsurvey.com/assets/uploads/2017/01/GenForward-December-2016-Toplines-_-Final.pdf
 
-5 takeaways from the Rolling Stone defamation verdict  
-http://www.cjr.org/analysis/rolling_stone_verdict_defamation_case.php
+EVALUATING INFORMATION: THE CORNERSTONE OF CIVIC ONLINE REASONING  
+https://sheg.stanford.edu/upload/V3LessonPlans/Executive%20Summary%2011.21.16.pdf 
+Many assume that because young people are fluent in social media they are equally savvy about what they find there. Our work shows the opposite… When it comes to evaluating information that flows through social media channels, they are easily duped.
 
-Fact-checking at The New Yorker  
-http://www.cjr.org/critical_eye/fact-checking_at_the_new_yorker.php  
-Peter Canby 2012
-
-7 steps to better fact-checking | PolitiFact  
-http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/
-
+### Anon ###
 The Disconnect on Anonymous Sources - The New York Times  
 http://www.nytimes.com/2013/10/13/opinion/sunday/the-public-editor-the-disconnect-on-anonymous-sources.html  
 ERIC Schmitt remembers being surprised when, as a member of a Times newsroom committee on reporting practices, he was given information about what bothered readers of The Times most. It wasn’t political bias, or factual errors, or delivery problems. 
 
 “The No. 1 complaint, far and away, was anonymous sources,” Mr. Schmitt, a longtime and well-respected national security reporter in the Washington bureau, told me last week. “It goes to the heart of our credibility.” 
 
-Measuring and improving accuracy in journalism | Jonathan Stray  
-http://jonathanstray.com/measuring-and-increasing-accuracy-in-journalism
-
+### Correction policies ###
 We're so very sorry — Upworthy's big bucket of accountability  
 http://www.upworthy.com/corrections
 
-I Am Ira Glass, creator of This American Life, AMA  
-https://www.reddit.com/r/IAmA/comments/1197d7/iam_ira_glass_creator_of_this_american_life_ama/  
-We used to fact check the way they do on the daily NPR news shows (where I worked before doing this show): editors and reporters consult about questionable facts, rundown stuff in an ad hoc way. Now we have professional fact checkers for everything, including the personal essays.
+Measuring and improving accuracy in journalism | Jonathan Stray  
+http://jonathanstray.com/measuring-and-increasing-accuracy-in-journalism
 
-Hemingway in Cuba - 65.08  
-http://www.theatlantic.com/past/docs/issues/65aug/6508manning.htm  
-Every man should have a built-in automatic crap detector operating inside him.
+### Fake news history ###  
+"Fake News" Chicago Day Book (1915)  
+http://chroniclingamerica.loc.gov/lccn/sn83045487/1915-09-01/ed-1/seq-21/  
+Some day the people of this country will demand as much protection against adulterated news as they now get against adulterated food for the stomach. What goes into the mind is quite as important as what goes into the stomach.
 
-EVALUATING INFORMATION: THE CORNERSTONE OF CIVIC ONLINE REASONING  
-https://sheg.stanford.edu/upload/V3LessonPlans/Executive%20Summary%2011.21.16.pdf 
-Many assume that because young people are fluent in social media they are equally savvy about what they find there. Our work shows the opposite… When it comes to evaluating information that flows through social media channels, they are easily duped.
-
-Fact-Checking Won’t Save Us From Fake News | FiveThirtyEight  
-https://fivethirtyeight.com/features/fact-checking-wont-save-us-from-fake-news/
-
-Some day the people of this country will demand as much protection against adulterated news as they now get against adulterated food for the stomach. What goes into the mind is quite as important as what goes into the stomach.  
-http://chroniclingamerica.loc.gov/lccn/sn83045487/1915-09-01/ed-1/seq-21/   
-"Fake News" Chicago Day Book (1915)
-
-https://www.theatlantic.com/technology/archive/2017/01/the-fake-news-crisis-120-years-ago/513710/
-
-— Murtaza Hussain (@MazMHussain) December 5, 2016
-http://web.archive.org/web/20161206080304/https:/twitter.com/mazmhussain/status/805895624696721413
+How the Fake News Crisis of 1896 Explains Trump  
+https://www.theatlantic.com/technology/archive/2017/01/the-fake-news-crisis-120-years-ago/513710/  
+William Jennings Bryan, the populist presidential hopeful, warned of an “epidemic of fake news” in his day
 
 Social Media and Fake News in the 2016 Election (January 2017)
 https://web.stanford.edu/~gentzkow/research/fakenews.pdf
 We define “fake news” as news stories that have no factual basis but are presented as facts. By “news stories,” we mean stories that originated in social media or the news media; this excludes false statements originated by political candidates or major political figures. By “presented as facts,” we exclude websites that are well-known to be satire, such as the Onion.
+
+(tweet) Murtaza Hussain (@MazMHussain) December 5, 2016  
+http://web.archive.org/web/20161206080304/https:/twitter.com/mazmhussain/status/805895624696721413  
+2003: Rifle-toting Americans barge into Iraq after reading viral Fake News story about weapons of mass destruction
 
 ### ASNE ###
 Teri Hayt, Executive Director American Society of News Editors http://www.asne.org:  
@@ -75,7 +62,6 @@ Reporting team leaders are working with their teams to initiate reporting, they 
 So, I agree with the Slate article. Few are able to fact-check and reporters are responsible for the accuracy of their content.  Reporters have always been responsible but now there is no safety net.
 
 ### Backfire effect ###
-
 Fact checking - Wikipedia  
 https://en.wikipedia.org/wiki/Fact_checking  
 A 2016 study found little evidence for the "backfire effect" (correcting false information may make partisan individuals cling more strongly to their views): "By and large, citizens heed factual information, even when such information challenges their partisan and ideological commitments." 
@@ -96,6 +82,26 @@ https://www.nytimes.com/2016/11/06/upshot/fact-checking-can-change-views-we-rate
 The Elusive Backfire Effect: Mass Attitudes' Steadfast Factual Adherence (Thomas Wood, Ethan Porter)  
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073
 Evidence of factual backfire is far more tenuous than prior research suggests. By and large, citizens heed factual information, even when such information challenges their partisan and ideological commitments.
+
+### Fact-checkers ###
+Fact-checking at The New Yorker  
+http://www.cjr.org/critical_eye/fact-checking_at_the_new_yorker.php  
+Peter Canby 2012
+
+Fact-Checking Won’t Save Us From Fake News | FiveThirtyEight  
+https://fivethirtyeight.com/features/fact-checking-wont-save-us-from-fake-news/  
+(by Brooke Borel, The Chicago Guide to Fact-Checking)
+
+I Am Ira Glass, creator of This American Life, AMA  
+https://www.reddit.com/r/IAmA/comments/1197d7/iam_ira_glass_creator_of_this_american_life_ama/  
+We used to fact check the way they do on the daily NPR news shows (where I worked before doing this show): editors and reporters consult about questionable facts, rundown stuff in an ad hoc way. Now we have professional fact checkers for everything, including the personal essays.
+
+Hemingway in Cuba - 65.08  
+http://www.theatlantic.com/past/docs/issues/65aug/6508manning.htm  
+Every man should have a built-in automatic crap detector operating inside him.
+
+7 steps to better fact-checking | PolitiFact  
+http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/
 
 <hr>
 
