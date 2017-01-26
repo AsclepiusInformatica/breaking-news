@@ -198,6 +198,15 @@ http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-
 * 6. Check out some books.
 * 7. Anything else?
 
+## URL checkers ##
+Moz: Open Site Explorer  
+https://moz.com/researchtools/ose/links?site=http%3A%2F%2Fbreitbart.com%2F&filter=&source=external&target=page&group=0&page=1&sort=page_authority&anchor_id=&anchor_type=&anchor_text=&from_site=
 
+https://whois.icann.org/en/lookup?name=breitbart.com
 
+https://www.whois.com/whois/abcnews.com.co
+
+http://abcnews.com.co/
+
+http://abcnews.go.com/
 
