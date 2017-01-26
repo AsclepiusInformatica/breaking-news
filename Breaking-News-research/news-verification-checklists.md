@@ -227,5 +227,5 @@ http://www.hoax-slayer.com/
 
 https://wordpress.org/plugins/feedwordpress/
 
-http://fact.pubmedia.us/
+https://fact.pubmedia.us/
 
