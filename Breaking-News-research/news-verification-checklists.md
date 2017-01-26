@@ -4,7 +4,7 @@ Draft:
 https://github.com/hearvox/breaking-news/blob/master/Breaking-News-drafts/Breaking-News-4-Real-News-Is-Fake-News.md
 
 
-### Young people ###
+## Young people ##
 GenForward December 2016 Toplines  
 The first of its kind monthly survey of racially and ethnically diverse young adults  
 Q39. In general, how much trust and confidence do you have in the mass media – such as newspapers, TV and radio – when it comes to reporting the news fully, accurately and fairly?  
@@ -16,21 +16,21 @@ EVALUATING INFORMATION: THE CORNERSTONE OF CIVIC ONLINE REASONING
 https://sheg.stanford.edu/upload/V3LessonPlans/Executive%20Summary%2011.21.16.pdf 
 Many assume that because young people are fluent in social media they are equally savvy about what they find there. Our work shows the opposite… When it comes to evaluating information that flows through social media channels, they are easily duped.
 
-### Anon ###
+## Anon ##
 The Disconnect on Anonymous Sources - The New York Times  
 http://www.nytimes.com/2013/10/13/opinion/sunday/the-public-editor-the-disconnect-on-anonymous-sources.html  
 ERIC Schmitt remembers being surprised when, as a member of a Times newsroom committee on reporting practices, he was given information about what bothered readers of The Times most. It wasn’t political bias, or factual errors, or delivery problems. 
 
 “The No. 1 complaint, far and away, was anonymous sources,” Mr. Schmitt, a longtime and well-respected national security reporter in the Washington bureau, told me last week. “It goes to the heart of our credibility.” 
 
-### Correction policies ###
+## Correction policies ##
 We're so very sorry — Upworthy's big bucket of accountability  
 http://www.upworthy.com/corrections
 
 Measuring and improving accuracy in journalism | Jonathan Stray  
 http://jonathanstray.com/measuring-and-increasing-accuracy-in-journalism
 
-### Fake news history ###  
+## Fake news history ## 
 "Fake News" Chicago Day Book (1915)  
 http://chroniclingamerica.loc.gov/lccn/sn83045487/1915-09-01/ed-1/seq-21/  
 Some day the people of this country will demand as much protection against adulterated news as they now get against adulterated food for the stomach. What goes into the mind is quite as important as what goes into the stomach.
@@ -47,7 +47,7 @@ We define “fake news” as news stories that have no factual basis but are pre
 http://web.archive.org/web/20161206080304/https:/twitter.com/mazmhussain/status/805895624696721413  
 2003: Rifle-toting Americans barge into Iraq after reading viral Fake News story about weapons of mass destruction
 
-### ASNE ###
+## ASNE ##
 Teri Hayt, Executive Director American Society of News Editors http://www.asne.org:  
 No, ASNE doesn't have any info on who is fact-checking.  I can only surmise that few can do it day-to-day.  I believe that the big investigative pieces are given this treatment but not necessarily the chicken dinner news which is the life-blood of a small organization.
 
@@ -61,7 +61,7 @@ Reporting team leaders are working with their teams to initiate reporting, they 
 
 So, I agree with the Slate article. Few are able to fact-check and reporters are responsible for the accuracy of their content.  Reporters have always been responsible but now there is no safety net.
 
-### Backfire effect ###
+## Backfire effect ##
 Fact checking - Wikipedia  
 https://en.wikipedia.org/wiki/Fact_checking  
 A 2016 study found little evidence for the "backfire effect" (correcting false information may make partisan individuals cling more strongly to their views): "By and large, citizens heed factual information, even when such information challenges their partisan and ideological commitments." 
@@ -83,7 +83,7 @@ The Elusive Backfire Effect: Mass Attitudes' Steadfast Factual Adherence (Thomas
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073
 Evidence of factual backfire is far more tenuous than prior research suggests. By and large, citizens heed factual information, even when such information challenges their partisan and ideological commitments.
 
-### Fact-checkers ###
+## Fact-checkers ##
 Fact-checking at The New Yorker  
 http://www.cjr.org/critical_eye/fact-checking_at_the_new_yorker.php  
 Peter Canby 2012
