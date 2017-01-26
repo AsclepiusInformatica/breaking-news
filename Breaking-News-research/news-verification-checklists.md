@@ -21,19 +21,13 @@ Peter Canby 2012
 http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/
 
 The Disconnect on Anonymous Sources - The New York Times  
-http://www.nytimes.com/2013/10/13/opinion/sunday/the-public-editor-the-disconnect-on-anonymous-sources.html
-
+http://www.nytimes.com/2013/10/13/opinion/sunday/the-public-editor-the-disconnect-on-anonymous-sources.html  
 ERIC Schmitt remembers being surprised when, as a member of a Times newsroom committee on reporting practices, he was given information about what bothered readers of The Times most. It wasn’t political bias, or factual errors, or delivery problems. 
 
 “The No. 1 complaint, far and away, was anonymous sources,” Mr. Schmitt, a longtime and well-respected national security reporter in the Washington bureau, told me last week. “It goes to the heart of our credibility.” 
 
 Measuring and improving accuracy in journalism | Jonathan Stray  
 http://jonathanstray.com/measuring-and-increasing-accuracy-in-journalism
-
-Fact-Checking Can Change Views? We Rate That as Mostly True  
-https://www.nytimes.com/2016/11/06/upshot/fact-checking-can-change-views-we-rate-that-as-mostly-true.html
-
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073
 
 We're so very sorry — Upworthy's big bucket of accountability  
 http://www.upworthy.com/corrections
@@ -62,6 +56,10 @@ https://www.theatlantic.com/technology/archive/2017/01/the-fake-news-crisis-120-
 — Murtaza Hussain (@MazMHussain) December 5, 2016
 http://web.archive.org/web/20161206080304/https:/twitter.com/mazmhussain/status/805895624696721413
 
+Social Media and Fake News in the 2016 Election (January 2017)
+https://web.stanford.edu/~gentzkow/research/fakenews.pdf
+We define “fake news” as news stories that have no factual basis but are presented as facts. By “news stories,” we mean stories that originated in social media or the news media; this excludes false statements originated by political candidates or major political figures. By “presented as facts,” we exclude websites that are well-known to be satire, such as the Onion.
+
 ### ASNE ###
 Teri Hayt, Executive Director American Society of News Editors http://www.asne.org:  
 No, ASNE doesn't have any info on who is fact-checking.  I can only surmise that few can do it day-to-day.  I believe that the big investigative pieces are given this treatment but not necessarily the chicken dinner news which is the life-blood of a small organization.
@@ -76,14 +74,7 @@ Reporting team leaders are working with their teams to initiate reporting, they 
 
 So, I agree with the Slate article. Few are able to fact-check and reporters are responsible for the accuracy of their content.  Reporters have always been responsible but now there is no safety net.
 
-Social Media and Fake News in the 2016 Election (January 2017)
-https://web.stanford.edu/~gentzkow/research/fakenews.pdf
-We define “fake news” as news stories that have no factual basis but are presented as facts. By “news stories,” we mean stories that originated in social media or the news media; this excludes false statements originated by political candidates or major political figures. By “presented as facts,” we exclude websites that are well-known to be satire, such as the Onion.
-
 ### Backfire effect ###
-When Corrections Fail: The Persistence of Political Misperceptions | SpringerLink  
-http://link.springer.com/article/10.1007%2Fs11109-010-9112-2  
-An extensive literature addresses citizen ignorance, but very little research focuses on misperceptions. Can these false or unsubstantiated beliefs about politics be corrected? Previous studies have not tested the efficacy of corrections in a realistic format. We conducted four experiments in which subjects read mock news articles that included either a misleading claim from a politician, or a misleading claim and a correction. Results indicate that corrections frequently fail to reduce misperceptions among the targeted ideological group. We also document several instances of a “backfire effect” in which corrections actually increase misperceptions among the group in question.
 
 Fact checking - Wikipedia  
 https://en.wikipedia.org/wiki/Fact_checking  
@@ -94,8 +85,16 @@ A study of Trump supporters during the 2016 race similarly found little evidence
 The Backfire Effect - Columbia Journalism Review  
 http://www.cjr.org/behind_the_news/the_backfire_effect.php  
 
-The Elusive Backfire Effect: Mass Attitudes' Steadfast Factual Adherence by Thomas Wood, Ethan Porter :: SSRN  
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073  
+When Corrections Fail: The Persistence of Political Misperceptions (Brendan Nyhan, Jason Reifler)  
+http://link.springer.com/article/10.1007%2Fs11109-010-9112-2  
+An extensive literature addresses citizen ignorance, but very little research focuses on misperceptions. Can these false or unsubstantiated beliefs about politics be corrected? Previous studies have not tested the efficacy of corrections in a realistic format. We conducted four experiments in which subjects read mock news articles that included either a misleading claim from a politician, or a misleading claim and a correction. Results indicate that corrections frequently fail to reduce misperceptions among the targeted ideological group. We also document several instances of a “backfire effect” in which corrections actually increase misperceptions among the group in question.
+
+Fact-Checking Can Change Views? We Rate That as Mostly True (Brendan Nyhan)  
+https://www.nytimes.com/2016/11/06/upshot/fact-checking-can-change-views-we-rate-that-as-mostly-true.html
+…other research we have done suggests that fact-checking can be effective. The political scientists Thomas Wood and Ethan Porter have also found corrective information is generally effective in reducing false beliefs, 
+
+The Elusive Backfire Effect: Mass Attitudes' Steadfast Factual Adherence (Thomas Wood, Ethan Porter)  
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073
 Evidence of factual backfire is far more tenuous than prior research suggests. By and large, citizens heed factual information, even when such information challenges their partisan and ideological commitments.
 
 <hr>
