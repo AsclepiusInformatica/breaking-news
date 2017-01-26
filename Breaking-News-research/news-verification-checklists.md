@@ -6,9 +6,9 @@ https://github.com/hearvox/breaking-news/blob/master/Breaking-News-drafts/Breaki
 
 ## Young people ##
 GenForward December 2016 Toplines  
-The first of its kind monthly survey of racially and ethnically diverse young adults  
+The first of its kind monthly survey of racially and ethnically diverse young adults (1,823 adults 18-30)  
 Q39. In general, how much trust and confidence do you have in the mass media – such as newspapers, TV and radio – when it comes to reporting the news fully, accurately and fairly?  
-Not very much 43 percent  
+Not very much 42 percent  
 None at all 28 percent    
 http://genforwardsurvey.com/assets/uploads/2017/01/GenForward-December-2016-Toplines-_-Final.pdf
 
