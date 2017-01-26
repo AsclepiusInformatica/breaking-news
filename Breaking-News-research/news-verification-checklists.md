@@ -210,3 +210,20 @@ http://abcnews.com.co/
 
 http://abcnews.go.com/
 
+## Fact-check feeds ##
+http://www.snopes.com/
+
+http://www.politifact.com/
+
+http://www.factcheck.org/
+
+https://www.washingtonpost.com/news/fact-checker/
+
+https://www.opensecrets.org/
+
+https://www.truthorfiction.com/
+
+http://www.hoax-slayer.com/
+
+https://wordpress.org/plugins/feedwordpress/
+
