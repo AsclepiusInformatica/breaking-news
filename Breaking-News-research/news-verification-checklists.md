@@ -104,9 +104,9 @@ Lifespan of a Fact
 http://harpers.org/archive/2012/02/what-happened-in-vegas/  
 https://www.amazon.com/Lifespan-Fact-John-DAgata/dp/0393340732
 
-The Little Golden Book of Alternate Facts
+The Little Golden Book of Alternate Facts  
 https://www.instagram.com/p/BPlGQvkhUzv/?taken-by=obrienillustration
-http://www.obrienillustration.com/
+http://www.obrienillustration.com/  
 <img src="https://scontent-ord1-1.xx.fbcdn.net/v/t1.0-9/16142612_10154208018101179_160785306693094451_n.jpg?oh=74a69a8ab87d6a992b4bb0ad45caf6f0&oe=59028FCD" />
 
 
