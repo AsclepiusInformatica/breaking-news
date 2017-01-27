@@ -100,6 +100,10 @@ Hemingway in Cuba - 65.08
 http://www.theatlantic.com/past/docs/issues/65aug/6508manning.htm  
 Every man should have a built-in automatic crap detector operating inside him.
 
+Lifespan of a Fact
+http://harpers.org/archive/2012/02/what-happened-in-vegas/  
+https://www.amazon.com/Lifespan-Fact-John-DAgata/dp/0393340732
+
 7 steps to better fact-checking | PolitiFact  
 http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/
 
