@@ -100,7 +100,7 @@ https://www.buzzfeed.com/craigsilverman/detect-fake-news-like-a-pro-2
 —Craig Silverman, BuzzFeed News Media Editor  
 https://www.buzzfeed.com/craigsilverman?language=en
 
-### IFLAI ###
+### IFLA ###
 International Federation of Library Associations and Institutions  
 http://blogs.ifla.org/lpa/2017/01/27/alternative-facts-and-fake-news-verifiability-in-the-information-society/
 * CONSIDER THE SOURCE  
