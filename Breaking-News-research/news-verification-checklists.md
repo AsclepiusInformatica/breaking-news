@@ -236,6 +236,21 @@ Ask a librarian, or consult a fact-checking site.
 http://blogs.ifla.org/lpa/files/2017/01/How-to-Spot-Fake-News.pdf  
 With thanks to www.FactCheck.org
 
+### U of FL College of Journalism ###
+http://ufsocial.jou.ufl.edu/2017/01/teaching-aid-educators-fake-news-alternative-facts/  
+Teaching Aid for Educators on “Fake News” and Alternative Facts  
+http://ufsocial.jou.ufl.edu/wp-content/uploads/2017/01/SourceCredibility.zip  
+Story Credibility Assignment   
+* Source: where does the story come from? Does the site have an ABOUT page? Does the ABOUT page say what the site’s mission is? Can you find the site’s staff members? Does the site have a physical location and offices where their reporters work? 
+* The Headline: headlines are made to be sensational even at legitimate news organizations. Does the body of the story support the headline? Is the headline intended to lead the audience to click on a story but then doesn’t match the headline in tone or content? 
+* Author: look at the byline. Who wrote the story? Are they a real person? Does the author have a photograph included? Is the photograph of a real person?  Does the author have an ABOUT page on the site or a biography at the bottom of the story?  
+* Supporting Material: even fake news will cite legitimate sources. Does the story link to source material? Does the source support the point made in the story? Often the links go to an official source, but the source material does not support the points made and instead creates the appearance of legitimacy.   
+* Check the date: some stories are not fake. Some stories are just old. But these old stories have been repackaged to relate to a current event or are being shared years after the event occurred. 
+* Joke: some sites are clearly hoax sites like. Is this a hoax site?
+* Are you biased: remember confirmation bias can lead us to believe stories that we want to believe are true. Objective reporting should provide all valid sides to a story. Does the story present just the side you agree with or only presents arguments where you disagree? 
+* Check the experts: Factcheck.org, PolitiFact.com, and Snopes.com have already debunked a lot of fake news. So check with them. 
+
+
 ## URL checkers ##
 Moz: Open Site Explorer  
 https://moz.com/researchtools/ose/links?site=http%3A%2F%2Fbreitbart.com%2F&filter=&source=external&target=page&group=0&page=1&sort=page_authority&anchor_id=&anchor_type=&anchor_text=&from_site=
