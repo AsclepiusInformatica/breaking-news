@@ -208,6 +208,28 @@ http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-
 * 6. Check out some books.
 * 7. Anything else?
 
+
+International Federation of Library Associations and Institutions  
+http://blogs.ifla.org/lpa/2017/01/27/alternative-facts-and-fake-news-verifiability-in-the-information-society/
+* CONSIDER THE SOURCE
+Click away from the story to investigate the site, its mission and its contact info.
+* READ BEYOND
+Headlines can be outrageous in an effort to get clicks. What’s the whole story?
+* CHECK THE AUTHOR
+Do a quick search on the author. Are they credible? Are they real?
+* SUPPORTING SOURCES?
+Click on those links. Determine if the info given actually supports the story.
+CHECK THE DATE
+Reposting old news stories doesn’t mean they’re relevant to current events.
+* IS IT A JOKE?
+If it is too outlandish, it might be satire. Research the site and author to be sure.
+* CHECK YOUR BIASES  
+Consider if your own beliefs could affect your judgement.
+* ASK THE EXPERTS  
+Ask a librarian, or consult a fact-checking site.
+http://blogs.ifla.org/lpa/files/2017/01/How-to-Spot-Fake-News.pdf
+With thanks to www.FactCheck.org
+
 ## URL checkers ##
 Moz: Open Site Explorer  
 https://moz.com/researchtools/ose/links?site=http%3A%2F%2Fbreitbart.com%2F&filter=&source=external&target=page&group=0&page=1&sort=page_authority&anchor_id=&anchor_type=&anchor_text=&from_site=
