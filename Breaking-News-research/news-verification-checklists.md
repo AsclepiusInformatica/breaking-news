@@ -169,7 +169,6 @@ https://firstdraftnews.com/resources/category/verification/
 https://firstdraftnews.com/articulate/obsc/story.html  
 Flash???
 
-
 Use This Checklist To Find Out If You’re Looking At Fake News  
 https://www.buzzfeed.com/craigsilverman/fake-news-checkllist-1  
 https://www.buzzfeed.com/craigsilverman/fake-news-checkllist-2  
@@ -198,36 +197,25 @@ https://www.buzzfeed.com/craigsilverman/detect-fake-news-like-a-pro-2
 —Craig Silverman, BuzzFeed News Media Editor  
 https://www.buzzfeed.com/craigsilverman?language=en
 
-7 steps to better fact-checking  
-http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/
-* 1. Ask the person making the claim for evidence.
-* 2. Look for what other fact-checkers have found before you.
-* 3. Do a Google search -- and then search again.
-* 4. Search the Deep Web.
-* 5. Look for experts with different perspectives.
-* 6. Check out some books.
-* 7. Anything else?
-
-
 International Federation of Library Associations and Institutions  
 http://blogs.ifla.org/lpa/2017/01/27/alternative-facts-and-fake-news-verifiability-in-the-information-society/
-* CONSIDER THE SOURCE
+* CONSIDER THE SOURCE  
 Click away from the story to investigate the site, its mission and its contact info.
-* READ BEYOND
+* READ BEYOND  
 Headlines can be outrageous in an effort to get clicks. What’s the whole story?
-* CHECK THE AUTHOR
+* CHECK THE AUTHOR  
 Do a quick search on the author. Are they credible? Are they real?
-* SUPPORTING SOURCES?
+* SUPPORTING SOURCES?  
 Click on those links. Determine if the info given actually supports the story.
-CHECK THE DATE
+CHECK THE DATE  
 Reposting old news stories doesn’t mean they’re relevant to current events.
-* IS IT A JOKE?
+* IS IT A JOKE?  
 If it is too outlandish, it might be satire. Research the site and author to be sure.
-* CHECK YOUR BIASES  
+* CHECK YOUR BIASES   
 Consider if your own beliefs could affect your judgement.
 * ASK THE EXPERTS  
-Ask a librarian, or consult a fact-checking site.
-http://blogs.ifla.org/lpa/files/2017/01/How-to-Spot-Fake-News.pdf
+Ask a librarian, or consult a fact-checking site.  
+http://blogs.ifla.org/lpa/files/2017/01/How-to-Spot-Fake-News.pdf  
 With thanks to www.FactCheck.org
 
 ## URL checkers ##
