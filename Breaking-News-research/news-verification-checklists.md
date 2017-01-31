@@ -115,8 +115,9 @@ http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-
 
 ## News verification checklists ##
 
-7 steps to better fact-checking (2014)
- -http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/
+### Politfact ###
+7 steps to better fact-checking (2014)  
+ http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/  
  * 1. Ask the person making the claim for evidence.
  * 2. Look for what other fact-checkers have found before you.
  * 3. Do a Google search -- and then search again.
@@ -124,7 +125,8 @@ http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-
  * 5. Look for experts with different perspectives.
  * 6. Check out some books.
  * 7. Anything else?
- 
+
+### USA Today ###
 7 ways to spot fake news stories (2016-11-15)  
 http://college.usatoday.com/2016/11/15/7-ways-to-spot-fake-news-stories/
 * 1. CHECK THE DATE
@@ -135,7 +137,8 @@ http://college.usatoday.com/2016/11/15/7-ways-to-spot-fake-news-stories/
 * 6. USE REVERSE IMAGE SEARCH
 * 7. BEWARE OF EXTRAVAGANCE  
 —Jillian Vandiveer is a Brooklyn College student and a USA TODAY College digital producer.
-
+\
+### NPR ###
 Fake Or Real? How To Self-Check The News And Get The Facts (2016-12-05)
 http://www.npr.org/sections/alltechconsidered/2016/12/05/503581220/fake-or-real-how-to-self-check-the-news-and-get-the-facts
 * Pay attention to the domain and URL
@@ -146,6 +149,7 @@ http://www.npr.org/sections/alltechconsidered/2016/12/05/503581220/fake-or-real-
 * Reverse image search  
 —Wynne Davis is a Digital News intern.
 
+### The Verge ###
 FACEBOOK AND GOOGLE MAKE LIES AS PRETTY AS TRUTH
 http://www.theverge.com/2016/12/6/13850230/fake-news-sites-google-search-facebook-instant-articles
 (sidebar)
@@ -155,6 +159,7 @@ http://www.theverge.com/2016/12/6/13850230/fake-news-sites-google-search-faceboo
 * REPETITION  
 —Melissa Zimdars, professor of communications at Merrimack College
 
+### BBC ###
 How to spot a fake US election claim (2016-11-02)  
 http://www.bbc.com/news/world-us-canada-37848350  
 How to report fake news to social media (2016-11-22)  
@@ -168,6 +173,7 @@ Things to ask yourself before you share a claim
 * Could this be something else?
 —Alex Murray, Social News and UGC Hub, BBC News
 
+### First Draft News ###
 Don’t get tricked: Checks on fake news that anyone can do  
 https://firstdraftnews.com/dont-get-tricked-this-election-checks-on-fake-news-that-anyone-can-do/
 * Reverse image search
@@ -178,6 +184,7 @@ https://firstdraftnews.com/resources/category/verification/
 https://firstdraftnews.com/articulate/obsc/story.html  
 Flash???
 
+### Buzzfeed ###
 Use This Checklist To Find Out If You’re Looking At Fake News  
 https://www.buzzfeed.com/craigsilverman/fake-news-checkllist-1  
 https://www.buzzfeed.com/craigsilverman/fake-news-checkllist-2  
@@ -194,6 +201,7 @@ https://www.buzzfeed.com/craigsilverman/fake-news-checkllist-2
 —Craig Silverman, BuzzFeed News Media Editor  
 https://www.buzzfeed.com/craigsilverman?language=en
 
+### Buzzfeed ###
 6 Easy AF Steps To Detect Fake News Like A Pro   
 https://www.buzzfeed.com/craigsilverman/detect-fake-news-like-a-pro-1  
 https://www.buzzfeed.com/craigsilverman/detect-fake-news-like-a-pro-2
@@ -206,6 +214,7 @@ https://www.buzzfeed.com/craigsilverman/detect-fake-news-like-a-pro-2
 —Craig Silverman, BuzzFeed News Media Editor  
 https://www.buzzfeed.com/craigsilverman?language=en
 
+### IFLAI ###
 International Federation of Library Associations and Institutions  
 http://blogs.ifla.org/lpa/2017/01/27/alternative-facts-and-fake-news-verifiability-in-the-information-society/
 * CONSIDER THE SOURCE  
