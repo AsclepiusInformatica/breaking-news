@@ -161,7 +161,7 @@ Story Credibility Assignment
 
 # Notes and quotes for BN4 Fake news (RJI post) #
 Draft:  
-https://github.com/hearvox/breaking-news/blob/master/Breaking-News-drafts/Breaking-News-4-Real-News-Is-Fake-News.md
+https://docs.google.com/document/d/16tI5lwY7g9yq8s9dR15__l6sRub2-GEoNmeXwY223S
 
 
 ## Young people ##
