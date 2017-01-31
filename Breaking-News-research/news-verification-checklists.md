@@ -114,6 +114,17 @@ http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-
 <hr>
 
 ## News verification checklists ##
+
+7 steps to better fact-checking (2014)
+ -http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/
+ * 1. Ask the person making the claim for evidence.
+ * 2. Look for what other fact-checkers have found before you.
+ * 3. Do a Google search -- and then search again.
+ * 4. Search the Deep Web.
+ * 5. Look for experts with different perspectives.
+ * 6. Check out some books.
+ * 7. Anything else?
+ 
 7 ways to spot fake news stories (2016-11-15)  
 http://college.usatoday.com/2016/11/15/7-ways-to-spot-fake-news-stories/
 * 1. CHECK THE DATE
