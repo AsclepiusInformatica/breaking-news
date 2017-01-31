@@ -150,3 +150,153 @@ Blockquote
 </blockquote>
 
 RJI color: #006a84
+
+<hr>
+
+
+# Notes and quotes for BN4 Fake news (RJI post) #
+Draft:  
+https://docs.google.com/document/d/16tI5lwY7g9yq8s9dR15__l6sRub2-GEoNmeXwY223S
+
+
+## Young people ##
+GenForward December 2016 Toplines  
+The first of its kind monthly survey of racially and ethnically diverse young adults (1,823 adults 18-30)  
+Q39. In general, how much trust and confidence do you have in the mass media – such as newspapers, TV and radio – when it comes to reporting the news fully, accurately and fairly?  
+Not very much 42 percent  
+None at all 28 percent    
+http://genforwardsurvey.com/assets/uploads/2017/01/GenForward-December-2016-Toplines-_-Final.pdf
+
+EVALUATING INFORMATION: THE CORNERSTONE OF CIVIC ONLINE REASONING  
+https://sheg.stanford.edu/upload/V3LessonPlans/Executive%20Summary%2011.21.16.pdf 
+Many assume that because young people are fluent in social media they are equally savvy about what they find there. Our work shows the opposite… When it comes to evaluating information that flows through social media channels, they are easily duped.
+
+## Anon ##
+The Disconnect on Anonymous Sources - The New York Times  
+http://www.nytimes.com/2013/10/13/opinion/sunday/the-public-editor-the-disconnect-on-anonymous-sources.html  
+ERIC Schmitt remembers being surprised when, as a member of a Times newsroom committee on reporting practices, he was given information about what bothered readers of The Times most. It wasn’t political bias, or factual errors, or delivery problems. 
+
+“The No. 1 complaint, far and away, was anonymous sources,” Mr. Schmitt, a longtime and well-respected national security reporter in the Washington bureau, told me last week. “It goes to the heart of our credibility.” 
+
+## Correction policies ##
+We're so very sorry — Upworthy's big bucket of accountability  
+http://www.upworthy.com/corrections
+
+Measuring and improving accuracy in journalism | Jonathan Stray  
+http://jonathanstray.com/measuring-and-increasing-accuracy-in-journalism
+
+## Fake news history ##
+"Fake News" Chicago Day Book (1915)  
+http://chroniclingamerica.loc.gov/lccn/sn83045487/1915-09-01/ed-1/seq-21/  
+Some day the people of this country will demand as much protection against adulterated news as they now get against adulterated food for the stomach. What goes into the mind is quite as important as what goes into the stomach.
+
+How the Fake News Crisis of 1896 Explains Trump  
+https://www.theatlantic.com/technology/archive/2017/01/the-fake-news-crisis-120-years-ago/513710/  
+William Jennings Bryan, the populist presidential hopeful, warned of an “epidemic of fake news” in his day
+
+Social Media and Fake News in the 2016 Election (January 2017)
+https://web.stanford.edu/~gentzkow/research/fakenews.pdf
+We define “fake news” as news stories that have no factual basis but are presented as facts. By “news stories,” we mean stories that originated in social media or the news media; this excludes false statements originated by political candidates or major political figures. By “presented as facts,” we exclude websites that are well-known to be satire, such as the Onion.
+
+(tweet) Murtaza Hussain (@MazMHussain) December 5, 2016  
+http://web.archive.org/web/20161206080304/https:/twitter.com/mazmhussain/status/805895624696721413  
+2003: Rifle-toting Americans barge into Iraq after reading viral Fake News story about weapons of mass destruction
+
+## ASNE ##
+Teri Hayt, Executive Director American Society of News Editors http://www.asne.org:  
+No, ASNE doesn't have any info on who is fact-checking.  I can only surmise that few can do it day-to-day.  I believe that the big investigative pieces are given this treatment but not necessarily the chicken dinner news which is the life-blood of a small organization.
+
+Here are my thoughts on fact-checking in new organizations and maybe this is the avenue you want to explore????: 
+
+As the industry contracted those journalists that worked in the news libraries were laid off, copy desks were been laid off.  Those two groups of journalist - especially at smaller and mid-sized organizations were a wealth of knowledge and reporters would often ask them to double check a fact.  HOW MANY TIMES HAS A COPY DESK EDITOR SAVED A REPORTER FROM A MISTAKE? More times than they care to admit.  This was the value of those two departments.  
+
+The layoffs initially protected "content producers" that is why these groups were the first to feel the pain, they did not actually produce stories, video, graphics, photographs, etc. It became clear to all that laying off these folks, who had extraordinary local knowledge, was going to impact their reporting.  Anecdotaly, errors went up - maybe small ones - the accident was at 200 West Speedway Ave, not East Speedway, or the governor was in office for two terms not three, etc. Again, I am not clear on any actually studies on reporting errors in the age of copy desk free news.
+
+Reporting team leaders are working with their teams to initiate reporting, they edit for clarity and grammar - some can fact check but few can do that  because their teams have grown as more layoffs happen across the news organizations.  I believe that the big investigative pieces do go through a rigorous fact check before publication but not the everyday - chicken dinner news - the reporting on the superintendents or city council meetings, etc. Its that chicken dinner, basic reporting on community news that is so important to readers.
+
+So, I agree with the Slate article. Few are able to fact-check and reporters are responsible for the accuracy of their content.  Reporters have always been responsible but now there is no safety net.
+
+## Backfire effect ##
+Fact checking - Wikipedia  
+https://en.wikipedia.org/wiki/Fact_checking  
+A 2016 study found little evidence for the "backfire effect" (correcting false information may make partisan individuals cling more strongly to their views): "By and large, citizens heed factual information, even when such information challenges their partisan and ideological commitments." 
+
+A study of Trump supporters during the 2016 race similarly found little evidence for the backfire effect: "When respondents read a news article about Mr. Trump’s speech that included F.B.I. statistics indicating that crime had “fallen dramatically and consistently over time,” their misperceptions about crime declined compared with those who saw a version of the article that omitted corrective information (though misperceptions persisted among a sizable minority)."
+
+The Backfire Effect - Columbia Journalism Review  
+http://www.cjr.org/behind_the_news/the_backfire_effect.php  
+
+When Corrections Fail: The Persistence of Political Misperceptions (Brendan Nyhan, Jason Reifler)  
+http://link.springer.com/article/10.1007%2Fs11109-010-9112-2  
+An extensive literature addresses citizen ignorance, but very little research focuses on misperceptions. Can these false or unsubstantiated beliefs about politics be corrected? Previous studies have not tested the efficacy of corrections in a realistic format. We conducted four experiments in which subjects read mock news articles that included either a misleading claim from a politician, or a misleading claim and a correction. Results indicate that corrections frequently fail to reduce misperceptions among the targeted ideological group. We also document several instances of a “backfire effect” in which corrections actually increase misperceptions among the group in question.
+
+Fact-Checking Can Change Views? We Rate That as Mostly True (Brendan Nyhan)  
+https://www.nytimes.com/2016/11/06/upshot/fact-checking-can-change-views-we-rate-that-as-mostly-true.html
+…other research we have done suggests that fact-checking can be effective. The political scientists Thomas Wood and Ethan Porter have also found corrective information is generally effective in reducing false beliefs, 
+
+The Elusive Backfire Effect: Mass Attitudes' Steadfast Factual Adherence (Thomas Wood, Ethan Porter)  
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073
+Evidence of factual backfire is far more tenuous than prior research suggests. By and large, citizens heed factual information, even when such information challenges their partisan and ideological commitments.
+
+## Fact-checkers ##
+Fact-checking at The New Yorker  
+http://www.cjr.org/critical_eye/fact-checking_at_the_new_yorker.php  
+Peter Canby 2012
+
+Fact-Checking Won’t Save Us From Fake News | FiveThirtyEight  
+https://fivethirtyeight.com/features/fact-checking-wont-save-us-from-fake-news/  
+(by Brooke Borel, The Chicago Guide to Fact-Checking)
+
+I Am Ira Glass, creator of This American Life, AMA  
+https://www.reddit.com/r/IAmA/comments/1197d7/iam_ira_glass_creator_of_this_american_life_ama/  
+We used to fact check the way they do on the daily NPR news shows (where I worked before doing this show): editors and reporters consult about questionable facts, rundown stuff in an ad hoc way. Now we have professional fact checkers for everything, including the personal essays.
+
+Hemingway in Cuba - 65.08  
+http://www.theatlantic.com/past/docs/issues/65aug/6508manning.htm  
+Every man should have a built-in automatic crap detector operating inside him.
+
+Lifespan of a Fact
+http://harpers.org/archive/2012/02/what-happened-in-vegas/  
+https://www.amazon.com/Lifespan-Fact-John-DAgata/dp/0393340732
+
+The Little Golden Book of Alternate Facts  
+https://www.instagram.com/p/BPlGQvkhUzv/?taken-by=obrienillustration  
+http://www.obrienillustration.com/  
+
+7 steps to better fact-checking | PolitiFact  
+http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/
+
+<hr>
+
+## URL checkers ##
+Moz: Open Site Explorer  
+https://moz.com/researchtools/ose/links?site=http%3A%2F%2Fbreitbart.com%2F&filter=&source=external&target=page&group=0&page=1&sort=page_authority&anchor_id=&anchor_type=&anchor_text=&from_site=
+
+https://whois.icann.org/en/lookup?name=breitbart.com
+
+https://www.whois.com/whois/abcnews.com.co
+
+http://abcnews.com.co/
+
+http://abcnews.go.com/
+
+## Fact-check feeds ##
+http://www.snopes.com/
+
+http://www.politifact.com/
+
+http://www.factcheck.org/
+
+https://www.washingtonpost.com/news/fact-checker/
+
+https://www.opensecrets.org/
+
+https://www.truthorfiction.com/
+
+http://www.hoax-slayer.com/
+
+https://wordpress.org/plugins/feedwordpress/
+
+https://fact.pubmedia.us/
+
+
