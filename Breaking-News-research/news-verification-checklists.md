@@ -36,9 +36,9 @@ http://www.npr.org/sections/alltechconsidered/2016/12/05/503581220/fake-or-real-
 —Wynne Davis is a Digital News intern.
 
 ### The Verge ###
-FACEBOOK AND GOOGLE MAKE LIES AS PRETTY AS TRUTH
-http://www.theverge.com/2016/12/6/13850230/fake-news-sites-google-search-facebook-instant-articles
-(sidebar)
+FACEBOOK AND GOOGLE MAKE LIES AS PRETTY AS TRUTH  
+http://www.theverge.com/2016/12/6/13850230/fake-news-sites-google-search-facebook-instant-articles  
+(sidebar)  
 * DOMAIN NAMES
 * ALL CAPS, MISPELLINGS, SENSATIONAL HEADLINES!
 * SHADY AUTHORS
@@ -136,11 +136,27 @@ FAKE NEWS EDITION
 * 6. Verify an unlikely story by finding a reputable outlet reporting the same thing.
 * 7. Check the date. Social media often resurrects outdated stories.
 * 8. Read past headlines. Often they bear no resemblance to what lies beneath.
-* 9. Photos may be misidentified and dated. Use a reverse image search engine like
-TinEye to see where an image really comes from.
+* 9. Photos may be misidentified and dated. Use a reverse image search engine like TinEye to see where an image really comes from.
 * 10. Gut check. If a story makes you angry, it's probably designed that way.
 * 11. Finally, if you're not sure it's true, don't share it! *Don't. Share. It.* 
 <img src="https://media2.wnyc.org/i/800/800/l/80/1/OTM_Consumer_Handbook_FakeNewsEdition_800.png" />
+—Melissa Zimdars, professor of communications at Merrimack College  
+http://www.merrimack.edu/live/profiles/586-melissa-mish-zimdars  
+http://www.opensources.co/  
+
+### OpenSources ###
+http://www.opensources.co/  
+https://github.com/BigMcLargeHuge/opensources  
+OpenSources is a curated resource for assessing online information sources… a continuously updated database of information sources.  
+Our Methods:
+* Step 1: Title/Domain Analysis. If “.wordpress” “.com.co” appear in the title -- or any slight variation on a well known website-- this is usually a sign there is a problem.
+* Step 2: About Us Analysis. Google every title/domain name/anyone listed in the “About Us” section to see if anyone has previously reported on the website (snopes, hoax-slayer, factcheck.org, etc.) or whether it has a Wikipedia page with citations or something similar detailing its background. This is useful for identifying and correctly categorizing lesser known and/or new websites that may be on the up-and-up, such as satirical sources or websites that are explicit about their political orientation.
+* Step 3: Source Analysis. Does the website mention/link to a study or source? Look up the source/study. Is it being accurately reflected and reported? Are officials being cited? Can a primary source be located for its quotations? Some media literacy and critical scholars call this triangulation: Verify details, facts, quotes, etc. with multiple sources.
+* Step 4: Writing Style Analysis. Does the website follow AP Style Guide? Typically, lack of style guide use signifies questionable, more opinion-oriented practices, and may indicate an overall lack of editing or fact-checking process. Does it frequently use ALL CAPS in headlines and/or body text? Does the headline or body of the text use phrases like "WOW!!!!"? This stylistic practice and these types of hyperbolic word choices are often used to create emotional responses with readers that is avoided in more traditional journalism and isn’t something that would be permitted or encouraged by the AP Style Guide
+* Step 5: Aesthetic Analysis. Like the style-guide, many fake and questionable news sites utilize very bad design. Are screens are cluttered and they use heavy-handed photo-shopping or born digital images?
+* Step 6: Social Media Analysis. Look up the website on Facebook. Do the headlines and posts rely on sensational or provocative language (aka click-bait) in order to attract attention and encourage likes, click-throughs, and shares? Do the headlines and social media descriptions match or accurately reflect the content of the linked article? (this step isn’t particularly good at helping us find fake news, but it can help us identify other misleading news sources)  
+—Melissa Zimdars, professor of communications at Merrimack College  
+
 
 ### U of FL College of Journalism ###
 http://ufsocial.jou.ufl.edu/2017/01/teaching-aid-educators-fake-news-alternative-facts/  
@@ -155,7 +171,6 @@ Story Credibility Assignment
 * Joke: some sites are clearly hoax sites like. Is this a hoax site?
 * Are you biased: remember confirmation bias can lead us to believe stories that we want to believe are true. Objective reporting should provide all valid sides to a story. Does the story present just the side you agree with or only presents arguments where you disagree? 
 * Check the experts: Factcheck.org, PolitiFact.com, and Snopes.com have already debunked a lot of fake news. So check with them. 
-
 
 <hr />
 
