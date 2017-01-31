@@ -156,6 +156,7 @@ Our Methods:
 * Step 5: Aesthetic Analysis. Like the style-guide, many fake and questionable news sites utilize very bad design. Are screens are cluttered and they use heavy-handed photo-shopping or born digital images?
 * Step 6: Social Media Analysis. Look up the website on Facebook. Do the headlines and posts rely on sensational or provocative language (aka click-bait) in order to attract attention and encourage likes, click-throughs, and shares? Do the headlines and social media descriptions match or accurately reflect the content of the linked article? (this step isn’t particularly good at helping us find fake news, but it can help us identify other misleading news sources)  
 —Melissa Zimdars, professor of communications at Merrimack College  
+https://github.com/BigMcLargeHuge/opensources/blob/master/notCredible/notCredible.csv
 
 
 ### U of FL College of Journalism ###
@@ -289,8 +290,12 @@ http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-
 <hr>
 
 ## URL checkers ##
-Moz: Open Site Explorer  
+Moz: Open Site Explorer 
+https://moz.com/researchtools/ose/  
+
 https://moz.com/researchtools/ose/links?site=http%3A%2F%2Fbreitbart.com%2F&filter=&source=external&target=page&group=0&page=1&sort=page_authority&anchor_id=&anchor_type=&anchor_text=&from_site=
+
+https://moz.com/researchtools/ose/links?site=http%3A%2F%2Fabcnews.com.co%2F&filter=&source=external&target=page&group=0&page=1&sort=page_authority&anchor_id=&anchor_type=&anchor_text=&from_site=
 
 https://whois.icann.org/en/lookup?name=breitbart.com
 
@@ -299,6 +304,13 @@ https://www.whois.com/whois/abcnews.com.co
 http://abcnews.com.co/
 
 http://abcnews.go.com/
+
+http://www.propornot.com/
+
+https://moz.com/researchtools/ose/links?site=http%3A%2F%2Fwww.propornot.com%2F&filter=&source=external&target=page&group=0&page=1&sort=page_authority&anchor_id=&anchor_type=&anchor_text=&from_site=
+
+http://whois.domaintools.com/propornot.com
+https://who.is/whois/propornot.com
 
 ## Fact-check feeds ##
 http://www.snopes.com/
@@ -315,7 +327,9 @@ https://www.truthorfiction.com/
 
 http://www.hoax-slayer.com/
 
-https://wordpress.org/plugins/feedwordpress/
-
+### Feed aggregation ###
 https://fact.pubmedia.us/
+
+Uses:
+https://wordpress.org/plugins/feedwordpress/
 
