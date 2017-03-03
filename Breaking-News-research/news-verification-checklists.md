@@ -1,6 +1,8 @@
 
 ## News verification checklists ##
 
+(Mom note: when you click, you're at risk.)
+
 ### Politfact ###
 7 steps to better fact-checking (2014)  
  http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/  
