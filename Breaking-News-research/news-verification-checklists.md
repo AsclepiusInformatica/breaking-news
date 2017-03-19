@@ -1,7 +1,35 @@
 
 ## News verification checklists ##
 
-(Mom note: when you click, you're at risk.)
+
+### All the President's Men ###
+All the President's Men, Carl Bernstein and Bob Woodward (1974)
+
+<blockquote>Gradually, an unwritten rule was evolving: unless two sources confirmed a charge involving activity likely to be considered criminal, the specific allegation was not used in the paper. (p79)</blockquote>
+
+<blockquote>"I don't care if it's a word, a phrase, a sentence, a paragraph, a whole story or an entire series of stories," he said. "When in doubt, leave it out."  
+—Howard Simons, Managing Editor, Washington Post (p114)</blockquote>
+
+<blockquote>The rule was: Lay it out piece by piece, white what you know is solid; the big picture can wait. (p129)</blockquote>
+
+<blockquote>The Nixon White House worried him. "They are all underhanded and unknowable," he had said numerous times. He also distrusted the press. "I don't like newspapers," he had said flatly. He detested inexactitude and shallowness.  
+—Deep Throat (p131)</blockquote>
+
+"Woodward and Bernstein: 40 years after Watergate, Nixon was far worse than we thought"
+By Carl Bernstein and Bob Woodward June 8, 2012
+https://www.washingtonpost.com/opinions/woodward-and-bernstein-40-years-after-watergate-nixon-was-far-worse-than-we-thought/2012/06/08/gJQAlsi0NV_story.html?utm_term=.fca6450c0082
+
+Afterword  
+Marking the fortieth anniversary of Watergate
+
+<blockquote><strong>The war on the news media</strong>
+
+In response to suspected leaks to the press about Vietnam, Kissinger had ordered FBI wiretaps in 1969 on the telephones of 17 journalists and White House aides, without court approval. Many news stories based on the purported leaks questioned progress in the American war effort, further fueling the antiwar movement. In a tape from the Oval Office on Feb. 22, 1971, Nixon said, “In the short run, it would be so much easier, wouldn’t it, to run this war in a dictatorial way, kill all the reporters and carry on the war.”
+
+“The press is your enemy,” Nixon explained five days later in a meeting with Adm. Thomas H. Moorer, the chairman of the Joint Chiefs of Staff, according to another tape. “Enemies. Understand that? . . . Now, never act that way . . . give them a drink, you know, treat them nice, you just love it, you’re trying to be helpful. But don’t help the bastards. Ever. Because they’re trying to stick the knife right in our groin.” 
+(p340)</blockquote>
+
+
 
 ### Politfact ###
 7 steps to better fact-checking (2014)  
@@ -223,4 +251,6 @@ https://moz.com/researchtools/ose/links?site=http%3A%2F%2Fwww.propornot.com%2F&f
 
 http://whois.domaintools.com/propornot.com
 https://who.is/whois/propornot.com
+
+(Mom note: when you click, you're at risk.)
 
