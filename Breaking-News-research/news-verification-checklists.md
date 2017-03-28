@@ -194,12 +194,14 @@ http://www.hoax-slayer.com/
 ### Feed aggregation ###
 https://fact.pubmedia.us/
 
-Uses:
-https://wordpress.org/plugins/feedwordpress/
+### No RSS feed yet ###
+https://apnews.com/tag/APFactCheck
+
+https://ballotpedia.org/Verbatim
 
 <hr>
 
-<h2 id="wategate">All the President's Men</h2>
+<h2 id="watergate">All the President's Men</h2>
 All the President's Men, Carl Bernstein and Bob Woodward (1974)
 
 <blockquote>Gradually, an unwritten rule was evolving: unless two sources confirmed a charge involving activity likely to be considered criminal, the specific allegation was not used in the paper. (p79)</blockquote>
@@ -226,28 +228,5 @@ In response to suspected leaks to the press about Vietnam, Kissinger had ordered
 “The press is your enemy,” Nixon explained five days later in a meeting with Adm. Thomas H. Moorer, the chairman of the Joint Chiefs of Staff, according to another tape. “Enemies. Understand that? . . . Now, never act that way . . . give them a drink, you know, treat them nice, you just love it, you’re trying to be helpful. But don’t help the bastards. Ever. Because they’re trying to stick the knife right in our groin.” 
 (p340)</blockquote>
 
-## URL checkers ##
-Moz: Open Site Explorer 
-https://moz.com/researchtools/ose/  
 
-https://moz.com/researchtools/ose/links?site=http%3A%2F%2Fbreitbart.com%2F&filter=&source=external&target=page&group=0&page=1&sort=page_authority&anchor_id=&anchor_type=&anchor_text=&from_site=
-
-https://moz.com/researchtools/ose/links?site=http%3A%2F%2Fabcnews.com.co%2F&filter=&source=external&target=page&group=0&page=1&sort=page_authority&anchor_id=&anchor_type=&anchor_text=&from_site=
-
-https://whois.icann.org/en/lookup?name=breitbart.com
-
-https://www.whois.com/whois/abcnews.com.co
-
-http://abcnews.com.co/
-
-http://abcnews.go.com/
-
-http://www.propornot.com/
-
-https://moz.com/researchtools/ose/links?site=http%3A%2F%2Fwww.propornot.com%2F&filter=&source=external&target=page&group=0&page=1&sort=page_authority&anchor_id=&anchor_type=&anchor_text=&from_site=
-
-http://whois.domaintools.com/propornot.com
-https://who.is/whois/propornot.com
-
-(Mom note: when you click, you're at risk.)
 
