@@ -12,6 +12,20 @@
  * 6. Check out some books.
  * 7. Anything else?
 
+### Tips to Spot False News ###
+https://www.facebook.com/help/188118808357379  
+*1 We want to stop the spread of false news on Facebook. Learn more about the work we're doing. As we work to limit the spread, here are some tips on what to look out for:
+*1 Be skeptical of headlines. False news stories often have catchy headlines in all caps with exclamation points. If shocking claims in the headline sound unbelievable, they probably are.
+Look closely at the URL. A phony or look-alike URL may be a warning sign of false news. Many false news sites mimic authentic news sources by making small changes to the URL. You can go to the site to compare the URL to established sources.
+Investigate the source. Ensure that the story is written by a source that you trust with a reputation for accuracy. If the story comes from an unfamiliar organization, check their "About" section to learn more.
+Watch for unusual formatting. Many false news sites have misspellings or awkward layouts. Read carefully if you see these signs.
+Consider the photos. False news stories often contain manipulated images or videos. Sometimes the photo may be authentic, but taken out of context. You can search for the photo or image to verify where it came from.
+Inspect the dates. False news stories may contain timelines that make no sense, or event dates that have been altered.
+Check the evidence. Check the author's sources to confirm that they are accurate. Lack of evidence or reliance on unnamed experts may indicate a false news story.
+Look at other reports. If no other news source is reporting the same story, it may indicate that the story is false. If the story is reported by multiple sources you trust, it's more likely to be true.
+Is the story a joke? Sometimes false news stories can be hard to distinguish from humor or satire. Check whether the source is known for parody, and whether the story's details and tone suggest it may be just for fun.
+Some stories are intentionally false. Think critically about the stories you read, and only share news that you know to be credible.
+
 ### USA Today ###
 7 ways to spot fake news stories (2016-11-15)  
 http://college.usatoday.com/2016/11/15/7-ways-to-spot-fake-news-stories/
