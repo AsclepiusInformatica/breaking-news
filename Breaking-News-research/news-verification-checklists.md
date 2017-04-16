@@ -215,7 +215,9 @@ https://ballotpedia.org/Verbatim
 
 <hr>
 
-<h2 id="watergate">All the President's Men</h2>
+<h2 id="quotes">J-Quotes</h2>
+
+<h3 id="watergate">All the President's Men</h3>
 All the President's Men, Carl Bernstein and Bob Woodward (1974)
 
 <blockquote>Gradually, an unwritten rule was evolving: unless two sources confirmed a charge involving activity likely to be considered criminal, the specific allegation was not used in the paper. (p79)</blockquote>
@@ -241,6 +243,18 @@ In response to suspected leaks to the press about Vietnam, Kissinger had ordered
 
 “The press is your enemy,” Nixon explained five days later in a meeting with Adm. Thomas H. Moorer, the chairman of the Joint Chiefs of Staff, according to another tape. “Enemies. Understand that? . . . Now, never act that way . . . give them a drink, you know, treat them nice, you just love it, you’re trying to be helpful. But don’t help the bastards. Ever. Because they’re trying to stick the knife right in our groin.” 
 (p340)</blockquote>
+
+<h3>Fear and Loathing on the Campaign Trail '72</h3>
+
+<h3>Murrow</h3>
+
+https://en.wikiquote.org/wiki/Edward_R._Murrow
+
+<blockquote>American traditions and the American ethic require us to be truthful, but the most important reason is that truth is the best propaganda and lies are the worst. To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful. It is as simple as that.
+<cite>/Edward_R._Murrow, Speaking as the Director of USIA, in <a href="http://pdaa.publicdiplomacy.org/?page_id=6">testimony before a Congressional Committee</a> (May 1963)</cite>
+</blockquote>
+
+
 
 
 
