@@ -250,8 +250,8 @@ In response to suspected leaks to the press about Vietnam, Kissinger had ordered
 
 https://en.wikiquote.org/wiki/Edward_R._Murrow
 
-<blockquote>American traditions and the American ethic require us to be truthful, but the most important reason is that truth is the best propaganda and lies are the worst. To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful. It is as simple as that.
-<cite>/Edward_R._Murrow, Speaking as the Director of USIA, in <a href="http://pdaa.publicdiplomacy.org/?page_id=6">testimony before a Congressional Committee</a> (May 1963)</cite>
+<blockquote>American traditions and the American ethic require us to be truthful, but the most important reason is that truth is the best propaganda and lies are the worst. To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful. It is as simple as that.  
+<cite>Edward R. Murrow, Speaking as the Director of USIA, in <a href="http://pdaa.publicdiplomacy.org/?page_id=6">testimony before a Congressional Committee</a> (May 1963)</cite>
 </blockquote>
 
 
