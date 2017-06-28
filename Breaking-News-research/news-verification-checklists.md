@@ -39,7 +39,7 @@ http://college.usatoday.com/2016/11/15/7-ways-to-spot-fake-news-stories/
 —Jillian Vandiveer is a Brooklyn College student and a USA TODAY College digital producer.
 
 ### NPR ###
-A Finder's Guide To Facts (2016-12-11)
+A Finder's Guide To Facts (2016-12-11)  
 http://www.npr.org/2016/12/11/505154631/a-finders-guide-to-facts
 * Is the story so outrageous you can't believe it?
 * Is the story so outrageous you do believe it?
