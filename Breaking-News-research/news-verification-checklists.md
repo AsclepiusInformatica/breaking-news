@@ -52,7 +52,7 @@ http://www.npr.org/2016/12/11/505154631/a-finders-guide-to-facts
 * Who is the news source, anyway?
 * Does the news source appear to employ editors?
 * Are you told, "Trust me"?
-* Did the writer engage with anyone who disagrees?
+* Did the writer engage with anyone who disagrees?  
 —Steve Inskeep
 
 ### NPR ###
