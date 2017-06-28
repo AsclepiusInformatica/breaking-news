@@ -39,6 +39,23 @@ http://college.usatoday.com/2016/11/15/7-ways-to-spot-fake-news-stories/
 —Jillian Vandiveer is a Brooklyn College student and a USA TODAY College digital producer.
 
 ### NPR ###
+A Finder's Guide To Facts (2016-12-11)
+—Steve Inskeep
+* Is the story so outrageous you can't believe it?
+* Is the story so outrageous you do believe it?
+* Does the headline match the article?
+* Does the article match the news story it's lifted from?
+* Are quotes in context?
+* Is the story set in the future?
+* Does the story attack a generic enemy?
+* Are you asked to rely on one killer factoid?
+* Who is the news source, anyway?
+* Does the news source appear to employ editors?
+* Are you told, "Trust me"?
+* Did the writer engage with anyone who disagrees?
+—Steve Inskeep
+
+### NPR ###
 Fake Or Real? How To Self-Check The News And Get The Facts (2016-12-05)  
 http://www.npr.org/sections/alltechconsidered/2016/12/05/503581220/fake-or-real-how-to-self-check-the-news-and-get-the-facts  
 * Pay attention to the domain and URL
@@ -137,6 +154,9 @@ http://blogs.ifla.org/lpa/files/2017/01/How-to-Spot-Fake-News.pdf
 With thanks to www.FactCheck.org  
 <img src="http://blogs.ifla.org/lpa/files/2017/01/How-to-Spot-Fake-News-1.jpg" />
 
+### NY Times ###
+Evaluating Sources in a ‘Post-Truth’ World: Ideas for Teaching and Learning About Fake News  
+https://www.nytimes.com/2017/01/19/learning/lesson-plans/evaluating-sources-in-a-post-truth-world-ideas-for-teaching-and-learning-about-fake-news.html
 
 ### On the Media ###
 http://www.wnyc.org/story/breaking-news-consumer-handbook-fake-news-edition/  
