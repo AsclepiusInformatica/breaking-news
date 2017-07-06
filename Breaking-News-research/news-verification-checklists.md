@@ -218,7 +218,7 @@ http://archives.cjr.org/behind_the_news/eight_simple_rules_for_doing_a.php
 * Failure sucks but instructs.
 * If your mother tells you she loves you, check it out.
 * If something seems too good to be true, it probably is.
-* It’s not the crime, it’s the coverup.
+* It’s not the crime, it’s the coverup.  
 --Craig Silverman
 
 <hr />
