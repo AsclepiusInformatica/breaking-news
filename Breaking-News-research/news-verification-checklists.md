@@ -208,6 +208,19 @@ Story Credibility Assignment
 * Are you biased: remember confirmation bias can lead us to believe stories that we want to believe are true. Objective reporting should provide all valid sides to a story. Does the story present just the side you agree with or only presents arguments where you disagree? 
 * Check the experts: Factcheck.org, PolitiFact.com, and Snopes.com have already debunked a lot of fake news. So check with them. 
 
+### CJR ###
+Eight Simple Rules for Doing Accurate Journalism (2011-09-16)  
+http://archives.cjr.org/behind_the_news/eight_simple_rules_for_doing_a.php  
+* The initial, mistaken information will be retweeted more than any subsequent correction.
+* A journalist is only as good as her sources.
+* Verification before dissemination.
+* People will forget who got it first, but they remember who got it wrong.
+* Failure sucks but instructs.
+* If your mother tells you she loves you, check it out.
+* If something seems too good to be true, it probably is.
+* It’s not the crime, it’s the coverup.
+--Craig Silverman
+
 <hr />
 
 ## Fact-check feeds ##
