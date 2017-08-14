@@ -76,6 +76,15 @@ http://www.theverge.com/2016/12/6/13850230/fake-news-sites-google-search-faceboo
 * REPETITION  
 —Melissa Zimdars, professor of communications at Merrimack College
 
+How to spot a fake viral video
+https://www.theverge.com/2017/8/14/16111764/how-to-spot-a-fake-viral-video  
+* 1) FIRST ASK YOURSELF: IS THIS REAL?  
+* 2) GO TO THE SOURCE
+* 3) LOOK OUT FOR #BRANDS
+* 4) CHECK THE TAPE
+* 5) DON’T OVERTHINK IT  
+--James Vincent
+
 ### BBC ###
 How to spot a fake US election claim (2016-11-02)  
 http://www.bbc.com/news/world-us-canada-37848350  
