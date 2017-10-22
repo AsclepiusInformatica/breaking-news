@@ -12,6 +12,19 @@
  * 6. Check out some books.
  * 7. Anything else?
 
+How to Spot Fake News (2016)
+http://www.factcheck.org/2016/11/how-to-spot-fake-news/  
+* Consider the source.
+* Read beyond the headline.
+* Check the author.
+* What’s the support?
+* Check the date.
+* Is this some kind of joke?
+* Check your biases.
+* Consult the experts.  
+--Eugene Kiely and Lori Robertson, November 18, 2016  
+https://www.youtube.com/watch?v=Fm0LwscDYHs
+
 ### Facebook ###
 Tips to Spot False News (2017)
 https://www.facebook.com/help/188118808357379  
