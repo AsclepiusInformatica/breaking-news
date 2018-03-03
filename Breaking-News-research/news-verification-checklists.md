@@ -4,29 +4,29 @@
 ### Politfact ###
 7 steps to better fact-checking (2014)  
  http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/  
- * 1. Ask the person making the claim for evidence.
- * 2. Look for what other fact-checkers have found before you.
- * 3. Do a Google search -- and then search again.
- * 4. Search the Deep Web.
- * 5. Look for experts with different perspectives.
- * 6. Check out some books.
- * 7. Anything else?
+1. Ask the person making the claim for evidence.
+1. Look for what other fact-checkers have found before you.
+1. Do a Google search -- and then search again.
+1. Search the Deep Web.
+1. Look for experts with different perspectives.
+1. Check out some books.
+1. Anything else?
 
 ### On the Media ###
 http://www.wnyc.org/story/breaking-news-consumer-handbook-fake-news-edition/
 <img src="https://media2.wnyc.org/i/800/800/l/80/1/OTM_Consumer_Handbook_FakeNewsEdition_800.png" />
 BREAKING NEWS CONSUMER'S HANDBOOK: FAKE NEWS EDITION 
-* 1. Big red flags for fake news: ALL CAPS, or obviously photoshopped pics.
-* 2. A glut of pop·ups and banner ads? Good sign the story is pure clickbait.
-* 3. Check the domain! Fake sites often add ".co" to trusted brands to steal their luster. (Think: "abcnews.com.co")
-* 4. If you land on an unknown site, check its "About" page. Then, Google it with the word "fake" and see what comes up.
-* 5. If a story offers links, follow them. (Garbage leads to worse garbage.) No links, quotes, or references? Another telltale sign.
-* 6. Verify an unlikely story by finding a reputable outlet reporting the same thing.
-* 7. Check the date. Social media often resurrects outdated stories.
-* 8. Read past headlines. Often they bear no resemblance to what lies beneath.
-* 9. Photos may be misidentified and dated. Use a reverse image search engine like TinEye to see where an image really comes from.
-* 10. Gut check. If a story makes you angry, it's probably designed that way.
-* 11. Finally, if you're not sure it's true, don't share it! *Don't. Share. It.* 
+1. Big red flags for fake news: ALL CAPS, or obviously photoshopped pics.
+1. A glut of pop·ups and banner ads? Good sign the story is pure clickbait.
+1. Check the domain! Fake sites often add ".co" to trusted brands to steal their luster. (Think: "abcnews.com.co")
+1. If you land on an unknown site, check its "About" page. Then, Google it with the word "fake" and see what comes up.
+1. If a story offers links, follow them. (Garbage leads to worse garbage.) No links, quotes, or references? Another telltale sign.
+1. Verify an unlikely story by finding a reputable outlet reporting the same thing.
+1. Check the date. Social media often resurrects outdated stories.
+1. Read past headlines. Often they bear no resemblance to what lies beneath.
+1. Photos may be misidentified and dated. Use a reverse image search engine like TinEye to see where an image really comes from.
+1. Gut check. If a story makes you angry, it's probably designed that way.
+1. Finally, if you're not sure it's true, don't share it! *Don't. Share. It.* 
 —Melissa Zimdars, professor of communications at Merrimack College  
 http://www.merrimack.edu/live/profiles/586-melissa-mish-zimdars  
 http://www.opensources.co/  
@@ -85,13 +85,13 @@ https://www.facebook.com/help/188118808357379
 ### USA Today ###
 7 ways to spot fake news stories (2016-11-15)  
 http://college.usatoday.com/2016/11/15/7-ways-to-spot-fake-news-stories/
-* 1. CHECK THE DATE
-* 2. CHECK THE SOURCE AGAINST ITSELF
-* 3. LOOK CLOSELY AT THE WEBSITE
-* 4. VERIFY WITH FACT-CHECKING SITES
-* 5. CHECK THE SOURCE AGAINST OTHER SOURCES
-* 6. USE REVERSE IMAGE SEARCH
-* 7. BEWARE OF EXTRAVAGANCE  
+1. CHECK THE DATE
+1. CHECK THE SOURCE AGAINST ITSELF
+1. LOOK CLOSELY AT THE WEBSITE
+1. VERIFY WITH FACT-CHECKING SITES
+1. CHECK THE SOURCE AGAINST OTHER SOURCES
+1. USE REVERSE IMAGE SEARCH
+1. BEWARE OF EXTRAVAGANCE  
 —Jillian Vandiveer is a Brooklyn College student and a USA TODAY College digital producer.
 
 ### NPR ###
@@ -187,12 +187,12 @@ https://www.buzzfeed.com/craigsilverman?language=en
 6 Easy AF Steps To Detect Fake News Like A Pro   
 https://www.buzzfeed.com/craigsilverman/detect-fake-news-like-a-pro-1  
 https://www.buzzfeed.com/craigsilverman/detect-fake-news-like-a-pro-2
-* 1. Check the URL. Where is this story from?
-* 2. Read the About page. Are they clear about who is running the site, and do they say anything about it being satirical or full of fake news?
-* 3. If the story has a quote from someone prominent, or from an official such as a police officer, copy and paste it into a search engine.
-* 4. Click on links in the story, and beware of a lack of links or recognizable sources.
-* 5. Do a reverse image search on photos or other art in the story.
-* 6. If the story seems too perfect, too good to be true, or gives you a strong emotional reaction, slow down for a moment.  
+1. Check the URL. Where is this story from?
+1. Read the About page. Are they clear about who is running the site, and do they say anything about it being satirical or full of fake news?
+1. If the story has a quote from someone prominent, or from an official such as a police officer, copy and paste it into a search engine.
+1. Click on links in the story, and beware of a lack of links or recognizable sources.
+1. Do a reverse image search on photos or other art in the story.
+1. If the story seems too perfect, too good to be true, or gives you a strong emotional reaction, slow down for a moment.  
 —Craig Silverman, BuzzFeed News Media Editor  
 https://www.buzzfeed.com/craigsilverman?language=en
 
@@ -347,8 +347,3 @@ Yes .... The Zoo Plane: I'm not sure who named it chat, but the name derived fro
 <cite>Edward R. Murrow, Speaking as the Director of USIA, in <a href="http://pdaa.publicdiplomacy.org/?page_id=6">testimony before a Congressional Committee</a> (May 1963)</cite>  
 https://en.wikiquote.org/wiki/Edward_R._Murrow
 </blockquote>
-
-
-
-
-
