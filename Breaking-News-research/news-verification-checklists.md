@@ -12,6 +12,7 @@
  * 6. Check out some books.
  * 7. Anything else?
 
+### FactCheck.org ###
 How to Spot Fake News (2016)
 http://www.factcheck.org/2016/11/how-to-spot-fake-news/  
 * Consider the source.
@@ -24,6 +25,49 @@ http://www.factcheck.org/2016/11/how-to-spot-fake-news/
 * Consult the experts.  
 --Eugene Kiely and Lori Robertson, November 18, 2016  
 https://www.youtube.com/watch?v=Fm0LwscDYHs
+
+### On the Media ###
+http://www.wnyc.org/story/breaking-news-consumer-handbook-fake-news-edition/  
+BREAKING NEWS CONSUMER'S HANDBOOK  
+FAKE NEWS EDITION 
+* 1. Big red flags for fake news: ALL CAPS, or obviously photoshopped pics.
+* 2. A glut of pop·ups and banner ads? Good sign the story is pure clickbait.
+* 3. Check the domain! Fake sites often add ".co" to trusted brands to steal their luster. (Think: "abcnews.com.co")
+* 4. If you land on an unknown site, check its "About" page. Then, Google it with the word "fake" and see what comes up.
+* 5. If a story offers links, follow them. (Garbage leads to worse garbage.) No links, quotes, or references? Another telltale sign.
+* 6. Verify an unlikely story by finding a reputable outlet reporting the same thing.
+* 7. Check the date. Social media often resurrects outdated stories.
+* 8. Read past headlines. Often they bear no resemblance to what lies beneath.
+* 9. Photos may be misidentified and dated. Use a reverse image search engine like TinEye to see where an image really comes from.
+* 10. Gut check. If a story makes you angry, it's probably designed that way.
+* 11. Finally, if you're not sure it's true, don't share it! *Don't. Share. It.* 
+<img src="https://media2.wnyc.org/i/800/800/l/80/1/OTM_Consumer_Handbook_FakeNewsEdition_800.png" />
+—Melissa Zimdars, professor of communications at Merrimack College  
+http://www.merrimack.edu/live/profiles/586-melissa-mish-zimdars  
+http://www.opensources.co/  
+
+### IFLA ###
+International Federation of Library Associations and Institutions  
+http://blogs.ifla.org/lpa/2017/01/27/alternative-facts-and-fake-news-verifiability-in-the-information-society/
+* CONSIDER THE SOURCE  
+Click away from the story to investigate the site, its mission and its contact info.
+* READ BEYOND  
+Headlines can be outrageous in an effort to get clicks. What’s the whole story?
+* CHECK THE AUTHOR  
+Do a quick search on the author. Are they credible? Are they real?
+* SUPPORTING SOURCES?  
+Click on those links. Determine if the info given actually supports the story.
+CHECK THE DATE  
+Reposting old news stories doesn’t mean they’re relevant to current events.
+* IS IT A JOKE?  
+If it is too outlandish, it might be satire. Research the site and author to be sure.
+* CHECK YOUR BIASES   
+Consider if your own beliefs could affect your judgement.
+* ASK THE EXPERTS  
+Ask a librarian, or consult a fact-checking site.  
+http://blogs.ifla.org/lpa/files/2017/01/How-to-Spot-Fake-News.pdf  
+With thanks to www.FactCheck.org  
+<img src="http://blogs.ifla.org/lpa/files/2017/01/How-to-Spot-Fake-News-1.jpg" />
 
 ### Facebook ###
 Tips to Spot False News (2017)
@@ -153,52 +197,9 @@ https://www.buzzfeed.com/craigsilverman/detect-fake-news-like-a-pro-2
 —Craig Silverman, BuzzFeed News Media Editor  
 https://www.buzzfeed.com/craigsilverman?language=en
 
-### IFLA ###
-International Federation of Library Associations and Institutions  
-http://blogs.ifla.org/lpa/2017/01/27/alternative-facts-and-fake-news-verifiability-in-the-information-society/
-* CONSIDER THE SOURCE  
-Click away from the story to investigate the site, its mission and its contact info.
-* READ BEYOND  
-Headlines can be outrageous in an effort to get clicks. What’s the whole story?
-* CHECK THE AUTHOR  
-Do a quick search on the author. Are they credible? Are they real?
-* SUPPORTING SOURCES?  
-Click on those links. Determine if the info given actually supports the story.
-CHECK THE DATE  
-Reposting old news stories doesn’t mean they’re relevant to current events.
-* IS IT A JOKE?  
-If it is too outlandish, it might be satire. Research the site and author to be sure.
-* CHECK YOUR BIASES   
-Consider if your own beliefs could affect your judgement.
-* ASK THE EXPERTS  
-Ask a librarian, or consult a fact-checking site.  
-http://blogs.ifla.org/lpa/files/2017/01/How-to-Spot-Fake-News.pdf  
-With thanks to www.FactCheck.org  
-<img src="http://blogs.ifla.org/lpa/files/2017/01/How-to-Spot-Fake-News-1.jpg" />
-
 ### NY Times ###
 Evaluating Sources in a ‘Post-Truth’ World: Ideas for Teaching and Learning About Fake News  
 https://www.nytimes.com/2017/01/19/learning/lesson-plans/evaluating-sources-in-a-post-truth-world-ideas-for-teaching-and-learning-about-fake-news.html
-
-### On the Media ###
-http://www.wnyc.org/story/breaking-news-consumer-handbook-fake-news-edition/  
-BREAKING NEWS CONSUMER'S HANDBOOK  
-FAKE NEWS EDITION 
-* 1. Big red flags for fake news: ALL CAPS, or obviously photoshopped pics.
-* 2. A glut of pop·ups and banner ads? Good sign the story is pure clickbait.
-* 3. Check the domain! Fake sites often add ".co" to trusted brands to steal their luster. (Think: "abcnews.com.co")
-* 4. If you land on an unknown site, check its "About" page. Then, Google it with the word "fake" and see what comes up.
-* 5. If a story offers links, follow them. (Garbage leads to worse garbage.) No links, quotes, or references? Another telltale sign.
-* 6. Verify an unlikely story by finding a reputable outlet reporting the same thing.
-* 7. Check the date. Social media often resurrects outdated stories.
-* 8. Read past headlines. Often they bear no resemblance to what lies beneath.
-* 9. Photos may be misidentified and dated. Use a reverse image search engine like TinEye to see where an image really comes from.
-* 10. Gut check. If a story makes you angry, it's probably designed that way.
-* 11. Finally, if you're not sure it's true, don't share it! *Don't. Share. It.* 
-<img src="https://media2.wnyc.org/i/800/800/l/80/1/OTM_Consumer_Handbook_FakeNewsEdition_800.png" />
-—Melissa Zimdars, professor of communications at Merrimack College  
-http://www.merrimack.edu/live/profiles/586-melissa-mish-zimdars  
-http://www.opensources.co/  
 
 ### OpenSources ###
 http://www.opensources.co/  
