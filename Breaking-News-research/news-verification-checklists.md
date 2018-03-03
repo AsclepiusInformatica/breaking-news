@@ -275,7 +275,7 @@ https://ballotpedia.org/Verbatim
 <h3 id="watergate">All the President's Men</h3>
 All the President's Men, Carl Bernstein and Bob Woodward (1974)
 
-<blockquote>Gradually, an unwritten rule was evolving: unless two sources confirmed a charge involving activity likely to be considered criminal, the specific allegation was not used in the paper. (p79)</blockquote>
+<blockquote>Gradually, an unwritten rule was evolving: unless two sources confirmed a charge involving activity likely to be considered criminal, the specific allegation was not used in the paper. (pg 79)</blockquote>
 
 <blockquote>"I don't care if it's a word, a phrase, a sentence, a paragraph, a whole story or an entire series of stories," he said. "When in doubt, leave it out."  
 —Howard Simons, Managing Editor, Washington Post (p114)</blockquote>
@@ -283,7 +283,7 @@ All the President's Men, Carl Bernstein and Bob Woodward (1974)
 <blockquote>The rule was: Lay it out piece by piece, white what you know is solid; the big picture can wait. (p129)</blockquote>
 
 <blockquote>The Nixon White House worried him. "They are all underhanded and unknowable," he had said numerous times. He also distrusted the press. "I don't like newspapers," he had said flatly. He detested inexactitude and shallowness.  
-—Deep Throat (p131)</blockquote>
+—Deep Throat (pg 131)</blockquote>
 
 
 Afterword, Marking the fortieth anniversary of Watergate
@@ -291,8 +291,7 @@ Afterword, Marking the fortieth anniversary of Watergate
 
 In response to suspected leaks to the press about Vietnam, Kissinger had ordered FBI wiretaps in 1969 on the telephones of 17 journalists and White House aides, without court approval. Many news stories based on the purported leaks questioned progress in the American war effort, further fueling the antiwar movement. In a tape from the Oval Office on Feb. 22, 1971, Nixon said, “In the short run, it would be so much easier, wouldn’t it, to run this war in a dictatorial way, kill all the reporters and carry on the war.”
 
-“The press is your enemy,” Nixon explained five days later in a meeting with Adm. Thomas H. Moorer, the chairman of the Joint Chiefs of Staff, according to another tape. “Enemies. Understand that? . . . Now, never act that way . . . give them a drink, you know, treat them nice, you just love it, you’re trying to be helpful. But don’t help the bastards. Ever. Because they’re trying to stick the knife right in our groin.” 
-(p340)</blockquote>
+“The press is your enemy,” Nixon explained five days later in a meeting with Adm. Thomas H. Moorer, the chairman of the Joint Chiefs of Staff, according to another tape. “Enemies. Understand that? . . . Now, never act that way . . . give them a drink, you know, treat them nice, you just love it, you’re trying to be helpful. But don’t help the bastards. Ever. Because they’re trying to stick the knife right in our groin.” (pg 340)</blockquote>  
 "Woodward and Bernstein: 40 years after Watergate, Nixon was far worse than we thought"  
 By Carl Bernstein and Bob Woodward June 8, 2012  
 https://www.washingtonpost.com/opinions/woodward-and-bernstein-40-years-after-watergate-nixon-was-far-worse-than-we-thought/2012/06/08/gJQAlsi0NV_story.html
@@ -323,8 +322,8 @@ Actually, I was happy to get out of that place. The Redskins were losing, which 
 <blockquote>After two or three weeks of this madness, you begin to feel As One with the man who said, "No news is good news." In twenty-eight papers, only the rarest kind of luck will turn up more than two or three articles of any interest ... but even then the interest items are usually buried deep around paragraph 16 on the jump (or "Cont. on... ") page... 
 
 The <em>Post</em> will have a story about Muskie making a speech in Iowa. The <em>Star</em> will say the same thing, and the <em>Journal</em> will say nothing at all. But the <em>Times</em> might have enough room on the jump page to include a line or so that says something like: "When he finished his speech, Muskie burst into tears and seized his campaign manager by the side of the neck. They grappled briefly, but the struggle was kicked apart by an oriental woman who seemed to be in control."
- 
-<blockquote>Now that's good journalism. Totally objective; very active and straight to the point. But we need to know more. <em>Who</em> was that woman? <em>Why</em> did they fight? <strong>Where</strong> was Muskie taken? <em>What</em> was he saying when the microphone broke? (pg 76)</blockquote> 
+
+Now that's good journalism. Totally objective; very active and straight to the point. But we need to know more. <em>Who</em> was that woman? <em>Why</em> did they fight? <strong>Where</strong> was Muskie taken? <em>What</em> was he saying when the microphone broke? (pg 76)</blockquote> 
   
 <blockquote>"Just a bunch of pansies from CBS and the New York Times, hanging around the bar," he said. "I took a few bites out of that crowd and they faded fast — just ran off like curs. But what the shit can you expect from people like that? Just a bunch of lowlife ass-kissers who get paid for hanging around with politicians." (pg 93)</blockquote> 
 
