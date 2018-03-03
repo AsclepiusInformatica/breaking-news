@@ -27,9 +27,9 @@ http://www.factcheck.org/2016/11/how-to-spot-fake-news/
 https://www.youtube.com/watch?v=Fm0LwscDYHs
 
 ### On the Media ###
-http://www.wnyc.org/story/breaking-news-consumer-handbook-fake-news-edition/  
-BREAKING NEWS CONSUMER'S HANDBOOK  
-FAKE NEWS EDITION 
+http://www.wnyc.org/story/breaking-news-consumer-handbook-fake-news-edition/
+<img src="https://media2.wnyc.org/i/800/800/l/80/1/OTM_Consumer_Handbook_FakeNewsEdition_800.png" />
+BREAKING NEWS CONSUMER'S HANDBOOK: FAKE NEWS EDITION 
 * 1. Big red flags for fake news: ALL CAPS, or obviously photoshopped pics.
 * 2. A glut of pop·ups and banner ads? Good sign the story is pure clickbait.
 * 3. Check the domain! Fake sites often add ".co" to trusted brands to steal their luster. (Think: "abcnews.com.co")
@@ -41,7 +41,6 @@ FAKE NEWS EDITION
 * 9. Photos may be misidentified and dated. Use a reverse image search engine like TinEye to see where an image really comes from.
 * 10. Gut check. If a story makes you angry, it's probably designed that way.
 * 11. Finally, if you're not sure it's true, don't share it! *Don't. Share. It.* 
-<img src="https://media2.wnyc.org/i/800/800/l/80/1/OTM_Consumer_Handbook_FakeNewsEdition_800.png" />
 —Melissa Zimdars, professor of communications at Merrimack College  
 http://www.merrimack.edu/live/profiles/586-melissa-mish-zimdars  
 http://www.opensources.co/  
@@ -49,6 +48,7 @@ http://www.opensources.co/
 ### IFLA ###
 International Federation of Library Associations and Institutions  
 http://blogs.ifla.org/lpa/2017/01/27/alternative-facts-and-fake-news-verifiability-in-the-information-society/
+<img src="http://blogs.ifla.org/lpa/files/2017/01/How-to-Spot-Fake-News-1.jpg" />
 * CONSIDER THE SOURCE  
 Click away from the story to investigate the site, its mission and its contact info.
 * READ BEYOND  
@@ -67,7 +67,6 @@ Consider if your own beliefs could affect your judgement.
 Ask a librarian, or consult a fact-checking site.  
 http://blogs.ifla.org/lpa/files/2017/01/How-to-Spot-Fake-News.pdf  
 With thanks to www.FactCheck.org  
-<img src="http://blogs.ifla.org/lpa/files/2017/01/How-to-Spot-Fake-News-1.jpg" />
 
 ### Facebook ###
 Tips to Spot False News (2017)
