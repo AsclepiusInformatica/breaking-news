@@ -12,20 +12,6 @@
  * 6. Check out some books.
  * 7. Anything else?
 
-### FactCheck.org ###
-How to Spot Fake News (2016)
-http://www.factcheck.org/2016/11/how-to-spot-fake-news/  
-* Consider the source.
-* Read beyond the headline.
-* Check the author.
-* What’s the support?
-* Check the date.
-* Is this some kind of joke?
-* Check your biases.
-* Consult the experts.  
---Eugene Kiely and Lori Robertson, November 18, 2016  
-https://www.youtube.com/watch?v=Fm0LwscDYHs
-
 ### On the Media ###
 http://www.wnyc.org/story/breaking-news-consumer-handbook-fake-news-edition/
 <img src="https://media2.wnyc.org/i/800/800/l/80/1/OTM_Consumer_Handbook_FakeNewsEdition_800.png" />
@@ -67,6 +53,20 @@ Consider if your own beliefs could affect your judgement.
 Ask a librarian, or consult a fact-checking site.  
 http://blogs.ifla.org/lpa/files/2017/01/How-to-Spot-Fake-News.pdf  
 With thanks to www.FactCheck.org  
+
+### FactCheck.org ###
+How to Spot Fake News (2016)
+http://www.factcheck.org/2016/11/how-to-spot-fake-news/  
+* Consider the source.
+* Read beyond the headline.
+* Check the author.
+* What’s the support?
+* Check the date.
+* Is this some kind of joke?
+* Check your biases.
+* Consult the experts.  
+--Eugene Kiely and Lori Robertson, November 18, 2016  
+https://www.youtube.com/watch?v=Fm0LwscDYHs
 
 ### Facebook ###
 Tips to Spot False News (2017)
