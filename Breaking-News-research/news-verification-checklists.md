@@ -243,6 +243,21 @@ http://archives.cjr.org/behind_the_news/eight_simple_rules_for_doing_a.php
 * It’s not the crime, it’s the coverup.  
 --Craig Silverman
 
+### FiveThirtyEight ###
+How To Avoid Falling For A Fake Poll  
+https://fivethirtyeight.com/features/how-to-avoid-falling-for-a-fake-poll/  
+1. First and foremost, does it seem professional?
+1. Who conducted the poll?
+1. How was the survey conducted (phone, internet)?
+1. What questions are being asked?
+1. When was the poll itself conducted? 
+1. Why is the pollster is conducting the poll?
+1. Can you reach the pollster?
+1. Have [news outlets] cited the pollster?
+1. Email polls@fivethirtyeight.com, we'll look into it.
+--Harry Enten
+
+
 <hr />
 
 ## Fact-check feeds ##
