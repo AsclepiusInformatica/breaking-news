@@ -254,7 +254,7 @@ https://fivethirtyeight.com/features/how-to-avoid-falling-for-a-fake-poll/
 1. Why is the pollster is conducting the poll?
 1. Can you reach the pollster?
 1. Have [news outlets] cited the pollster?
-1. Email polls@fivethirtyeight.com, we'll look into it.
+1. Email polls@fivethirtyeight.com, we'll look into it.  
 --Harry Enten
 
 
