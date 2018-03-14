@@ -257,6 +257,58 @@ https://fivethirtyeight.com/features/how-to-avoid-falling-for-a-fake-poll/
 1. Email polls@fivethirtyeight.com, we'll look into it.  
 --Harry Enten
 
+### Hapgood ###
+It Can Take As Little As Thirty Seconds, Seriously  
+https://hapgood.us/2018/01/23/it-can-take-as-little-as-thirty-seconds-seriously/  
+https://www.youtube.com/watch?v=jxCi2HySzVE  
+
+How “News Literacy” Gets Web Misinformation Wrong  
+https://medium.com/@holden/how-media-literacy-gets-web-misinformation-wrong-45aa6323829d  
+* Check for previous fact-checking work
+* Go upstream to the source
+* Read laterally  
+--Mike Caulfield
+
+### Stanford History Education Group (SHEG) ###
+Stanford researchers find students have trouble judging the credibility of information online
+https://ed.stanford.edu/news/stanford-researchers-find-students-have-trouble-judging-credibility-information-online  
+
+Evaluating Information: The Cornerstone of Civic Online Reasoning  
+https://purl.stanford.edu/fv751yt5934  
+
+Why Students Can't Google Their Way to the Truth  
+Fact-checkers and students approach websites differently  
+https://www.edweek.org/ew/articles/2016/11/02/why-students-cant-google-their-way-to.html  
+* Landing on an unfamiliar site, the first thing checkers did was to leave it.
+* Second, fact-checkers know it's not about "About."
+* Third, fact-checkers look past the order of search results.  
+--Sam Wineburg and Sarah McGrew
+
+The News Literacy Project: Checkology
+TEN QUESTIONS FOR (FAKE) NEWS DETECTION
+http://www.thenewsliteracyproject.org/learn-channel  
+https://checkology.org/ 
+http://www.thenewsliteracyproject.org/sites/default/files/GO-TenQuestionsForFakeNewsFINAL.pdf  
+1. Gauge your emotional reaction: Is it strong? Are you angry? Are you intensely hoping that the information turns out to be true? False?
+1. Reflect on how you encountered this. Was it promoted on a website? Did it show up in a social media feed? Was it sent to you by someone you know?
+1. Consider the headline or main message:
+    a. Does it use excessive punctuation(!!) or ALL CAPS for emphasis?
+    b. Does it make a claim about containing a secret or telling you something that “the media” doesn’t want you to know?
+    c. Don’t stop at the headline! Keep exploring.
+1. Is this information designed for easy sharing, like a meme?
+1. Consider the source of the information:
+    a. Is it a well-known source?
+    b. Is there a byline (an author’s name) attached to this piece?
+    c. Go to the website’s “About” section: Does the site describe itself as a “fantasy news” or “satirical news” site?
+    d. Does the person or organization that produced the information have any editorial standards?
+    e. Does the “contact us” section include an email address that matches the domain (not a Gmail or Yahoo email address)?
+    f. Does a quick search for the name of the website raise any suspicions?
+1. Does the example you’re evaluating have a current date on it?
+1. Does the example cite a variety of sources, including official and expert sources? Does the information this example provides appear in reports from (other) news outlets?
+1. Does the example hyperlink to other quality sources? In other words, they haven’t been altered or taken from another context?
+1. Can you confirm, using a reverse image search, that any images in your example are authentic (in other words, sources that haven’t been altered or taken from another context)?
+1. If you searched for this example on a fact-checking site such as Snopes.com, FactCheck.org or PolitiFact.com, is there a fact-check that labels it as less than true?
+--NLP
 
 <hr />
 
