@@ -292,22 +292,22 @@ http://www.thenewsliteracyproject.org/sites/default/files/GO-TenQuestionsForFake
 1. Gauge your emotional reaction: Is it strong? Are you angry? Are you intensely hoping that the information turns out to be true? False?
 1. Reflect on how you encountered this. Was it promoted on a website? Did it show up in a social media feed? Was it sent to you by someone you know?
 1. Consider the headline or main message:
-    a. Does it use excessive punctuation(!!) or ALL CAPS for emphasis?
-    b. Does it make a claim about containing a secret or telling you something that “the media” doesn’t want you to know?
-    c. Don’t stop at the headline! Keep exploring.
+    * a. Does it use excessive punctuation(!!) or ALL CAPS for emphasis?
+    * b. Does it make a claim about containing a secret or telling you something that “the media” doesn’t want you to know?
+    * c. Don’t stop at the headline! Keep exploring.
 1. Is this information designed for easy sharing, like a meme?
 1. Consider the source of the information:
-    a. Is it a well-known source?
-    b. Is there a byline (an author’s name) attached to this piece?
-    c. Go to the website’s “About” section: Does the site describe itself as a “fantasy news” or “satirical news” site?
-    d. Does the person or organization that produced the information have any editorial standards?
-    e. Does the “contact us” section include an email address that matches the domain (not a Gmail or Yahoo email address)?
-    f. Does a quick search for the name of the website raise any suspicions?
+    * a. Is it a well-known source?
+    * b. Is there a byline (an author’s name) attached to this piece?
+    * c. Go to the website’s “About” section: Does the site describe itself as a “fantasy news” or “satirical news” site?
+    * d. Does the person or organization that produced the information have any editorial standards?
+    * e. Does the “contact us” section include an email address that matches the domain (not a Gmail or Yahoo email address)?
+    * f. Does a quick search for the name of the website raise any suspicions?
 1. Does the example you’re evaluating have a current date on it?
 1. Does the example cite a variety of sources, including official and expert sources? Does the information this example provides appear in reports from (other) news outlets?
 1. Does the example hyperlink to other quality sources? In other words, they haven’t been altered or taken from another context?
 1. Can you confirm, using a reverse image search, that any images in your example are authentic (in other words, sources that haven’t been altered or taken from another context)?
-1. If you searched for this example on a fact-checking site such as Snopes.com, FactCheck.org or PolitiFact.com, is there a fact-check that labels it as less than true?
+1. If you searched for this example on a fact-checking site such as Snopes.com, FactCheck.org or PolitiFact.com, is there a fact-check that labels it as less than true?  
 --NLP
 
 <hr />
