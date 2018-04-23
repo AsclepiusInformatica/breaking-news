@@ -3,7 +3,7 @@
 
 ### Politfact ###
 7 steps to better fact-checking (2014)  
- http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/  
+http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/  
 1. Ask the person making the claim for evidence.
 1. Look for what other fact-checkers have found before you.
 1. Do a Google search -- and then search again.
@@ -11,6 +11,20 @@
 1. Look for experts with different perspectives.
 1. Check out some books.
 1. Anything else?
+
+### Digital Polarization Initiative ###
+https://adpaascu.wordpress.com/category/digital-polarization-initiative/<br>
+How “News Literacy” Gets Web Misinformation Wrong<br>
+http://observer.com/2017/04/how-news-literacy-gets-web-misinformation-wrong-journalism-digital-media-fact-checking/<br>
+https://medium.com/@holden/how-media-literacy-gets-web-misinformation-wrong-45aa6323829d<br>
+* Check for previous fact-checking work
+* Go upstream to the source
+* Read laterally<br>
+--Mike Caulfield (WSU)<br>
+https://directory.vancouver.wsu.edu/people/michael-caulfield<br>
+https://hapgood.us/<br>
+Web Literacy for Student Fact-Checkers<br>
+https://webliteracy.pressbooks.com/
 
 ### On the Media ###
 http://www.wnyc.org/story/breaking-news-consumer-handbook-fake-news-edition/
