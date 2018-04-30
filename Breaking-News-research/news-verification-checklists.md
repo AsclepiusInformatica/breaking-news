@@ -325,6 +325,45 @@ http://www.thenewsliteracyproject.org/sites/default/files/GO-TenQuestionsForFake
 1. If you searched for this example on a fact-checking site such as Snopes.com, FactCheck.org or PolitiFact.com, is there a fact-check that labels it as less than true?  
 --NLP
 
+
+### Content Credibility Indicators Vocabulary (CCIV) ###
+W3C Editor's Draft 30 April 2018
+https://credweb.org/cciv/r/1
+1. Intro
+2. Article Structure
+2.1 Is Original
+2.2 Attribution of Non-Original Content
+3. Claim
+3.1 Claim has been fact checked
+4. Logic/Reasoning
+4.1 Straw Man Argument
+4.2 Slippery Slope Argument
+4.3 Naturalistic Fallacy
+4.4 False Dilemma
+4.5 Causal Claim Types
+4.6 Calibrating Confidence - Level of Confidence
+4.7 Calibrating Confidence - Justification
+4.8 Appeal to Fear Fallacy
+5. Outbound References
+5.1 Source Types
+5.2 Contains Link to Scientific Journals
+5.3 Accuracy of representation of source article
+5.4 Academic Journal Impact Factor
+6. Revenue Model
+6.1 Spam or Clickbait Advertisements
+6.2 Number of Advertisements
+6.3 Aggressive Advertisements or Social Shares
+7. Rhetoric
+7.1 Title Representativeness Types
+7.2 Title Representativeness
+7.3 Exaggerated Claims
+7.4 Emotionally Charged Tone
+7.5 Clickbait Headline
+7.6 Clickbait Genres
+
+Credibility Coalition  
+https://credibilitycoalition.org/
+
 <hr />
 
 ## Fact-check feeds ##
