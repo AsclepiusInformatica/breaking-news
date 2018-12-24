@@ -471,13 +471,13 @@ https://en.wikiquote.org/wiki/Edward_R._Murrow
 https://www.youtube.com/watch?v=Xo7KWzOgnf8
 
 https://www.nytimes.com/2013/04/19/arts/television/robert-redford-narrates-all-the-presidents-men-revisited.html
-<blockquote>Fred Thompson, who before he was a senator and an actor on “Law & Order” was the lead counsel to the Republicans on the Senate committee investigating Watergate, is still gleeful as he recalls the damning testimony of John Dean, the White House counsel who described the president’s role in the cover-up. “You can’t have anything worse happen to you than your own lawyer turning against you,” Mr. Thompson says with a deep chuckle.<blockquote>
+<blockquote>Fred Thompson, who before he was a senator and an actor on “Law & Order” was the lead counsel to the Republicans on the Senate committee investigating Watergate, is still gleeful as he recalls the damning testimony of John Dean, the White House counsel who described the president’s role in the cover-up. “You can’t have anything worse happen to you than your own lawyer turning against you,” Mr. Thompson says with a deep chuckle.</blockquote>
 
 https://www.washingtonpost.com/entertainment/tv/all-the-presidents-men-revisited-watergate-again-but-not-just-a-nostalgia-trip/2013/04/17/c6f41066-a6ac-11e2-8302-3c7e0ea97057_story.html
 <blockquote>Ben Stein, who is glimpsed as a young man in the footage of doleful White House staffers listening to Nixon’s farewell speech in the East Room (“My mother was a saint,” etc.), reflects on it once more: “It’s really sad. I don’t think any president has been more persecuted than Nixon. I think he was a saint.”</blockquote>
 
-<blockquote>(1:23:20) One thing about Watergate: It was gonna change the culture of Washington. It did no such thing. You know this kind of thing is going to happen again. And it's going to happen in a much, much bigger scale.
---James Carville</blockquote>
+<blockquote>(1:23:20) One thing about Watergate: It was gonna change the culture of Washington. It did no such thing. You know this kind of thing is going to happen again. And it's going to happen in a much, much bigger scale.<br>
+<cite>--James Carville</cite></blockquote>
 
 trailer: https://www.youtube.com/watch?v=lD3ESH7x5cU
 
