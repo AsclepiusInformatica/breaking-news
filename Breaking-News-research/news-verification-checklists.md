@@ -465,3 +465,20 @@ Now that's good journalism. Totally objective; very active and straight to the p
 <cite>Edward R. Murrow, Speaking as the Director of USIA, in <a href="http://pdaa.publicdiplomacy.org/?page_id=6">testimony before a Congressional Committee</a> (May 1963)</cite><br>
 https://en.wikiquote.org/wiki/Edward_R._Murrow
 </blockquote>
+
+<h3>All the President's Men, Revisited</h3>
+2013, Discovery Channel and Robert Redford  
+https://www.youtube.com/watch?v=Xo7KWzOgnf8
+
+https://www.nytimes.com/2013/04/19/arts/television/robert-redford-narrates-all-the-presidents-men-revisited.html
+<blockquote>Fred Thompson, who before he was a senator and an actor on “Law & Order” was the lead counsel to the Republicans on the Senate committee investigating Watergate, is still gleeful as he recalls the damning testimony of John Dean, the White House counsel who described the president’s role in the cover-up. “You can’t have anything worse happen to you than your own lawyer turning against you,” Mr. Thompson says with a deep chuckle.<blockquote>
+
+https://www.washingtonpost.com/entertainment/tv/all-the-presidents-men-revisited-watergate-again-but-not-just-a-nostalgia-trip/2013/04/17/c6f41066-a6ac-11e2-8302-3c7e0ea97057_story.html
+<blockquote>Ben Stein, who is glimpsed as a young man in the footage of doleful White House staffers listening to Nixon’s farewell speech in the East Room (“My mother was a saint,” etc.), reflects on it once more: “It’s really sad. I don’t think any president has been more persecuted than Nixon. I think he was a saint.”</blockquote>
+
+<blockquote>(1:23:20) One thing about Watergate: It was gonna change the culture of Washington. It did no such thing. You know this kind of thing is going to happen again. And it's going to happen in a much, much bigger scale.
+--James Carville</blockquote>
+
+trailer: https://www.youtube.com/watch?v=lD3ESH7x5cU
+
+https://archive.org/details/MSNBCW_20180910_020000_All_the_Presidents_Men_Revisited/start/600/end/660
